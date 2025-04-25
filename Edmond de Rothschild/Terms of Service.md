@@ -1,0 +1,169 @@
+EXCLUSION POLICY: A CLEAR MESSAGE WHEN
+
+NEEDED
+
+
+
+
+
+
+
+
+
+
+
+SCOPE OF COVERAGE
+
+CONTROVERSIAL WEAPONS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+THERMAL COAL
+
+
+
+"
+
+
+
+2
+
+AGENDA
+
+
+
+EXCLUSION CRITERIA
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.
+
+3
+
+4
+
+
+
+MAIN SOURCE
+
+
+
+5
+
+
+
+TABAC
+
+
+
+NON-CONNVENTIONAL FOSSIL FUEL
+
+
+
+.
+
+CONTEXT
+
+
+
+EXCLUSION CRITERIA
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+AGENDA
+
+
+
+PALM OIL
+
+
+
+▪ ▪
+
+▪ ▪
+
+
+
+▪ ▪ ▪
+
+BACKGROUND
+
+
+
+EXCLUSION CRITERIA
+
+
+
+VIOLATION OF THE UNITED NATIONS GLOBAL
+
+COMPACT (UNGC)
+
+
+
+
+
+
+
+11
+
+12
+
+
+
+
+
+
+
+
+
+
+
+
+
+EXCLUSION CRITERIA
