@@ -1,789 +1,1217 @@
+Nordea Sector Guideline for the
+
+Fossil Fuel based Industries
+
+
+
+Approved by Nordea Bank’s Sustainability and Ethics Committee
+
+February 2025
+
 1
 
 
 
-ResponsibleInvestment Policy
+1 Contents
 
 
 
-January 2025
+1 Introduction .................................................................................................................................................................................... 2
 
-2 3
+1.1 Definitions ................................................................................................................................................................................. 2
 
+1.2 Nordea’s sustainability strategy .............................................................................................................................. 3
 
+2 Nordea thematic and sector framework.........................................................................................................................4
 
-Index/
+2.1 Purpose .................................................................................................................................................................................4
 
+2.2 Scope ...................................................................................................................................................................................... 5
 
+2.3 Implementation ................................................................................................................................................................ 5
 
-1/ Purpose and scope 42/ Advocacy and memberships 63/ Our responsible investment approach 83.1. NAM-level overlay 10
+2.4 Due diligence and sanctions controls ...................................................................................................................6
 
+3 General expectations.................................................................................................................................................................6
 
+4 Global outlook for fossil fuels ............................................................................................................................................... 7
 
-3.1.1 Norm-based screening 10
+5 Nordea position ............................................................................................................................................................................8
 
-3.1.2 NAM-level PAI consideration 10
+6 Requirements...............................................................................................................................................................................10
 
-3.1.3 NAM-level exclusion list 10
+6.1 Investments.......................................................................................................................................................................10
 
-3.1.4. Active ownership and engagement 12
+6.1.1 Conventional oil and gas exploration and production .........................................................................10
 
-3.1.5. How we integrate ESG 13
+6.1.2 Unconventional oil and gas ................................................................................................................................10
 
-3.1.6. Escalation 14
+6.1.3 Arctic drilling................................................................................................................................................................11
 
-3.2. Investment strategies 18
+6.1.4 Thermal coal.................................................................................................................................................................11
 
+6.2 Financing and facilitation...........................................................................................................................................11
 
+6.2.1 Oil and gas exploration \& production.............................................................................................................11
 
-3.2.1 The STARS strategies:
+6.2.2 Unconventional oil and gas .................................................................................................................................11
 
-proven leadership within responsible investment 18
+6.2.3 Arctic drilling............................................................................................................................................................... 12
 
-3.2.2 NAM’s thematic ESG strategies 18
+6.2.4 Thermal coal................................................................................................................................................................ 12
 
-3.2.3 Enhanced exclusion filters 19
+6.2.5 Thermal peat............................................................................................................................................................... 12
 
-4/ Investment Restrictions 205/ ESG positions 226/ Reporting and transparency 267/ Sustainable asset manager 298/ Conflicts of interest 30
+7 Expectations................................................................................................................................................................................. 12
 
-4 5
+2
 
 
 
-1/Purpose and scope
+1 Introduction
 
+Nordea is committed to conduct business responsibly and to integrate environmental, social and
 
+governance (ESG) factors into all internal processes. Our business is governed by a set of policies
 
-Purpose
+and guiding documents approved by the Group Board of Directors and cascaded throughout the
 
+organisation.
 
 
-The Responsible Investment Policy (the “Policy”)describes the framework governing the approach ofNordea Asset Management (“NAM”) to responsibleinvestments. NAM has two ESG focusedcommittees with specific areas of responsibility:
 
-• The Responsible Investment Committee(“RIC”) decides and monitors exclusions andengagements at investment level.
+In relation to all our stakeholders, customers and other business relationships, Nordea’s Code of
 
-• The ESG Committee secures the governanceof our ESG related methods and principles.An ESG Operational Forum facilitatesdiscussions and secures alignment andcoordination on ESG matters across theNAM value chain, ensuring that the relevantdecisions are brought to the ESG Committeefor approval. The ESG Committee is alsoresponsible for the content of and adherenceto this Policy.
+Conduct1 is the central document governing our operations, together with the ESG factors outlined
 
-Both Committees include members from the SeniorExecutive Management team and are chaired bythe head of NAM, who is also the CEO of NordeaAsset Management Holding AB.
+in our Sustainability Policy.
 
-Nordea Asset Management’s mission is to createreturns with responsibility by
 
-• being ESG-proactive• delivering excess returns• offering access to the right assets• demonstrating operational excellence andtransparency• maintaining industry-leading risk andperformance management
 
-By ESG-proactive we mean
+Our conduct in relation to employees, workers in the value chain, communities and end users is
 
-• integrating environmental, social and governancefactors into our investment processes, taking intoaccount both sides of the “double materiality”1• actively engaging with our investee companiesto ensure that they meet our expectations ofsound ESG performance and compliance withinternational norms• offering a wide range of ESG solutions across allasset classes• accepting the responsibility to act as an industryleader within ESG/sustainability
+further supported by the following overarching documents:
 
 
 
-Scope
+• Nordea Human Rights Policy
 
+• Nordea Diversity \& Inclusion Policy
 
 
-NAM, or NAM Holding, which is the assetmanagement subsidiary of Nordea Bank Abp,includes Nordea Investment Management AB(“NIM”) and Nordea Investment Funds S.A.(“NIFSA”). NIM is a Swedish investment firmauthorised to, inter alia, provide discretionaryportfolio management services, and NIFSAis a management company authorised by the CSSF(the Luxembourg FSA) to manage UCITSand alternative investment funds. Nordea Funds Ltd(“NF”), is a management company authorisedby the Finnish FSA.
 
-This Policy applies to all our Nordea-brandedinvestment strategies, including all the active andpassive investment funds managed by NIFSA and NF.
+Nordea is dedicated to adhering to all applicable rules and regulations we are obliged to follow in
 
-The Policy does not apply to selected discretionarymandates where the client has opted out of thePolicy.
+the markets where we operate and we are committed to ensuring compliance with all applicable
 
-Due to the nature of certain investments, such asderivatives and units in external funds, the Policymay also not apply to a limited type of underlyinginvestment, whilst applying at the level of theportfolio.
+sanctions laws and regulations globally and following the sanctions regimes of the EU, UN, US, and
 
-This Policy is reviewed and updated as requiredand at least annually.
+the UK on a Group-wide basis, subject to applicable local laws and regulations. In addition to the
 
-1 The concept of double materiality refers to, on the one hand, those ESG/sustainability risks that are material to the financial perfor-mance of an investee company or other entity, and, on the other, to the environmental and social impact of the activities of the samecompany or entity. The two will typically be closely linked, but should not be conflated.
+sanctions that are applied on a Group-wide basis, all Nordea entities are required to comply with
 
-6 7
+sanctions that are applicable within their jurisdiction.
 
 
 
-2/Advocacyand memberships
+1.1 Definitions
 
 
 
-In 2019, NAM publicly committed to aligning ourinvestment strategies with the objectives of theParis Agreement. This means that we have a long-term strategic objective to reduce the greenhousegas emissions impact of our investments in linewith the “well below 2°C” ambition, increase ourinvestments based on climate-related opportunitiesand ensure that our investment portfolios areresilient to climate-related risks. Since 2020, we area founding member of the Net Zero Asset Managersinitiative.
+General Definitions
 
-Our Responsible Investment Policy aims to encour-age the companies we invest in to support theUnited Nations Sustainable Development Goals(“SDGs”) and comply with international conventionsand norms, including, but not limited to:
 
-• United Nations Global Compact• OECD Principles of Corporate Governance• OECD Guidelines for Multinational Enterprises• Universal Declaration of Human Rights• UN Guiding Principles on Business andHuman Rights• Children’s Rights and Business Principles• ILO conventions on labour standards• Rio Declaration on Environment andDevelopment• UN Convention on Corruption• Convention on Cluster Munitions
 
-We support standardised and integrated reporting,which incorporates material sustainability informa-tion with financial information and provides consist-ent and comparable ESG data, preferably using theSASB framework or similar. We also support andpromote the adoption of the recommendations of theTask Force on Climate-related Financial Disclosures(“TCFD”).
+Business
 
-In this context, we actively engage with variousstandard-setters and stakeholders locally andinternationally. We are active members of the PRI,SASB, IIGCC, CDP, TPI, Finance for BiodiversityPledge and Investor Alliance for Human Rights.
+relationship
 
-Nordea Asset Management adheres to the ESG4Realstandard for a select number of funds and complieswith the certification criteria through the integrationof exclusion, norm-based screening and activeownership into the investment process.
+A contractual commercial relationship with a legal person covering the
 
+following services: facilitation, investments, lending or procurement.
 
+ESG Factors Environmental, social or governance matters that, as opportunity and risk
 
-NAM became a signatory to the Principles for ResponsibleInvestments (the “PRI”) in 2007 and has offered strategieswith sectoral screening since 1988.
+drivers:
 
-8 9
+• have an actual or potential, positive or negative impact on the environment
 
+and/or people, through Nordea’s own activities or its business relationships
 
+(contractual and non-contractual), and/or
 
-NAM ́s responsible investment frame-work builds on the PRI. We strive toachieve ESG integration spanning arange of products through five mainmechanisms:
+• are internal or external to Nordea’s activities and generate or may generate
 
-• norm-based screening• sustainability risk integration• NAM-level PAI consideration• NAM-level exclusion list• active ownership and engagement
+risks or opportunities that influence or are likely to influence the financial
 
-NAM has developed policies andprocedures to ensure that thecompanies we invest in meet ourexpectations of ESG performance andthat ESG/sustainability risk is managedin our investment processes. This issupported by a robust norm-basedscreening process and principal adverseimpact (“PAI”) 2 analysis. In addition,we consider and take a stance on anongoing basis, across our portfolios,on issues relating to climate change,human rights, good governance andbiodiversity/water. All of the aboveinform our active ownership andengagement policy and our exclusionlist at the firm level – our “firm-leveloverlay”.
+performance of Nordea, its customers, counterparts and service providers
 
-For a substantial part of our assetsunder management, we aim to achievedeeper ESG integration with handson involvement of the ResponsibleInvestment team in our STARSstrategies and thematic strategies
+in the short, medium, long or very long terms.’
 
-(including climate, social empowermentand gender diversity portfolios) andour internally developed ESG scoringof investee companies. Many individualproducts also have sector-based orother exclusion criteria beyond thoseimplemented at the firm level. Giventhe size of NAM’s investment universeacross its various investment boutiquesand strategies, we use a range ofexternal providers of ESG data as wellas internal research and our proprietaryESG scoring platform. These dataproviders and other data sources areassessed on an ongoing basis for dataquality, coverage and other attributes.
+Facilitation Capital market activities where Nordea acts as a sole or joint arranger of
 
-As for all ESG-oriented asset managersand asset owners, the dilemma ofchoosing between engagement andexclusion is central for NAM. Theargument for exclusion rests on theneed to clearly mark the limits of whichcorporate activity and/or behavioursare deemed acceptable and which arenot. The argument for engagement,on the other hand, recognises that thereal-world effect of exclusion can benegligible, at least in the short term.Whenever one market participant sellsoff a security, another, presumablywith lower standards of propriety, isbuying it. Thus, it can be argued thatretaining a security, engaging with thecompany and – where applicable –voting at its AGMs, is more effective.Added complexity is introduced by
+primary debt or equity issuance in the public capital market.
 
-We believe that it is our fiduciary duty to deliver returnswith responsibility.
+Investment All investments, excluding the trading book held by Nordea Markets and
 
+exceptions specified in or decided as part of the implementation in Nordea’s
 
+Responsible Investment Policy, Nordea Life \& Pension’s Responsible
 
-the likelihood that exclusion by someinvestors may make a company withsubstandard practices more open to theengagement efforts of the remainingowners and thus to improving itspractices over a longer timeframe.
+Investment Policy, and Nordea’s Responsible Investment Distribution Policy
 
-At NAM we believe that there areactivities and types of behaviour thatcannot be reconciled with our missionof delivering returns with responsibility.Companies exhibiting these on anongoing basis are excluded from ourinvestment universe. There is a largecategory of economic activities whichon the one hand may contributepositively to one or more SDG, whilepotentially having a negative impacton others. Activities and companies inthis category are excluded from manyNordea-branded investment strategies
 
-(see below for NAM’s strategy-specificapproaches and our Paris-aligned FossilFuel Policy), while still being investiblefor more traditional strategies.
 
-Assuming that engagement is mosteffective when it is supported by animplicit but clearly understood threatof ultimate exclusion, we believe thatthis allows NAM to be more compellingin its engagement, up to the pointwhere the decision is taken to exclude acompany at the NAM firm-level.
+1 https://www.nordea.com/en/doc/code-of-conduct.pdf
 
-2 Principal adverse impact on entity-level is re-ported annually in accordance with the EU SFDR.Principal adverse impact indicators, as defined bythe EU SFDR, capture the environmental and so-cial or “outward” part of the “double materiality”,as opposed to sustainability risk, which capturesthe financial materiality of ESG issuesto the valuation of a security.
+3
 
 
 
-3/Our responsibleinvestment approach
+Lending Contractual agreements resulting in credit risk exposure for Nordea through
 
-10 11
+on-balance sheet exposure, including any amount of principal, accrued interest
 
+and yield fees owed by the obligor to Nordea.
 
+Nordea Nordea Group, including Nordea Bank Abp and all its subsidiaries.
 
-3.1 NAM-level overlay
+Procurement The full lifecycle of the procurement process including; sourcing, contracting,
 
+use of purchasing channels, invoicing and payment and the operations of the
 
+procurement object.
 
-NAM ́s responsible investmentframework comprises the availabilityof ESG data to all portfolio managersas well as a baseline integration ofESG safeguards, such as norm-basedscreening, PAI consideration anda common exclusion list, governedby our Responsible InvestmentCommittee and implemented acrossour Nordea-branded investmentstrategies. In addition, all NAM’sinternal investment boutiques take intoaccount sustainability risk as part oftheir portfolio management processes.The decisions taken in the RIC ensurethat our Nordea-branded investmentstrategies live up to NAM’s minimumESG requirements, independent ofthe individual strategies’ specific ESGprofiles.
+Value chain
 
+impacts
 
+The impacts caused by Nordea indirectly through the operations of our
 
-3.1.1 Norm-based screening
+business relationships.
 
-Our Nordea-branded investmentstrategies are subject to norm-basedscreening, which identifies companiesthat are allegedly involved in breachesof international law and norms onenvironmental protection, human rights,labour standards and anti-corruption. Ifa company is identified in this screeningprocess, an internal assessment of thecompany and the incident is initiated.The assessment is conducted by theResponsible Investment team, whichprovides a recommendation to the RIC,upon which the RIC decides on actionsto be taken. Typical actions includeengagement, quarantine or exclusion.A quarantine implies that the holdingsof NAM portfolios in the companyconcerned may not be increased anda quarantine will in nearly all cases beaccompanied by direct engagementwith the company. The RIC may also
 
-conclude that the issue raised does notmerit immediate action, either becauseit has already been resolved or it isjudged to be minor/immaterial.
 
+Sector and thematic framework definitions
 
 
-3.1.2 NAM-level PAI consideration
 
-The environmental and social impact ofthe activities of our investee companiesis monitored on an ongoing basis,subject to data availability, usingan internally-developed monitoringsystem. Companies identifiedas outliers on one or more PAIindicators are analysed further by theResponsible Investment team and arecommendation for action is made tothe RIC, in a process similar to the onedescribed above for norm breaches.Additional PAI consideration can takeplace at the individual investmentstrategy level. Our disclosure statementon the consideration of principaladverse impact at entity-level can befound on our websites. The principaladverse impact of our investments isreported annually in this statement.
+Thematic
 
+guidelines/Position
 
+Statements
 
-3.1.3 NAM-level exclusion list
 
-Recognising that some types ofeconomic activity or corporatebehaviour are not compatible with ourmission of returns with responsibility,NAM maintains a firm-level exclusionlist that is applied in accordance withthe scope of this Policy. Any additionto – or removal from – the list isdecided by the RIC.
 
+Documents describing Nordea’s view and position on different sustainability
 
+themes, taking the outset in our strategic direction and supported by our view
 
-NAM excludes companies involved in seriousbreaches of international norms whereengagement is deemed not to be possible oreffective, as discussed above. For example, we baninvestment in companies active in the productionof controversial weapons, including – but notlimited to – cluster munitions and anti-personnelmines as well as nuclear weapons. NAM excludescompanies involved in production or distributionof pornography and companies involved inthe production of tobacco with a 5% revenuethreshold. NAM also does not invest in companiesderiving more than 5% of their revenues fromthermal coal, and has additional investmentrestrictions for power generation companieswithout coal phase out plans, or with coal powerexpansion activity. In addition, NAM excludescompanies involved in the production of fossilfuels from oil sands (5% revenue threshold) orthrough arctic drilling. A substantial and growingpart of our strategies is also subject to our Paris-aligned Fossil Fuel Policy (“PAFF”), which excludescompanies involved in fossil fuel production,distribution or services if they do not have arecognised strategy to achieve an emissions paththat is consistent with the Paris Agreement’s goal 3 .
+on the business environment where we operate and our material impacts and
 
-For strategies where the PAFF is not implementedas a hard exclusion criterion, the PAFF acts asguidance for engagement. The PAFF criteria alsoinform the prioritisation of our top-down thematicengagements.
+risk as described in our double materiality assessment.
 
-The NAM-level exclusion list can be found here.
+Value chain In the context of the Sector and Thematic framework, the value chain
 
-The NAM Paris-aligned Fossil Fuel Policy can befound here.
+consists of Nordea’s direct business relationships as defined above.
 
-3 This analysis builds on data from the Transition Pathway Initi-ative (TPI), among other sources. Information on the TPI can befound here.
+Sector guidelines Documents describing Nordea’s view on sectors identified as strategically
 
+important from an environmental, social and governance perspective,
 
+outlining how we address the related risks and impacts relevant for our
 
-3/
+business relationships in these sectors.
 
-12 13
+Requirements The mandatory boundaries for Nordea’s business relationships specifying, as
 
+relevant and applicable from a proportionality and materiality perspective,
 
+exclusion criteria, materiality thresholds or other restrictions relating to
 
-3.1.4 Active ownership and engagement
+harmful activities in scope of each sector.
 
-On behalf of our clients, we undertake a range ofengagement activities with investee companiesin order to encourage them to improve theirenvironmental, social and governance practices,including promoting a long-term approach to
+Expectations Non-binding statements outlining best practices for Nordea’s business
 
+relationships intended to support constructive engagement dialogues,
 
+striving for alignment with long-term risk mitigating behaviour in line with
 
-Thematic engagements may be undertakeneither by NAM alone or in collaboration with otherasset managers and asset owners. Collaborativeengagements can take place within the frameworkof industry initiatives such as Climate Action 100+,SASB, PRI, CDP or the Investor Alliance for HumanRights or through ad hoc initiatives. NAM will insome cases initiate and lead such ad hoc investoralliances. NAM’s thematic engagements typicallyconcern issues under one of the core areas ofinterest identified in NAM’s ESG approach:
+Nordea’s strategy.
 
-• climate• human rights• good governance• biodiversity/water
 
 
+1.2 Nordea’s sustainability strategy
 
-Investment-led engagements are initiated andexecuted at the individual strategy and investmentboutique level.
+Nordea wants to make a difference for a greater good - not only for ourselves, but for the future and
 
+for generations to come. We aim to provide the best possible support for customers transitioning to
 
+a more sustainable future, and actively contribute to society to benefit the greater good. To fulfil this
 
-Norms engagements are triggered by observednorm breaches, PAI red flags or other seriousnegative news flows.
+aim, the Group Board has decided upon sustainability strategic priorities, integrated in the Nordea
 
-In tandem with our direct engagement withcompanies, voting is undertaken at as many AGMsas practically possible, prioritising votes related tothe four core areas listed above, while in generalinsisting that companies 1) act in the long-terminterest of shareholders, 2) safeguard the rightsof all shareholders, 3) ensure an efficient andindependent board structure, 4) align incentivestructures for employees with the long-term interestof shareholders, 5) disclose information to the publicin a timely, accurate and adequate manner and6) ensure high social, environmental and ethicalstandards and accountability.
+strategy. The sector guidelines cascade and implement these strategic priorities of Nordea, where
 
-For more information, please refer to the NIMEngagement Policy, the NIFSA CorporateGovernance Principles, and the NF CorporateGovernance Principles.
+sustainability is at the core, as requirements and expectation for specific sectors.
 
-The quality of the engagement process is auditedby internal audit on a regular basis. NAM complies
 
-with a number of national and supra-nationalcorporate governance codes.
 
+As a bank, we play a key role in facilitating the achievement of societies’ sustainability goals through
 
+redirecting investments and financing towards more sustainable technologies, business models and
 
-Political engagement \- we may participate inactivities that can be considered as politicalengagement, such as providing feedback onregulations and expressing support to policy makersthrough public endorsement in investor statements.We may also conduct policy engagement, whichare activities focused on public policy dialogueswith governments as well as public authorities onspecific ESG issues. These activities align with ourcore values and our strategy to deliver returns withresponsibility.
+to businesses contributing to a just transition towards a sustainable and net-zero economy. To
 
-These type of activities are subject to carefulconsideration and diligence. We always assessthe appropriateness of an activity that could beconsidered as political, before we decide to enter intoit, and always assess the potential impact of suchactivity. Our activities focus solely on ESG issues, anddo not intend to favour any specific political partyor ideology4. We believe that our participation inpolitical activities can contribute to long-term valuecreation and have a positive impact on society.
+Nordea, a just transition is a socially and financially inclusive transition towards sustainable and net
 
+zero economy leaving no-one behind, and enhancing adherence to human rights.
 
 
-3.1.5 How we integrate ESG
 
-NAM has implemented several initiatives to supportESG integration throughout the whole firm. Ourinvestment boutiques have access to NAM’sproprietary ESG database and ESG analysis fromthe Responsible Investment team, as well as ESGdata from external data providers. NAM’s Risk \&Performance team has integrated information onportfolio ESG/sustainability risks in their daily reportto the analysts and portfolio managers.
+We work closely with the stakeholders in our value chain to influence and support them in making
 
-The Responsible Investment team conducts work-shops on ESG topics and provides walkthroughs ofdevelopments, where different use-case-scenariosof the data are presented.
+sustainable choices to accelerate their transition. We support companies in all stages of the
 
-4 Whilst we are registered as a lobbyist in the United States asa prudent measure, we do not make political contributions norengage in activities which would require such registration.
+transition and strive for alignment on our long-term ambition to achieve net-zero by 2050 at the
 
-decision-making. Our active ownership toolsinclude voting, attending AGMs, standard setting,engagement with companies, and filing resolutions.Our engagement with investee companies falls intothree main categories, which can overlap and beapplied to a given company simultaneously:
+4
 
 
 
-NAM engagement process
+latest and respect human rights. To demonstrate our ambition, Nordea has pledged adherence with
 
+global alliances and frameworks such as:
 
 
-Top-down“Thematic”engagement
 
-\- Linked toour NAM ESGpriorities
+• UN Global Compact2,
 
-Bottom-up“Investment-led”Engagements
+• Principles for Responsible Investments (PRI)3,
 
--Proposed byinvestmentboutiques or RIanalysts
+• UNEP-FI Principles for Responsible Banking (PRB)4,
 
+• Investor Alliance for Human Rights5, and
 
+• Equator Principles6.
 
-Top-down“Norms”Engagements
+• Net Zero Banking Alliance7,
 
-\- Triggered byexternalincidents or“Red Flags”
+• Net Zero Asset Owner Alliance8,
 
+• Net Zero Asset Manager Initiative9
 
 
-Co-ordination andprioritisation byRI Active Ownership
 
-Tracking andreporting byRI Active Ownership
+With regards to climate, Nordea is committed to become a bank with net-zero emissions by 2050 at
 
-Proxy voting according toNIFSA or NF CorporateGovernance Principles
+the latest. As part of this commitment, we have set ambitious interim targets across our own
 
-Concrete companydialogue managedco-operatively betweenRI and boutiques
+operations, lending and investment activities, with an overarching portfolio target to reduce
 
+emissions across lending and investment portfolios with 40-50% by 2030, compared to a 2019
 
+baseline. In the lending portfolio, this is supported by sector-specific targets in prioritised carbon-
 
-3/
+intensive sectors. To read more about Nordea’s sustainability targets, please visit
 
-14 15
+Nordea.com/sustainability.
 
 
 
-3.1.6 EscalationWhich tools are at our disposal?
+2 Nordea thematic and sector framework
 
-Collaborative Engagement
+The thematic and sector framework is an important part of Nordea’s sustainability governance. It is
 
-We believe that joining forces with other investorsin engaging with companies is an effective way toachieve successful engagement outcomes. Whilewe also engage individually, we see collaborativeengagements as an important part of our ActiveOwnership work. Engaging in this way allows us toshare views with other industry players, and to scaleup the impact of our engagements.
+a framework consisting of thematic guidelines, position statements and sector guidelines, as further
 
+defined under section 1.1.
 
 
-Stakeholder Engagement
 
-Interacting or partnering with other stakeholderssuch as trade or industry organizations, NGOs,experts, standard setters and regulatory bodies canbe an efficient means of escalating an engagement.
+The following sections are applicable only to sector guidelines. To learn more about our
 
+sustainability governance and our sector and thematic framework, please refer to
 
+https://www.nordea.com/en/sustainability/ and our Sustainability Policy.
 
-Media and Events
 
-Using different media channels, organizing webinarsand conferences to further engagements withcompanies or industries are another method toescalate engagements and raise awareness.
 
+2.1 Purpose
 
+The purpose of the sector guidelines is twofold:
 
-Public Statements
 
-We may individually or jointly with other investorsor organizations issue public statements to highlightour position on a key ESG topic, our differing viewsor our expectations on best practices and conduct.
 
+• to mitigate Nordea’s ESG related risks and limit the negative impacts stemming from Nordea’s
 
+business relationships in scope of the guidelines, by setting requirements for exposure to the
 
-Letters to CEO or Board of Directors
+most harmful activities.
 
-To make our voice heard at the highest levels in acompany and to underline our expectations on keyissues, we may send letters to either the CEO, theBoard Chair, Independent Directors, or to individualmembers of the Board, such as those chairingspecific committees, either individually or togetherwith other investors. These letters can be open orsubmitted in confidence.
+• to provide guidance to our business relationships for risk mitigating behaviour in sectors
 
+vulnerable to environmental, social or governance factors, e.g. by outlining references to best
 
+practice standards and relevant international conventions serving to support progress.
 
-Annual General Meetings
 
-At AGMs, we can use our voting rights as well asthe overall meeting to influence the company,escalate an engagement or lay out our support foror opposition to specific issues and votable items.
 
-Proxy Voting: We aim to vote at all companies weare invested in and in order to do so we attendAGMs and use proxy voting. At the AGM we canuse our voting rights and power to support orvote against directors, items and shareholder andmanagement proposals. We can thus use ourvoting rights and power to influence companieson certain matters and to support and escalate ourengagements.
+2 https://unglobalcompact.org/
 
-AGM Communication: In addition to voting, wecan ask questions, express concerns or readout statements (during the Q\&A or submittedbeforehand).
+3 https://www.unpri.org/
 
-Pre-AGM Meetings: At pre-AGM meetings initiatedby us or the company, we can discuss certainitems on the ballot related to an engagement anddiscuss our voting intention and rationale withthe company. These meetings allow us to furtherhighlight our position on key issues and why wemay be inclined to vote against managementitems or for specific shareholder resolutions.
+4 https://www.unepfi.org/banking/bankingprinciples/
 
-(Co-)filing of Shareholder Resolutions: We mayfile or co-file shareholder resolutions with otherinvestors to put an expected change of behavioror disclosure up for vote at a company’s AGM.
+5 https://investorsforhumanrights.org/
 
-To gather support for a shareholder proposalwhich we have co-filed, we can initiate investorcampaigns and/or file exempt solicitations.
+6 https://equator-principles.com/
 
-Pre-declaration of voting intentions: We can alsopre-declare our voting intentions, for example viathe PRI voting platform, our own homepage or viaother channels.
+7 https://www.unepfi.org/net-zero-banking/
 
+8 https://www.unepfi.org/net-zero-alliance/
 
+9 https://www.netzeroassetmanagers.org/
 
-Quarantine
+5
 
-We may quarantine a company, meaning portfoliomanagers cannot increase their position, for allNAM funds or for a subset (for example in theSTARS, Responsible and Thematic ranges) should acontroversy arise related to the company.
 
-The quarantine will be kept in place until we havereasonable grounds that the company is addressingor remediating the issue. Should this not happen, wemay ultimately exclude the company.
 
+Nordea’s sector guidelines also aim to address interdependencies and conflicts relating to different
 
+ESG factors, such as climate change mitigation and biodiversity or climate change mitigation and
 
-Exclusion
+human rights, or the fact that certain sectors, such as the energy sector, are important for the
 
-In cases of serious breaches of international normson environmental protection, human rights, laborstandards, anti-corruption, or other norms, we mayinitiate an internal assessment of the company andthe incident, with the ultimate outcome potentiallybeing exclusion across all Nordea funds.
+transition of other sectors in the same value chain. These interdependencies and conflicts may affect
 
-De facto exclusions may also be applied only forspecific types of funds, for example our STARS,Responsible and Thematic ranges.
+Nordea’s position and sector outlook.
 
 
 
-3/
+2.2 Scope
 
-Increased strength
+The sector guidelines cover all ESG factors that are material to Nordea according to our analysis of
 
+the business environment and our Double Materiality Assessment and specifically address harmful
 
+activities, key risks and impacts in the sectors most vulnerable to climate, nature and social risks.
 
-Escalation Toolbox:
 
-Collaborative EngagementStakeholder EngagementPublic StatementsLetters to CEO or BoardProxy VotingAGM Communication(Co-)filing Shareholder ResolutionsQuarantineExclusion
 
-RI Action
+Nordea’s sector guidelines apply to Nordea’s new and existing business relationships within the
 
-Company Action/Our expectations
+following areas of operations, unless otherwise outlined in each sector guideline:
 
 
 
-Monitoring Track
+• Procurement
 
+• Financing
 
+• Investment
 
-Exclusion ExclusionEscalation Track
+• Facilitation10
 
 
 
-Assessment ofcase by RI Teamand presentationto RIC
+Requirements in scope of the sector guidelines, where sectors are defined by NACE codes, are
 
+binding for credit exposures of EUR 1 million or more, but are to be considered for all existing
 
+business relationships. Alternative thresholds may apply for individual sectors, as stated in each
 
-DirectActions
+sector guideline.
 
-Start Engagement 9 Months 12 Months 18 Months 24 Months1 Month 3 Months
 
 
+The sector guideline requirements are only relevant for Procurement, when the product or service
 
-Contact companyand requestmeeting
+procured by Nordea relates to the specific industry covered in the guideline.
 
-Follow-up onmeeting requestif unresponsive
 
-Ongoing monitoringof case, companyconduct etc.
 
-Final evaluationand assessmentby RIC
+2.3 Implementation
 
-Unresponsivenessor no indicationof progress leadsto escalation track
+The sector guidelines set out a number of requirements and expectations to support Nordea’s
 
-Usage of “higher”strength escalationtools
+progress in line with sector targets and overarching objectives, further described at
 
-Clear communication to meetour expectations by company
+Nordea.com/sustainability.
 
-Re-assessment in RIC
 
 
+Requirements are set to limit Nordea’s exposure to unmitigated transitional and physical climate
 
-No Action ContinuedInvestment
+risks, nature related risks and impacts, and risks for human rights violations in the value chain and
 
+communities.
 
 
-Usage of “lower”strength escalationtools
 
+Expectations are set to encourage customers, portfolio companies and suppliers to aim for best
 
+practice and take concrete remediating actions to improve performance.
 
-36 Months
 
 
+Nordea will restrict new financing, facilitation, investments and procurement activities to companies
 
-Our Escalation Process – Norms Engagements
+verified to not comply with the requirements in the sector guidelines.
 
-While all engagements may be escalated, we followa clear, time-bound and delineated process for our‘RIC Norms’ engagements. These engagementstake place with companies that are alleged to bein breach of international norms or conventions orthose involved in significant ESG-related incidents.
 
-Using our data providers, we screen our investmentportfolio for companies which are alleged to be inbreach of international norms or conventions. Shoulda possible breach be detected, our ResponsibleInvestments team assesses the case based on factorssuch as severity, magnitude of impact, as well as thecompany’s degree of involvement and culpability.This assessment is presented to our ResponsibleInvestments Committee (RIC), which is chaired byNordea Asset Management’s CEO and convenes on aquarterly basis.
 
-Following the presentation of the case to RIC, thecommittee may decide that a direct exclusion iswarranted or that the Responsible Investments teamshould initiate an engagement related to the breach
+Existing business relationships' compliance with the requirements is verified through ongoing
 
-to acquire further information and/or a commitmentto remediation. If the matter is deemed by RIC to beinconsequential, the committee may also decide totake no further action.
+activities such as screening and engagement. Controls are implemented based on a risk
 
-If RIC decides that an engagement should beinitiated, we follow a clear process, with time-boundmilestones that must be met. Depending on theseverity of the case, the response or responsivenessof the company, as well as additional information wereceive during the engagement, we may decide tomake use of the additional escalation tools describedin 3.16, quarantine or exclude the company.
+proportionality approach. If an existing business relationship is found not to comply with the
 
-Following the decision to engage, we contact thecompany highlighting the alleged breach, andrequesting a meeting with representatives of thecompany. We also highlight that an unsatisfactoryconclusion of the engagement case may ultimatelylead to an exclusion from NAMs portfolios.
 
-Should the company not respond, we follow upin regular increments. If the company remainsunresponsive or there is no positive progress on the
 
-case around the 9 month mark, we will begin using“lower” strength escalation tools, as described inthe escalation toolbox (please see 3.1.6. for furtherelaboration of the tools at our disposal).
+10 Phased implementation during 2025-2027.
 
-If we cannot achieve positive momentum in ourengagement through the “lower” strength escalationtools, we will consider “higher” strength tools aswell as present the case to RIC for re-assessment.Ultimately, should these tools not yield our expectedchange and positive progress, the escalation trackmay lead to an exclusion from NAMs portfolios.
+6
 
-After 18 to 24 months we aim to have receivedclear communication by the company detailing itsapproach to remediation or meeting the objectiveswe have set for the engagement. Finally, we continueto monitor the case, the company’s conduct and anynew information that arises before presenting a finalevaluation of the case and engagement to RIC.
 
-Following the three years of engagement, we expectthat a company has made meaningful progresstowards our objectives which align with remedying
 
-the breach, strengthening processes and proceduresto prevent reoccurrence etc. We may continue theengagement on a “lower” intensity to continuouslymonitor progress in complex cases, where forexample litigation or longer drawn-out remediationmay impact the process.
+requirements, Nordea will engage in a dialogue to ensure concrete remediating actions are initiated.
 
-While this process details the steps we take,individual engagements may have differenttimelines on a case-by-case basis giventhe complexities and differences betweenengagements, the specific severity of impacts andthe requirements for a positive outcome.
+If non-compliance persists, preparation for an orderly exit may be considered as an ultimate resort.
 
-Furthermore, depending on our relationship withthe company, the conduciveness and accessibilityof different escalatory steps, and our degree ofconfidence in the company’s bona fide intentions,the ultimate use of each element of the escalationtoolbox will be tailored on a case-by-case basis.
 
-16 17
 
+Exemptions to sector guideline requirements may be applied to existing business relationships as
 
+long as the exposure does not prevent Nordea from reaching its overarching objectives and sector
 
-3/
+targets and is not in conflict with other applicable regulation for Nordea nor for the business
 
-18 19
+relationship. Exemptions for business relationships are granted by Nordea’s Sustainability and Ethics
 
+committee after careful consideration of the ESG related risks and benefits associated with the
 
+business relationship11. Process for exemptions for business relationships in subsidiaries are further
 
-3.2 Investment strategies
+described in local governance documents.
 
 
 
-For a substantial part of our Nordea-branded invest-ment strategies, the application of ESG tools goesbeyond the requirements of the firm-level policiesdescribed above. These strategies are specificallymade available to clients as products promoted withESG characteristics or, where appropriate, as sustain-able investment products as defined by the SFDR.
+2.4 Due diligence and sanctions controls
 
-For specific information on which additional ESGfeatures are integrated in the investment decisionsof a specific strategy, please refer to our product-specific disclosures.
+In addition to the controls related to the requirements of the sector guidelines, Nordea has an
 
+onboarding and periodic review process designed to help identify and mitigate Financial Crime,
 
+including sanctions risks. This process includes the application of an enhanced due diligence (EDD)
 
-3.2.1 The STARS strategies: proven leadershipwithin responsible investment
+for customers and other business relationships deemed to carry higher risk or being active in an
 
-Our STARS product range, which was launchedwith the Swedish Stars Equity strategy in 2010 andEmerging Stars Equity strategy in 2011, today coversa wide variety of asset classes. The STARS rangefeatures deeper ESG integration and offers direct,hands on cooperation between portfolio managersand the Responsible Investment team. Using NAM’sproprietary ESG scoring system and bespokeanalysis carried out by the Responsible Investmentteam and financial analysts, the STARS portfoliosaim to outperform standard benchmarks. Throughproduct-specific, investment-led engagementwith investee companies, the portfolio managersand the Responsible Investment team proactivelyleverage NAM’s entire asset base to attempt tocreate positive ESG impact, while seeking improvedvaluation and excess return. More broadly, theinvestment teams behind the STARS strategiesfocus on selecting companies not only with soundfundamentals, but also with high ESG scores. Usingthe SASB materiality map, the company analysisincludes enhanced due diligence on environmental,social and governance risks material to the investeecompany and considers how companies managethe identified ESG risks.
+industry with a higher inherent risk. For further reading, please see Nordea.com for Nordea
 
-Furthermore, each company’s business model align-ment with the UN SDGs is taken into consideration
+Sanctions Risk Management Policy Statement12 and Nordea AML/CTF/ATE Policy Statement13.
 
-as the strategies’ exposure aims to skew towardscompanies whose activities are net supportive orneutral, rather than detracting, with respect to theSDGs. ESG scores are recalibrated regularly and atleast annually or when triggered by relevant nega-tive or positive engagement results or news flows.
 
-In addition to the positive selection described above,the STARS strategies are also subject to a numberof formal exclusion criteria (see here) and adhere tothe PAFF. These will, rarely – if ever – be triggeredas companies subject to exclusion would typicallynot be identified as investible in the first place.
 
-Investment-led engagement is a key and distinctivepart of our investment approach for the STARSstrategies. Portfolio managers and the ResponsibleInvestment team engage proactively with compa-nies in the STARS portfolios when we see materialESG risks that may not be adequately managed, oropportunities that may not be fully capitalised on.We may also engage with them to advance certainthemes related to the SDGs. Our engagementactivities in the STARS strategies are detailed inquarterly reports available to our clients.
+Nordea recognizes the significance of and challenges associated with respecting human rights and
 
+mitigating environmental impacts. In order to address these challenges, and enable mitigation of
 
+potential adverse impacts from our business operations, we are adhering to the human rights due
 
-3.2.2 NAM’s thematic ESG strategies
+diligence process as defined by the UN Guiding Principles on Business Human Rights and the due
 
-Besides the STARS strategies, which invest acrossa broad range of companies within their givenasset class, NAM offers a series of thematic ESGstrategies. These range from the seminal GlobalClimate and Environment strategy launched in 2008,to the Global Gender Diversity strategy launched in2019 and the Global Social Empowerment strategylaunched in 2021.
+diligence requirements outlined in the Corporate Sustainability Reporting Directive (CSRD). This
 
-NAM’s thematic ESG strategies apply proprietarymethods to identify companies that can be expectedto contribute to, or benefit from, the ESG themein question. Often, in-depth research will revealpotential investee companies with activities in areasthat are not intuitively associated with the theme ofthe strategy. For example, the holdings of the NAMclimate strategy cover far broader ground thanjust the traditional renewable energy industry and
+includes identifying and assessing potential adverse human rights impacts in our value chain and
 
-related sectors usually associated with combatingor adapting to climate change. As is the case forthe STARS strategies, our thematic ESG strategiesbenefit from hands on involvement from theResponsible Investment team and are subject to anenhanced ESG exclusion regime, including the PAFF.
+taking measures to address them.
 
 
 
-3.2.3 Enhanced exclusion filters
+3 General expectations
 
-We understand that while many of our clientsmay not choose to invest in a STARS or thematicstrategy, they may not wish to be exposed tocertain companies, sectors or practices, evenwhere there may be potential for improving thesecompanies’ behaviour through engagement and/or the scope for asset allocation in a portfolio ismaterially limited. For this purpose, many of ourother investment strategies, including our multi-asset strategies, are available with specific exclusionfilters, including the NAM Paris-Aligned Fossil FuelPolicy, the so-called “NBIM list” of the NorwegianGovernment Pension Fund Global and ethical filterstargeting sectors such as tobacco, alcohol, gamingor pornography. In addition, some strategies alsofeature targets for or limits on the carbon footprint/intensity relative to benchmark, a targeted minimumESG score, or a targeted level of EU taxonomyalignment.
+The principles in Nordea’s Code of Conduct guide the daily work and our business decisions. We
 
+take them and all other relevant environmental, social and governance aspects into consideration
 
+when evaluating business impacts, risks and opportunities. We also expect our business
 
-3/
+relationships to align with these principles. Reflecting our own ambition, we expect all business
 
-20 21
+relationships in scope of the guidelines to:
 
 
 
-4/Investment Restrictions
+• have a Code of Conduct and compliance function in place, a Supplier Code of Conduct and
 
+include clauses on compliance with ESG criteria in their contracts with subcontractors and
 
+suppliers, ensuring ethical business practices including whistle blower and grievance
 
-5 Subject to data availability.
+mechanisms
 
-6 The threshold on metallurgical coal is higher as there are currently no widely available alternatives. Nevertheless, NAM has chosen toapply a threshold and expects to adjust it downwards as applicable coal-free technologies appear, eg in the area of steel production.
+• analyse and report material sustainability matters in line with established standards, such as the
 
-7 A coal phase out commitment encompasses a public commitment to ending production of thermal coal or coalfired electricity gener-ation by 2040 latest.
+Corporate Sustainability Reporting Directive (CSRD) (applied to EU companies from Jan 1st 2024
 
-8 Advanced economies are defined by IEA as the OECD regional grouping plus Bulgaria, Croatia, Cyprus, Malta and Romania.
+and onwards), as applicable.
 
-9 Expansion plans includes projects that are announced, pre-permitted, permitted or under construction and which will result in newcoal-fired power capacity of at least 100 MW prorated.
 
-10 Palm oil producers are defined as having \>10% revenue threshold from palm oil.
 
-11 RSPO: Roundtable on Sustainable Palm Oil.
+11 For credit, the escalation goes first to the executive credit committee, as per the internal credit process.
 
-These restrictions are continuously monitored in our internal limit monitoring system.5 Pre-trade limits blockthe unfit investment opportunities and post-trade limits flag exposure or activity that is not aligned withthe investment restrictions, which may ultimately lead to divestment. Additional exclusions may apply forcertain investment strategies.
+12 https://www.nordea.com/en/doc/nordea-sanctions-risk-management-policy-statement-0.pdf
 
-NAM considers a range of weapon types, and their potential use, to be contro-versial, given their indiscriminate effect on human populations. NAM does notinvest in companies that are involved in the production or development of clustermunitions, anti-personnel mines, biological weapons, chemical weapons, weaponswith non-detectable fragments, incendiary and blinding laser weapons as well asdepleted uranium munitions.
+13 https://www.nordea.com/en/doc/nordea-aml-ctf-ate-policy-statement-0.pdf
 
-NAM does not invest in companies that are verified to be directly involved in produc-tion or development of nuclear weapons. NAM also excludes companies involved inthe maintenance of nuclear weapons, with a military revenue threshold of 5%.
+7
 
-Since 2012, NAM has not offered investment products where basic food commodi-ties such as wheat, coffee or sugar are included in the underlying assets.
 
 
+• support a just and orderly transition to a low-carbon economy when engaging with policy
 
-IllegalWeapons
+makers and refrain from participating in any direct or indirect advocacy activities aimed at
 
-NuclearWeapons
+weakening climate policy
 
-SoftCommodities
+• have environment, health, and safety (EHS) management systems that meet standards such as
 
+the ISO 14001 and OHSAS 18001 where relevant
 
 
-Companies with substantial and sustained exposure to coal mining with a 5%revenue threshold on thermal coal and 30% revenue threshold on total coal (incl.Metallurgical coal) 6.Companies with more than 50Mt annual production of thermal coal without a coalphase out commitment 7.
 
-Electric utilities without commitment to phase-out coal by 2040 (35% revenue thresh-old for advanced economies, 50% for others)8.Companies with coal power expansion plans if existing coal power revenue exceed10% or coal capacity exceed 5GW9.Companies with coal expansion plans of \> 1 GW.
+Commitment to the following international conventions and standards is encouraged for all
 
-Companies with substantial and sustained exposure to oil sand with a5% revenue threshold.
+Nordea’s business relationships in line with our own ambitions and commitments:
 
-Companies with exposure to oil and gas extraction through arctic drilling.
 
 
+• The United Nations Global Compact14,
 
-Coal Mining
+• The United Nations Guiding Principles on Business and Human Rights15.
 
-Coal-basedElectric Utilities
+• OECD guidelines for multinational enterprises16,
 
-Oil Sand
+• The United Nations Sustainable Development Goals17,
 
-Arctic Drilling
+• Paris Agreement on climate change18,
 
-Climate change
+• Kunming-Montreal Global Biodiversity Framework19
 
-Human Rights
 
 
+Nordea’s business relationships are expected to identify, assess and manage their ESG related
 
-Our investment restrictions stipulate thresholds that prohibits investment inissuers operating in specific sectors and have involvement in activities.
+impacts, risks and opportunities and to develop transition plans to support their progress. Nordea
 
-NAM does not invest in sovereign bonds issued by governments that are subject torelevant sanctions imposed by the UN, EU, USA or other applicable local regulators.
+expects all business relationships to be open to engagement and constructive dialogue on the
 
-NAM does not invest in companies involved in the production or distribution ofpornography with a 5% revenue threshold.
+contents of the transition plan, with the ambition to align targets and actions with the Paris
 
-NAM does not invest in companies involved in the production of tobacco with a 5%revenue threshold.
+Agreement and other applicable international goals on sustainability. Nordea engages with
 
+customers across sectors to decrease dependency on fossil fuels through energy efficiency
 
+measures and increased use of low carbon energy sources.
 
-Sanctions
 
-Pornography
 
-Tobacco
+4 Global outlook for fossil fuels
 
-Good Governance
+Fossil fuels – defined as coal, oil, natural gas and peat – have played a pivotal role in driving
 
+industrial growth and economic prosperity world-wide. In 2023 fossil fuels represented app 80% of
 
+the world’s energy mix20 and 40%21 of the Nordic energy consumption. It is used e.g. in construction,
 
-NAM does not invest in palm oil producers10 that do not have an RSPO certificationtarget for their holdings and estates. Furthermore, companies which have an RSPOtarget, but do not meet a minimum of 50% RSPO certification are also restricted11 .
+electricity generation for industry, to heat and light homes and offices, to produce medical supplies,
 
+computers and digital devices, metals, plastics and agricultural products and to propel cars, trucks,
 
+ships and aircraft.
 
-Palm OilBiodiversity
 
-22 23
 
-We take part in collaborative engagements, join investor initiatives and conduct research to, on a best effortbasis, ensure that our investee companies work towards living up to these positions. Depending on the natureand gravity of individual cases, breaches can trigger engagement or exclusion.
+The IPCC concludes that society needs to transition to significantly less primary energy from fossil
 
+coal, oil as well as gas already by 2030. Decarbonizing of power production and distribution is
 
+essential for the transition to a low carbon society. Combustion of fossil fuels is the largest man-
 
-Climate change
+made source of greenhouse gases, of which burning of thermal coal is the single largest contributor,
 
-Climate change is one of the single largest threats to the global economy and in general to the conditions of all life on earth.
+accounting for one third of the 1°C average temperature rise already observed. Thus, thermal coal
 
-In addition, it implies specific risks to the companies and other entities we invest in. NAM is working on an ongoing basis to assessclimate change risks and the impact of the low-carbon transition on sectors and companies. Climate change presents a challenge toour investments – in terms of its physical impact as well as through the prospect of radical policy measures and changing consumerbehaviour with the aim of reducing GHG emissions globally (transition risk). We expect companies exposed to climate risk:
 
-• to have a strong climate governance and demonstrate how they integrate climate change challenges into their business strategies,investment decisions and risk management• to be able to disclose how their long-term business strategy and profitability will be impacted by a different regulatory andphysical environment• to show how they identify and capitalise on opportunities related to climate change• to be transparent with regards to their position on climate change regulation and interaction with regulators and policy makers• to report in line with TCFD recommendations and act to reduce greenhouse gas (GHG) emissions across their value chains inaccordance with the Paris Agreement
 
+14 https://unglobalcompact.org/
 
+15 https://www.ohchr.org/en/publications/reference-publications/guiding-principles-business-and-human-rights
 
-5/ESG positions
+16 https://www.oecd.org/content/dam/oecd/en/publications/reports/2023/06/oecd-guidelines-for-
 
+multinational-enterprises-on-responsible-business-conduct_a0b49990/81f92357-en.pdf
 
+17 https://sdgs.un.org/goals
 
-Methane is a powerful greenhouse gas, having contributed to around 30% of global warming since the industrialrevolution.12 As methane is a short-term climate forcer, 80 times more potent than CO2 over 20 years, reducing itprovides critical short-term mitigation benefits and is a cost-effective mitigation strategy for the oil and gas (O\&G)sector.13
+18 https://unfccc.int/process-and-meetings/the-paris-agreement
 
-We expect companies active in the O\&G sector to map methane mitigation actions, share their cost/benefit anal-ysis of these as well as ultimately achieve near-zero methane emissions as backed by the Oil and Gas MethanePartnership 2.0 (OGMP 2.0) Gold Standard reporting.14
+19 https://www.cbd.int/gbf
 
+20 World Energy Outlook 2024 by International Energy agency
 
+21 Tracking Nordic Clean energy Progress, Nordic Energy Research, April 2020
 
-Methane
+8
 
-Human Rights
 
-While protecting and fulfilling human rights is a legal obligation and the responsibility of governments, it is widely recognised that allbusinesses have the potential to impact human rights. Poor management conflicts with the long-term interest in promoting a responsi-ble and sustainable development and may impact companies’ license to operate.
 
-12 IEA (2024): Global Methane Tracker.13 European Commission: Energy - Methane Emissions.14 Oil \& Gas Methane Partnership 2.0.
+phase out is the most urgent fossil fuel-related emissions driver22 to address and it is specifically part
 
-Business operations in areas affected by conflict are exposed to higher risk due to unstable political condi-tions, weak regulatory frameworks and pervasive violence. Companies may, knowingly or unknowingly, havebusiness operations and products with a high potential impact on the conflict or human rights violations.
+of the global climate agreement agreed by all countries at COP26 in Glasgow 2021. At COP28 two
 
-As a responsible investor we expect companies to conduct due diligence as defined by the UN GuidingPrinciples on Business Human Rights, become more transparent and report on their political risk and impactanalysis, including their human rights impact. Companies also need to assess and report on how their businessoperations or products may directly or indirectly impact an ongoing conflict or human rights violation and howthis may have a material impact on the company as well as its stakeholders. Companies should also enablestakeholders to safely report any human rights violations.
+years later in Dubai it was agreed to transition away from all fossil fuels.
 
-We expect companies to respect Indigenous Peoples’ rights, as recognized by international principles such asthe UN Declaration on the Rights of Indigenous Peoples, including by applying the principle of Free, Prior andInformed Consent (FPIC) for activities that may impact them.
 
-According to the definition by the UN, free implies that there is no coercion, intimidation or manipulation, prior
 
-implies that consent is sought sufficiently in advance with respect shown to time requirements and informed
+The EU has adopted a long-term strategy to become an economy with net-zero greenhouse gas
 
-implies that information covers a range of aspects including nature, size, reversibility amongst others, of anyproject and/or activity.15
+emissions by 2050. The objective is at the heart of the European Green Deal and the step-by-step
 
-India’s pharmaceutical industry, expected to grow to USD 130 billion by 203016, contributes to the country’s se-vere water pollution crisis caused by the waste generated in the manufacturing process. Pharmaceutical pollu-tion also drives antimicrobial resistance (AMR) which is expected to cost USD 100 trillion 17 and kill 10 million18people by 2050. AMR has been declared one of the top ten global threats to human health and is a systemicrisk that may impact investment portfolios, economic stability and broader society. Without access to effectiveantimicrobials, public health and the foundation of modern medicine is being undermined.
+transition beyond the combustion of fossil coal, oil and gas in the EU and Nordic region. The EU and
 
-We expect investee companies in the health care sector and pharmaceutical industry to make efforts to safe-guard public health. This includes actions to adequately address pollution as well as AMR.
+most of the Nordic countries, also have intermediate climate and energy targets in legislation for
 
-The green transition and decarbonisation of the global economy relies on climate justice, balancing economic,environmental and social factors and finding solutions for workers and communities. In this context, a justtransition refers to preserving human rights and mitigating adverse societal and environmental impacts in thetransition to a low-carbon economy.
+2030 and sector by sector decarbonisation roadmaps23 which all result in lowered fossil fuel
 
-As an investor committed to contributing to a green and just energy transition, we expect companies tocompanies to disclose their approach to environmental and social challenges within the transition and haveamongst others, proper human rights due diligence processes in place.
+dependencies.
 
 
 
-Conflict areas
+There is a stark contrast between demand and supply curves for oil and gas in scenarios based on
 
-IndigenousRights – FPIC
+current policies and what is required in scenarios limiting the global temperature rise to 1.5°C. In its
 
-Public Health –PharmaceuticalPollution \& AMR
+stated policy scenario, the International Energy Agency (IEA) estimates that both oil and gas
 
-Just Transition
+demand increase slightly by 2030 relative to 2023, with significant regional divergence. Advanced
 
+economies generally see demand declines and emerging and developing economies are estimated
 
+to see growing demand. In Europe, oil demand is estimated to decline with 12% by 2030 and gas
 
-We expect companies to comply with internationally recognised human rights principles and to prevent and manage their impact on hu-man rights. Human rights-related issues include human rights abuses, modern slavery, fair living wage, and child labour, occupational safetyand health, the rights of indigenous people and displacement of local communities, freedom of association and collective bargaining andinternational humanitarian law. Our expectations in these areas apply both to the investee companies themselves and to their supply chains.
+demand with 9% in the current policy scenario. The estimated demand declines in this scenario are
 
-15 OHCHR: Consultation and free, prior and informed consent.
+not sufficient to meet the 1.5°C goal, which would require more transformative and significantly
 
-16 EY (2023): Pharma and healthcare for India@100: a century of change on the horizon.
+accelerated action from all parts of society with coordinated actions on both demand and supply
 
-17 World Bank (2016): By 2050, drug-resistant infections could cause global economic damage on par with 2008 financial crisis.
+side.
 
-18 UNEP: Antimicrobial Resistance - a global threat.
 
-Our ESG positions describe our broader expectations on our investeecompanies in relation to topics such as climate change, good governance,human rights and biodiversity. We encourage companies to comply with theseESG positions and they may serve as a guide for our stewardship activities.
 
-25
+Methane is a powerful greenhouse gas and the second largest contributor to global warming. The
 
+oil and gas industry is one of the largest sources of anthropogenic methane emissions, and is the
 
+sector with the greatest potential for methane emissions reduction. In 2021 alone, the global oil and
 
-The evidence of a correlation between corrupt business practices and negative effects on long-term financialreturns is growing. Corruption leads to significant business-related costs and market inefficiency and hinderseconomic, political and social development. We expect companies to take a proactive approach towardscorruption and responsible payments and ensure that adequate measures are implemented and transparencyis being elevated.
+gas industry wasted $19 billion of natural gas due to methane emissions24.
 
-We recognise the importance of companies being accountable for and transparent about their tax practices.
 
-We expect our portfolio companies to have a tax policy that outlines the company’s approach to taxation andhow it aligns with the overall business strategy. We also expect companies to have a robust tax governanceand management framework in place, to pay taxes where economic value is created and to provide coun-try-by-country reporting.
 
-Each Board of Directors is responsible for ensuring that overall remuneration to executive management is ap-propriate and reasonable, aligned with the strategy of the company and that it promotes a sound performancefor the company in the long term. We are in favour of variable compensation plans that are based on clearlydefined performance criteria and which include ESG criteria.
+For the world to reach net-zero by 2050, carbon capture and storage (CCS) is necessary to remove
 
-We expect a board to include a strong presence of independent non-executives members and to be diversifiedon gender, experience, age and other factors. A board should preferably have at least 40% of either gender.
+and permanently store CO2 from point sources and from the atmosphere. The oil and gas sector is
 
-Companies may contribute to and take part in policy processes to shape regulation that affects their businessobjectives as well as more broadly their activities, e.g. environmental goals.
+central in prospecting and developing geological storage sites for CO2 and in establishing well-
 
-We expect companies to carry out political engagement in a responsible manner in line with relevant guidingprinciples and frameworks. Furthermore, we expect companies to be transparent in relation to such engage-ment, including the rationale for supporting or opposing certain matters.
+functioning value chains for CCS. The CCS market is expected to be regional since a shorter
 
+distance from source to storage is key to managing operating expenses. The demand for carbon
 
+storage in Europe is expected to rapidly increase when carbon taxes increase, the EU ETS allowance
 
-Corruption
+system becomes more ambitious and high permanence emission removals are phased in.
 
-Tax
 
-ESG inremuneration
 
-Diversity
+5 Nordea position
 
-CorporateLobbying
+Nordea recognises the responsibility to work towards a just transition to a net-zero economy and to
 
+a sustainable society.
 
 
-24
 
+As the largest bank in the Nordics with extensive presence in all Nordic countries, Nordea’s business
 
+and lending activities reflect, to varying extent, the economic activity and sectoral composition in
 
-Biodiversity
+each of its home markets. In Norway, oil and gas have been a vital part of the economic
 
-Biodiversity loss is a systemic risk. Nature is being eroded at rates unprecedented in human history and we are facing the irreversibleloss of plant and animal species, habitats and vital crops. Biodiversity affects our food and medicine and our environment19 .
 
-The continuing loss of biological diversity will cost the global economy several trillion euros by 205020. We expect companiesaffected by these risks to ensure that they report on how they manage the related risks and impacts adequately. NAM ́s approach toBiodiversity and Nature are further described in our White paper on biodiversity and nature.
 
-19 Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services (IPBES).
+22 Global Warming of 1.5 °C, IPCC Special Report 2018 (revised 2019).
 
-20 https://ec.europa.eu/environment/nature/biodiversity/economics/index_en.htm
+23 eg Fossil Free Sweden 21 sector decarbonisation road maps, Klimapartnerskapen 13 sector decarbonisation
 
+roadmaps in Denmark, Finland Ministry of Economic Affairs and Employment 13 sector decarbonisation
 
+roadmaps.
 
-Good governance
+24 Oil \& Gas Methane Partnership 2.0, UNEP, European Commission
 
-NAM’s ownership activities are aimed at promoting sustainable profitability and sound management of ESG risks and other risk typesin portfolio companies, in order to protect shareholder value and enhance long-term returns. Our active ownership tools include vot-ing, attending Annual General Meetings, representation on nomination committees and engagement with companies.
+9
 
-We believe that a sound corporate governance structure is essential for creating long-term shareholder value. The board of directorsand senior management are accountable to investors for protecting and generating value over the long term. We expect the board ofdirectors of investee companies to oversee and monitor the effectiveness of the company’s governance of environmental, social andbusiness ethics-related issues and risks and to protect shareholder rights. We engage with investee companies and use our vote onnumerous issues, including shareholder rights, board composition, remuneration and risk management.
 
-We expect companies affected by these risks to ensure that they report on how they manage the related risks and impacts adequately.
 
-Agricultural expansion is one of the main drivers of deforestation and the associated loss of biodiversityand soft commodity-driven deforestation presents both sustainability and financial risks for companies in anumber of industries including food products, household products, textiles and apparel. We recognise thevital role forests play in climate change mitigation, biodiversity protection and in supporting livelihoods.
+development, accounting for more than 60% of its total value of exported goods in 202325, and will
 
-Therefore, we expect all relevant companies in our portfolio that are involved in the production, trade, useor financing of forest-risk commodities, particularly palm oil, soya, timber and cattle products, to commit toeliminating deforestation and the loss of other valuable ecosystems from their operations and supply chains.Sufficient measures include, but should not be limited to, implementing a strong governance frameworkwhich clearly articulates the board’s accountability for and oversight of deforestation risks and ensurestraceability of forest-risk commodities.
+continue to play a role in the transition to a low-carbon future while also contributing to energy
 
-Water crises have been identified as the global risk that can be the most impactful in the next 10 years.By 2025 two thirds of the world’s population will be subject to water stress. Economic growth and climatechange are putting extreme pressure on groundwater and renewable surface water resources. Waterscarcity is an issue for a number of companies that we are invested in. Certain industry sectors have in somegeographical areas of operations a particularly high exposure to water risk. We expect companies in thehigh-risk sectors to ensure that they address and manage their water risk adequately.
+security in Europe.
 
-In line with our overall expectations on biodiversity and nature, we expect companies whose activities(including products and services) may affect sensitive areas including Natura 2000 areas, UNESCO WorldHeritage sites, Key Biodiversity Areas (‘KBAs’) as well as other protected areas specified by the EuropeanParliament and the Council, to take necessary precautions to mitigate their impact on these areas and ade-quately lay out how they manage these risks and impacts.
 
-In line with our PAI process under SFDR, we screen for activities which negatively affect sensitive areas ona quarterly basis. Our Responsible Investments team analyses these cases before presenting the case to RICthat decides on one of three recommendations: no action, engagement or exclusion.
 
+Nordea’s strategy in the fossil fuel based industries is to identify performance leaders with robust
 
+net-zero aligned transition plans and support them in close dialogue. In instances when a transition
 
-Deforestation
+plan is in place but not Paris aligned we aim to engage in dialogue to strengthen it.
 
-Water
 
-Sensitive Areas
 
+Nordea’s sector targets for the lending portfolio in this sector are the following:
 
 
-5/
 
-26 27
+• Reduce absolute scope 1, 2 and 3 financed emissions from oil and gas Exploration and
 
+Production by 55% from 2019 to 2030.
 
+• Full exit from thermal coal in 2021
 
-6/Reportingand transparency
+• Full exit from offshore in 2025
 
+• Full exit from thermal peat in 202526
 
 
-We regularly report on issues of ESG relevance via our website,through our Annual Report and through the PRI reporting framework.
 
-Additionally, product-specific ESG reportingis available for a selection of NAM investmentstrategies and as required by EU regulation.
+Nordea believes that active engagement is the most effective strategy to achieve real-economy
 
-NAM reports on its main responsible investmentactivities on a yearly basis, through its RI AnnualReport.
+impact through the operations of our customers and investees. To this end, we have set the
 
-In addition, NAM provides:
+following targets:
 
-• annual climate report• online access to voting information, ref. investeecompanies’ AGMs• product-specific reporting, including informationon engagement activities• principal adverse impact statement• sustainability risk (in investment decision-making) statement• sustainability risk (in remuneration) statement
 
-These documents can be found on our websites.
 
-28 29
+• Ensuring that, by the end of 2025, 80% of the top 200 emitters in Nordea Asset Management’s
 
+portfolios are either aligned with the Paris Agreement or are subject to active engagement to
 
+become aligned by the end of 2024.
 
-It encompasses the ability to be a credible andreliable partner that acts in the best interest ofcustomers as well as ethically and responsiblytowards society. Human rights, employee rights,environmental responsibility and anti-corruption areamong the factors included in the decision-makingprocesses in order to contribute to sound financialmarkets.
+• Ensuring that, by the end of 2025, 90% of our lending exposure to large corporate customers in
 
-Sustainability is at the core of the businessdevelopment and a way of creating value. Nordeais committed to integrating sustainability intorelevant processes in all business areas. NAM’sprinciples for sustainability are based on Nordea’sCode of Conduct and guide our behaviour, our dailywork and our business decisions. We take theseprinciples and other relevant environmental, socialand governance principles into consideration whenevaluating business risks and opportunities.
+the fossil fuel-based sector shall be covered by transition plans.
 
-Nordea expects business partners and suppliers toadhere to the below principles:
 
-• We are committed to good corporate citizenship• We are committed to human rights, labour rightsand freedom• We are committed to equal opportunities anddiversity• We are committed to caring for the wellbeing ofour employees• We are committed to ethics, honesty andsincerity• We are committed to caring for the environment• We reject bribery and corruption
 
-For the Nordea Group, sustainability means takingresponsibility for the impact Nordea has on its surroundings.
+For capital markets facilitation, Nordea adheres to the updated target setting guidelines issued by
 
+the Net Zero Banking Alliance and will consider the inclusion of targets for capital market activities
 
+and facilitated emissions as part of the review process of existing financed emissions targets.
 
-7/Sustainable asset manager
 
-30 31
 
-NAM is aware that potential or actual conflicts ofinterests may arise as part of NAM’s shareholderengagement activities. Consequently, NAM haspolicies in place for the purpose of taking allreasonable steps to prevent conflicts of interests.Where such conflicts cannot be avoided, NAM willidentify, manage and monitor the conflicts and,where appropriate, disclose them to clients toprevent them from adversely affecting the interestsof the clients.
+I relation to the wider Arctic region north of the Arctic Circle, Nordea’s priority is to assess and
 
+promote sound management of biodiversity and ecosystem risks. We recognize that such risks are
 
+especially severe in offshore locations enclosed by the southernmost extent of winter sea ice.
 
-8/Conflicts of interest
 
-Nordea Asset Management is the functional name of the asset management business conducted by the legal entities Nordea InvestmentFunds S.A., Nordea Investment Management AB and Nordea Funds Ltd and their branches and subsidiaries. This material is intended toprovide the reader with information on Nordea Asset Management specific capabilities, general market activity or industry trends and isnot intended to be relied upon as a forecast or research. This material, or any views or opinions expressed herein, does not amount to aninvestment advice nor does it constitute a recommendation to buy, sell or invest in any financial product, investment structure or instrument,to enter into or unwind any transaction or to participate in any particular trading strategy. Unless otherwise stated, all views expressedare those Nordea Asset Management. Views and opinions reflect the current economic market conditions, and are subject to change. Anyinvestment decision should be based on the Offering Memorandum or any similar contractual arrangement. All investments involve risks;losses may be made. While the information herein is considered to be correct, no representation or warranty can be given on the ultimateaccuracy or completeness of such information. Prospective investors or counterparties should discuss with their professional tax, legal,accounting and other adviser(s) with regards to the potential effect of any investment that they may enter into, including the possiblerisks and benefits of such investment, and independently evaluate the tax implications, suitability and appropriateness of such potentialinvestments. Published by the relevant Nordea Asset Management entity. Nordea Investment Management AB and Nordea InvestmentFunds S.A. are licensed and supervised by the Financial Supervisory Authority in Sweden and Luxembourg respectively. Nordea Funds Ltdis a management company incorporated in Finland and supervised by the Finnish Financial Supervisory Authority. This material may not bereproduced or circulated without prior permission. © Nordea Asset Management.
+
+This Sector guideline covers Oil, Gas \& Offshore27 companies and Mining companies operating in
+
+exploration, extraction or production of coal28, peat, oil \& gas (NACE codes B.05, B.06, B.08.92, B.09.1,
+
+C.19.2, D.35.21). Also included are oil \& gas pipeline and thermal coal heat \& power production
+
+companies (NACE codes D.35.11, D.35.22, H.49.5).29
+
+
+
+25 www.norskpetroleum.no
+
+26 With the exception of potential energy security measures in Finland after the publication this guideline
+
+27 offshore companies, defined as companies within oil and gas industry engaged in drilling for hydrocarbons in
+
+the ocean.
+
+28 Coal companies, defined as companies operating in thermal coal mining, coal exploration, coal processing,
+
+Coal to liquids (Ctlg) and Coal to gas (CtG).
+
+29 NACE REV 2.1 https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32023R0137#anx_1
+
+10
+
+
+
+6 Requirements
+
+Nordea requires companies in our business relationships to comply with national legislation and
+
+policies.
+
+
+
+6.1 Investments
+
+Requirements stated below are applicable to all investments, as defined in section 1.1, unless
+
+otherwise specified. For Article 8 and 9 funds30 managed by Nordea Asset Management (NAM),
+
+requirements are further specified in the Paris Aligned Fossil Fuel Policy. For additional information
+
+on subsidiary sustainability policies please refer to
+
+https://www.nordea.com/en/sustainability/policies-sector-guidelines
+
+
+
+6.1.1 Conventional oil and gas exploration and production
+
+The Paris Aligned Fossil Fuel policy applies to all NAM Article 9 funds and to Article 8 funds
+
+with a small number of exceptions, which means investments are not made in :
+
+
+
+• Companies with \>5% revenues from exploration, production or distribution of fossil fuels,
+
+unless there is a transition plan in line with the Paris Agreement
+
+
+
+For all products managed by Nordea Life \& Pension (NLP)31, investments are not made in:
+
+
+
+• companies actively engaged in exploration and production of oil and gas, unless there is a
+
+transition plan in line with the Paris Agreement.
+
+
+
+6.1.2 Unconventional oil and gas32
+
+For Article 6 products managed by NAM, investments are not made in:
+
+
+
+• companies with substantial and sustained exposure to oil sands with a 5% revenue
+
+threshold.
+
+
+
+For Article 9 funds and Article 8 funds managed by NAM, with a small number of exceptions,
+
+investments are not made in:
+
+
+
+• companies that are involved in so-called unconventional fossil fuel extraction methods.
+
+These methods include Arctic drilling, oil sands extraction, and hydraulic fracturing (shale
+
+oil/gas)
+
+
+
+For all products managed by NLP, investments are not made in:
+
+
+
+• companies involved in the extraction of unconventional oil and gas
+
+
+
+30 in accordance with Regulation (EU) 2019/2088, the Sustainable Finance Disclosure Regulation (SFDR)
+
+31 all insurance- and pension-based investment products, where Nordea Life \& Pension makes decisions as to
+
+which internally or externally managed instruments, such as funds, mandates, structured investment products
+
+or single securities, to invest in
+
+32 Unconventional oil and gas include oil sands, shale oil and shale gas.
+
+11
+
+
+
+6.1.3 Arctic drilling33
+
+
+
+NAM and NLP do not invest in companies involved in oil and gas extraction through Arctic
+
+drilling.
+
+
+
+6.1.4 Thermal coal
+
+NAM and NLP do not invest in:
+
+
+
+• companies with large and sustained exposure to coal mining, defined as having a 5%
+
+revenue threshold on thermal coal and a 30% revenue threshold on total coal (including
+
+metallurgical coal34).
+
+
+
+In addition, NAM does not invest in:
+
+
+
+• Electric utilities without commitment to phase-out coal by 2040 (35% revenue threshold for
+
+advanced economies, 50% for others). 8
+
+• Companies with coal power expansion plans if existing coal power revenue exceed 10% or
+
+coal capacity exceed 5GW.9
+
+• Companies with coal expansion plans of \> 1 GW.
+
+
+
+For products managed by NLP, investee companies with revenues from coal mining below those
+
+thresholds, as well as power generation companies, need to have a transition plan in line with
+
+the Paris Agreement to be investable.
+
+
+
+6.2 Financing and facilitation
+
+Any expansion of the portfolio beyond current business relationships will be subject to thorough
+
+assessments of the nature of the ESG related risks and impacts, also taking into consideration
+
+aspects of energy security and geopolitics.
+
+
+
+6.2.1 Oil and gas exploration \& production
+
+Nordea does not provide or facilitate financing to:
+
+
+
+• Projects dedicated to expanding exploration and production of oil and gas.
+
+
+
+6.2.2 Unconventional oil and gas
+
+Nordea does not provide or facilitate financing to:
+
+
+
+• Projects dedicated to expanding exploration and production of unconventional oil and gas.
+
+
+
+33 arctic drilling and for this Nordea uses the arctic definition as offshore locations enclosed by the
+
+southernmost extent of winter sea ice above the Arctic Circle
+
+34 The threshold on metallurgical coal is higher as there are currently no widely available alternatives.
+
+Nevertheless, Nordea has chosen to apply a threshold and expects to adjust it downwards as applicable coal-
+
+free technologies appear, eg in the area of steel production.
+
+8 Advanced economies aredefined by IEA as the OECD regional grouping plus Bulgaria, Croatia, Cyprus, Malta
+
+and Romania
+
+9 Expansion plans includes projects that are announced, pre-permitted, permitted or under construction and
+
+which will result in new coal-fired power capacity of at least 100 MW prorated.
+
+12
+
+
+
+6.2.3 Arctic drilling
+
+Nordea does not provide or facilitate financing to:
+
+
+
+• Projects dedicated to expanding exploration and production through arctic drilling.
+
+
+
+For companies involved in exploration, development and/or extraction in the Barents Sea it is
+
+required that they operate under a license awarded by the Norwegian Ministry of Energy and
+
+Petroleum with the permission to carry out said activities by the Norwegian Environment
+
+Agency and the Norwegian Petroleum Safety Authority.
+
+
+
+6.2.4 Thermal coal
+
+Nordea does not provide or facilitate financing to:
+
+
+
+• Companies having more than 5% of their revenues coming directly from thermal coal,
+
+covering coal-fired energy production companies and/or mining companies that are
+
+extracting thermal coal.
+
+• Companies with expansion plans for thermal coal or new and pre-construction phase
+
+thermal coal activities.
+
+• Projects dedicated to thermal coal mining, new thermal coal power plants or thermal coal
+
+transport infrastructure construction.
+
+
+
+Nordea requires that existing financing customers, using thermal coal in power production or
+
+mining, are planning to exit power production and mining based on thermal coal by 2030 latest
+
+for industrialised countries and a full phase out globally by latest 2040.
+
+
+
+6.2.5 Thermal peat
+
+Nordea does not provide or facilitate financing to:
+
+
+
+• Companies with expansion plans for thermal peat or new and pre-construction phase
+
+thermal peat activities
+
+• Projects dedicated to thermal peat mining or new thermal peat power or heat plants.
+
+• New customers having more than 5% of their revenues coming directly from thermal peat,
+
+covering peat-fired energy production companies and/or mining companies that are
+
+extracting thermal peat.
+
+
+
+Nordea requires that existing financing customers, using thermal peat in power or heat
+
+production or mining thermal peat, are committed to exit power and heat production based on
+
+thermal peat and mining thermal peat by 202535 latest.
+
+
+
+7 Expectations
+
+Any business relationship exempt from the above requirements will be carefully monitored and is
+
+expected to strive towards fulfilling Nordea’s general and sector specific expectations, focusing on
+
+reducing the adverse impact.
+
+
+
+35 With the exception of potential energy security measures in Finland after the publication this guideline
+
+13
+
+
+
+We expect all business relationships to work with peers to control their methane emissions and
+
+improve the accuracy and transparency of methane emissions reporting in the oil and gas sector.
+
+
+
+We expect companies to recognise the critical role of environmental conservation in their planning
+
+and operational management. They should lead by developing best practices, commit to relevant
+
+standards and conventions that prioritise sustainability and integrate this in their management
+
+planning and decision processes. This includes adopting strategies to reduce carbon emissions,
+
+enhance energy efficiency and engage in biodiversity conservation efforts, thereby ensuring a
+
+responsible and proactive approach to environmental stewardship. This includes, but is not limited
+
+to, adherence to the following standards:
+
+
+
+• UN Global Compact
+
+• Ramsar Convention on Wetlands of International Importance especially as Waterfowl
+
+Habitat (RAMSAR)
+
+• the Convention on Biological Diversity (CBD)Oil and Gas Climate Initiative (OGCI)
+
+• the OSPAR Convention
+
+• the Oil \& Gas Methane Partnership 2.0, or OGCI methane initiative, and to commit to end all
+
+routine and non-emergency flaring and venting operations no later than 2030.
+
+• the International Convention on Oil Pollution Preparedness, Response and Co-operation
+
+(OPRC)
+
+• the United Nations Educational, Scientific and Cultural Organization (UNESCO) World
+
+Heritage Convention with regards to sites listed therein and,
+
+• the International Union for Conservation of Nature and Natural Resources (IUCN) with
+
+regards to protected areas defined therein.
+
+• the EU Technical Expert Group and Partnership for Carbon Accounting Financials global
+
+standard for financed emissions accounting, with respect to inclusion of scope 3 emissions in
+
+carbon accounting for oil \& gas and mining companies (i.e., NACE L2: 05-09, 19, 20)
+
+• commitment to Extractive Industries Transparency Initiative (EITI) disclosure principles.
+
+• transparent and high quality disclosure of climate impact and material sustainability impacts
+
+in their value chain
+
+• adhering to the United Nations “Protect, Respect and Remedy” framework set out in the UN
+
+Guiding Principles for Business and Human Rights.
