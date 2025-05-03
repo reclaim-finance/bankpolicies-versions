@@ -996,7 +996,7 @@ universe that could qualify for potential exclusion.
 
 3. Any new firm-wide sector exclusion is discussed within the Investment team, which is then
 
-submitted to Carmignac’s Sustainable Investment Governance group for approval.
+submitted to Carmignac’s Strategic Development Committee for approval.
 
 4. Cases of companies with controversial behaviour are discussed firstly within the Investment and
 
@@ -1030,9 +1030,9 @@ or behaviour. A review of such changes may lead to the exclusion being lifted.
 
 from our Funds within a defined and precise timeframe. Carmignac’s Compliance team monitors
 
-adherence. Any identified breach to the defined timeframe would be dully escalated to the ESG
+adherence. Any identified breach to the defined timeframe would be dully escalated to the
 
-Governance Group.
+Strategic Development Committee.
 
 
 
