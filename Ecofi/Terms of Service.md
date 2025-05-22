@@ -63,36 +63,32 @@ Pilier 1
 
 ### Notation propriétaire PRISME
 
-Notre méthodologie propriétaire de notation extra-financière est **equipondérée entre trois axes Environnemental, Social et Gouvernance.**
+Notre méthodologie propriétaire de notation extra-financière est **équipondérée entre trois axes Environnemental, Social et Gouvernance.**
 
-Notre prisme d’investisseur engagé nous amène pour chacun de ces axes à **surpondérer, d’une part, les enjeux ESG clés propres à chaque secteur, qui influencent significativement la performance financière et la durabilité, et d’autre part, 3 critères essentiels que nous avons sélectionnés pour leur impact ESG.**
+Notre prisme d’investisseur engagé nous amène pour chacun de ces axes à **surpondérer** d’une part, **les enjeux ESG clés** propres à chaque secteur, qui influencent significativement la performance financière et la durabilité ; et d’autre part, **9 critères supplémentaires** qui nous aident à distinguer les entreprises qui prennent des mesures significatives pour améliorer leur performance globale ESG.
 
-La notation de la performance ESG combine 2 approches complémentaires :
+La notation de la performance ESG combine donc 2 approches complémentaires :
 
-* L’analyse de nombreux indicateurs qualitatifs et quantitatifs sous 2 angles : le niveau d’exposition aux risques ESG et l’indicateur d’actions ESG
-* La surpondération de 9 critères supplémentaires à fort IMPACT ESG, qui témoignent de notre identité d’investisseur engagé.
+* **L’analyse ESG** large via de nombreux indicateurs qualitatifs et quantitatifs sous 2 angles
+* Le focus sur **9 critères essentiels** supplémentaires (3 par axes) à fort IMPACT ESG
 
-La mesure du changement témoigne de notre identité d’investisseur actif pour le futur.
-
-Indicateurs
+Analyse ESG large
 
 Critères essentiels
 
-25 %
+#### Niveau d’exposition aux risques ESG
 
-Politiques
-
-25 %
-
-Mesures
-
-50 %
+Évaluation des risques en fonction du secteur d’activité, de la zone géographique, etc.
 
 ![](https://www.ecofi.fr/img/master-gradient.jpg)
 
-Résultats
+#### Indicateurs d’actions ESG
 
-Notre approche de selection privilégie l’impact réel des stratégies ESG grâce à la qualité de la gestion des risques ESG (actions mises en place) et à la surpondération des enjeux les plus critiques spécifiques à chaque secteur.
+Gestion des risques ESG
+
+![](https://www.ecofi.fr/img/master-gradient.jpg)
+
+Notre approche de sélection privilégiée l’impact réel des stratégies ESG grâce à la qualité de la gestion ESG (actions mises en place) et à la surpondération des enjeux les plus critiques spécifiques à chaque secteur.
 
 * E
     
@@ -109,8 +105,6 @@ Notre approche de selection privilégie l’impact réel des stratégies ESG gr�
     * Équilibre des pouvoirs et efficacité du CA
     * Rejet des paradis fiscaux
     * Rémunérations liées à des facteurs ESG
-
-Notre note propriétaire PRISME est composée de 9 critères à fort impact ESG, répartis équitablement dans les 3 catégories : Environnement, Social, et Gouvernance.
 
 Pilier 2
 
