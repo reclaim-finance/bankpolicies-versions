@@ -1,120 +1,56 @@
+GOOD GOVERNANCE PRINCIPLES AND POLICY FOR SFDR ARTICLE 8PORTFOLIOS
+
+
+
 COMGEST GROUPRESPONSIBLEINVESTMENTPOLICY
 
 
 
-May 2024
+May 2025
 
-2 / COMGEST GROUP RESPONSIBLE INVESTMENT POLICY 2024 comgest.com
-
-
-
-INDEX
-
-I. INTRODUCTION..............................................................................................................................3
+2 / COMGEST GROUP RESPONSIBLE INVESTMENT POLICY 2025 comgest.com
 
 
 
-A. OUR RESPONSIBLE INVESTMENT PHILOSOPHY................................................................................................................... 3
+TABLE OF CONTENTSI. INTRODUCTION................................................................................................................................ 3
 
-B. OBJECTIVES OF OUR RESPONSIBLE INVESTMENT APPROACH................................................................................. 3
+A. OUR RESPONSIBLE INVESTMENT PHILOSOPHY ..................................................................................................................... 3B. OBJECTIVES OF OUR RESPONSIBLE INVESTMENT APPROACH .................................................................................. 3C. WHAT ENABLES US TO IMPLEMENT OUR RESPONSIBLE INVESTMENT APPROACH? ................................... 4
 
-C. WHAT ENABLES US TO IMPLEMENT OUR RESPONSIBLE INVESTMENT APPROACH?...................................4
+II. SCOPE ................................................................................................................................................. 4
 
-II. SCOPE .............................................................................................................................................. 4
+III. RESPONSIBLE INVESTMENT STRATEGY.................................................................................. 4
 
-III. RESPONSIBLE INVESTMENT STRATEGY................................................................................ 4
+A. INTEGRATE ..................................................................................................................................................................................................... 5B. ACTIVE OWNERSHIP................................................................................................................................................................................13C. PARTNERSHIP ..............................................................................................................................................................................................13
 
+IV. GOVERNANCE AND RESOURCES............................................................................................. 14
 
+A. RESPONSIBLE INVESTMENT GOVERNANCE STRUCTURE ...............................................................................................14B. ESG RESOURCES........................................................................................................................................................................................15C. INCENTIVES ...................................................................................................................................................................................................17D. ESG TOOLS AND DATA..........................................................................................................................................................................17
 
-A. INTEGRATE ................................................................................................................................................................................................. 5
+V. REPORTING \& TRANSPARENCY.................................................................................................19
 
-B. ACTIVE OWNERSHIP ............................................................................................................................................................................12
+VI. OVERSIGHT .....................................................................................................................................20
 
-C. PARTNERSHIP ..........................................................................................................................................................................................12
+APPENDIX I: GOOD GOVERNANCE PRINCIPLES AND POLICY FOR SFDR ARTICLE 8PORTFOLIOS ............................................................................................................................................21
 
-IV. GOVERNANCE AND RESOURCES ........................................................................................... 13
+A. COMGEST’S GENERAL GOVERNANCE PRINCIPLES .............................................................................................................21B. GOOD GOVERNANCE PRACTICES ..................................................................................................................................................21C. RESOURCES .................................................................................................................................................................................................23D. ASSESSMENT...............................................................................................................................................................................................23E. MONITORING AND CONTROVERSY MANAGEMENT...........................................................................................................23
 
-A. RESPONSIBLE INVESTMENT GOVERNANCE STRUCTURE .............................................................................................13
+APPENDIX II: COMGEST’S CLIMATE CHANGE POLICY ...............................................................24
 
-B. ESG RESOURCES ....................................................................................................................................................................................15
+A. INTRODUCTION......................................................................................................................................................................................... 24B. SCOPE ............................................................................................................................................................................................................. 24C. STRATEGY.....................................................................................................................................................................................................26D. OVERSIGHT...................................................................................................................................................................................................28E. REPORTING...................................................................................................................................................................................................28
 
-C. INCENTIVES .............................................................................................................................................................................................. 16
+APPENDIX III: COMGEST’S POLICY ON NATURE AND DEFORESTATION ............................29
 
-D. ESG TOOLS AND DATA ......................................................................................................................................................................17
+A. INTRODUCTION..........................................................................................................................................................................................29B. SCOPE ..............................................................................................................................................................................................................29C. STRATEGY.................................................................................................................................................................................................... 30D. OVERSIGHT.................................................................................................................................................................................................. 34E. REPORTING.................................................................................................................................................................................................. 34
 
-V. REPORTING \& TRANSPARENCY .............................................................................................. 18
+APPENDIX IV: COMGEST’S HUMAN RIGHTS POLICY ..................................................................35
 
-VI. OVERSIGHT.................................................................................................................................... 18
+INTRODUCTION .................................................................................................................................................................................................35SCOPE......................................................................................................................................................................................................................35STRATEGY ............................................................................................................................................................................................................35OVERSIGHT ......................................................................................................................................................................................................... 38REPORTING ......................................................................................................................................................................................................... 38
 
-APPENDIX I: GOOD GOVERNANCE PRINCIPLES AND POLICY FOR SFDR ARTICLE 8PORTFOLIOS ......................................................................................................................................... 19
+APPENDIX V: COMGEST GROUP EXCLUSION POLICY ...............................................................39
 
+A. INTRODUCTION......................................................................................................................................................................................... 39SCOPE..................................................................................................................................................................................................................... 39SECTORS BASED EXCLUSIONS ..............................................................................................................................................................40NORM-BASED EXCLUSIONS .......................................................................................................................................................................41CONTROVERSIAL JURISDICTIONS EXCLUSIONS ........................................................................................................................ 42IMPLEMENTATION........................................................................................................................................................................................... 42APPROVAL AND OVERSIGHT .................................................................................................................................................................. 43
 
-
-A. COMGEST’S GENERAL GOVERNANCE PRINCIPLES.......................................................................................................... 19
-
-B. GOOD GOVERNANCE PRACTICES .............................................................................................................................................. 19
-
-C. RESOURCES ..............................................................................................................................................................................................21
-
-D. ASSESSMENT ............................................................................................................................................................................................21
-
-E. MONITORING AND CONTROVERSY MANAGEMENT..........................................................................................................21
-
-APPENDIX II: COMGEST’S CLIMATE CHANGE POLICY ............................................................. 22
-
-
-
-A. INTRODUCTION ......................................................................................................................................................................................22
-
-B. SCOPE..........................................................................................................................................................................................................22
-
-C. STRATEGY ................................................................................................................................................................................................ 24
-
-D. OVERSIGHT.............................................................................................................................................................................................. 26
-
-E. REPORTING.............................................................................................................................................................................................. 26
-
-APPENDIX III: COMGEST’S POLICY ON NATURE AND DEFORESTATION ........................... 27
-
-A. INTRODUCTION ......................................................................................................................................................................................27
-
-B. SCOPE..........................................................................................................................................................................................................27
-
-C. STRATEGY ................................................................................................................................................................................................ 28
-
-D. OVERSIGHT.............................................................................................................................................................................................. 32
-
-E. REPORTING.............................................................................................................................................................................................. 32
-
-APPENDIX IV: COMGEST’S HUMAN RIGHTS POLICY................................................................. 33
-
-A. INTRODUCTION ..................................................................................................................................................................................... 33
-
-B. SCOPE......................................................................................................................................................................................................... 33
-
-C. STRATEGY ................................................................................................................................................................................................ 33
-
-D. OVERSIGHT.............................................................................................................................................................................................. 36
-
-E. REPORTING.............................................................................................................................................................................................. 36
-
-APPENDIX V: COMGEST GROUP EXCLUSION POLICY.............................................................. 37
-
-A. INTRODUCTION ..................................................................................................................................................................................... 37
-
-B. SCOPE......................................................................................................................................................................................................... 37
-
-C. SECTORS BASED EXCLUSIONS.................................................................................................................................................... 38
-
-D. NORM-BASED EXCLUSIONS ..........................................................................................................................................................40
-
-E. CONTROVERSIAL JURISDICTIONS EXCLUSIONS...............................................................................................................40
-
-F. IMPLEMENTATION ...............................................................................................................................................................................40
-
-G. APPROVAL AND OVERSIGHT ........................................................................................................................................................ 41
-
-3 / COMGEST GROUP RESPONSIBLE INVESTMENT POLICY 2024 comgest.com
+3 / COMGEST GROUP RESPONSIBLE INVESTMENT POLICY 2025 comgest.com
 
 
 
@@ -122,11 +58,11 @@ I. INTRODUCTION
 
 
 
-The Comgest Group1 (the “Group”) is an independent equity-focused asset manager with a qualitygrowth investment philosophy that has guided our portfolios consistently for over three decades. Ouraim is to deliver above-average risk-adjusted returns to our clients over time across global equitymarkets.
+The Comgest Group 1 (the “Group”) is an independent equity-focused asset manager with a QualityGrowth investment philosophy that has guided our portfolios consistently for over three decades. Ouraim is to deliver above-average risk-adjusted returns to our clients over time across global equitymarkets.
 
 As stewards of capital, we look to preserve the long-term interests of our clients by investing incompanies where we believe the financial returns are sustainable over the long run. This includesassessing the social and environmental impacts of our investee companies to determine whether theysupport conditions for sustainable growth.
 
-We are very conscious of the trust that has been placed in our company when clients invest with us.Our investment beliefs underpin our business model and our business strategy is implicitly linked tohow we invest for clients.
+We are conscious of the trust that has been placed in our company when clients invest with us. Ourinvestment beliefs underpin our business model and our business strategy is implicitly linked to howwe invest for clients.
 
 
 
@@ -138,7 +74,7 @@ We engage in responsible investment because we believe it enhances our financial
 
 – The integration of environmental, social, and governance (“ESG”) factors enables a betterassessment of quality; and
 
-– Sustainable value creation is enhanced when companies deliver social utility, integrity anddifferentiation.We believe that a company’s responsible approach to ESG issues will positively impact their growthover the long-term. In assessing these factors carefully, the integration of our proprietary ESG researchinto our fundamental analysis enables Comgest’s Investment team to perform a more comprehensiveassessment of “quality”. We also know that value for our clients derives not only from the financialreturns we deliver or the service we provide but the consistency and transparency of our responsibleinvestment approach.
+– Sustainable value creation is enhanced when companies deliver social utility, integrity anddifferentiation.We believe that a company’s responsible approach to ESG factors will positively impact their growthover the long-term. In assessing these factors carefully, the integration of our proprietary ESG researchinto our fundamental analysis enables Comgest’s Investment team to perform a more comprehensiveassessment of “quality”. We also know that value for our clients derives not only from the financialreturns we deliver or the service we provide but the consistency and transparency of our responsibleinvestment approach.
 
 
 
@@ -150,19 +86,19 @@ With the implementation of our Responsible Investment Policy (“RI Policy”), 
 
 – Enhance the risk-adjusted return of our portfolios over our long-term investment horizon by:
 
-§ improving our assessment of both quality and risk for each company, by thoroughlyintegrating ESG-related risks and opportunities into our research; and
+ Improving our assessment of both quality and risk for each company, by thoroughlyintegrating ESG-related risks and opportunities into our research; and
 
-§ enhancing long-term performance through our active ownership strategy. This includesencouraging investee companies to improve their disclosure and ESG risk mitigation practicesas well as harnessing ESG opportunities;
+ Enhancing long-term performance through our active ownership strategy 2 ; this includesencouraging investee companies to improve their disclosure and ESG risk mitigation practicesas well as harnessing ESG opportunities;
 
-– Discover new investment opportunities through the assessment of companies positioned tobenefit from ESG-related competitive advantages and growth engines.
+– Discover investment opportunities through the assessment of companies positioned to benefitfrom ESG-related competitive advantages and growth engines;
 
 – Ensure the responsible stewardship of our clients’ assets.
 
 
 
-1 Comgest Global Investors, S.A.S. is the holding company for the Comgest Group which includes six asset management companies:Comgest, S.A. (Paris), Comgest Far East Ltd (Hong Kong), Comgest Asset Management International Ltd (CAMIL) (Dublin), ComgestAsset Management Japan Ltd (Tokyo), Comgest Singapore Pte Ltd (Singapore) and Comgest US LLC (Boston). Comgest also has thefollowing service locations: Comgest Deutschland GmbH (Düsseldorf), Comgest Benelux B.V. (Amsterdam), Comgest Australia Pty Ltd(Sydney), as well as offices of CAMIL in London, Milan, Brussels and Vienna.
+1 Comgest Global Investors, S.A.S. is the holding company for the Comgest Group which includes six asset managementcompanies: Comgest, S.A. (Paris), Comgest Far East Ltd (Hong Kong), Comgest Asset Management International Ltd (CAMIL)(Dublin), Comgest Asset Management Japan Ltd (Tokyo), Comgest Singapore Pte Ltd (Singapore) and Comgest US LLC(Boston). Comgest also has the following service locations: Comgest Deutschland GmbH (Düsseldorf), Comgest Benelux B.V.(Amsterdam), Comgest Australia Pty Ltd (Sydney), as well as offices of CAMIL in London, Milan, Brussels and Vienna.2 Please refer to our Active Ownership Policy for details concerning our active ownership strategy.
 
-4 / COMGEST GROUP RESPONSIBLE INVESTMENT POLICY 2024 comgest.com
+4 / COMGEST GROUP RESPONSIBLE INVESTMENT POLICY 2025 comgest.com
 
 
 
@@ -172,11 +108,11 @@ C. WHAT ENABLES US TO IMPLEMENT OUR RESPONSIBLE INVESTMENT APPROACH?
 
 – Comgest has always been 100% owned by employees and founders. We regard our independentand broad ownership structure as a key advantage to implement an unbiased and effectiveengagement and advocacy strategy.
 
-– Our experience integrating ESG into our investment analysis as part of our quality growthapproach. Comgest has focused on long-term, quality growth investing for over three decades.We became a signatory to the Principles for Responsible Investment (“PRI”) in 2010, hired our firstESG Analyst in 2012 and formalised our Group-level Responsible Investment Policy in 2016.
+– Our experience integrating ESG into our investment analysis as part of our Quality Growthapproach. Comgest has focused on long-term, Quality Growth investing for over three decades.We became a signatory to the Principles for Responsible Investment (“PRI”) in 2010, hired our firstESG Analyst in 2012 and formalised our Group-level Responsible Investment Policy in 2016.
 
 – We believe that our proprietary ESG research performed by diverse, on-the-ground teams withlocal language skills and cultural knowledge allows us to make more informed investmentdecisions.
 
-– We embed ESG Analysts within the Investment team to work alongside our Company Analystsattending company meetings, performing research and conducting proprietary ESG assessments.These team members serve to expand the research process.
+– Our ESG Analysts are fully embedded within the Investment team to work alongside ourCompany Analysts, attending company meetings, performing research and conductingproprietary ESG Assessments.
 
 
 
@@ -198,15 +134,15 @@ Comgest implements a three-pronged Responsible Investment Strategy (“RI Strate
 
 Figure 1. Comgest three-pronged RI Strategy
 
-5 / COMGEST GROUP RESPONSIBLE INVESTMENT POLICY 2024 comgest.com
+5 / COMGEST GROUP RESPONSIBLE INVESTMENT POLICY 2025 comgest.com
 
 
 
-– Integration: we conduct proprietary company research as part of our bottom-up stock selectionprocess. We form our own opinions on the ESG profile of each company based on thisfundamental research. Our assessment of ESG factors is incorporated throughout our investmentselection and portfolio management process. We maintain an Exclusion Policy2 that defines ourlimits to exposure regarding activities where ESG-related risks tend to be more significant.
+– Integration: We conduct proprietary company research as part of our bottom-up stock selectionprocess. We form our own opinions on the ESG profile of each company based on thisfundamental research. Our assessment of ESG factors is incorporated throughout our investmentprocess. We maintain an Exclusion Policy 3 that defines our limits to exposure regarding activitieswhere ESG-related risks tend to be more significant.
 
-– Active ownership: as long-term investors managing concentrated portfolios, we engage with ourinvestee companies to exchange information and drive improvements on ESG topics. Asshareholders of listed companies, we know that to vote is to have a voice. We are intentional inthe implementation of our proprietary voting policy, adapting the guiding principles to eachcompany’s unique circumstances. This may result in voting against management and votingagainst our own policy at times, which we see as a sound demonstration of active voting.
+– Active ownership: As long-term investors managing concentrated portfolios, we engage with ourinvestee companies to exchange information and drive improvements on ESG topics over time.As shareholders, we recognise voting as a key tool for active ownership. We are intentional in theimplementation of our proprietary voting policy, adapting its principles to each company’sunique circumstances. This approach may lead us to vote against management or even our ownpolicy, demonstrating our commitment to active voting.
 
-– Partnership: we strive to work together with our clients as responsible stewards of their capital.This means sharing knowledge and developing an understanding of our clients’ specific prioritiesregarding responsible investment.
+– Partnership: We strive to work together with our clients as responsible stewards of their capital.This means sharing knowledge and developing an understanding of our clients’ specific prioritiesregarding responsible investment.
 
 As part of our partnership strategy, we join efforts with other like-minded investors or industrybodies to engage with companies and other industry participants when we believe this can drivemore effective and/or more timely positive change.Comgest’s values and responsible investment philosophy are anchored in transparency. Just as wedemand transparent disclosures from our investee companies, we aim to provide high quality andcomprehensive communication concerning our responsible investment activities. When reportingon our responsible investment activities, we provide details of our achievements (e.g. engagementsuccesses) as well as our limitations, lessons learned (e.g. ESG-related divestments) and ourambitions for improvement.We deliver this transparency through our regular client reporting, our discussions with clients, ourresponses to bespoke ESG information requests and the publication of ESG-related disclosures.
 
@@ -214,13 +150,11 @@ As part of our partnership strategy, we join efforts with other like-minded inve
 
 A. INTEGRATE
 
-
-
 i. Defining sustainability risks
 
 
 
-Comgest believes that the consideration of sustainability risks (or ESG-related risks) in its investmentdecision-making process can enhance financial outcomes.
+Comgest believes that the consideration of sustainability risks (or ESG-related risks) in the investmentdecision-making process can enhance financial outcomes.
 
 Sustainability risk means an environmental, social or governance event or condition that, if it occurs,could cause an actual or a potential material negative impact on the value of an investment.Sustainability risks are the potential negative consequences (financial, legal or reputational) to abusiness that may result from its impact (or perceived impact) on the natural environment (such as air,water or soil), on the stakeholders of the entity (including employees, customers and localcommunities) or from shortcomings in a company’s management structure (such as misbehaviour,corruption, failure to adequately vindicate shareholder rights or lack of tax compliance). Theoccurrence and significance of sustainability risks vary between sectors and geographical locations.
 
@@ -230,7 +164,7 @@ ii. Defining Principal Adverse Impacts
 
 
 
-Comgest believes that enhanced outcomes can also be achieved from the consideration of PrincipalAdverse Impacts (“PAI”) in its investment decision-making process.
+Comgest believes that enhanced outcomes can also be achieved from the consideration of PrincipalAdverse Impacts (“PAI”) in the investment decision-making process.
 
 PAIs on sustainability factors are negative material or likely material impacts of a firm’s investmentdecisions on sustainability factors.
 
@@ -238,9 +172,9 @@ Please refer to our Principle Adverse Sustainability Impacts Statement.
 
 
 
-2 See Appendix V for Comgest’s Group-level Exclusion Policy.
+3 See Appendix V for Comgest’s Group-level Exclusion Policy.
 
-6 / COMGEST GROUP RESPONSIBLE INVESTMENT POLICY 2024 comgest.com
+6 / COMGEST GROUP RESPONSIBLE INVESTMENT POLICY 2025 comgest.com
 
 
 
@@ -264,7 +198,9 @@ ESG factors that we specifically consider, depending on their materiality to the
 
 ENVIRONMENT SOCIAL GOVERNANCE
 
-– Greenhouse gasesemissions
+– Greenhouse gases
+
+emissions
 
 – Energy use and efficiency
 
@@ -332,7 +268,7 @@ Comgest monitors and manages climate, biodiversity and human rights related risk
 
 Comgest adopts an ESG integration approach which aligns well with our investment style focused onbottom-up stock picking of quality growth companies.
 
-7 / COMGEST GROUP RESPONSIBLE INVESTMENT POLICY 2024 comgest.com
+7 / COMGEST GROUP RESPONSIBLE INVESTMENT POLICY 2025 comgest.com
 
 
 
@@ -340,7 +276,7 @@ Figure 2: ESG integration at every step of our investment process
 
 
 
-\* Please see section III.A.v., Impact on valuation for further information.
+\* Please see section III.A.v., Impact on valuation for further information .
 
 
 
@@ -352,13 +288,13 @@ b. Investment process step-by-step
 
 
 
-Within the evolving universe of potential investments, we look for companies that demonstrate avariety of quality growth criteria (examples of criteria illustrated in Figure 3). This broad screen of themarket is carried out by the Company and ESG Analysts and considers both financial and extra-financial quality growth criteria. This occurs on a continuous basis through evaluation by theInvestment team, contact with companies as well as through industry and other sources, such asbroker research and the occasional use of screening tools.
+Within the evolving universe of potential investments, we look for companies that demonstrate avariety of quality growth criteria (examples of criteria illustrated in Figure 3). This broad screen of themarket is carried out by the Company Analysts and ESG Analysts and considers both financial andextra-financial quality growth criteria. This occurs on a continuous basis through evaluation by theInvestment team, contact with companies as well as through industry and other sources, such asbroker research and the occasional use of screening tools.
 
 
 
 Figure 3: Examples of Comgest’s quality growth criteria
 
-8 / COMGEST GROUP RESPONSIBLE INVESTMENT POLICY 2024 comgest.com
+8 / COMGEST GROUP RESPONSIBLE INVESTMENT POLICY 2025 comgest.com
 
 
 
@@ -366,7 +302,7 @@ Figure 3: Examples of Comgest’s quality growth criteria
 
 
 
-Where companies pass our initial screening, they are considered as potential investment ideas and areadded to a “watchlist”. The Investment team conducts the following activities for watchlist companies:
+Where companies pass our initial screening, they are considered as potential investment ideas and areadded to a “Watchlist”. The Investment team conducts the following activities for Watchlist companies:
 
 
 
@@ -384,13 +320,13 @@ We are focused on conducting our own fundamental in-house research and will coll
 
 
 
-Comgest’s Investment Universe for each strategy represents a list of quality growth companies thathave been rigorously selected and may be included in portfolios. A unanimous team decision isrequired for inclusion in the Investment Universe. Assessing whether a stock will make Comgest’s“quality growth grade” is a rigorous and often lengthy process. It can take anywhere from severalmonths to several years to build the necessary conviction.
+Comgest’s Investment Universe for each strategy represents a list of quality growth companies thathave been rigorously selected and may be included in portfolios. A unanimous decision by all membersin attendance at the team meeting is required for inclusion in the Investment Universe. Assessingwhether a stock will make Comgest’s “quality growth grade” is a rigorous and often lengthy process. Itcan take anywhere from several months to several years to build the necessary conviction.
 
-When moving from the watchlist to the universe of eligible investments, a risk assessment issummarised into what the Company and ESG Analysts believe to be the most material sustainabilityissues, including those that could have an impact on a company’s performance and share price.
+When moving from the Watchlist to the Investment Universe of eligible companies, Company Analystsand ESG Analysts identify what they believe to be the most material sustainability issues, includingthose that could have an impact on a company’s performance and share price.
 
 We analyse how the identified ESG risks contribute to broad risk headings such as governance risk,reputation risk, regulatory and litigation risk, operational risk, demand shift risk, sourcing/ supplychain risk and corporate culture risk, recognising that the materiality of certain ESG risks can vary byindustry and/or by region.
 
-During this research phase, our Investment team may start a direct dialogue with companies to furtherconstruct our investment thesis. These discussions are helpful in cases where data is less available andwhere there is less certainty about the ESG profile of a company.
+During this research phase, our Investment team may start a direct dialogue with companies to furtherconstruct our investment and sustainability thesis. These discussions are helpful in cases where data isless available and where there is less certainty about the ESG profile of a company.
 
 
 
@@ -400,7 +336,9 @@ During this research phase, our Investment team may start a direct dialogue with
 
 The team constructs conservative five-year earnings and dividend discount models for all InvestmentUniverse stocks, based on proprietary estimates. The discount rates we use in valuations take intoaccount country risk, equity risk and ESG risks/opportunities identified throughout the process.
 
-For companies that have been assigned an ESG Quality Level, a company-specific ESG discount rate isapplied to the overall discount rate used in the company valuation process. Impacts can be eitherpositive or negative, depending on whether the ESG Quality Level reflects a risk or opportunity. Seesection III.A.v., Impact on valuation for further information.
+For companies that have been assigned an ESG Quality Level, a company-specific ESG discount rate isapplied to the overall discount rate used in the company valuation process. Impacts can be eitherpositive or negative, depending on whether the ESG Quality Level reflects a risk or opportunity. See
+
+section III.A.v., Impact on valuation for further information.
 
 
 
@@ -410,11 +348,9 @@ Discount rate components:
 
 \* For companies with an assigned ESG Quality Level
 
-
-
 Risk-free rate(country/regional government bond yield)+Equity risk premium+Company risk factor: business model+ESG rating impact\*
 
-9 / COMGEST GROUP RESPONSIBLE INVESTMENT POLICY 2024 comgest.com
+9 / COMGEST GROUP RESPONSIBLE INVESTMENT POLICY 2025 comgest.com
 
 
 
@@ -456,21 +392,27 @@ ESG considerations are taken into account within the company-specific discount r
 
 LEVEL OF GROWTH
 
-The ESG profile of a company can impact our estimate of the level of growth. Companies with strongESG credentials may have a higher probability of delivering longer duration growth. For companies withsignificant ESG risks that may materialise into financial risks over our 5-year investment horizon, weare likely to assign a lower confidence level to forecasted growth rates.
+The ESG profile of a company can impact our estimate of the level of growth. Companies with strongESG credentials may have a higher probability of delivering longer duration growth. We are likely toassign a lower confidence level to forecasted growth rates to companies with significant ESG risks thatmay materialise into financial risks over our 5-year investment horizon.
 
 
 
-Comgest is prepared to invest in companies with a lower ESG Quality Level where there is an identifiedopportunity for improvement. In such cases, the heightened ESG risk of the company is reflected in thehigher discount rate applied to the valuation, which impacts the investment team’s projected upside onthe stock. Where companies identified for improvements have not demonstrated progress towardsthose measures over time despite our engagement with them, Comgest may escalate its engagementwith the company or eventually divest.
+Comgest is prepared to invest in companies with a lower ESG Quality Level where there is an identifiedopportunity for improvement. In such cases, the company’s heightened ESG risk is reflected in thehigher discount rate applied to the valuation, which impacts the Investment team’s projected upside onthe stock. Where companies identified for improvements have not demonstrated progress towardsthose measures over time despite our engagement with them, Comgest may escalate its engagementwith the company or eventually divest.
 
-10 / COMGEST GROUP RESPONSIBLE INVESTMENT POLICY 2024 comgest.com
-
-
-
-6. Ongoing monitoring and approach to higher ESG risk profile companies
+10 / COMGEST GROUP RESPONSIBLE INVESTMENT POLICY 2025 comgest.com
 
 
 
-Investee companies across all strategies are monitored on an ongoing basis from an ESG perspective.The purpose is to identify ESG events (controversies, change in corporate structure, change of board/management, etc.) which could affect companies’ ESG/ quality profile, valuation and/or reputation.Where material events occur, the ESG assessment would be revised accordingly, and the investmentcase could be re-assessed. This monitoring is conducted systematically for all strategies using thirdparty tools that provide real time updates on changes in governance and new controversies. The ESGteam provides an update to the relevant Investment teams on alerts they have received.
+6. Ongoing monitoring and controversy screening
+
+
+
+Investee companies across all strategies are monitored on an ongoing basis from an ESG perspective.The primary objective of this ongoing monitoring is to identify any significant ESG-related events—suchas controversies or any developments that could negatively impact a company's ESG/quality profile,valuation, or overall reputation.
+
+This monitoring is conducted systematically for all strategies using third party tools that provide timelyupdates on new controversies. The tools enable the ESG team to stay informed about developmentsthat could impact portfolio companies.
+
+When such alerts highlight material events, the ESG Analyst works closely with the Company Analystto revise, where necessary, the company’s ESG Assessment. Depending on the severity of the issue, theinvestment thesis for the affected company may also be re-evaluated.
+
+Additionally, the ESG Analyst and the Company Analyst may engage directly with a portfolio companyin instances where significant areas of concern are identified. The aim of this engagement is toencourage improvements on specific ESG issues flagged as part of the ongoing monitoring andcontroversy review. If necessary, we may further escalate the matter through voting.
 
 
 
@@ -482,35 +424,53 @@ To help reduce risks linked to ESG factors, we may apply targeted exclusion poli
 
 
 
-d. A differentiated approach for Article 8 products: ESG review of the market
+d. A differentiated approach for Article 8 products: ESG review of the investable universe
 
 
 
-For Comgest’s public funds classified as Article 8 under the European Union’s Sustainable FinanceDisclosure Regulation (“SFDR”) as well as certain mandates, we undertake an ESG review of the marketto identify companies that have an ESG score in the top 80% of scores assigned to companies reviewedby Comgest using its proprietary ESG scoring tool.
+For Comgest’s public funds classified as Article 8 under the European Union’s Sustainable FinanceDisclosure Regulation (“SFDR”) as well as certain mandates, we undertake an ESG review of theinvestable universe to identify companies that are eligible for inclusion in the top 80% of the investableuniverse.
 
 
 
-1. Definition of the investable market
+1. Definition of the investable universe
 
-For the purposes of the ESG review, the market is defined as the constituents of the comparative indexfor the fund (or a different appropriate index where specified in the fund documentation), with theaddition of companies not listed in the relevant index and which Comgest has identified as potentiallyeligible for investment by the fund.
+For the purposes of the ESG review, the investable universe is defined as the constituents of thecomparative index for the fund (or a different appropriate index where specified in the funddocumentation), with the addition of companies not listed in the relevant index and which Comgest hasidentified as potentially eligible for investment by the fund.
 
-
-
-2. Identification of the top 80% ESG performers within the investable market
+2. Identification of the top 80% ESG performers within the investable universe
 
 
 
-An internal assessment of the risk of companies impacting environmental social and governancefactors is carried out for all industry sectors/sub-sectors. Where the result of this internal sector/sub-sector assessment considers a company has a high or medium risk of impacting the relevant E, S and Gfactors, a negative adjustment is applied to the external E, S or G ratings for the company. The resultsof the internal assessment are also used to determine the relative weight attributed to the E, S and Gscores when aggregating the three to produce the overall ESG score, with a high or medium risk ofimpacting the relevant E, S or G factors being weighted more heavily.
-
-For example, Comgest’s internal assessment for the mining industry considers that companiesoperating in that sector present a high risk of impacting the E factors of climate change and pollution.Therefore, the external E rating for companies in this sector would be negatively adjusted and those Escores would carry a greater weight than mining companies' S or G scores (assuming their risk ofimpact on relevant S and G scores is rated “low” or “neutral”) when aggregating the E, S and G scores toproduce an overall ESG score.
-
-Where external ESG ratings are not available or where Comgest believes that the external data isincomplete or unreliable, a company may be assessed using our proprietary methodology which willassign a quality level to the company taking into account our research and analysis of material E, S andG factors, risks and opportunities. Where a company is assessed with an ESG Quality Level between 1 to4, it will qualify to be included in the top 80%. Where no external rating or internal assessment isavailable, the company is not included in the 80-20 review or, by consequence, in the investablemarket.
-
-11 / COMGEST GROUP RESPONSIBLE INVESTMENT POLICY 2024 comgest.com
+The investable universe is assessed through the application of the negative and positive screeningprocesses described below to allocate companies with weaker ESG credentials to the bottom 20%:
 
 
 
-The bottom 20% of companies are then included on an exclusion list (updated quarterly) and are nolonger eligible for investment by the fund. The ESG review of the market will apply to at least 90% ofthe Fund’s investee companies. The ESG review of the market may also be applied to dedicatedmandates where requested.
+− Negative ESG screening
+
+
+
+Comgest first applies its Exclusion Policy (please refer to our Comgest Group Exclusion Policy in AppendixV for details) and additional norms based and activity-based ESG screening to the investable universe.This process aims to eliminate companies engaged in activities with higher environmental or social risks.It includes normative screening which evaluates companies' adherence to international norms andstandards, and activity-based screening which excludes companies involved in activities consideredharmful, such as those with substantial environmental, social, or governance risks. These companies areplaced in the bottom 20% of the investable universe.
+
+
+
+− Positive ESG screening
+
+11 / COMGEST GROUP RESPONSIBLE INVESTMENT POLICY 2025 comgest.com
+
+
+
+Companies with ESG ratings above a set threshold are then included in the top 80% of the investableuniverse. For this step, Comgest’s proprietary rating system is used. Comgest’s internal rating systemranging from 1 (ESG leader) to 4 (improvement expected) evaluates material ESG risks and opportunities.Companies rated between 1 (ESG leader) and 3 (Basic) are included in the top 80% of the investableuniverse.
+
+
+
+− Adjustments using external ESG scoring
+
+
+
+If the negative screening does not already encompass at least 20% of the investable universe, thencompanies not categorised pursuant to the negative or positive screening are assessed based on theirESG score assigned by an external data provider. Companies with the lowest overall external ESG scoreare added to the bottom 20% of the investable universe to reach 20%.
+
+Where no external scoring is available, the company is either assessed internally or, where an internalassessment is not available, is not included in the review or, by consequence, in the investable universe.
+
+At least 90% (based on number of investee companies) of the relevant fund’s investee companies mustbe from the top 80% of the investable universe.
 
 
 
@@ -521,6 +481,8 @@ a. Definition of the ESG Quality Level
 
 
 As a result of our proprietary ESG assessment process, an overall ESG Quality Level may be assigned toeach company, ranging from 1 (leader) to 4 (improvement expected) using an internal rating system asillustrated in Table 1. The ESG Quality Level reflects the consensus opinion of the Company Analyst(s)and ESG Analyst(s).
+
+12 / COMGEST GROUP RESPONSIBLE INVESTMENT POLICY 2025 comgest.com
 
 
 
@@ -608,7 +570,7 @@ Higher
 
 
 
-+200bps for DM
++ 200bps for DM
 
 +300bps for EM
 
@@ -630,8 +592,6 @@ Higher
 
 \* Comgest’s governance principles include long-term performance orientation, accountability and transparency,honesty and integrity, shared purpose, and engagement. Further information on Comgest’s governance principlescan be found in our Good Governance Policy (Appendix I) and our Active Ownership Policy.
 
-12 / COMGEST GROUP RESPONSIBLE INVESTMENT POLICY 2024 comgest.com
-
 
 
 b. Impact on company discount rates used in our valuation models
@@ -640,7 +600,9 @@ b. Impact on company discount rates used in our valuation models
 
 As displayed above, ESG Quality Levels result in a company-specific ESG discount rate being applied tothe overall discount rate used in the company valuation process. Impacts can be either positive ornegative, depending on whether the ESG Quality Level reflects an overall ESG risk or opportunity.
 
-As ranges of company discount rates are different according to whether it is a developed market or anemerging market investment universe, ranges of the ESG discount rate component also differaccordingly.
+As ranges of company discount rates are different according to whether it is a developed market or anemerging market Investment Universe, ranges of the ESG discount rate component also differaccordingly.
+
+13 / COMGEST GROUP RESPONSIBLE INVESTMENT POLICY 2025 comgest.com
 
 
 
@@ -654,15 +616,9 @@ ESG quality level ESG discount rate ESG quality level ESG discount rate
 
 1 -50 bps 1 -100 bps
 
-
-
 2 0 (no change) 2 0 (no change)
 
-
-
 3 +100 bps 3 +150 bps
-
-
 
 4 +200 bps 4 +300 bps
 
@@ -670,9 +626,9 @@ ESG quality level ESG discount rate ESG quality level ESG discount rate
 
 B. ACTIVE OWNERSHIP
 
-We believe that active ownership is key to delivering long-term performance to our investors, as it canresult in improvements to companies’ operations and earnings sustainability.
+We believe that active ownership is key to delivering long-term performance to our investors because itcan result in improvements to companies’ operations and earnings sustainability.
 
-We are long-term investors that manage high conviction, concentrated portfolios. Our Investment teamresearches these companies intensely over many years, building deep knowledge of their businessesand the ecosystems in which they operate. Developing strong relationships and maintaining an activeand open dialogue with investee companies is a key element of our investment process.
+As long-term investors that manage high conviction, concentrated portfolios, our Investment teamresearches our investee companies intensely over many years. Analysts build deep knowledge ofcompanies’ businesses and ecosystems in which they operate. Developing strong relationships andmaintaining an active and open dialogue with investee companies is a key element of our researchprocess and, in extension, of our investment process.
 
 In light of this investment approach, we are well-positioned to benefit from companies improving theirsustainability practices. Active ownership, combining company engagement, voting and broaderadvocacy efforts, is key to our strategy of delivering long-term performance to our investors.
 
@@ -682,8 +638,6 @@ Please refer to our Active Ownership Policy for details concerning our engagemen
 
 C. PARTNERSHIP
 
-
-
 i. Working alongside clients
 
 a. Tailoring to bespoke ESG needs
@@ -691,8 +645,6 @@ a. Tailoring to bespoke ESG needs
 
 
 Developing trusted partnerships with our clients is a key element of our investment philosophy. Weconsider it a privilege to manage assets on behalf of our clients and with this comes a duty tounderstand their needs and priorities, and to provide high-quality performance, servicing and reporting.Where possible, we help clients develop and implement their own policies as well as provide tailoredESG reporting.
-
-13 / COMGEST GROUP RESPONSIBLE INVESTMENT POLICY 2024 comgest.com
 
 
 
@@ -718,6 +670,10 @@ ii. Advocacy initiatives
 
 Our independent ownership structure is regarded as a key advantage to implementing an unbiased andsuccessful advocacy strategy.
 
+14 / COMGEST GROUP RESPONSIBLE INVESTMENT POLICY 2025 comgest.com
+
+
+
 In delivering our highly active, quality growth investment approach, we seek to identify market-wideand systemic risks affecting the commercial and financial landscape in which issuers operate. We dothis through our own research and engagement and through our support for industry-wide initiatives.
 
 While many sources of systemic risk are largely out of our direct control, such as the respect for therule of law in various countries, human rights and government policy, our policy is to engage activelywith industry participants, where possible, in an effort to collectively seek to reduce these risks overtime and to facilitate the better-functioning of financial markets. These initiatives help us to deepenour understanding of market-wide and systemic risks and add our weight to efforts to respond to them.They also provide us with an external lens through which we can analyse our effectiveness inresponding to such risks and any implications for our portfolio companies.
@@ -736,11 +692,11 @@ A. RESPONSIBLE INVESTMENT GOVERNANCE STRUCTURE
 
 The Comgest Group is an independent asset manager owned by its employees and founders. Thisownership structure is central to developing and implementing our responsible investment approachand strategy. The following governance bodies support our responsible investment strategy: a Board ofPartners (“BoP”), an Executive Committee, an Investment Committee and a Sustainability Committee.
 
-14 / COMGEST GROUP RESPONSIBLE INVESTMENT POLICY 2024 comgest.com
-
 
 
 Figure 6: Sustainability governance
+
+15 / COMGEST GROUP RESPONSIBLE INVESTMENT POLICY 2025 comgest.com
 
 
 
@@ -748,9 +704,11 @@ Figure 6: Sustainability governance
 
 – The Executive Committee brings together the investment and operational sides of the businessto ensure that strategic initiatives meet client and regulatory concerns and that the operationalsupport is provided to manage risks and deliver on opportunities.
 
-– The Sustainability Committee maintains high-level oversight of all responsible investment-related activities and serves to assist the broader Comgest partnership and the Boards of theGroup entities in the application of the Group’s RI Strategy.
+– The Sustainability Committee is chaired by the Chief Investment Officer (“CIO”) and maintainshigh-level oversight of all responsible investment-related activities and serves to assist thebroader Comgest partnership and the Boards of the Group entities in the application of theGroup’s RI Strategy.
 
-– The Investment Committee is chaired by the Chief Investment Officer (“CIO”) and is responsiblefor overseeing portfolio management processes across the Group entities, including ESGintegration.
+– The Investment Committee is chaired by the CIO and is responsible for overseeing portfoliomanagement processes across the Group entities, including ESG integration.
+
+– The Corporate Responsibility Committee is chaired by Comgest’s Chief Executive Officer andmaintains oversight of and contributes to the definition and implementation of the GroupCorporate Responsibility Strategy.
 
 – While the Group level governance helps to ensure a common strategy and approach, the assetmanagement entities of the Comgest Group are responsible for approving and implementing thepolicies in the day-to-day activities.
 
@@ -760,7 +718,7 @@ Sustainability Committee
 
 
 
-Chaired by Comgest’s CIO, the Sustainability Committee members represent a wide variety of teamsincluding Portfolio Management, ESG, Compliance and Risk, Marketing, Investor Relations, andOperations.
+Chaired by Comgest’s CIO, the Sustainability Committee members represent a wide variety of teamsincluding the Investment team, ESG, Compliance and Risk, Marketing, Investor Relations, andOperations.
 
 The Sustainability Committee’s mandate and key objectives are to:
 
@@ -774,23 +732,19 @@ The Sustainability Committee’s mandate and key objectives are to:
 
 – Address ad hoc sustainability matters that may be raised to the Committee
 
-15 / COMGEST GROUP RESPONSIBLE INVESTMENT POLICY 2024 comgest.com
-
-
-
 The Sustainability Committee also seeks to assist Group entities in their understanding of regulatory,market or commercial developments with respect to responsible investment and the recommendedcourse of action.
 
-The Committee convenes at least every two months and addresses an evolving agenda in line with thebusiness’s activities. At each meeting, a recurring report is reviewed which includes materialengagements, notable controversies and reputational risk events (if any). The Sustainability Committeeprepares an annual report for the Executive Committee.
+The Sustainability Committee convenes at least every two months and addresses an evolving agenda inline with the business’s activities. At each meeting, a recurring report is reviewed which may includematerial engagements, notable controversies and reputational risk events (if any). The SustainabilityCommittee prepares an annual report for the Executive Committee.
 
 
 
-B. ESG RESOURCES
-
-i. Investment team
+B. ESG RESOURCESi. Investment team
 
 
 
 The Group’s RI Strategy is implemented by regional investment teams with the ESG team ascoordinators and stewards of the ESG integration process, under the supervision of the CIO and theGroup Investment Committee. The Investment team includes dedicated ESG Analysts organised byregion.
+
+16 / COMGEST GROUP RESPONSIBLE INVESTMENT POLICY 2025 comgest.com
 
 
 
@@ -802,12 +756,6 @@ We believe that our approach of integrating ESG responsibility within the Invest
 
 Our structure ensures that investment professionals who have the deepest understanding of ourportfolio companies, and the context in which they operate, are able to bring that knowledge into ourproprietary ESG analysis.
 
-16 / COMGEST GROUP RESPONSIBLE INVESTMENT POLICY 2024 comgest.com
-
-
-
-Figure 8: ESG resources
-
 
 
 ii. Dedicated ESG resources
@@ -816,15 +764,17 @@ ii. Dedicated ESG resources
 
 The ESG team is responsible for the day-to-day implementation of the firm’s ESG framework, at bothcorporate and portfolio-level. With Comgest’s integrated ESG approach, all members of the broaderInvestment team are also highly involved in the implementation of the framework at portfolio level asESG analysis and active ownership forms part of their daily investment work.
 
-Comgest’s dedicated ESG team fulfil two distinct functions: Responsible Investment and ResponsibleDevelopment. Both functions directly report to Comgest’s CIO.
+Comgest’s dedicated ESG team fulfil two distinct functions: Responsible Investment and ResponsibleDevelopment. Both functions directly report to the Head of Sustainable Investment.
 
 
 
-– The Responsible Investment function is carried out by experienced investment professionals,each focused on company coverage within specific geographic regions. Importantly, they areembedded within Comgest’s Investment team, rather than operating as a siloed function. As anintegrated part of the investment team, the ESG analysts work alongside our company analystsattending company meetings, performing research and conducting proprietary ESG assessments.They also participate in proxy voting, individual company engagements and broad ESG research.
+– The Responsible Investment function is carried out by experienced investment professionals,each focused on company coverage within specific geographic regions. Importantly, they areembedded within Comgest’s Investment team, rather than operating as a siloed function. As anintegrated part of the investment team, the ESG Analysts work alongside our Company Analystsattending company meetings, performing research and conducting proprietary ESG Assessments.They also participate in proxy voting, individual company engagements and broad ESG research.
 
 – The Responsible Development function comprises a specialist team leading thematic andcollaborative engagement on topics such as climate change, biodiversity, and human rights. Theteam oversees ESG strategy, advocacy initiatives, policies, regulations, internal training andcommunication of Comgest’s RI Strategy.
 
 A number of other Comgest professionals are involved in Responsible Investment implementationincluding members of the middle office, project management, compliance, risk, legal, datamanagement, investor services and marketing \& communication teams.
+
+17 / COMGEST GROUP RESPONSIBLE INVESTMENT POLICY 2025 comgest.com
 
 
 
@@ -833,8 +783,6 @@ C. INCENTIVES
 Comgest’s broad employee partnership structure and its remuneration policy are designed toincentivise long-term thinking and behaviour.
 
 With this structure, employees who have been with Comgest for several years typically becomepartners of the firm, meaning they are personally invested in the share capital. Comgest employs a mixof short- and long-term employee incentives which are reflected in our bonus systems and equityownership structure. Our underlying goal is for our incentive system to help drive long-term productperformance and team stability. We believe that the long‐term success of the company is dependentlargely on the long‐term success of the companies we invest in, which we strongly believe can beenhanced by ESG factors.
-
-17 / COMGEST GROUP RESPONSIBLE INVESTMENT POLICY 2024 comgest.com
 
 
 
@@ -848,9 +796,21 @@ Variable compensation is based on a set of quantitative and qualitative criteria
 
 
 
+For Executive Committee members and other regulated entities’ board members
+
+
+
+All members of the Executive Committee, as well as the board members of other regulated entities(except for external board members or independent board members), are encouraged through theirobjectives and annual performance evaluation to properly implement the RI Strategy.
+
+Furthermore, award of variable compensation takes into consideration the successful achievement ofRI-related objectives. These objectives encompass a range of responsibilities, including the oversight ofthe RI Strategy's implementation, participation in RI-related training, and other relevant activities thatdemonstrate a commitment to advancing Comgest’s RI Strategy.
+
+This alignment between remuneration and RI-related objectives reflects Comgest's dedication toembedding responsible investment practices within its governance structures, ensuring accountabilityand progress at the highest levels.
+
+
+
 D. ESG TOOLS AND DATA
 
-To gather ESG information, Comgest uses its own research, the services of independent external serviceproviders and information released by the companies themselves. Comgest’s ESG research is conductedinternally by the dedicated ESG analysts and the company analysts. Comgest does not rely solely onservice providers’ data, we apply our own analysis and insights to the raw data supplied. We valueproprietary, fundamental analysis throughout our research process.
+At Comgest, we value proprietary, fundamental analysis throughout our research process. To gatherESG information, we use our own research, the services of independent external service providers andinformation released by the companies themselves. Comgest’s ESG research is conducted internally bythe dedicated ESG Analysts and the Company Analysts. We do not rely solely on service providers’ data,we apply our own analysis and insights to the raw data supplied.
 
 ESG data providers have been selected by Comgest based on information quality and geographicalcoverage criteria. Examples of providers used include:
 
@@ -864,17 +824,19 @@ ESG data providers have been selected by Comgest based on information quality an
 
 – S\&P Global Trucost: environmental data
 
-– ISS-ESG: ESG information
-
 – Bloomberg: ESG data
 
 – Sustainalytics: controversies
 
-Other sources of information are also used, such as companies’ sustainability reports, information andalerts by specialist providers, contacts with companies and their stakeholders, companies’ answers tothe CDP questionnaires (Climate Change, Water Security, Forests), brokers’ reports, NGO reports, mediareports and academic research.
+Other sources of information are also used, such as companies’ sustainability reports, information andalerts by specialist providers, contacts with companies and their stakeholders, companies’ answers tothe CDP questionnaires (e.g. Climate Change, Water Security, Forests), brokers’ reports, NGO reports,media reports and academic research.
 
-In order to collect and share ESG data and information more efficiently within Comgest, we havedeveloped several in-house tools including central “dashboards” hosting key information at securityand portfolio level. We also maintain a bespoke ESG assessment tool that summarises key metricsalongside our proprietary research on portfolio companies.
+18 / COMGEST GROUP RESPONSIBLE INVESTMENT POLICY 2025 comgest.com
 
-18 / COMGEST GROUP RESPONSIBLE INVESTMENT POLICY 2024 comgest.com
+
+
+In order to collect and share ESG data and information more efficiently within Comgest, we havedeveloped several in-house tools including central “dashboards” hosting key information at securityand portfolio level. We also maintain a bespoke ESG Assessment tool that summarises key metricsalongside our proprietary research on portfolio companies.
+
+19 / COMGEST GROUP RESPONSIBLE INVESTMENT POLICY 2025 comgest.com
 
 
 
@@ -882,7 +844,7 @@ V. REPORTING \& TRANSPARENCY
 
 
 
-Comgest considers the timeliness and quality of client reporting a core component of our portfoliomanagement services. We follow a principle of maximum transparency, which we believe is essential tobuilding trust and long-term client partnerships. We provide regular, standardised reporting and areable to tailor information to specific client needs. We also regularly add to our library of investmentpublications.3
+Comgest considers the timeliness and quality of client reporting a core component of our portfoliomanagement services. We follow a principle of maximum transparency, which we believe is essential tobuilding trust and long-term client partnerships. We provide regular, standardised reporting and areable to tailor information to specific client needs. We also regularly add to our library of investmentpublications. 4
 
 We know that the information we provide may be helpful to our clients in demonstrating how theyhave fulfilled their own ESG responsibilities to their stakeholders.
 
@@ -910,17 +872,41 @@ Example of communications include:
 
 
 
+Greenwashing risk
+
+
+
+Greenwashing is a term used to describe market practices in which an asset manager's publicly disclosedsustainability profile, or the characteristics and objectives of its financial product, do not accuratelyreflect the true sustainability profile of the asset manager or the financial product. This may occur eitherthrough deliberate actions or by omitting important and/or relevant information.
+
+Comgest recognises the serious implications of greenwashing. It not only undermines investor confidencebut also threatens the integrity and fairness of the financial system. In light of these concerns, Comgesthas implemented a comprehensive approach to safeguard against greenwashing.
+
+The Sustainability Committee plays a crucial role in this effort: it is responsible for regularly reviewingand monitoring Comgest’s ESG practices, ensuring that all activities align with the stated objectives.Additionally, the Committee annually reviews and approves a greenwashing risk mapping performed bythe ESG team and reviewed by Compliance. This risk mapping is designed to assess Comgest’s exposureto greenwashing risks and to facilitate the development of appropriate action plans to mitigate theserisks.
+
+Comgest has implemented several measures to prevent and counteract greenwashing risks, including:
+
+— Training: The training of Comgest staff on ESG related topics included greenwashing risks.
+
+
+
+4 Visit our ESG library, available and regularly updated on our website.
+
+20 / COMGEST GROUP RESPONSIBLE INVESTMENT POLICY 2025 comgest.com
+
+
+
+— Internal control framework: Comgest has implemented an industry-standard internalcontrol framework which uses three levels of controls to manage all risks includinggreenwashing-related risks.
+
+— Transparent communication: A number of our reports and marketing materialscontaining ESG-related information communicated externally are reviewed and approved byour compliance teams. This process ensures that these materials are fair, balanced and do notpresent a greenwashing risk.
+
+
+
 VI. OVERSIGHT
 
 
 
 The Sustainability Committee oversees the annual review and approval of this RI Policy by the relevantentities and boards. The RI Policy may be reviewed more frequently as required. The SustainabilityCommittee also oversees the RI Policy’s implementation which is carried out by the Investment teamtogether with dedicated ESG resources.
 
-
-
-3 Visit our ESG library, available and regularly updated on our website.
-
-19 / COMGEST GROUP RESPONSIBLE INVESTMENT POLICY 2024 comgest.com
+21 / GOOD GOVERNANCE PRINCIPLES AND POLICY comgest.com
 
 
 
@@ -966,7 +952,7 @@ i. Sound management structures
 
 In order to assess the management structure of an investee company, Comgest evaluates thecompany’s board size, board structure, board independence, board gender diversity, board committees,board skill sets and any executive misconduct, among other factors.
 
-20 / COMGEST GROUP RESPONSIBLE INVESTMENT POLICY 2024 comgest.com
+22 / GOOD GOVERNANCE PRINCIPLES AND POLICY comgest.com
 
 
 
@@ -1000,7 +986,7 @@ iv. Remuneration of staff
 
 Remuneration structures of investee companies should reinforce, and not undermine, sustained valuecreation. We expect companies to compensate their employees in a manner that is satisfying andreflective of their true contribution to their collective success. The issues around talent attraction andretention, as well as human dignity and paying a fair wage, are critical to the health and developmentof companies and their employees.
 
-21 / COMGEST GROUP RESPONSIBLE INVESTMENT POLICY 2024 comgest.com
+23 / GOOD GOVERNANCE PRINCIPLES AND POLICY comgest.com
 
 
 
@@ -1020,17 +1006,17 @@ Other information sources used by our analysts may include: brokers’ reports, 
 
 D. ASSESSMENT
 
-Using the above-mentioned governance indicators, our own research and data obtained from externaldata providers, Company and ESG Analysts form their opinion as to each company's good governancepractices. When performing their assessment, they take into account a variety of factors such as theinvestee company’s country of origin, applicable local laws and practices as well as any commitmentstaken by the investee company to improve any shortcomings. We look for the companies to have goodgovernance practices with limited need for improvements.
+Using the above-mentioned governance indicators, our own research and data obtained from externaldata providers, Company Analysts and ESG Analysts form their opinion as to each company's goodgovernance practices. When performing their assessment, they take into account a variety of factorssuch as the investee company’s country of origin, applicable local laws and practices as well as anycommitments taken by the investee company to improve any shortcomings. We look for the companiesto have good governance practices with limited need for improvements.
 
 
 
 E. MONITORING AND CONTROVERSY MANAGEMENT
 
-As an active manager, Comgest continues to research and monitor the activities and governance of ourinvestee companies on an ongoing basis. We actively review shareholder resolutions, vote at annualgeneral meetings and engage with companies. The Company and ESG Analysts track news flows on acompany to remain aware of alerts and controversies, including any controversies related togovernance.
+As an active manager, Comgest continues to research and monitor the activities and governance of ourinvestee companies on an ongoing basis. We actively review shareholder resolutions, vote at annualgeneral meetings and engage with companies. The Company Analysts and ESG Analysts track newsflows on a company to remain aware of alerts and controversies, including any controversies related togovernance.
 
-Controversy monitoring is mainly done using the tools of our various ESG research suppliers (includingRepRisk, MSCI, Bloomberg and ISS) but we also draw on other sources such as brokers and generalistand specialist media. When a controversy affecting a company comes to light, its content, source andthe number of sources reporting it are reviewed by Comgest’s analysts. If the controversy is consideredboth credible and material, it is shared internally for further review. Comgest analysts may approachthe company in question and/or other affected stakeholders to assess its truth and potential impacts.The content of controversies may be shared with our clients as part of our engagement reporting.
+Controversy monitoring is mainly done using the tools of our various ESG research suppliers (includingRepRisk, MSCI and Bloomberg) but we also draw on other sources such as brokers and generalist andspecialist media. When a controversy affecting a company comes to light, its content, source and thenumber of sources reporting it are reviewed by Comgest’s analysts. If the controversy is consideredboth credible and material, it is shared internally for further review. Comgest analysts may approachthe company in question and/or other affected stakeholders to assess its truth and potential impacts.The content of controversies may be shared with our clients as part of our engagement reporting.
 
-22 / COMGEST GROUP RESPONSIBLE INVESTMENT POLICY 2024 comgest.com
+24 / COMGEST’S CLIMATE CHANGE POLICY comgest.com
 
 
 
@@ -1040,23 +1026,23 @@ APPENDIX II: COMGEST’S CLIMATE CHANGE POLICY
 
 A. INTRODUCTION
 
-Our climate is warming at unprecedented rates and rising temperatures have already led to irreversibleimpacts across ecosystems (i.e., terrestrial, freshwater, ocean) and human systems (i.e., water scarcityand food production, health and well-being, cities, settlements and infrastructure) worldwide. Everyadditional increment of global warming will increase the frequency and intensity of weather events andwill translate into additional severe risks for businesses, people, and nature. At the same time, curbingglobal greenhouse gas emissions will imply a far-reaching transition across all sectors translating intoboth transition risks and opportunities for companies.Being a signatory to the Net Zero Asset Managers (“NZAM”) initiative and supporting the global goal ofnet zero greenhouse gas emissions by 2050 across all our listed equity assets allows us to betternavigate these climate-related risks and opportunities. This commitment is linked to our overallinvestment philosophy. As long-term quality growth investors, we believe that understanding ourinvestee companies’ climate-related risks and opportunities and engaging with them on materialclimate issues strengthens our research, investment process and ability to deliver durable earnings toour clients.We recognise the climate challenge ahead is immense. We cannot divest ourselves of net zero. Successin achieving net zero portfolios relies on the world achieving a net zero economy and numerousstakeholders, including governments and companies, following through with their own commitments.Partnership – with clients, companies, industry peers – and active ownership are central to our climateapproach.
+Our climate is warming at unprecedented rates and rising temperatures have already led to irreversibleimpacts across ecosystems (i.e., terrestrial, freshwater, ocean) and human systems (i.e., water scarcityand food production, health and well-being, cities, settlements and infrastructure) worldwide. Everyadditional increment of global warming will increase the frequency and intensity of weather events andwill translate into additional severe risks for businesses, people, and nature. At the same time, curbingglobal greenhouse gas emissions will imply a far-reaching transition across all sectors translating intoboth transition risks and opportunities for companies.Being a signatory to the Net Zero Asset Managers initiative (“NZAM”) and supporting the global goal ofnet zero greenhouse gas emissions by 2050 across all our listed equity assets allows us to betternavigate these climate-related risks and opportunities. This commitment is linked to our overallinvestment philosophy. As long-term quality growth investors, we believe that understanding ourinvestee companies’ climate-related risks and opportunities and engaging with them on materialclimate issues strengthens our research, investment process and ability to deliver durable earnings toour clients.We recognise the climate challenge ahead is immense. We cannot divest ourselves of net zero. Successin achieving net zero portfolios relies on the world achieving a net zero economy and numerousstakeholders, including governments and companies, following through with their own commitments.Partnership – with clients, companies, industry peers – and active ownership are central to our climateapproach.
 
 
 
 B. SCOPE
 
-We have translated our commitment to supporting the global 2050 net zero goal into short- andmedium-term targets. These targets cover 100% of our listed equity AUM, which include companiesoperating both in material and non-material sectors.4 These targets allow us to prioritise ourengagement resources on the highest-emitting companies facing the most stringent climate risks.Targets also help us assess companies’ climate practices, informing our research on their overallquality.
+We have translated our commitment to supporting the global 2050 net zero goal into short- andmedium-term targets. These targets cover 100% of our listed equity AUM, which include companiesoperating both in material 5 and non-material sectors. These targets allow us to prioritise ourengagement resources on the highest-emitting companies facing the most stringent climate risks.Targets also help us assess companies’ climate practices, informing our research on their overallquality.
 
 
 
-Figure 1: Portfolio coverage target (or asset alignment target) and engagement threshold
+Figure 1: Asset alignment target and engagement threshold target
 
 
 
-4 Companies operating in material sectors are defined by the NZIF methodology as Companies on the Climate Action 100+ focus list,companies in high impact sectors consistent with Transition Pathway Initiative sectors; banks; and real estate. Approximately 80% ofour listed equity AUM is invested in companies operating in non-material sectors.
+5 Material sectors are defined as sectors covered by NACE codes A-H and J-L.
 
-23 / COMGEST GROUP RESPONSIBLE INVESTMENT POLICY 2024 comgest.com
+25 / COMGEST’S CLIMATE CHANGE POLICY comgest.com
 
 
 
@@ -1064,11 +1050,9 @@ i. Target setting framework and methodology
 
 
 
-We have selected the PAII5 Net Zero Investment Framework (“NZIF”) to develop and set our targets.
+We have selected the PAII 6 Net Zero Investment Framework (“NZIF”) to develop and set our targets.This framework has been updated in June 2024 and we have been using this updated framework (“NZIF2.0”) since December 2024.
 
-
-
-a. Portfolio coverage target (or asset alignment target): key assumptions
+a. Asset alignment target: key assumptions
 
 
 
@@ -1083,6 +1067,8 @@ We have considered the following elements when developing our portfolio coverage
 
 
 Table 1. Alignment Criteria and Categories
+
+7
 
 
 
@@ -1102,129 +1088,77 @@ NotAligned
 
 
 
-Ambition Long-term 2050 goal consistent with
+Ambition Long-term goal consistent with the global
 
-achieving global net zero
-
-
-
-Companiesthat alreadyhave currentemissionsintensityperformanceat, or close to,net zeroemissionswith aninvestmentplan orbusinessmodelexpected tocontinue toachieve thatgoal overtime
+goal of achieving net zero by 2050.
 
 
+
+Companieswithemissionsintensityrequired bysector andregionalpathway for2050 andwhoseoperationalmodel willmaintain thisperformance.
+
+
+
+x x x
+
+Targets Short and medium term science-based
+
+targets to reduce GHG emissions(scope 1, 2 and material scope 3).
 
 x x
 
+Disclosure Disclosure of operational scope 1, 2 and
 
+material scope 3 emissions. x x
 
-Targets Short- and medium-term emissionsreduction target(scope 1, 2 and material scope 3)
-
-x x
-
-
-
-Emissions
-
-performance
-
-Current emissions performance (scope 1, 2
-
-and material scope 3) relative to targets x
-
-
-
-Disclosure Disclosure of scope 1, 2 and material scope
-
-3 emissions x x
-
-
-
-Decarbonisation
-
-strategy
-
-Quantified plan setting out the measures
-
-that will be deployed to deliver GHGtargets, proportions of revenues that aregreen and, where relevant, increases ingreen revenues
-
-
+Decarbonisationplan A quantified set of measures exists toachieve short and medium term science-based targets by reducing GHGs andincreasing green revenues, when relevant.
 
 X
 
-(materialsectorsonly)
-
-
-
-(X)
+X
 
 (partial issufficient)
 
 
 
-CapitalAllocation Clear demonstration that the capitalexpenditures of the company are consistentwith achieve net zero emissions by 2050
+Capital allocationalignment
 
+A clear demonstration that the capital
 
+expenditures are consistent with a relevantnet zero pathway.
 
 X
 
-(materialsectorsonly)
+Emissionsperformance
 
+Current absolute or emissions intensity is at
 
+least equal to a relevant net zero pathway. x
 
-Climate policyengagement
-
-The company has a Paris Agreement-aligned climate lobbying position anddemonstrates alignment of its direct andindirect lobbying activities
-
-
-
-Climate
-
-governance
-
-Clear oversight of net zero transition
-
-planning and executive remuneration linkedto delivering targets and transition
-
-
-
-Just transition The company considers the impacts fromtransitioning to a lower carbon businessmodel on its workers and communities
-
-
-
-Climate risk \&
-
-accounts
-
-The company provides disclosures on risks
-
-associated with the transition throughTCFD Reporting and incorporates suchrisks into its financial accounts
-
-
-
-5 The Paris Aligned Investment Initiative (“PAII”) is coordinated by four investor networks: IIGCC, Ceres, AIGCC and IGCC.
-
-
-
-Criteria for material and non-material
-
-sectors
-
-Criteria for non-material sectors only
-
-
-
-Optional criteria
-
-24 / COMGEST GROUP RESPONSIBLE INVESTMENT POLICY 2024 comgest.com
-
-
-
-b. Engagement threshold: key assumptions
+b. Engagement threshold target: key assumptions
 
 
 
 We have considered the following elements when developing our engagement threshold:
 
-– Data source: Carbon emissions data and Enterprise Value Including Cash (EVIC) data are sourcedfrom MSCI.
+
+
+6 The Paris Aligned Investment Initiative (“PAII”) is coordinated by four investor networks: IIGCC, Ceres, AIGCC and IGCC.
+
+7 Companies operating in high impact material sectors are defined by the NZIF 2.0 methodology as companies on theClimate Action 100+ focus list, companies in high impact sectors consistent with Transition Pathway Initiative sectors;banks; real estate; and agriculture, forestry and fishing.
+
+
+
+Criteria for all sectors
+
+
+
+Criteria for high impact material sectors only
+
+26 / COMGEST’S CLIMATE CHANGE POLICY comgest.com
+
+
+
+– Data source: Carbon emissions data and Enterprise Value Including Cash (“EVIC”) data aresourced from MSCI.
 
 – Scopes considered: All three scopes of emissions have been considered to calculate financedemissions. The data used is either reported data or estimated data. Including scope 3 data (evenif estimated) allows us to have a more comprehensive view of companies’ impact and ensurehighest emitting actors are targeted for engagement.
 
@@ -1242,49 +1176,45 @@ a. Climate in our investment process
 
 
 
-Material climate-related risks and opportunities are integrated into our analysis of companies and intoour investment decision-making process. Our Company and ESG Analysts, who are regularly trained onclimate-related topics, are responsible for identifying and assessing these material climate issues.We use both internal and external tools and data to carry out climate-focused research, notably:
+Material climate-related risks and opportunities are integrated into our analysis of companies and intoour investment decision-making process. Our Company Analysts and ESG Analysts, who are regularlytrained on climate-related topics, are responsible for identifying and assessing these material climateissues. We use both internal and external tools and data to carry out climate-focused research, notably:
 
-– MSCI’s Climate Value-at-Risk: to perform scenario analysis, at company or portfolio level,Comgest uses MSCI’s Climate Value-at-Risk (“Climate VaR”) methodology to measure climate-related risks and opportunities within our portfolios. Based on the Task Force on Climate-RelatedFinancial Disclosures (“TCFD”) recommendations, this forward-looking and return-basedmethodology includes both transition and physical risk assessments. It can be negative (cost) orpositive (gain) and the horizon is the next 15 years. Transition risk assessments include bothpolicy risks and technology opportunities.
+– MSCI’s Climate Value-at-Risk: To perform scenario analysis, at company or portfolio level,Comgest uses MSCI’s Climate Value-at-Risk (“Climate VaR”) methodology to measure climate-related risks and opportunities within our portfolios. Based on the Task Force on Climate-RelatedFinancial Disclosures (“TCFD”) recommendations, this forward-looking and return-basedmethodology includes both transition and physical risk assessments. It can be negative (cost) orpositive (gain) and the horizon is the next 15 years. Transition risk assessments include bothpolicy risks and technology opportunities.
 
-– ESG dashboard: our proprietary ESG dashboard summarises internal and external informationrelating to climate (emissions data, NZIF alignment categories, Climate VaR, etc.). This allowsinvestment teams to have access to the latest climate-related information as an input to theirresearch.
+– ESG dashboard: Our proprietary ESG dashboard summarises internal and external informationrelating to climate (emissions data, NZIF alignment categories, Climate VaR, etc.). This allows theInvestment team to access the latest climate-related information as input to their research.
 
-25 / COMGEST GROUP RESPONSIBLE INVESTMENT POLICY 2024 comgest.com
+27 / COMGEST’S CLIMATE CHANGE POLICY comgest.com
 
 
 
 b. High impact sectors
 
-Embedding climate into our investment process and managing climate-related risks involvesdeveloping a tailored approach for high impact sectors including oil \& gas and coal sectors.6 Explorationor development of new oil and gas fields, as well as the use of unconventional practices, have severeenvironmental impacts and face significant climate-related risks, notably transition risks (i.e., strandedassets risks). Hence, although energy and utilities companies are usually absent from or significantlyunderweighted in our portfolios, we screen our portfolios on a quarterly basis, using MSCI data andUrgewald’s Global Oil \& Gas Exit List (“GOGEL”), to identify all companies that are exposed to thefollowing upstream, midstream and downstream activities:
+Embedding climate into our investment process and managing climate-related risks involvesdeveloping a tailored approach for high impact sectors including oil \& gas and coal sectors. 8 Explorationor development of new oil and gas fields, as well as the use of unconventional practices, have severeenvironmental impacts and face significant climate-related risks, notably transition risks (i.e., strandedassets risks). Hence, although energy and utilities companies are usually absent from or significantlyunderweighted in our portfolios, we screen our portfolios on a quarterly basis, using MSCI data andUrgewald’s Global Oil \& Gas Exit List (“GOGEL”), to identify all companies that are exposed to thefollowing upstream, midstream and downstream activities:
 
 
 
 Table 2: Oil \& Gas screened activities
 
-
-
 Unconventional oil \& gasextraction
 
-Companies involved in the extraction of unconventional oil \& gas,where unconventional is defined as: fracking, tar sands, coal bedmethane, extra heavy oil, ultra-deepwater, and arctic drilling.
+Companies involved in the extraction of unconventional oil \& gas,
+
+where unconventional is defined as: fracking, tar sands, coal bedmethane, extra heavy oil, ultra-deepwater, and arctic drilling.
 
 
 
 Upstream development Companies involved in conventional and unconventional oil \& gasupstream expansion projects, applying the following thresholds:
 
-– All companies that intend to add ≥20mmboe7 of oil \& gasresources to their production portfolio.
+– All companies that intend to add ≥20mmboe 9 of oil \& gasresources to their production portfolio.
 
 – All companies that spend ≥USD 10 million annually onexploration.
 
 
 
-Midstream development Companies involved in expansion of pipelines (developing
-
-≥100km) and LNG terminal capacity (≥1Mtpa of annual capacity).
+Midstream development Companies involved in expansion of pipelines (developing≥100km) and LNG terminal capacity (≥1Mtpa of annual capacity).
 
 
 
 Downstream development Companies developing gas-fired power (≥ 100 MW of gas-firedpower capacity).
-
-
 
 Captured exposure forms part of the overall ESG analysis of companies, and notably informs ouranalysts’ assessment of ESG risks. Understanding companies’ exposure to oil \& gas development is alsoconsidered to define engagement objectives, as we acknowledge the importance of dialogue to supportcompanies’ transitions over time to achieve real world decarbonisation.
 
@@ -1304,11 +1234,9 @@ The guiding principles of our climate engagement activities are to support compa
 
 
 
-6 For details on thermal coal please refer to our Coal Exit Policy, included in our Group Exclusion Policy (see Appendix V). For furtherdetails on oil \& gas exclusions applied to our Plus Fund range please refer to our Plus Fund Exclusion Policy.
+8 For details on thermal coal please refer to our Coal Exit Policy, included in our Group Exclusion Policy (see Appendix V).For further details on oil \& gas exclusions applied to our Plus Fund range please refer to our Plus Exclusion Policy.9 Million barrels of oil equivalent.
 
-7 Million barrels of oil equivalent.
-
-26 / COMGEST GROUP RESPONSIBLE INVESTMENT POLICY 2024 comgest.com
+28 / COMGEST’S CLIMATE CHANGE POLICY comgest.com
 
 
 
@@ -1318,9 +1246,11 @@ We acknowledge that we cannot engage efficiently with all of our investee compan
 
 – Classification category: we prioritise engagement with companies classified as “not aligned”,“committed to aligning” and “aligning”.
 
-Our climate engagement approach includes both direct dialogue with companies as well ascollaborative engagement and aligns with specific guidelines on climate-related resolutions (i.e., wegenerally vote in favour of resolutions requesting companies to disclose climate-related informationand set science-based targets, etc.).8
+Our climate engagement approach includes both direct dialogue with companies as well ascollaborative engagement and aligns with specific guidelines on climate-related resolutions (i.e., wegenerally vote in favour of resolutions requesting companies to disclose climate-related informationand set science-based targets, etc.). 10
 
-Our engagement tasks are tailored to each companies’ specific context, but are grounded in assessingrobustness of climate transition plans, using for instance the Institutional Investor Group on ClimateChange (“IIGCC”) “Investor Expectations of Corporate Transition Plans” five components:1. Comprehensive, aligned emissions targets;2. A credible strategy to deliver those targets;3. Demonstrable engagement commitments to support the achievement of targets;4. The contribution to climate solutions9; and5. Supporting emissions and accounting disclosures.
+Our engagement activities are tailored to each companies’ specific context, but are grounded inassessing robustness of climate transition plans, using for instance the Institutional Investor Group onClimate Change (“IIGCC”) “Investor Expectations of Corporate Transition Plans” five components:1. Comprehensive, aligned emissions targets;2. A credible strategy to deliver those targets;3. Demonstrable engagement commitments to support the achievement of targets;4. The contribution to climate solutions 11; and5. Supporting emissions and accounting disclosures.
+
+We also use our voting rights actively to influence better outcomes on climate-related topics. Weencourage companies to implement a “say on climate” and put forward advisory resolutions on theirclimate action plans, decarbonisation targets and progress on emissions reduction at their AGMs. Wegenerally support these advisory resolutions where we have deemed a company’s climate targets andstrategy to be aligned with our own climate commitment.
 
 
 
@@ -1328,7 +1258,7 @@ iii. Partnership: Working alongside clients and peers to advance climate action
 
 
 
-Reaching net zero implies a systemic transition of the economy. Therefore, partnership with industrypeers to share knowledge and best practices, as well as to advance engagement with companies, whereapplicable, is important. Key initiatives we have joined to partner on knowledge exchange include: theNZAM and the IIGCC. We also aim to provide our clients with climate-related information on theirinvestments and to help them progress against their own climate targets.
+Reaching net zero implies a systemic transition of the economy. Therefore, partnership with industrypeers to share knowledge and best practices, as well as to advance engagement with companies, whereapplicable, is important. We also work with data providers, where relevant, to contribute toenhancement and availability of climate data. Key initiatives we have joined to partner on knowledgeexchange include: the NZAM and the IIGCC. We also aim to provide our clients with climate-relatedinformation on their investments and to help them progress against their own climate targets.
 
 
 
@@ -1340,17 +1270,13 @@ The Sustainability Committee oversees the annual review and approval of this Cli
 
 E. REPORTING
 
-Disclosures on climate metrics and targets, aligned with TCFD recommendations, are included in ourPRI assessment reports as well as in our Annual Sustainability Report. The Annual Sustainability Reportcovers metrics and targets at the Group level, as well as metrics and targets for our main investmentstrategies. We also measure and report on our climate impacts and related mitigation actions throughour Annual Statements of Principal Adverse Impacts of Investment Decisions on Sustainability Factors(PAI Statements).
-
-These reports are available on our website.
+Disclosures on climate metrics and targets, aligned with TCFD recommendations, are included in ourPRI assessment reports as well as in our Annual Sustainability Report. The Annual Sustainability Reportcovers metrics and targets at the Group level, as well as metrics and targets for our main investmentstrategies. We also measure and report on our climate impacts and related mitigation actions throughour Annual Statements of Principal Adverse Impacts of Investment Decisions on Sustainability Factors(PAI Statements). These reports are available on our website.
 
 
 
-8 More details on our engagement approach can be found in our Active Ownership Policy.
+10 More details on our engagement approach can be found in our Active Ownership Policy.11 We recognise that not all companies are positioned to provide climate solutions. This component is therefore notapplicable to all our investee companies.
 
-9 We recognise that not all companies are positioned to provide climate solutions. This component is therefore not applicable to allour investee companies.
-
-27 / COMGEST GROUP RESPONSIBLE INVESTMENT POLICY 2024 comgest.com
+29 / COMGEST’S POLICY ON NATURE AND DEFORESTATION comgest.com
 
 
 
@@ -1388,7 +1314,7 @@ B. SCOPE
 
 This policy applies to all listed companies that we invest in, worldwide.
 
-28 / COMGEST GROUP RESPONSIBLE INVESTMENT POLICY 2024 comgest.com
+30 / COMGEST’S POLICY ON NATURE AND DEFORESTATION comgest.com
 
 
 
@@ -1414,17 +1340,15 @@ Our assessment of the dependency on ecosystem services will cover direct operati
 
 1\. Identification of high-risk companies
 
-– Using data from ENCORE10, we identify industry sectors that have high dependency onecosystem services. Given their potential high dependence on ecosystem services, companies inthese sectors could face an important financial risk if the ecosystem service(s) they rely onstopped or declined. Therefore, investee companies in these sectors will be classified as high-riskfor nature dependency.
+– Using data from ENCORE 12, we identify economic activities that have high dependency onecosystem services. Given their potential very high dependence on ecosystem services,companies mapped to these economic activities could face an important financial risk if theecosystem service(s) they rely on stopped or declined. Therefore, investee companies mapped tothese economic activities will be classified as high-risk for nature dependency.
 
-– Using data from SBTN11, we identify processes that have high impact on nature, specifically onthe main drivers of biodiversity loss (i.e., changes in land and sea use, direct exploitation ofresources, climate change, pollution, and invasive species). Given their potentially high impacton nature, companies mapped to these processes could face an important financial risk if theirimpact led to regulatory fines, reputational risk or legal risk. Therefore, companies mapped tothese processes will be classified as high-risk for nature impact.
+– Using data from ENCORE, we identify economic activities that have very high impact on nature,specifically on the main drivers of biodiversity loss (i.e., changes in land and sea use, directexploitation of resources, climate change, pollution, and invasive species). Given their potentiallyvery high impact on nature, companies mapped to these economic activities could face animportant financial risk if their impact led to regulatory fines, reputational risk or legal risk.Therefore, companies mapped to these economic activities will be classified as high-risk fornature impact.
 
 
 
-10 Exploring Natural Capital Opportunities, Risks and Exposure
+12 Exploring Natural Capital Opportunities, Risks and Exposure
 
-11 Science Based Target Network
-
-29 / COMGEST GROUP RESPONSIBLE INVESTMENT POLICY 2024 comgest.com
+31 / COMGEST’S POLICY ON NATURE AND DEFORESTATION comgest.com
 
 
 
@@ -1444,7 +1368,7 @@ Companies that are classified as high-risk will be prioritised for an in-depth a
 
 b. Actions taken to align with nature-related goals and targets
 
-Ongoing rapid declines in biodiversity and ecosystem services mean that the goals set in theConvention of Biological Diversity12 for conserving and sustainably using nature will not be achievedbased on current trajectories. Conscious of this risk, the UN Biodiversity conference COP15 in Montréalestablished the Kunming-Montreal Global Biodiversity Framework. The 23 targets in the Frameworkinclude targets to reduce threats to biodiversity (e.g., bringing loss of high biodiversity areas "close tozero" by 2030, reducing pollution risks by 2030, minimising the impact of climate change and oceanacidification on biodiversity) and targets to encourage the sustainable use of biodiversity (e.g., asubstantial increase of the application of biodiversity friendly practices, using nature-based solutionsand ecosystem-based approaches). Target 15 of the COP15 emphasises the need for financialinstitutions to monitor, assess, and transparently disclose their risks, dependencies and impacts onbiodiversity.
+Ongoing rapid declines in biodiversity and ecosystem services mean that the goals set in theConvention of Biological Diversity 13 for conserving and sustainably using nature will not be achievedbased on current trajectories. Conscious of this risk, the UN Biodiversity conference COP15 in Montréalestablished the Kunming-Montreal Global Biodiversity Framework. The 23 targets in the Frameworkinclude targets to reduce threats to biodiversity (e.g., bringing loss of high biodiversity areas "close tozero" by 2030, reducing pollution risks by 2030, minimising the impact of climate change and oceanacidification on biodiversity) and targets to encourage the sustainable use of biodiversity (e.g., asubstantial increase of the application of biodiversity friendly practices, using nature-based solutionsand ecosystem-based approaches). Target 15 of the COP15 emphasises the need for financialinstitutions to monitor, assess, and transparently disclose their risks, dependencies and impacts onbiodiversity.
 
 
 
@@ -1458,21 +1382,23 @@ d. Comgest’s targets
 
 In line with target 15 of the COP15, we monitor, assess, and intend to disclose nature-related risks,dependencies and impacts. We encourage investee companies to assess their dependencies andimpacts on nature and to publicly disclose their actions.
 
-We also expect our high-risk portfolio companies (high dependency and/or high impact) to reducenegative outcomes over time. We will be setting initial engagement targets for these high-riskcompanies to ensure they are subject to either individual or collaborative engagement. As part of thisengagement, we will request information on the investee companies’ assessment of impact and/ordependency, board and management oversight and policies implemented to address nature-relatedrisks.
+We also expect our high-risk portfolio companies (very high dependency and/or very high impact) toreduce negative outcomes over time. We will be setting initial engagement targets for these high-riskcompanies to ensure they are subject to either individual or collaborative engagement. As part of thisengagement, we will request information on the investee companies’ assessment of impact and/ordependency, board and management oversight and policies implemented to address nature-relatedrisks.
 
 
 
 Target Type Target Baseline Target
 
+
+
 Engagement Thresholdon high-risk companies0% of high-risk companies that weresubject to individual orcollaborative engagement in 2023.
 
-100% of high-risk companies to besubject to individual orcollaborative engagement by 2028(if they have not alreadyimplemented mitigation actions).
+100% of high-risk companies to besubject to individual orcollaborative engagement by endof 2028 (if they have not alreadyimplemented mitigation actions).
 
 
 
-12 https://www.cbd.int/
+13 https://www.cbd.int/
 
-30 / COMGEST GROUP RESPONSIBLE INVESTMENT POLICY 2024 comgest.com
+32 / COMGEST’S POLICY ON NATURE AND DEFORESTATION comgest.com
 
 
 
@@ -1484,9 +1410,7 @@ a. Why a focus on deforestation?
 
 Deforestation and natural ecosystem conversion are key drivers of biodiversity loss, climate change andsevere human rights violations of indigenous peoples and local communities. Halting deforestationplays a key role in reducing such impacts and risks for businesses, people and nature.
 
-Agricultural commodity sourcing for palm oil, soy, beef, leather, timber, and pulp \& paper is by far thelargest cause of deforestation and conversion. This means reducing agricultural commodity-driven
-
-deforestation for these commodities has the potential to make a large and rapid positive impact on theclimate and nature risks that we face as investors.
+Agricultural commodity sourcing for palm oil, soy, beef, leather, timber, and pulp \& paper is by far thelargest cause of deforestation and conversion. This means reducing agricultural commodity-drivendeforestation for these commodities has the potential to make a large and rapid positive impact on theclimate and nature risks that we face as investors.
 
 In order to take an active approach to addressing this important topic, we became a signatory to theFinancial Sector Commitment Letter on Eliminating Commodity-Driven Deforestation launched at theCOP26 in Glasgow in November 2021. Investors that have signed up to this commitment, includingComgest, agree to use their best efforts to eliminate agricultural commodity-driven deforestation linkedto key forest risk commodities – palm oil, soy, beef, leather, timber, and pulp \& paper – from theirinvestment and lending portfolios by 2025. Comgest will report on its progress in reaching the differentmilestones set towards eliminate commodity-driven deforestation in our investments.
 
@@ -1510,7 +1434,7 @@ Information obtained from external providers will be factors that our ESG and Co
 
 – Overall assessment of Comgest’s exposure to deforestation-related risksBy carrying out the deforestation-related risk assessment at investee company level, Comgest canassess and report on its overall exposure to deforestation-related risk and identify opportunities to drivechange through company engagement and advocacy initiatives.
 
-31 / COMGEST GROUP RESPONSIBLE INVESTMENT POLICY 2024 comgest.com
+33 / COMGEST’S POLICY ON NATURE AND DEFORESTATION comgest.com
 
 
 
@@ -1526,13 +1450,13 @@ a. Individual company engagement
 
 We prefer direct dialogue to address issues with our companies. This enables us to better understandeach company’s position, to encourage improvement and to monitor progress.
 
-We may engage with companies on broader biodiversity topics (e.g., avoiding, or minimisingbiodiversity impact) or engage with companies on specific nature-related themes such as: deforestation,plastic pollution, chemical waste, etc.
+We may engage with companies on broader biodiversity topics (e.g., avoiding, or minimisingbiodiversity impact) or engage with companies on specific nature-related themes such as deforestation,plastic pollution or chemical waste.
 
-Our research findings help the ESG and company analysts set engagement priorities with high-riskcompanies that have either high impact or high dependency on nature.
+Our research findings help the ESG Analysts and Company Analysts set engagement priorities withhigh-risk companies that have either high impact or high dependency on nature.
 
 Our dialogue with these companies allows us to both better understand how nature-related risks aremanaged, and assess the various mitigation actions companies have implemented or plan toimplement.
 
-Our Company and ESG Analysts expect all high-risk companies to demonstrate an understanding oftheir exposure to nature-related risks, including through their supply chain, and their intention toreduce them. Our analysts may also request that companies implement further risk mitigation actionsand track progress on these recommendations. Companies that do not yet comply with theseexpectations will remain targets for engagement.
+Our Company Analysts and ESG Analysts expect all high-risk companies to demonstrate anunderstanding of their exposure to nature-related risks, including through their supply chain, and theirintention to reduce them. Our analysts may also request that companies implement further riskmitigation actions and track progress on these recommendations. Companies that do not yet complywith these expectations will remain targeted for engagement.
 
 We also encourage high-risk companies to apply or participate in credible standards and certificationsschemes such the Roundtable on Responsible Soy (“RTRS”), Forest Stewardship Council (“FSC”) or theRoundtable on Sustainable Palm Oil (“RSPO”) which help demonstrate a company’s willingness to adoptbest industry practices.
 
@@ -1564,21 +1488,21 @@ Joining forces with other like-minded investors, clients and industry participan
 
 – Disclosing our activities transparently (see section E. Reporting).
 
-32 / COMGEST GROUP RESPONSIBLE INVESTMENT POLICY 2024 comgest.com
+34 / COMGEST’S POLICY ON NATURE AND DEFORESTATION comgest.com
 
 
 
 D. OVERSIGHT
 
-The Sustainability Committee oversees the annual review and approval of this Policy on Nature andDeforestation (“Policy”) by the relevant entities and boards. The Policy may be reviewed more frequentlyas required.The Committee also oversees the Policy’s implementation which is carried out by the investment teamstogether with dedicated ESG resources.
+The Sustainability Committee oversees the annual review and approval of this Policy on Nature andDeforestation (“Policy”) by the relevant entities and boards. The Policy may be reviewed more frequentlyas required.The Committee also oversees the Policy’s implementation which is carried out by the Investment teamtogether with dedicated ESG resources.
 
 
 
 E. REPORTING
 
-Reporting on the implementation of this Policy is included in various documents produced by Comgestboth at Group and Strategy levels.Further details regarding reporting on responsible investment activities are included in the GroupResponsible Investment Policy.
+Reporting on the implementation of this Policy is included in various documents produced by Comgestboth at Group and strategy levels.Further details regarding reporting on responsible investment activities are included in the GroupResponsible Investment Policy.
 
-33 / COMGEST GROUP RESPONSIBLE INVESTMENT POLICY 2024 comgest.com
+35 / COMGEST’S HUMAN RIGHTS POLICY comgest.com
 
 
 
@@ -1586,21 +1510,21 @@ APPENDIX IV: COMGEST’S HUMAN RIGHTS POLICY
 
 
 
-A. INTRODUCTION
+INTRODUCTION
 
 This Human Rights Policy (“Policy”) sets out our strategy for identifying and addressing human rightsrisks and impacts across our investee companies. As a quality growth investor, Comgest pays carefulattention to the social risk profile of companies. The costs associated with human rights violations canbe material to a company’s business. The abuse of human rights can present financial, regulatory,reputational, legal and societal risks. There are many examples of human rights incidents negativelyimpacting share prices. These include product safety issues, disputes over wages and workingconditions, data privacy breaches, employee discrimination, severe workplace accidents, etc.
 
-We use the following international standards to assess the responsible conduct of businesses andidentify potential human rights violations and related risks: the principles of the United Nations GlobalCompact (“UNGC”), the United Nations Guiding Principles (“UNGPs”), as well as the conventions of theInternational Labour Organisation (“ILO”) and the Organisation for Economic Cooperation andDevelopment (“OECD”) Guidelines for Multinational Enterprises.
+We use the following international standards to assess the responsible conduct of businesses andidentify potential human rights violations and related risks: the principles of the United Nations GlobalCompact (“UNGC”), the United Nations Guiding Principles (“UNGPs”), as well as the conventions of theInternational Labour Organization (“ILO”) and the Organisation for Economic Cooperation andDevelopment (“OECD”) Guidelines for Multinational Enterprises.
 
 
 
-B. SCOPE
+SCOPE
 
 This Policy applies to all listed companies that we invest in, worldwide.
 
 
 
-C. STRATEGY
+STRATEGY
 
 Our human rights strategy applies the three-pronged approach of our Responsible Investment Strategy:
 
@@ -1620,7 +1544,7 @@ Human rights issues that we consider throughout the investment process may inclu
 
 – Labour practices and working conditions: modern slavery, forced or trafficked labour, childlabour, freedom of movement, debt bondage, collective bargaining and recognition of tradeunions, freedom of expression and association, workplace health and safety, access to trainingand skills. This includes direct employees as well as contractors and sub-contractors within thesupply chain;
 
-34 / COMGEST GROUP RESPONSIBLE INVESTMENT POLICY 2024 comgest.com
+36 / COMGEST’S HUMAN RIGHTS POLICY comgest.com
 
 
 
@@ -1648,7 +1572,7 @@ Human rights issues that we consider throughout the investment process may inclu
 
 – High growth companies with a strong performance culture may be prone to increased risk ofworkplace health and safety issues (notably mental health) as well as harassment anddiscrimination.
 
-While an inherent exposure analysis based on sector, business activities and geography is a goodstarting point for identifying human rights risks, our proprietary research process is adapted to eachcompany and each company is assessed according to its unique circumstances. Our Investment team isresponsible for assessing human rights issues for each portfolio company, with a focus on companiesexposed to material human rights risks. Material risks and opportunities, where identified, aresummarised within each proprietary ESG Assessment.
+While an inherent exposure analysis based on sector, business activities and geography is a goodstarting point for identifying human rights risks, our proprietary research process is adapted to eachcompany and each company is assessed according to its unique circumstances. Our Investment team isresponsible for assessing human rights issues for each portfolio company, with a focus on companiesexposed to material human rights risks. Material risks and opportunities, where identified, aresummarised within each ESG Assessment.
 
 Our analysis may include the following elements:
 
@@ -1666,11 +1590,11 @@ Our analysis may include the following elements:
 
 • Alignment with the UNGC, the UNGPs and the ILO fundamental principles (existence of duediligence policies on labour issues);
 
-35 / COMGEST GROUP RESPONSIBLE INVESTMENT POLICY 2024 comgest.com
-
-
-
 • Controversies: we analyse negative human rights-related company events and assess theeffectiveness of a company’s response to these events (transparency, action, provision ofaccess to remedy)
+
+37 / COMGEST’S HUMAN RIGHTS POLICY comgest.com
+
+
 
 – We intensify our research on any high-risk areas identified as part of the assessment process.
 
@@ -1678,11 +1602,17 @@ Our analysis may include the following elements:
 
 b. Exclusions
 
-We identify companies exposed to severe violations of the UNGC principles, ILO standards, UNGPs andthe OECD Guidelines for Multinational Enterprises.
+Comgest identifies and excludes companies involved in severe violations using the followinginternational standards :
 
-As a first response, we typically engage with the company to discuss the potential for improvement andany actions they have taken, or plan to take, in order to address the violation. If severe violationspersist and we believe that there is no prospect for improvement, the company is excluded from allportfolios until the violations are resolved. Please refer to the Group Exclusion Policy for further details.
+– United Nations Global Compact (“UNGC”) Principles
 
-Our Plus Strategies additional exclusion criteria, please refer to the Comgest Plus Exclusion Policy.
+– The Organisation for Economic Co-operation and Development (“OECD”) Guidelines forMultinational Enterprises
+
+– International Labor Organization (“ILO”) standards
+
+– United Nations Guiding Principles (“UNGPs”)Please refer to the Group Exclusion Policy (Appendix V) for further details.
+
+For our Plus Strategies additional exclusion criteria, please refer to the Comgest Plus Exclusion Policy.
 
 
 
@@ -1728,21 +1658,21 @@ Partnering with investors, clients and industry participants can be an important
 
 – Disclosing our activities transparently (refer section E. Reporting).
 
-36 / COMGEST GROUP RESPONSIBLE INVESTMENT POLICY 2024 comgest.com
+38 / COMGEST’S HUMAN RIGHTS POLICY comgest.com
 
 
 
-D. OVERSIGHT
+OVERSIGHT
 
 The Sustainability Committee oversees the annual review and approval of this Policy by the relevantentities and boards. The Policy may be reviewed more frequently as required. The SustainabilityCommittee also oversees the Policy’s implementation which is carried out by the Investment teamtogether with dedicated ESG resources. Further details on the Sustainability Committee can be found inthe Comgest Group Responsible Investment Policy.
 
 
 
-E. REPORTING
+REPORTING
 
-We consider that it is part of our responsibility to disclose our activities and to measure the impact ofour endeavours relating to human rights issues as factually as possible.Disclosures on human rights engagements are included in our Quarterly Responsible Investmentreports (available upon request). These include descriptions of engagements, details of engagementactivity and updates as to the ongoing status. We disclose further engagement and voting informationin our Annual Sustainability Report and UK Stewardship Code report. Our list of advocacy initiativesand industry commitments relating to human rights are disclosed on our website.Additionally, Comgest prepares Annual Statements of Principal Adverse Impacts of InvestmentDecisions on Sustainability Factors (PAI Statements). These disclosures provide information on anumber of human rights-related impacts and related mitigation actions, also available on our website.
+Reporting on the implementation of this Policy is included in various documents produced by Comgestboth at Group and strategy levels.Further details regarding reporting on responsible investment activities are included in the GroupResponsible Investment Policy.
 
-37 / COMGEST GROUP RESPONSIBLE INVESTMENT POLICY 2024 comgest.com
+39 / COMGEST GROUP EXCLUSION POLICY comgest.com
 
 
 
@@ -1752,7 +1682,9 @@ APPENDIX V: COMGEST GROUP EXCLUSION POLICY
 
 A. INTRODUCTION
 
-As a quality growth investor, we invest and partner with companies that we believe can sustaininvestment returns over the long term. Environmental, social and governance (“ESG”) factors areimportant drivers of investment returns from both an opportunity and a risk mitigation perspective.We believe that value creation is enhanced when companies deliver social utility while limiting theirnegative impacts on the environment and society. These investment beliefs lead us to integrate ESGconsiderations throughout our investment process and implement the exclusion criteria defined in thisComgest Group Exclusion Policy (“Policy”).
+As a quality growth investor, we invest and partner with companies that we believe can sustaininvestment returns over the long term. Environmental, social and governance (“ESG”) factors areimportant drivers of investment returns from both an opportunity and a risk mitigation perspective.
+
+We believe that value creation is enhanced when companies deliver social utility while limiting theirnegative impacts on the environment and society. These investment beliefs lead us to integrate ESGconsiderations throughout our investment process and implement the exclusion criteria defined in thisComgest Group Exclusion Policy (“Policy”).
 
 Our investment selection process makes it unlikely that companies with substantial ESG risks willsatisfy the required standards of quality, visibility and sustainability that we seek in quality growthcompanies. Nevertheless, for certain activities where ESG risks and impacts tend to be more significantor are subject to regulatory restrictions, Comgest applies and implements targeted exclusion criteria.This Policy defines these criteria as well as outlines how these criteria are managed and overseen.
 
@@ -1761,8 +1693,6 @@ Our exclusion criteria is summarised in Table 1 below, with more detailed inform
 
 
 Table 1: Summary of Comgest exclusion criteria
-
-
 
 Exclusion Type Exclusion Measure Exclusion Criteria
 
@@ -1774,67 +1704,39 @@ Sector-basedexclusions
 
 Controversialweapons Involvement No involvement
 
-
-
-Conventionalweapons
-
-Revenue from productionand/or distribution ≥ 10%
-
-
-
-Tobacco
-
-Revenue from producer \>0%
-
-
+TobaccoRevenue from producer \>0%
 
 Revenue from distributor,retailer and/or supplier ≥ 5%
 
-
-
 Thermal coal
-
-
 
 Revenue from coal mining \>0%
 
-
-
 Electricity productionbased on coal
 
-
-
-Production or revenue ≥ 10%Installed capacity ≥ 5 GWDeveloping new coal-firedpower capacity ≥ 100 MW
+Revenue ≥ 10%Installed capacity ≥ 5 GWDeveloping new coal-firedpower capacity ≥ 100 MW
 
 Norm-basedExclusions
 
-Controversialbehaviour
-
-UNGC, OECD, ILO and UNGPcompliance
-
-Severe violations withoutprospect for improvement
+ControversialbehaviourUNGC, OECD, ILO and UNGPcompliance Severe violations
 
 
 
 JurisdictionalExclusions
 
-ControversialJurisdictions
-
-High-risk jurisdictions,sanctions regime, etc. Investment restrictions
+ControversialJurisdictionsHigh-risk jurisdictions,sanctions regime, etc. Investment restrictions
 
 
 
-B. SCOPE
+SCOPE
 
 Comgest implements this Policy for all portfolios we manage except where otherwise requested byclients or where implementation is prohibited by applicable laws.In addition, Comgest’s Plus Strategies apply additional ESG screening criteria. For more information,please refer to the Comgest Plus Exclusion Policy available on our website.
 
-38 / COMGEST GROUP RESPONSIBLE INVESTMENT POLICY 2024 comgest.com
+40 / COMGEST GROUP EXCLUSION POLICY comgest.com
 
 
 
-C. SECTORS BASED EXCLUSIONS
-
-
+SECTORS BASED EXCLUSIONS
 
 i. Controversial weapons policy
 
@@ -1886,27 +1788,13 @@ The standards applied to define these weapons are based on the Convention on Cer
 
 – Non-detectable fragments: Convention on Certain Conventional Weapons – Protocol I
 
-– Blinding lasers: Convention on Certain Conventional Weapons – Protocol IVComgest applies a 0% revenue threshold on incendiary weapons, non-detectable fragments andblinding lasers.
+– Blinding lasers: Convention on Certain Conventional Weapons – Protocol IVComgest applies a 0% revenue threshold on incendiary weapons, non-detectable fragments andblinding lasers.In addition, we exclude any company that holds a stake (\>20%) in a company or is owned (\>50%) by acompany that is involved in incendiary weapons, non-detectable fragments and blinding lasers.
 
-39 / COMGEST GROUP RESPONSIBLE INVESTMENT POLICY 2024 comgest.com
-
-
-
-In addition, we exclude any company that holds a stake (\>20%) in a company or is owned (\>50%) by acompany that is involved in incendiary weapons, non-detectable fragments and blinding lasers.
+41 / COMGEST GROUP EXCLUSION POLICY comgest.com
 
 
 
-ii. Conventional weapons policy
-
-
-
-Comgest defines conventional weapons as weapons other than controversial weapons as defined in theabove section C.i. Controversial Weapons Policy.
-
-Comgest excludes companies that derive 10% or more of their total annual revenues from theproduction and/or distribution of conventional weapons, weapons systems, components, supportsystems and services, as well as firearms or small arms ammunition intended for civilian use.
-
-
-
-iii. Tobacco policy
+ii. Tobacco policy
 
 
 
@@ -1922,7 +1810,7 @@ Comgest also excludes companies that derive 5% or more of their total annual rev
 
 
 
-iv. Coal Exit Policy
+iii. Coal Exit Policy
 
 a. Mining
 
@@ -1936,9 +1824,9 @@ b. Electricity production
 
 Comgest excludes companies involved in electricity production with an energy mix exposed to coalexceeding the following relative or absolute thresholds:
 
-– utilities with electricity production or revenue based on coal equal to or exceeding 10%;
+– revenue linked to thermal coal-based power generation equal to or exceeding 10%;
 
-– utilities with installed capacity based on coal equal to or exceeding 5 GW.
+– installed capacity for thermal coal equal to or exceeding 5 GW.
 
 Additionally, Comgest excludes companies developing new coal-fired power capacity of at least 100MW.
 
@@ -1950,29 +1838,29 @@ The thresholds defined above regarding electricity production will be progressiv
 
 Comgest may decide to exempt certain companies from the exclusion list if they make crediblecommitments to reduce their exposure to coal within a set timeframe. Consideration for exemptionfrom the policy will be submitted for approval to the Sustainability Committee. The approval processfor exemption includes an assessment of both quantitative and qualitative criteria (e.g., the company’sclimate strategy and their coal exit plan as well as the degree of prioritisation given to a lower-carbonbusiness model by management, etc.).
 
-40 / COMGEST GROUP RESPONSIBLE INVESTMENT POLICY 2024 comgest.com
 
 
-
-D. NORM-BASED EXCLUSIONS
+NORM-BASED EXCLUSIONS
 
 Companies of all sectors and in all countries can profoundly impact the human rights of employees,consumers, and communities. These impacts may be positive, such as increasing access to employmentor improving public services, or negative, such as polluting the environment, underpaying workers, orevicting communities.
 
-Comgest uses the following international standards to identify and assess the responsible conduct ofbusinesses and potential human rights violations:
+Comgest identifies and excludes companies involved in severe violations using the followinginternational standards :
 
 – United Nations Global Compact (“UNGC”) Principles
 
-– The Organization for Economic Co-operation and Development (“OECD”) Guidelines forMultinational Enterprises
+42 / COMGEST GROUP EXCLUSION POLICY comgest.com
+
+
+
+– The Organisation for Economic Co-operation and Development (“OECD”) Guidelines forMultinational Enterprises
 
 – International Labor Organization (“ILO”) standards
 
-– United Nations Guiding Principles (“UNGPs”)Comgest identifies companies involved in severe violations of these standards. As a first response,Comgest may engage with these companies to discuss improvements and actions they have taken orwill take to address the violations. If severe violations persist without prospect for improvement,Comgest will exclude these companies until the violations are resolved.
+– United Nations Guiding Principles (“UNGPs”)
 
 
 
-E. CONTROVERSIAL JURISDICTIONS EXCLUSIONS
-
-
+CONTROVERSIAL JURISDICTIONS EXCLUSIONS
 
 i. High-risk jurisdictions
 
@@ -1994,7 +1882,7 @@ website.
 
 It also complies with applicable EU or US sanctions to which it is subject and follows any mandatoryinvestment restrictions deriving therefrom.
 
-To ensure compliance, Comgest monitors applicable sanctions lists and screens equity issuers prior tothe security’s inclusion into the Comgest investment universe and on an ongoing basis.
+To ensure compliance, Comgest monitors applicable sanctions lists and screens equity issuers prior tothe security’s inclusion into the Comgest Investment Universe and on an ongoing basis.
 
 
 
@@ -2006,17 +1894,17 @@ For certain of Comgest’s public funds, including any funds classified as Artic
 
 
 
-F. IMPLEMENTATION
+IMPLEMENTATION
 
 Companies on the exclusion lists are blocked by our trading system and, therefore, cannot bepurchased. If a company in which Comgest is already invested is added to an applicable exclusion list,further purchases will be blocked and the existing position will be sold in the best interest of ourclients. These exclusions lists are updated on a quarterly basis.
 
 To help implement its exclusion policies, Comgest primarily uses MSCI ESG Research's latest availabledata. Comgest may supplement this with data from other external providers and with its own researchon the companies and their activities, for example, where Comgest finds that data used by the externalservice provider is not up to date or where Comgest does not agree with the data provider’s assessment.Any exemptions are reviewed on a semi-annual basis by the Sustainability Committee.
 
-41 / COMGEST GROUP RESPONSIBLE INVESTMENT POLICY 2024 comgest.com
+43 / COMGEST GROUP EXCLUSION POLICY comgest.com
 
 
 
-G. APPROVAL AND OVERSIGHT
+APPROVAL AND OVERSIGHT
 
 
 
