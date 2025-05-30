@@ -356,11 +356,23 @@ We will continue to engage with our customers to understand their evolving decar
 
 Key terms
 
-1 National or Energy Security – Circumstances where a government or regulator determines that additional supply, or maintaining current supply is necessary fornational or energy security and Westpac’s funding is able to support such additional supply2 IEA Net-Zero by 2050 – The International Energy Agency, Net-Zero by 2050 (2021) scenario specifies that no new (greenfield) oil and gas fields are neededbeyond those projects that have already been committed (i.e. approved for development) as of 18 May 2021.3 New Associated Dedicated Infrastructure – New gas collection, storage and processing infrastructure dedicated solely to greenfield oil and gas extractionprojects including floating production, storage and offloading (FPSO) vessels, gas processing plant and transmission pipelines.4 Paris Agreement– Refers to Article 2.1 of the Paris Agreement on Climate Change adopted within the United Nations Framework Convention on ClimateChange in December 2015.
+1 National or Energy Security – Circumstances where a government or regulator determines that additional supply, or maintaining current supply is necessary fornational or energy security and Westpac’s funding is able to support such additional supply
+
+4 Paris Agreement– Refers to Article 2.1 of the Paris Agreement on Climate Change adopted within the United Nations Framework Convention on ClimateChange in December 2015.
 
 WESTPAC GROUP 2023-2025 CLIMATE CHANGE POSITION STATEMENT AND ACTION PLAN
 
 8
+
+
+
+2
+
+
+
+3 IEA Net-Zero by 2050 – The International Energy Agency, Net-Zero by 2050 (2021) scenario specifies that no new (greenfield) oil and gas fields are neededbeyond those projects that have already been committed (i.e. approved for development) as of 18 May 2021.
+
+New Associated Dedicated Infrastructure – New gas collection, storage and processing infrastructure dedicated solely to greenfield oil and gas extractionprojects including floating production, storage and offloading (FPSO) vessels, gas processing plant and transmission pipelines.
 
 Become the transition partner of choice
 
