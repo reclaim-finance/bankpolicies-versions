@@ -47,3 +47,46 @@ Exceptions to this policy may be considered on a case-by-case basis for investme
 (ii) projects that contribute to the climate transition; or
 
 (iii) companies that have a transition plan in place to end all thermal coal or oil sands-related activities by 2030 in OECD countries and the EU and by 2040 globally, which for the sake of clarity, from time to time could include coverage for incidental or ancillary exposures related to existing thermal coal risks; however, a company that plans to, or is in the process of developing or expanding a coal mine, plant or its dedicated infrastructure will not be eligible for this exception.
+
+[Filters](#)
+
+* [No Filter](#)
+* [Solution](#)
+* [Resource](#)
+* [News & More](#)
+
+![icone](/ResourcePackages/AxisCapital/assets/dist/images/default/icon-search-glass.svg)
+
+Search
+
+ Entire site
+
+ Insurance
+
+ Reinsurance
+
+[entire site](#)
+
+* [entire site](#)
+* [insurance](#)
+* [reinsurance](#)
+
+Solutions
+
+more results
+
+People
+
+more results
+
+Resources
+
+more results
+
+News & More
+
+more results
+
+(0) results
+
+Please try another search term our browse our [insurance](#) and [reinsurance](#) solutions.
