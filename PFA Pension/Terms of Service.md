@@ -33,7 +33,7 @@ _\*Violations of these threshold values for climate-related high-risk activities
 
 Weapons
 
-Based on the international conventions and guidelines, PFA also does not want to invest in companies that produce controversial weapons such as cluster bombs or anti-personnel land mines. PFA systematically excludes companies that, based on external data, supply dedicated components for controversial weapons and meet criteria for involvement in the production of controversial weapons through their own operations or ownership.
+Based on the international conventions and guidelines, PFA also does not want to invest in companies that produce controversial weapons such as cluster bombs or anti-personnel land mines. PFA systematically excludes companies that, based on external data, supply dedicated components for controversial weapons and meet criteria for involvement in the production of controversial weapons through their own operations or ownership. PFA is not precluded from investing in companies that supply components to the French, English, or American nuclear defense.
 
 Good governance practice
 
