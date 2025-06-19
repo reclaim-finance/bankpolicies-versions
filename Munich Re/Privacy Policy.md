@@ -22,23 +22,25 @@ we rely on dialogue with our stakeholders and the establishment of global partne
 
 sustainable development. Munich Re also endeavours to play a part in meeting the targets of the
 
-Paris Agreement. Our holistic approach with regard to the climate is based on the following three
+Paris Agreement.
 
-core elements: decarbonisation targets, provision of risk transfer solutions that contribute to climate
 
-change adaptation and to mitigating the impacts of climate change, and Group-wide risk
 
-management. These elements span our investments, (re)insurance activities and own operations.
+Our holistic approach with regard to the climate is based on the following three core elements:
+
+decarbonisation targets, provision of risk transfer solutions that contribute to climate change
+
+adaptation and to mitigating the impacts of climate change, and Group-wide risk management. These
+
+elements span our investments, (re)insurance activities and own operations.
 
 
 
 In addition, we leverage our knowledge in the climate sphere through global initiatives and
 
-partnerships. Munich Re is a member of a range of initiatives in the financial industry and of
+partnerships. Munich Re is a member of the Principles for Sustainable Insurance and the Principles for
 
-associations, including the Principles for Sustainable Insurance (PSI), Principles for Responsible
-
-Investments (PRI) and the Net Zero Asset Owner Alliance (NZAOA).
+Responsible Investment.
 
 
 
@@ -266,7 +268,7 @@ the planning, financing, construction or operation of
 
 operation as at 31 December 2022 and
 
-• new oil fired power plants, which have not yet been under construction or operation as at 31
+• new oil-fired power plants, which have not yet been under construction or operation as at 31
 
 December 2022.
 
@@ -314,4 +316,4 @@ Frist published 2022/10/06
 
 
 
-Updated 2025/03/14
+Updated 2025/06/13
