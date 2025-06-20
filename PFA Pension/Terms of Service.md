@@ -44,7 +44,7 @@ If norm breaches occur or are suspected after the time of investment, we identif
    
 The exclusion criteria above are based on quantitative data points selected by PFA and supported by independent data suppliers. The quality of supplier data is therefore relevant to the effectiveness of the process. 
 
-You can read more about PFA’s approach to the exclusion of companies in [PFA’s guidelines for sustainability risks](https://english.pfa.dk/-/media/pfa-v2/english/documents/about-pfa/csr/guidelines-the-integration-of-sustainability-risks.pdf?rev=dafcd34744ae44f7b71cb4d4ff6d5f14)
+You can read more about PFA’s approach to the exclusion of companies in [PFA’s guidelines for sustainability risks](https://english.pfa.dk/-/media/pfa-v2/english/documents/about-pfa/csr/guidelines-the-integration-of-sustainability-risks.pdf?rev=8798a925c71749848dbc6ed69cacbdc6)
 
 For additional exclusion criteria applicable to PFA Climate Plus, please refer to [this page](https://english.pfa.dk/individual/savings/pfa-climate-plus)
 
