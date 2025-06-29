@@ -11,15 +11,16 @@ Chaque année, le FRR publie une liste d’exclusions validée par le Comité de
 * armes nucléaires, biologiques et chimiques ;
 * mines antipersonnel, armes à sous munitions.
 
-### Liste d'exclusions - juin 2024
+### Liste d'exclusions - juin 2025
 
 | Société | Pays |
 | --- | --- |
 | Aerospace Long-March International Trade Co., Ltd. | Chine |
 | Anhui GreatWall Military Industry Co., Ltd. | Chine |
 | China North Industries Corp. | Chine |
+| China North Industries Group Corp. Ltd. | Chine |
 | Compania Nationala ROMARM SA | Roumanie |
-| Defense Research & Développent Organization | Inde |
+| Defense Research & Development Organization | Inde |
 | Electromechanical Ordtech Ltd. | Grèce |
 | Global Industrial & Defence Solutions | Pakistan |
 | LIG Nex1 Co., Ltd. | Corée du Sud |
@@ -27,7 +28,6 @@ Chaque année, le FRR publie une liste d’exclusions validée par le Comité de
 | Nityanand Udyog Pvt Ltd. | Inde |
 | Poongsan Corp. | Corée du Sud |
 | POONGSAN HOLDINGS Corp. | Corée du Sud |
-| Rostec Corp. | Russie |
 | SNT DYNAMICS Co., Ltd. | Corée du Sud |
 | SNT Holdings Co., Ltd. | Corée du Sud |
 | The Day & Zimmermann Group, Inc. | États-Unis |
