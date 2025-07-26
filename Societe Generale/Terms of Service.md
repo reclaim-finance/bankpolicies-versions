@@ -1,4 +1,4 @@
-April 2025 Public Document
+July 2025 Public Document
 
 
 
@@ -594,7 +594,7 @@ eliminating Routine Flaring as soon as possible and no later than 2030.
 
 implemented best E\&S practices addressing the main relevant issues identified in the International Energy Agency
 
-“Golden Rules” .
+“Golden Rules”.
 
 • When operating in conflict-affected and high-risk areas, whether the client company has implemented measures
 
@@ -682,7 +682,11 @@ Ecuadorian Amazonian oil or oil from oil sands or other extra heavy oil.
 
 • trading of LNG cargo transporting LNG from North America into France.
 
-• production of first-generation biofuels.
+• production of biofuels using food and feed crops as feedstock, except where feedstock meets acceptable
+
+sustainability sourcing criteria.10
+
+
 
 • development, construction or expansion of upstream oil and gas operations located within a UNESCO World
 
@@ -732,15 +736,19 @@ o LNG facilities.
 
 flaring.
 
+
+
+10 See Glossary
+
+E\&S sector policy | Oil \& Gas | 11
+
+
+
 • When the activities associated with the transaction or service are located within, or with potential material
 
 impacts on Key Biodiversity Areas or protected areas, whether a third-party assessment of the potential impacts
 
 on biodiversity and related ecosystem services has been carried out. The assessment will have demonstrated that:
-
-E\&S sector policy | Oil \& Gas | 11
-
-
 
 o The client is implementing a mitigation strategy which prioritizes efforts to prevent or avoid adverse
 
@@ -816,6 +824,18 @@ E\&S sector policy | Oil \& Gas | 12
 
 
 
+• Acceptable sustainability sourcing criteria for biofuel feedstock include:
+
+i) Not produced from land with high biodiversity value, high carbon stocks, or peatland (pre-2008);
+
+ii) Not featuring high risk of land use change;
+
+iii) Compliant with other sustainability criteria within Societe Generale Industrial Agriculture and Forestry
+
+sector policy.
+
+
+
 • Arctic region: For the sake of this policy, the Arctic region is defined as the following:
 
 Offshore areas: “Arctic waters” as defined in the Convention on the Safety of Life at Sea (regulation XIV/1.3) and the
@@ -836,13 +856,11 @@ the indicators in this policy for a Company, reference must be made to its conso
 
 
 
-• First Generation Biofuels are biofuels produced from food crops by converting the sugar, starch or oil content
-
-into bioethanol or biodiesel.
-
-
-
 • Flaring is the open-air burning of natural gas.
+
+
+
+• Food and feed crops mean starch-rich crops, sugar crops or oil crops produced on agricultural land.
 
 
 
@@ -895,6 +913,8 @@ processes for recovery.
 amenable geology to re-inject the produced gas, utilize it on-site, or dispatch it to a market. (Source: Global Gas
 
 Flaring Reduction Partnership)
+
+E\&S sector policy | Oil \& Gas | 13
 
 
 
