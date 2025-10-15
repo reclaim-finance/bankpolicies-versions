@@ -8,7 +8,7 @@ hort
 
 CARMIGNAC’S EXCLUSION POLICY
 
-APRIL 2025
+OCTOBER 2025
 
 2
 
@@ -1250,7 +1250,7 @@ Exclusion Category Funds in scope
 
 
 
-Extended Thermal Coal
+Extended Thermal Coal\*
 
 
 
@@ -1269,6 +1269,8 @@ Carmignac Portfolio Human Xperience
 Carmignac Portfolio Grande Europe
 
 Carmignac Portfolio Patrimoine Europe
+
+Carmignac Portfolio Tech Solutions
 
 
 
@@ -1503,6 +1505,10 @@ FP Carmignac Emerging Markets
 Airlines Carmignac Emergents
 
 Carmignac Portfolio Emergents FP Carmignac Emerging Markets
+
+
+
+\*Extended Thermal Coal exclusions apply the requirements of the French and Belgian Sustainability labels
 
 17
 
