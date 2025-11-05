@@ -74,11 +74,11 @@ Institutional Shareholder Services (ISS). ISS categorizes controversies as red, 
 
 their severity. Our sustainable investment team carefully analyses these controversies, paying particular
 
-attention to the red ones. Through our proprietary analysis, we determine whether the controversy
+attention to issuers rated 9 (amber) and 10 (red) by ISS. Through our proprietary analysis, we determine
 
-should be lifted or if it warrants the exclusion of the issuer. Controversies may be lifted after internal
+whether the controversy should be lifted or if it warrants the exclusion of the issuer. Controversies may
 
-analysis in the following cases:
+be lifted after internal analysis in the following cases:
 
 - The controversy takes a side in a geopolitical conflict.
 
