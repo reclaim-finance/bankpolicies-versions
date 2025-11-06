@@ -1,256 +1,216 @@
-Politique relative à
+Novembre 2025
 
 
+
+Politique relative au charbon
 
 thermique
 
 
 
-Décembre 2024
+Aujourd’hui, comme nombre de nos clients, nous contribuons aux émissions de gaz à effet
 
+de serre. C’est pourquoi nous avons mis en place une stratégie visant à réduire nos propres
 
+émissions et à concevoir des solutions qui aident nos clients à investir de manière durable.
 
-Aujourd’hui, nous finançons un certain nombre d’industries qui contribuent aux émissions de
-
-gaz à effet de serre. Nous avons une stratégie pour réduire nos propres émissions et
-
-développer des solutions pour aider nos clients à investir de manière durable. Pour plus
-
-d’informations, visitez notre site : Pour plus d’informations, visitez:
+Pour plus d’informations, consultez le lien
 
 https://www.assetmanagement.hsbc.fr/fr/professional-investors/about-us/road-to-net-zero
 
-1
+1Introduction
 
 
 
-PUBLIC
+Nous sommes conscients que le changement climatique est un véritable défi pour nos
 
+clients dans le cadre de leurs investissements. Les risques engendrés par le climat peuvent
 
+détériorer le profil de risque et la performance financière des investissements sur différents
 
-Notre objectif de neutralité carbone
+horizons d'investissement.
 
+Cette politique a vocation à renforcer l'ambition « Net zero » (« Émissions nettes nulles ») du
 
+groupe HSBC et à contribuer à l'élimination progressive de l'énergie produite à partir du
 
-1\. La mise en œuvre de notre ambition de neutralité carbone et de notre objectif intermédiaire en matière d’émissions
+charbon thermique et de l'exploitation minière du charbon thermique (collectivement
 
-est soumise à l’approbation du conseil d’administration des fonds et/ou à l’accord des clients. Les actifs sous gestion
+« charbon thermique ») d'ici 2030/2040, conformément à la Politique de HSBC de sortie
 
-entrant dans le champ d’application de l’objectif NZAM incluent les actions cotées et les obligations privées gérées
+progressive du charbon thermique. Elle complète la politique Énergie1 de HSBC Asset
 
-par nos principales entités d’investissement au Royaume-Uni, à Hong Kong, en France, en Allemagne et aux États-
+Management, qui est mise à jour de temps à autre.
 
-Unis, dont le total s’élevait à 193,9 milliards de dollars fin 2019. L’objectif repose sur des hypothèses relatives aux
 
-marchés financiers et à d’autres données, notamment le scénario de « neutralité carbone » d’ici 2050 de l’AIE et ses
 
-hypothèses de croissance de l’activité sous-jacente. L’intensité des émissions carbone est mesurée en tCO2e/million
+1\. Pour en savoir plus sur les politiques relatives à l’investissement responsable, veuillez consulter la page « Politiques et informations » de notre site Internet
 
-de dollars investis, les émissions étant rapportées à la valeur de chaque entreprise, liquidités incluses. Les émissions
+public
 
-de scope 1 proviennent de sources détenues ou contrôlées par les entreprises en portefeuille ; les émissions de scope
+2Plan de sortie progressive du charbon thermique
 
-2 proviennent de l’utilisation de l’énergie achetée par ces entreprises. Notre objectif intermédiaire ne couvre pas les
 
-émissions du scope 3, qui sont toutes les autres émissions indirectes provenant des chaînes de valeur des entreprises
 
-en portefeuille.
+Remarques :
 
+2\. Les activités liées au charbon thermique sont définies comme l'extraction de charbon thermique et la production d'électricité à partir de charbon thermique.
 
+3. Le seuil de minimis est fixé à 2,5 % maximum des chiffres d'affaires des émetteurs.
 
-2\. Pour plus de détails sur les politiques relatives à l’investissement responsable, veuillez consulter la page « Politiques
+4\. L'OCDE désigne l'Organisation de coopération et de développement économiques.
 
-et informations » de notre site internet public
+5\. Les stratégies d’investissement durable et ESG de HSBC comprennent des fonds à impact ayant un objectif ESG ou durable, des fonds thématiques cherchant
 
+à investir dans les tendances ESG ou durables, et des stratégies ayant vocation à atténuer les risques ESG en investissant dans des actifs présentant un solide
 
+profil ESG et/ou en excluant ceux dont le profil ESG est moins bon. Les facteurs pris en compte par les stratégies peuvent notamment inclure le climat/la
 
-\* Les informations présentées concernent l’activité de HSBC Asset Management au niveau
+neutralité carbone et/ou les ODD des Nations unies. Pour éviter toute ambiguïté, ces actifs sélectionnés conformément aux stratégies ESG et d'investissement
 
-mondial. Nous attirons votre attention sur le fait que les chiffres présentés et les engagements
+durable ne sont pas nécessairement des « investissements durables » au sens du règlement SFDR ou d'autres réglementations applicables. Le cadre ESG et
 
-listés ne reflètent pas nécessairement directement ceux de HSBC Asset Management dans les
+d'investissement durable de HSBC est un système de classification interne servant à établir des normes ESG et d'investissement durable et à promouvoir la
 
-différentes juridictions.
+cohérence entre les classes d'actifs et les lignes métiers, le cas échéant. Il ne doit pas être utilisé pour évaluer les caractéristiques de durabilité d'un produit
 
+donné.
 
+6\. Le seuil d'exclusion peut être plus faible pour des fonds ESG et durables soumis à certaines réglementations locales.
 
-Nous sommes conscients que le changement climatique est un défi important pour nos
 
-clients dans le cadre de leurs investissements.
 
-C’est la raison pour laquelle, en tant qu’entreprise, HSBC Asset Management, la ligne
+1\. D'ici fin 2030, nous ne détiendrons plus dans nos portefeuilles gérés activement d'émetteurs dont
 
-métier globale de la gestion d’actifs au sein du groupe HSBC, dans laquelle s’inscrit
+l’exposition du chiffre d’affaires au charbon thermique2 dépasse le seuil de minimis3 sur les marchés de
 
-HSBC Global Asset Management (France), a pris un engagement stratégique en faveur
+l'UE/OCDE4.
 
-de l’initiative « Net Zero Asset Managers » (NZAM).
 
-En tant que signataires de cette initiative, nous nous engageons à travailler en
 
-partenariat avec nos clients sur des objectifs de décarbonation, conformément à notre
+2\. D'ici la fin 2040, nous ne détiendrons plus, dans nos portefeuilles gérés activement, de titres cotés
 
-ambition d'atteindre la neutralité carbone pour l'ensemble de nos actifs sous gestion d'ici
+d'émetteurs dont l'exposition du chiffre d’affaires au charbon thermique dépasse le seuil de minimis sur
 
-2050 au plus tard.
+l’ensemble des marchés.
 
-HSBC Asset Management, la ligne métier globale de la gestion d’actifs au sein du
 
-groupe HSBC, dans laquelle s’inscrit HSBC Global Asset Management (France), s’est fixé
 
-un objectif intermédiaire au niveau mondial : il vise une réduction de 58% d’ici 2030 de
+3\. Nous n’investissons pas directement dans des projets de charbon thermique nouveaux ou existants. Cela
 
-l’intensité des émissions de carbone (tCO2e/$Mn investi) à travers les émissions de
+comprend, sans s'y limiter : la création de nouvelles capacités liées au charbon thermique ; les projets
 
-scope 1 et 2 pour ces actifs (par rapport à 2019) 1 pour 38% du total des actifs sous
+d'expansion liés au charbon thermique ; l’extension de la durée de vie opérationnelle des actifs de charbon
 
-gestion (sur la base des chiffres de 2019). Pour piloter cet objectif intermédiaire, nous
+thermique existants sans dispositif de captage et stockage de CO2 ; les nouvelles centrales électriques
 
-avons choisi le cadre méthodologique du Net Zero Investment Framework de
+captives alimentées au charbon thermique ou les nouvelles mines de charbon thermique captives ; les
 
-l'Institutional Investor Group on Climate Change (IIGC). Nous appliquons en outre le
+nouvelles infrastructures liées au charbon thermique ou métallurgique ; les nouvelles mines de charbon
 
-scénario « Zéro émission nette » (Net Zero Emissions ou NZE) d’ici 2050 de l’Agence
+métallurgique ; les nouvelles usines de gazéification/liquéfaction du charbon et les mines de charbon
 
-internationale de l'énergie (AIE).
+thermique ou métallurgique utilisant le procédé « Mountaintop Removal » (exploitation minière à ciel ouvert
 
-Le groupe HSBC Asset Management reconnait la nécessité de mettre en place une
+usant de moyens modernes par ablation du sommet des montagnes). Les portefeuilles gérés activement ne
 
-transition vers une neutralité carbone qui soit stable, équitable et qui accompagne les
+participent ni aux introductions en bourse ni aux émissions sur les marchés obligataires primaires des
 
-populations les plus touchées. C’est pourquoi notre entité globale a signé la Déclaration
+émetteurs engagés dans des projets d’expansion liés au charbon thermique.
 
-d'engagement des investisseurs en faveur d’une transition juste en matière de
 
-changement climatique.
 
-Cette politique s’inscrit dans le cadre de l’engagement de notre groupe en faveur de
+Pour les autres émetteurs dont plus de 10 % du chiffre d’affaires est exposé au charbon thermique, toute
 
-l’initiative NZAM. Elle a été élaborée pour soutenir l'ambition de neutralité carbone du
+participation des portefeuilles gérés activement à des introductions en bourse ou à des émissions sur les
 
-Groupe HSBC et à contribuer à l’abandon des centrales thermiques au charbon et des
+marchés obligataires primaires fait l’objet d’une due diligence renforcée pour s’assurer que l’émetteur dispose
 
-mines de charbon thermique (collectivement « charbon thermique ») selon l’échéance
+d’un plan de transition crédible.
 
-2030/40 fixée dans la Politique d’élimination progressive du charbon thermique de
 
-HSBC. Elle complète notre propre Politique Energie 2 et vise à contribuer à la réalisation
 
-d’un double objectif : l’élimination progressive du charbon thermique au sein de nos
+Progressivement, nous nous séparerons des émetteurs dont les plans de transition sont jugés incompatibles
 
-investissement selon un calendrier compatible avec les données scientifiques et
+avec notre objectif de neutralité carbone
 
-également à la transition énergétique des économies les plus dépendantes du charbon.
 
-Ces politiques sont mises à jour périodiquement pour notamment être alignées sur
 
-l’évolution de nos engagements.
+4\. Nos gammes de fonds ESG et durables5 gérés activement excluent déjà les émetteurs dont plus de 10 % du
 
+chiffre d’affaires est exposé au charbon thermique6, sauf si l'émetteur dispose d'un plan de transition crédible,
 
-
-1
-
-2
-
-
-
-PUBLIC
-
-
-
-1. D’ici la fin 2030, nous nous engageons à ne plus détenir, dans nos portefeuilles
-
-de gestion active, des titres cotés d’émetteurs dont l’exposition du chiffre
-
-d’affaires au charbon thermique dépasse le seuil de minimis sur les marchés de
-
-l’UE/OCDE.
-
-2\. D’ici la fin 2040, nous nous engageons à ne plus détenir, dans nos portefeuilles
-
-de gestion active, de titres cotés d’émetteurs dont l’exposition du chiffre
-
-d’affaires au charbon thermique dépasse le seuil de minimis sur l’ensemble des
-
-marchés.
-
-Nous n’investissons pas directement dans des projets de charbon thermique
-
-nouveaux ou existants. Ces projets incluent, sans s’y limiter : la création de
-
-nouveaux actifs liés au charbon thermique ; les projets d’expansion liés au
-
-charbon thermique ; l’extension de la durée de vie opérationnelle des actifs de
-
-charbon thermique existants « sans dispositif de captage et stockage de CO2 » ;
-
-les nouvelles centrales électriques thermiques captives au charbon ou les
-
-nouvelles mines captives de charbon thermique ; les nouvelles infrastructures
-
-dédiées au charbon thermique ; les nouvelles mines de charbon métallurgique ;
-
-les nouvelles centrales de gazéification/liquéfaction du charbon et les nouvelles
-
-mines de charbon thermique ou métallurgique utilisant le procédé « Mountaintop
-
-Removal »(exploitation minière à ciel ouvert usant de moyens modernes par
-
-ablation du sommet des montagnes).
+tel que déterminé lors de la due diligence.
 
 
 
 Investissements
 
-
-
-3\. Nos portefeuilles de gestion active ne participent ni aux
-
-introductions en bourse ni aux émissions sur les marchés
-
-obligataires primaires des entreprises engagés dans des projets
-
-d’expansion liés au charbon thermique.
-
-Pour les autres émetteurs dont plus de 10 % du chiffre d’affaires
-
-est exposé au charbon thermique, toute participation des
-
-portefeuilles de gestion active à des introductions en bourse ou à
-
-des émissions sur les marchés obligataires primaires fait l’objet
-
-d’une due dilligence renforcée pour s’assurer que l’émetteur
-
-dispose d’un plan de transition crédible.
-
-Progressivement, nous nous séparerons des émetteurs dont les
-
-plans de transition sont jugés incompatibles avec notre objectif de
-
-neutralité carbone.
-
-4. Nos gammes de fonds durables gérés activement excluent déjà les
-
-émetteurs dont plus de 10 % du chiffre d’affaires est exposé au
-
-charbon thermique, sauf si l’émetteur dispose d’un plan de
-
-transition crédible.
+3Plan de sortie progressive du charbon thermique
 
 
 
-Élimination progressive du charbon thermique - un plan en dix points
+Remarques :
+
+7. Les émetteurs prioritaires sont répertoriés dans notre Plan d’engagement actionnarial (« Stewardship »).
 
 
 
-Cette politique est soumise à nos obligations légales et réglementaires envers nos clients.
+5\. Nous allons mener des due diligences renforcées sur les émetteurs de titres cotés détenus dans nos
 
-3
+portefeuilles de gestion active dont plus de 10 % du chiffre d’affaires est exposé au charbon thermique, en
+
+donnant la priorité à ceux qui sont les plus exposés. Compte tenu du temps qui reste avant 2040, nous savons
+
+que certaines entreprises non-membres de l'UE/OCDE n'ont peut-être pas encore annoncé de date de sortie
+
+progressive. Nous attendons toutefois qu'elles présentent des plans visant à mettre progressivement hors
+
+service leurs actifs liés au charbon thermique, tout en augmentant leurs investissements dans les technologies
+
+et les infrastructures propres, le cas échéant.
 
 
 
-PUBLIC
+6\. Notre approche repose notamment sur les échanges réguliers avec les entreprises concernant leurs plans
+
+de transition et l'évaluation de ces derniers. Nous continuons à dialoguer avec les émetteurs jugés prioritaires7,
+
+notamment ceux auxquels nous sommes les plus exposés. Nous avons initié un dialogue avec les émetteurs
+
+cotés figurant dans nos portefeuilles de gestion active et fondamentale dont plus de 10 % du chiffre d’affaires
+
+est exposé au charbon thermique et ceux dont plus de 10 % du chiffre d’affaires est exposé au charbon
+
+métallurgique.
+
+
+
+Nous chercherons également à établir un dialogue avec les émetteurs cotés figurant dans nos portefeuilles de
+
+gestion passive et active systématique dont plus de 10 % du chiffre d’affaires est exposé au charbon
+
+thermique ou métallurgique, sous réserve des contraintes relatives à la rotation des portefeuilles. Les
+
+émetteurs à contacter en priorité seront déterminés en fonction de leur poids dans les portefeuilles. Seront
+
+notamment ciblés ceux dont la communication sur les émissions est jugée insuffisante ou qui n’ont pas
+
+d’objectif public de neutralité carbone.
+
+
+
+7\. Nous pouvons être amenés à voter contre la réélection des membres concernés des conseils
+
+d’administration des entreprises cotées avec lesquelles nous dialoguons si elles tirent plus de 10 % de leur
+
+chiffre d'affaires du charbon thermique et ne fournissent pas de reporting conforme aux exigences du Groupe
+
+de travail sur la publication d'informations financières relatives au climat (TCFD) ou équivalents. Cette
+
+approche de vote s'applique aux émetteurs qui figurent dans nos portefeuilles passifs et actifs à gestion
+
+systématique et fondamentale, sous réserve des contraintes en matière de rotation.
 
 
 
@@ -258,442 +218,512 @@ Recherche et dialogue avec les entreprises
 
 
 
-5. Nous allons mener des analyses (« due diligence ») sur les émetteurs
+8\. Nous ne lancerons pas de nouveaux fonds indiciels cotés (ETF) ESG et durables à gestion passive ni de fonds
 
-cotés détenus dans nos portefeuilles de gestion active, qui ont plus de
+indiciels ESG et durables incluant des émetteurs ayant une exposition supérieure au seuil de minimis au charbon
 
-10 % de leur chiffre d’affaires provenant du charbon thermique ou
+thermique8, sauf si la stratégie du fonds/ETF passif concerné prévoit des objectifs spécifiques alignés sur l'Accord
 
-métallurgique, en donnant la priorité à ceux qui sont les plus exposés.
+de Paris9 et/ou dispose d’une trajectoire claire en matière de désinvestissement. Nous avons développé une
 
-Ces due diligence inclut l’évaluation du risque client et des plans de
+gamme d’ETF et de de fonds passifs bas-carbone et alignés sur l’Accord de Paris. Nous pourrons être amenés à
 
-transition des émetteurs, en prenant compte de plusieurs facteurs : leur
+dialoguer avec des fournisseurs d'indices et des organismes sectoriels afin d'élargir la gamme des indices et des
 
-niveau d’ambition en matière de réduction des émissions de gaz à effet de
+fonds passifs qui ne sont pas exposés au charbon thermique.
 
-serre ; la clarté de leur stratégie de transition (y compris leurs indicateurs,
 
-leur gouvernance et leurs objectifs) ; la cohérence des informations fournies
 
-; la crédibilité des hypothèses de réduction émises ; la réduction de la
+Fonds à gestion passive
 
-production d’électricité; et la prise en compte des principes d’une transition
 
-juste.
 
+9\. Nous continuons à discuter avec nos clients pouvoir savoir comment les aider au mieux à atteindre leurs
 
-
-6. Nous continuons à dialoguer avec les émetteurs, en donnant la
-
-priorité à ceux auxquels nous sommes les plus exposés. Nous avons
-
-initié un dialogue avec tous les émetteurs cotés figurant dans nos
-
-portefeuilles de gestion active et fondamentale dont plus de 10 % du chiffre
-
-d’affaires est exposé au charbon thermique ou dont plus de 10 % du chiffre
-
-d’affaires est exposé au charbon métallurgique. Dans nos portefeuilles de
-
-gestion passive et active systématique, nous fixerons une priorité de
-
-dialogue avec les émetteurs en fonction de leur poids dans le portefeuille et
-
-à ceux dont la communication sur les émissions est jugée insuffisante et/ou
-
-qui n’ont pas d’objectif public de neutralité carbone. Nous engagerons un
-
-dialogue avec tous les émetteurs cotés détenus dans ces portefeuilles et
-
-dont plus de 10 % du chiffre d’affaires est exposé au charbon thermique ou
-
-métallurgique d’ici la fin 2025, sous réserve des contraintes relatives à la
-
-rotation des portefeuilles.
-
-
-
-7. Dans les stratégies de gestion active fondamentale, à mesure que nous
-
-renforcerons l’engagement et le dialogue avec les entreprises, nous voterons
-
-contre la réélection des présidents des conseils d’administration des sociétés
-
-cotées dont plus de 10 % du chiffre d’affaires est exposé au charbon
-
-thermique et qui ne fournissent pas de reporting conforme aux exigences de
-
-la Task Force on Climate Related Financial Disclosures (TCFD) ou
-
-équivalents. Nous voterons également contre les conseils d’administration
-
-lorsque les plans de transition sont jugés insuffisants malgré le dialogue
-
-établi. Nous avons l’intention d’étendre cette politique de vote aux sociétés
-
-avec lesquelles nous dialoguons et qui figure dans nos portefeuilles de
-
-gestion passive et active systématique d’ici la fin de l’année 2025, sous
-
-réserve des contraintes relatives à la rotation des portefeuilles. Pour les votes
-
-concernant les entreprises évoluant dans des secteurs à forte intensité en
-
-carbone, nous utilisons déjà les scores de la Transition Pathway Initiative
-
-(TPI)\*, en plus d’autres recherches internes et externes, pour évaluer les
-
-progrès des sociétés en matière de transition, en plus de notre propre
-
-analyse. Nous pouvons par exemple être amenés à voter contre la réélection
-
-du président ou de l’administrateur concerné du conseil d’administration des
-
-entreprises exposées au charbon thermique.
-
-
-
-3
-
-
-
-1\. La Transition Pathway Initiative (TPI) évalue les entreprises sur deux plans à partir d'informations accessibles au
-
-public (la gouvernance climatique et les émissions carbone) et leur attribue une note globale allant de 0 (absence de
-
-prise en compte) à 4 (évaluation stratégique). L'outil en ligne de la TPI est accessible au public ici :
-
-https://www.transitionpathwayinitiative.org/sectors
-
-4
-
-
-
-PUBLIC
-
-
-
-Fonds de gestion passive
-
-
-
-8\. Nous ne lancerons pas de nouveaux ETF et fonds indiciels incluant des émetteurs
-
-dont l’exposition au charbon thermique est supérieure à un seuilde minimis, sauf si
-
-la stratégie de l’ETF ou du fonds concerné vise un objectif d’alignement avec l’Accord
-
-de Paris et/ou suive une trajectoire de désinvestissement claire. Nous allons continuer à
-
-développer notre gamme d’ETF et de fonds indiciels bas-carbone et alignés sur l’Accord
-
-de Paris.
+propres objectifs climatiques, le cas échéant.
 
 
 
 Clients
 
+4Application
 
 
-9. Nous continuons à dialoguer avec nos clients afin de les informer et de soutenir leurs
 
-propres engagements envers la neutralité carbone.
+L'application de cette politique reste soumise au respect des lois et réglementations locales.
 
 
 
-◆ Nous allons travailler avec des fournisseurs
+Cette politique sera révisée au moins une fois par an. Chaque année, HSBC Asset Management rendra compte des progrès
 
-d’indices pour étoffer la gamme d’indices et
+réalisés en lien avec les programmes et les politiques portant sur l'objectif « zéro émission nette d'ici 2050 » du groupe HSBC.
 
-de produits de gestion passive qui ne sont
 
-pas exposés au charbon thermique. À
 
-mesure que la transition vers une économie
+Lorsque nous n’avons pas la totale maîtrise d’un portefeuille ou une forme de contrôle sur le conseil d'administration/le
 
-neutre en carbone progresse, nous pensons
+capital, les engagements inclus dans la présente politique sont soumis à l'approbation du client, du responsable de la
 
-que l’exposition au charbon thermique de
+gestion du fonds et des autorités réglementaires. Cette procédure peut concerner les coentreprises, les fonds dont le conseil
 
-tous les indices diminuera.
+d’administration est contrôlé par des membres indépendants et les mandats dédiés des clients. Cette politique ne couvre
 
+pas l'Inde en tant qu'entité contrôlée par des administrateurs indépendants, ni les fonds de Chine continentale gérés via nos
 
+coentreprises, en raison de calendriers nationaux différents et de pratiques locales en matière de gouvernance.
 
-◆ Nous pourrons être amenés à passer en
 
-revue d’autres classes d’actifs en temps
 
-voulu conformément aux engagements pris
+Ces engagements s’appliquent à tous nos portefeuilles de gestion active, à l’exception de certains portefeuilles d’actifs
 
-dans le cadre de l’initiative NZAM.
+alternatifs ou autres pour lesquels nous ne disposons pas d’un pouvoir discrétionnaire exclusif.
 
 
 
-Mesures complémentaires
+Notre engagement en faveur de l'élimination progressive du charbon thermique ne s'applique pas aux ETF et aux fonds
 
-5
+indiciels passifs. Sous réserve des exigences réglementaires, les dernières versions de la politique pourraient être appliquées
 
+aux fonds lancés après septembre 2022, date à laquelle la politique relative au charbon thermique a été mise en place.
 
 
-PUBLIC
 
+Les stratégies diversifiées (multi asset) ou de fonds de fonds recourant à des fonds tiers peuvent ne pas être en mesure de
 
+mettre en œuvre certains aspects de cette politique. Autrement dit, ces fonds peuvent être exposés à des émetteurs qui
 
-◆ La politique sera réexaminée chaque année afin de prendre en compte l’évolution des principaux
+dans d’autres circonstances seraient exclus. Les stratégies diversifiées (multi asset) ou de fonds de fonds avec un biais ESG
 
-facteurs extérieurs et leurs impacts sur nos engagements (par exemple, les changements dans
+ou d’investissement responsable recherchent des fonds présentant des restrictions concordantes ou similaires.
 
-l'évaluation scientifique de l'impact du changement climatique, les trajectoires de transition, les risques
 
-futurs, les réformes réglementaires et gouvernementales). Les progrès globaux réalisés dans le cadre de
 
-nos engagements envers l’initiative Net Zero Asset Manager feront l’objet d’un rapport qui reflétera
+Nous utilisons les informations collectées auprès de fournisseurs de données extérieurs pour surveiller l’exposition des
 
-l’impact de cette politique, ainsi que d’autres facteurs.
+émetteurs à certaines activités et/ou les violations des normes en vigueur. Nous évaluons certes les fournisseurs dans le
 
+cadre d’un contrôle continu, mais il est impossible de garantir l’exactitude, l’exhaustivité, la qualité de leur jugement ou l’à-
 
+propos de leurs données. Nous pouvons ne pas tenir compte de leurs données ou de leurs notations lorsque notre propre
 
-◆ Dans le cadre de la fourniture du service de gestion de portefeuille pour compte de tiers (ou gestion
+due diligence suggère qu’elles peuvent être inexactes, incomplètes ou disproportionnées.
 
-sous mandat) ou de Fonds ou SICAV d’épargne salariale, les engagements inclus dans cette politique
 
-sont soumis à l’approbation du client et de l’administrateur du fonds.
 
+Notre activité de vote couvre toutes les positions en actions détenues dans des portefeuilles gérés par nos bureaux du
 
+Royaume-Uni, de France, de Hong Kong, de Singapour, de Malte et d’Inde — qu’il s’agisse de portefeuilles de gestion active
 
-◆ Ces engagements s’appliquent à tous nos portefeuilles de gestion active, à l’exception de certains
+fondamentale, de gestion active systématique ou passifs — pour lesquelles nous disposons d’un pouvoir discrétionnaire de
 
-portefeuilles d’actifs alternatifs ou des portefeuilles pour lesquels nous ne disposons pas d’un pouvoir
+vote. Certains engagements mentionnés dans cette politique dépendent en effet de la couverture des données des
 
-de gestion discrétionnaire exclusif.
+prestataires extérieurs et de notre capacité à prendre en compte d’autres facteurs. Nos historiques de vote sont disponibles
 
+en ligne.
 
 
-◆ Les stratégies multi-asset ou de fonds de fonds utilisant des fonds tiers, systématiques ou passifs
 
-peuvent ne pas être en mesure de mettre en œuvre certains aspects de cette politique, avec une
+Pour en savoir plus sur notre engagement en matière de changement climatique, consultez notre plan d’Engagement
 
-exposition potentiellement limitée à des émetteurs qui seraient autrement exclus. Les stratégies
+actionnarial ») (« Stewardship »).
 
-durables multi-asset ou de fonds de fonds recherchent des fonds avec des restrictions alignées ou
 
-similaires lorsqu’ils sont disponibles.
 
-◆ Nous savons que les entreprises publiques des marchés hors UE/OCDE peuvent être soumises à des
+Les nouveaux investissements dans les actifs «Buy and Maintain » et «Buy and Hold » seront évalués conformément à
 
-cycles de planification nationaux différents et nous tenons compte des calendriers prévus si cela s’avère
+cette politique. Les actifs existants seront gérés dans l’intérêt du client, ce qui peut impliquer une obligation de détention
 
-nécessaire. Ces émetteurs font l'objet d'une due diligence renforcée afin de vérifier que la planification
+jusqu’à l’échéance en cas d’obligation fiduciaire ou réglementaire allant dans ce sens.
 
-de leur transition progresse de manière satisfaisante. Cela n'aura pas d'incidence sur la sortie
 
-progressive des investissements dans nos portefeuilles de gestion active prévue d’ici 2040.
 
+Le Groupe HSBC applique, le cas échéant, les exigences existantes et nouvelles en matière d’intégration clients définies
 
+dans la Politique d’élimination progressive du charbon thermique de HSBC, dans le cadre de son processus d’intégration
 
-◆ Cette politique est appliquée au niveau de chaque émetteur. Lorsque les émetteurs font partie d’un
+des clients de la gestion d’actifs.
 
-groupe plus large, nous prenons en compte les activités (dont la crédibilité des plans de transition) du
 
-groupe et appliquons notre politique de manière appropriée.
 
+La supervision de l'application de cette politique fait partie intégrante de notre dispositif de gouvernance
 
+et de gestion des risques. Des comités de gouvernance officiels aux niveaux mondial et local contribuent
 
-◆ La référence aux chiffres d’affaires exposés à plus de 10 % vise à identifier les émetteurs ayant une
+à l’adoption de cette politique. La phase de mise en œuvre pourra être déployée au niveau des classes
 
-exposition significative au charbon thermique ou métallurgique. Lorsque les entreprises dépassent ce
+d’actifs, avec l’aide d’autres fonctions d’investissement et métiers.
 
-niveau en raison d’une évolution des prix des matières premières ou d’autres facteurs allant au-delà
+5Abréviations et glossaire
 
-d’une augmentation de la production, nous pouvons aménager ce seuil.
 
 
+C
 
-◆ Nous utilisons les informations collectées auprès de fournisseurs de données extérieurs pour surveiller
 
-l'exposition des émetteurs à certaines activités et/ou les violations des normes en vigueur. Bien que
 
-nous évaluions les fournisseurs de données externes dans le cadre d’un suivi continu, nous ne pouvons
+Centrales au charbon
 
-pas garantir l’exactitude, l’exhaustivité, la qualité de leur opinion ou de la bonne mise à jour de leurs
+thermique Centrales thermiques qui brûlent du charbon pour produire de l'électricité.
 
-données. Nous pouvons ne pas tenir compte de leurs données ou de leurs notations lorsque notre
 
-analyse interne suggère qu’elles peuvent être inexactes, incomplètes ou disproportionnées.
 
+Centrales électriques
 
+captives alimentées
 
-◆ Notre activité de vote couvre toutes les positions actions gérées dans nos principaux centres
+au charbon
 
-d’investissement au Royaume-Uni, à Hong Kong, en France, en Allemagne et aux États-Unis - qu’il
+thermique
 
-s’agisse de portefeuilles de gestion active fondamentale, de gestion active systématique ou passive -
 
-pour lesquelles nous disposons d’un pouvoir discrétionnaire de vote, certains engagements mentionnés
 
-dans cette politique étant dépendants de la couverture des données des prestataires extérieurs et de
+Centrales électriques fonctionnant au charbon thermique dédiées à un projet ou à un site industriel spécifique, comme une fonderie
 
-notre capacité à prendre en compte d’autres facteurs. Nos registres de vote sont disponibles en ligne
+d'aluminium, une aciérie ou une cimenterie, et dont la majeure partie de la production d'électricité est destinée à l'usage interne du
 
-sur notre site internet.
+client.
 
 
 
-Application
+E
 
-6
 
 
+Expansion de
 
-PUBLIC
+l’activité liée au
 
+charbon thermique
 
 
-Application (suite)
 
+Dans le domaine de l'extraction du charbon thermique, augmentation du tonnage total de charbon thermique extrait ; dans le domaine
 
+de l'énergie à base de charbon thermique, augmentation de la capacité opérationnelle nette de production d'énergie à partir du charbon
 
-◆ De plus amples informations sur notre engagement en matière de changement climatique sont
+thermique. Dans chaque cas, l’expansion correspond à une augmentation globale absolue plutôt qu’à une augmentation au niveau des
 
-disponibles dans notre plan d’engagement actionnarial.
+émetteurs en raison de fusions-acquisitions ; et l’actif ne bénéficiait pas encore d’un engagement contractuel (via un accord d’achat
 
+d’électricité pour la production d’électricité au charbon thermique) ou n’était pas encore en construction, avant le 1er janvier 2021.
 
 
-◆ Les nouveaux investissements dans les actifs « Buy and Maintain » et « Buy and Hold » seront évalués
 
-conformément à cette politique. Les actifs existants seront gérés dans l’intérêt du client, ce qui peut
+I
 
-impliquer une obligation de détention jusqu’à l’échéance en cas d’obligation réglementaire allant dans
 
-ce sens.
 
+Infrastructures liées
 
+au charbon
 
-◆ Le Groupe HSBC applique, le cas échéant, les exigences existantes et nouvelles en matière d’acquisition
+thermique ou
 
-de nouveaux clients définies dans la Politique d’élimination progressive du charbon thermique de HSBC,
+métallurgique
 
-dans le cadre de son processus d’acquisition de clients de la gestion d’actifs.
 
 
+Infrastructures destinées à prendre en charge des actifs liés au charbon thermique ou métallurgique, comme les terminaux ou les
 
-◆ L’application de cette politique est supervisée par HSBC Asset Management via sa structure de
+chemins de fer charbonniers.
 
-gouvernance et de risque, qui comprend des comités de gouvernance formels au niveau mondial et
 
-local. La phase de mise en œuvre pourra être déployée au niveau des classes d’actifs, avec l’aide
 
-d’autres fonctions d’investissement et métiers
+M
 
 
 
-◆ Pour les portefeuilles dit non durables, la due diligence sert à comprendre les plans de transition des
+Mines de charbon
 
-émetteurs et contribue à nos opinions d’investissement et à nos objectifs d’engagement. La due
+thermique captives
 
-diligence et la due diligence renforcée sont contrôlées par les Comités d’investissement ESG des
+Mines fournissant du charbon thermique exclusivement à des centrales électriques captives alimentées au charbon thermique. Les
 
-différentes classes d’actifs ou par d’autres fonctions d’investissement déléguées, supervisées par notre
+mines de charbon détenues, contrôlées ou exploitées par une société de production d'électricité qui alimente un réseau électrique ne
 
-Comité d’investissement ESG. Le contexte national et régional ainsi que d’autres risques menaçant les
+sont pas considérées comme des mines de charbon captives au sens de la présente politique.
 
-plans de transition pourront être pris en compte.
 
 
+« Mountaintop
 
-◆ Au-delà de 2030, les portefeuilles investis sur les marchés émergents pourront exceptionnellement
+Removal »
 
-continuer à détenir des émetteurs exposés au charbon thermique sur les quelques marchés de l’OCDE
+(Arasement des
 
-faisant partie des indices de référence des portefeuilles des marchés émergents.
+sommets)
 
-7
+Forme d'exploitation minière à ciel ouvert au sommet ou sur la crête d'une montagne.
 
 
 
-PUBLIC
+N
 
 
 
-Les portefeuilles de gestion active incluent :
+Nouveaux actifs liés
 
+au charbon
 
+thermique
 
-◆ les portefeuilles/fonds de gestion active fondamentale - portefeuilles/fonds gérés selon un processus
+Les nouveaux actifs liés au charbon thermique désignent les nouvelles mines de charbon thermique, les nouvelles centrales électriques
 
-d’investissement actif et fondamental.
+au charbon thermique et les nouvelles usines de gazéification/liquéfaction du charbon.
 
 
 
-◆ les portefeuilles/fonds de gestion active systématique - portefeuilles/fonds gérés selon un processus
+Nouvelles centrales à
 
-d’investissement quantitatif
+base de charbon
 
-les portefeuilles/produits de gestion passive - portefeuilles/produits gérés de manière à répliquer un
+thermique
 
-indice.
 
-De minimis - notre intention est d’exclure de nos investissements les entreprises engagées dans
 
-l’extraction du charbon thermique ou dans la production d’électricité thermique à partir du charbon.
+Les nouvelles centrales électriques au charbon thermique désignent :
 
-Conformément aux méthodes standards sur les exclusions éthiques, nous appliquerons un seuilde minimis
 
-de bonne foi pour contribuer à la crédibilité de notre politique. Ce seuil serait fixé à un maximum de 2,5 %
 
-des chiffres d’affaires des émetteurs dans le cadre des portefeuilles de gestion active et également pour les
+• la création de nouvelles centrales électriques au charbon thermique ; ou
 
-nouveaux fonds indiciels et ETF passifs.
 
-Projets d’expansion liés au charbon thermique - en matière d’extraction de charbon thermique,
 
-augmentation du tonnage total de charbon thermique extrait ; en matière de production d’électricité
+• l’agrandissement de centrales au charbon thermique existantes (sauf en cas de conversion d’un actif afin de réduire nettement les
 
-thermique à partir du charbon, augmentation de la capacité opérationnelle nette de la production
+émissions de gaz à effet de serre)
 
-d’électricité à partir du charbon thermique. Dans chaque cas, le développement (1) fait référence à des
 
-augmentations globales absolues plutôt qu’à des augmentations relatives à des émetteurs à la suite de
 
-fusions et d’acquisitions d’entreprises et (2) n’était pas déjà validé de manière contractuelle (via un accord
-
-d’achat d’électricité pour la production d’électricité thermique au charbon) ou en cours de construction,
+qui soit : a) ne bénéficiaient pas encore d’un engagement contractuel soit b) qui n’étaient pas encore en construction, dans chaque cas
 
 avant le 1er janvier 2021.
 
 
 
-Glossaire
+Nouvelles
 
-8
+infrastructures
 
+dédiées au charbon
 
+thermique ou
 
-PUBLIC
-
-
-
-Information importante
+métallurgique
 
 
 
-HSBC Asset Management est la marque commerciale de l'activité de gestion d'actifs du Groupe HSBC, qui comprend les activités
-
-d'investissement fournies par nos entités locales réglementées.
-
-HSBC Global Asset Management (France) - 421 345 489 RCS Nanterre. S.A au capital de 8.050.320 euros.
-
-Société de Gestion de Portefeuille agréée par l'Autorité des Marchés Financiers (n° GP99026)
-
-Adresse postale : 38 avenue Kléber 75116 PARIS
-
-Siège social : Immeuble Coeur Défense | 110, esplanade du Général de Gaulle - La Défense 4 - 92400 Courbevoie - France
-
-www.assetmanagement.hsbc.fr
-
-Document non contractuel, mis à jour en décembre 2024.
+Les nouvelles infrastructures fonctionnant au charbon thermique ou métallurgique correspondent :
 
 
 
-Copyright : Tous droits réservés © HSBC Global Asset Management (France), AMFR_2024_ESG_ESG_0011. Expires: 03/2025
+• à la création d'infrastructures dédiées au charbon thermique ou métallurgique ; ou
+
+
+
+• à l’agrandissement d’infrastructures existantes liées au charbon thermique ou métallurgique (sauf en cas de conversion d’un actif afin
+
+de réduire nettement les émissions de gaz à effet de serre)
+
+
+
+qui soit : a) ne bénéficiaient pas encore d’un engagement contractuel soit b) qui n’étaient pas encore en construction, dans chaque cas
+
+avant le 1er janvier 2021.
+
+
+
+Nouvelles mines de
+
+charbon
+
+métallurgique :
+
+
+
+Les nouvelles mines de charbon métallurgique correspondent :
+
+
+
+• à la création et la commercialisation de nouvelles mines de charbon métallurgique ou d'équipements d’envergure destinés à de
+
+nouvelles mines de charbon métallurgique ; ou
+
+
+
+• à l’agrandissement de mines de charbon métallurgique existantes qui couvrent des sites géographiquement éloignés.
+
+
+
+qui soit : a) ne bénéficiaient pas encore d’un engagement contractuel soit b) qui n’étaient pas encore en construction, dans chaque cas
+
+avant le 1er janvier 2021.
+
+
+
+Nouvelle usine de
+
+gazéification/liquéfacti
+
+on du charbon :
+
+
+
+Une nouvelle usine de gazéification/liquéfaction du charbon correspond :
+
+
+
+• à la création de nouvelles usines de gazéification/liquéfaction du charbon ; ou
+
+
+
+• à l’agrandissement d'usines existantes de gazéification/liquéfaction du charbon (sauf en cas de conversion d’un actif afin de réduire
+
+nettement les émissions de gaz à effet de serre)
+
+
+
+qui soit : a) ne bénéficiaient pas encore d’un engagement contractuel soit b) qui n’étaient pas encore en construction, dans chaque cas
+
+avant le 1er janvier 2021.
+
+6Abréviations et glossaire
+
+
+
+T
+
+
+
+Technologies ou
+
+infrastructures propres
+
+
+
+Technologies ou infrastructures propres permettant de réduire les émissions de gaz à effet de serre à zéro, notamment :
+
+
+
+• conversion de centrales électriques avec remplacement des combustibles fossiles par des combustibles décarbonés (par ex.
+
+hydrogène renouvelable, ammoniac et autres technologies novatrices) ;
+
+• énergies renouvelables ;
+
+• technologies d'élimination du carbone comme le captage et le stockage du carbone (CSC) ; ou
+
+
+
+• réduction ou élimination des émissions de scope 1 et 2, y compris le méthane.
+
+
+
+U
+
+
+
+Usine de gazéification/
+
+liquéfaction du
+
+charbon
+
+
+
+Usine ou installation industrielle qui transforme le charbon en gaz de houille, en hydrocarbures liquides, en combustibles
+
+liquides ou en produits pétrochimiques. Cette catégorie comprend notamment la gazéification du charbon pour la
+
+production d'hydrogène.
+
+7Information importante
+
+
+
+La présente politique vise à informer nos contreparties externes sur l’approche globale de HSBC Asset
+
+Management (HSBC AM) concernant la politique relative au charbon thermique. Elle est rendue publique à titre
+
+informatif uniquement et les entités de HSBC AM ne prennent aucun engagement et n’encourent aucune
+
+responsabilité envers des tiers à cet égard. Le champ d’application de la politique aux activités de HSBC AM est
+
+précisé dans la politique elle-même. Les clients doivent se référer à la documentation règlementaire des produits
+
+pour connaître les politiques et les critères d’investissement régissant le produit concerné.
+
+
+
+Pour les évaluations et appréciations décrites dans la politique, HSBC AM utilisera les informations qu’elle juge
+
+nécessaires et pertinentes à sa seule discrétion. Aucun engagement ou garantie, expresse ou implicite, n’est
+
+fourni par HSBC AM concernant : (i) l’équité, l’exactitude ou l’exhaustivité de la politique ; (ii) les données utilisées
+
+pour répondre aux exigences de la politique ou de toute politique sous-jacente ; (iii) l’application ou
+
+l’interprétation des exigences ; ou (iv) la réalisation d’éventuelles déclarations prospectives.
+
+
+
+HSBC AM se réserve le droit, sans justification, de modifier la politique à tout moment. L’application des
+
+politiques de HSBC AM reste soumise au respect des lois et réglementations applicables.
+
+
+
+HSBC Asset Management est la marque commerciale de l’activité de gestion d’actifs du Groupe HSBC, qui inclut
+
+les activités d’investissement pouvant être fournies par nos entités locales régulées. Cette politique est publiée
+
+par les entités suivantes :
+
+• en France par HSBC Global Asset Management (France), une société de gestion de portefeuille agréée
+
+par l’autorité de régulation française AMF (n° GP99026) ;
+
+• en Allemagne par HSBC Global Asset Management (Deutschland) GmbH, qui est régulée par BaFin ;
+
+• à Hong Kong par HSBC Global Asset Management (Hong Kong) Limited, qui est régulée par la
+
+Securities and Futures Commission ;
+
+• au Royaume-Uni par HSBC Global Asset Management (UK) Limited et HSBC Alternative Investment
+
+Limited, qui sont autorisées et régulées par la Financial Conduct Authority ;
+
+• aux États-Unis par HSBC Global Asset Management (USA) Inc., qui est un conseiller en investissement
+
+enregistré auprès de la US Securities and Exchange Commission ;
+
+• à Singapour par HSBC Global Asset Management (Singapore) Limited, qui est régulée par la Monetary
+
+Authority of Singapore ;
+
+• à Taïwan par HSBC Global Asset Management (Taiwan) Limited, qui est régulée par la Financial
+
+Supervisory Commission R.O.C ;
+
+• au Mexique par HSBC Global Asset Management (Mexico), SA de CV, Sociedad Operadora de Fondos
+
+de Inversión, Grupo Financiero HSBC, qui est régulée par la Comisión Nacional Bancaria y de Valores ;
+
+• en Suisse par HSBC Global Asset Management (Switzerland) AG ;
+
+• aux Bermudes par HSBC Global Asset Management (Bermuda) Limited, située au 37 Front Street,
+
+Hamilton, Bermuda, qui est autorisée à exercer des activités d’investissement par la Bermuda Monetary Authority
+
+;
+
+• à Malte par HSBC Global Asset Management (Malta) Limited, qui est régulée et autorisée à fournir des
+
+services d’investissement par la Malta Financial Services Authority en vertu de l’Investment Services Act ;
+
+• au Japon par HSBC Asset Management Japan Limited ;
+
+• en Turquie par HSBC Asset Management A.S. Turkiye (AMTU), qui est régulée par le Capital Markets
+
+Board of Turkiye.
