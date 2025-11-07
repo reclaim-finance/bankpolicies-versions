@@ -1,6 +1,9 @@
 Exclusion of Companies and Countries
 ====================================
 
+Exclusion of Companies and Countries
+====================================
+
 Exclusion of companies and countries
 ------------------------------------
 
