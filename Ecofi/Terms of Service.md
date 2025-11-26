@@ -342,7 +342,7 @@ Téléchargez nos contenus en un clic
 
 ### Déclaration PRI
 
-2 Mo
+810 Ko
 
 [Télécharger](https://www.ecofi.fr/telecharger/pub/2272/declaration-pri)
 
@@ -354,7 +354,7 @@ Téléchargez nos contenus en un clic
 
 ### Note PRI
 
-1 Mo
+458 Ko
 
 [Télécharger](https://www.ecofi.fr/telecharger/pub/2271/note-pri)
 
