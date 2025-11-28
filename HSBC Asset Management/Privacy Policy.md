@@ -154,6 +154,10 @@ Remarques :
 
 7. Les émetteurs prioritaires sont répertoriés dans notre Plan d’engagement actionnarial (« Stewardship »).
 
+8. Basé sur la source de données du fournisseur d'indice.
+
+9. Fait référence au Paris Aligned Benchmark (PAB) défini par le règlement européen sur les indices de référence.
+
 
 
 5\. Nous allons mener des due diligences renforcées sur les émetteurs de titres cotés détenus dans nos
