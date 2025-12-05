@@ -1,1710 +1,2128 @@
-Group Responsible
+Group Responsible Financing Policy
 
-Financing Policy
 
-May, 2024
 
-Page: 1/26
+Disclosure: Public
 
 
 
-Contents
+Classification Level: A
 
 
 
-1 Introduction ......................................................................................................................................................... 2
+Version: 5.0
 
-1.1 Responsibilities and Responsible Financing Policy Process .............................................................. 3
 
-1.2 Areas of Concern .......................................................................................................................................... 4
 
-1.3 Responsible Financing Country Index...................................................................................................... 5
+Effective Date: 2025-12-01
 
-2 Defense/Weapons Industry ............................................................................................................................. 6
 
-2.1 Defense/Weapons Industry Objectives ................................................................................................... 6
 
-2.2 Defense/Weapons Industry Scope ........................................................................................................... 6
+The current version of this document is held electronically in the intranet.
 
-2.3 Defense/Weapons Industry Guidelines/Criteria .................................................................................... 7
+This printout is not subject to an update service
 
-2.4 Weapon Categorization ............................................................................................................................... 7
+EG_A_40017 Erste Group
 
-2.4.1 Decision Grid for Defense/Weapons Industry........................................................................... 9
 
-3 Energy Sector.................................................................................................................................................... 10
 
-3.1 Energy Sector Objectives ......................................................................................................................... 10
+Date: 10/2025
 
-3.2 Energy Sector Scope ................................................................................................................................. 10
+Page: 2/30
 
-3.3 Energy Sector General Guidelines/Criteria ........................................................................................... 11
+Public
 
-3.4 Fossil Fuels (Oil \& Gas) .............................................................................................................................. 11
 
-3.4.1 Oil Sand/Tar Sand .......................................................................................................................... 12
 
-3.4.2 Arctic Oil \& Gas ............................................................................................................................... 13
+Group Responsible Financing Policy
 
-3.5 Thermal Coal ................................................................................................................................................ 13
+Table of Contents
 
-3.6 Nuclear........................................................................................................................................................... 15
 
-3.7 Renewables .................................................................................................................................................. 16
 
-3.7.1 Biofuels/Biomass............................................................................................................................ 16
+1 General ........................................................................................................................................ 3
 
-3.7.2 Hydro Power and Other Renewables ........................................................................................ 17
+1.1 Objective................................................................................................................................... 3
 
-3.8 Energy Sector Decision Grid .................................................................................................................... 18
+1.2 Scope........................................................................................................................................ 3
 
-4 Biodiversity ........................................................................................................................................................ 19
+2 Overview of Functional Roles and Responsibilities .................................................................... 5
 
-4.1 Land and Soil Management ...................................................................................................................... 19
+2.1 Group Functional Roles ............................................................................................................ 5
 
-4.2 Deforestation ............................................................................................................................................... 20
+2.1.1 Policy Owner...................................................................................................................... 5
 
-4.3 Water quality and reuse in agriculture ................................................................................................... 20
+2.1.2 First and second line of control ........................................................................................ 5
 
-4.4 Biodiversity Decision Grid ......................................................................................................................... 20
+3 Responsible Financing Policy Process ....................................................................................... 6
 
-5 Gaming and Gambling Sector ....................................................................................................................... 22
+3.1 Criteria Categories ................................................................................................................... 6
 
-5.1 Gaming Sector Scope ................................................................................................................................ 22
+3.2 Process Steps........................................................................................................................... 6
 
-5.2 Financing Rules............................................................................................................................................ 23
+3.3 Non-Financial Risk – Country Index ......................................................................................... 7
 
-Page: 2/26
+4 Defense Sector............................................................................................................................ 8
 
+4.1 Defense Sector – Objectives.................................................................................................... 8
 
+4.2 Defense Sector – Scope........................................................................................................... 8
 
-1 Introduction
+4.3 Defense Sector – Guidelines .................................................................................................... 9
 
+4.3.1 Weapon Categorization................................................................................................... 10
 
+4.3.2 Defense Sector – Decision Grid ...................................................................................... 12
 
-Erste Group is one of the largest financial services providers in Central and Eastern Europe (CEE),
+5 Energy Sector............................................................................................................................ 13
 
-with a strong focus on Retail, SME (Small and Medium-sized Enterprises), Corporate and Debt
+5.1 Energy Sector – Objectives.................................................................................................... 13
 
-Capital Markets businesses.
+5.2 Energy Sector – Scope........................................................................................................... 13
 
+5.3 Energy Sector – Guidelines .................................................................................................... 14
 
+5.4 Fossil Fuels (Oil \& Gas)........................................................................................................... 14
 
-Sustainable finance is not only a business opportunity, but a crucial enabler of the green transition
+5.4.1 Definition of Unconventional Methods ........................................................................... 15
 
-(EU Green Deal). Erste Group has committed to drive this transition to a green economy which
+5.4.1.1 Oil Sand / Tar Sand.......................................................................................................... 15
 
-requires a firm financial commitment and a clear portfolio transition pathway aligned with the Paris
+5.4.1.2 Arctic Oil \& Gas................................................................................................................ 15
 
-Agreement. The Responsible Financing Policy shall mitigate the risk of indirectly contributing to
+5.4.1.3 Hydraulic Fracturing ........................................................................................................16
 
-climate change (through financed emissions), which is in line with Erste Group’s position to support
+5.5 Thermal Coal .......................................................................................................................... 16
 
-the Paris Agreement of COP21 (UN Climate Change Conference in Paris). As a member of the Net-
+5.6 Nuclear Energy ....................................................................................................................... 19
 
-Zero Banking Alliance and a supporter of the United Nations Sustainable Development Goals, the
+5.7 Renewables ............................................................................................................................ 20
 
-most significant impact we can have as a banking institution is through our lending activities. Erste
+5.7.1 Biofuels / Biomass ........................................................................................................... 20
 
-Group actively supports its corporate clients to implement climate transition plans, realize the
+5.7.2 Hydro Power and other Renewables .............................................................................. 20
 
-opportunities of the green transition and prepare for climate-related risks, including both physical
+5.8 Energy Sector – Decision Grid ............................................................................................... 21
 
-and transition risks. Erste Group is committed to the shift towards a net-zero economy in Central
+6 Biodiversity ................................................................................................................................ 22
 
-and Eastern Europe and therefore considers its impact on the environment in its strategy, financial
+6.1 Land and soil management .................................................................................................... 22
 
-products and decision-making. Collaborating with clients, remains central to our respective
+6.2 Deforestation.......................................................................................................................... 23
 
-decarbonization journeys.
+6.3 Water quality and reuse in agriculture................................................................................... 24
 
+6.4 Commodity Certification Guidelines ...................................................................................... 24
 
+6.5 Biodiversity – Decision Grid ................................................................................................... 25
 
-For Erste Group, environment and economy are not contradictory. For each decision we take, we
+7 Gaming \& Gambling Sector ....................................................................................................... 27
 
-ask ourselves “Is this the right thing to do – for our economy and for the environment?”. We follow a
+7.1 Gaming Sector Scope ............................................................................................................ 27
 
-clear code of conduct for general and specific ethical behaviour.
+7.2 Financing Criteria ................................................................................................................... 28
 
+7.2.1 Service providers/companies not eligible for new financings or any other banking
 
+services within the Gaming and Gambling sector:........................................................................... 28
 
-Erste Group strives to act in the best long-term interests of its shareholders and other
+7.2.2 Service providers/companies eligible for new financing in the Gaming and Gambling 29
 
-stakeholders. Mitigating these risks is key to protecting the interests of shareholders, the Bank and
+7.2.3 Service providers/companies eligible for banking services and operations (beyond
 
-other stakeholders. Drivers like SE\&E (Social, Environmental and Economic development),
+financing) in the Gaming and Gambling sector: ............................................................................... 29
 
-reputation, competitive advantage and performance are important to consider.
+8 Abbreviations ............................................................................................................................ 30
 
+EG_A_40017 Erste Group
 
 
-The following overarching principles of responsible financing are firmly embedded in Erste Group's
 
-governance and culture:
+Date: 10/2025
 
+Page: 3/30
 
+Public
 
-• Erste Group incorporates SE\&E governance issues into policies and practices.
 
 
+Group Responsible Financing Policy
 
-• Erste Group incorporates SE\&E governance issues in the analysis and decision-making
+1 General
 
-process.
 
 
+Erste Group was founded with a clear purpose: to promote and secure prosperity for all people in the
 
-• Erste Group seeks an engaged dialogue with clients, typically starting with an industry and
+region. This mission continues to guide the Group’s strategy, which integrates key Environmental,
 
-client-specific assessment of SE\&E issues and leading to the identification of sustainable
+Social, and Governance (ESG) themes as essential drivers of long-term success and inclusive growth.
 
-financial instruments that align with the client's sustainability and financing strategy.
+As a major financial institution in Central and Eastern Europe, Erste Group plays a critical role in
 
+financing the transition of the real economy. Achieving the transition to a low carbon economy
 
+requires coordinated efforts across the financial system and the broader economy. Erste Group is
 
-• Erste Group measures, monitors and reports on activities and progress of implementing these
+committed to enabling this transformation by supporting clients in their own climate journeys.
+
+The Group is committed to science-based decarbonisation pathways and to the goals of the Paris
+
+Climate Agreement. Sustainable finance is not only a strategic priority but a key enabler of the green
+
+transition. Erste Group is providing targeted financial solutions to help clients implement climate
+
+strategies, seize green opportunities, and manage climate-related risks. Ongoing engagement with
+
+clients remains central to a shared and successful decarbonisation journey.
+
+
+
+1.1 Objective
+
+The Group Responsible Financing Policy (the Policy) outlines industry-specific ESG exclusion and
+
+phase-out criteria, including thresholds and guidelines for determining transaction eligibility to
+
+prevent ESG related credit and reputational risk. It also defines non-financial risk profiles that trigger
+
+enhanced risk management support. Additionally, the policy describes assessment procedures for
+
+specific sectors and subsectors to ensure informed decision-making aligned with our commitment to
+
+providing responsible financing services.
+
+
+
+1.2 Scope
+
+EG_A_40017 Erste Group
+
+
+
+Date: 10/2025
+
+Page: 4/30
+
+Public
+
+
+
+Group Responsible Financing Policy
+
+
+
+All products and services within the Corporates and Markets areas of Erste Group are in scope of this
+
+Policy. This is defined by:
+
+i) Corporate segments - Large Corporates, Small and Mid-Cap Enterprises, Public Sector,
+
+Corporate Real Estate; and
+
+ii) Markets’ Segment and Financial Institutions together with all corresponding product units
+
+(e.g. 0196 1606 Group Transaction Banking, 0196 0369 Group Markets Origination \&
+
+Funding, etc.),
+
+
+
+Out of Scope Definitions
+
+The following categories are explicitly out of scope of this Policy:
+
+ Retail Business Line Products – All products and services within the Retail Business Line are
+
+out of scope, with the exception of Defense Transactions involving micro clients.
+
+ Lending transactions below € 1.000.000, provided they fall within an already approved credit
+
+limit – except where the transaction involves the defense sector.
+
+ All transactions classified under “Responsible Investments”, including those managed by
+
+Erste Asset Management, are not covered by this Policy.
+
+ Transactions in which the bank acts solely as a passive intermediary, without taking financial
+
+risk or active involvement in structuring, underwriting, or executing the deal, are considered
+
+out of scope. This includes, but is not limited to the following categories:
+
+o Trade Finance – Advisory and Notification Roles (e.g. acting as an advising bank on
+
+letters of credit, handling documentary collections without assuming payment or
+
+credit risk)
+
+o Capital Markets – Administrative Functions (e.g. service as an agent, or similar
+
+administrative role in transactions)
+
+
+
+In Scope Definitions
+
+A client, company, or transaction is considered in scope of this Policy if any of the following
+
+conditions are met:
+
+ Material Economic Activity – the relevant economic activity, as defined in the respective
+
+chapters of the Policy, constitutes a material portion of the customer group’s total revenue.
+
+An indication of materiality for the purposes of this Policy is defined by the materiality
+
+threshold of 5% of total group turnover, unless explicitly states otherwise in the specific
+
+chapters.
+
+ Defense Sector Transactions – all transactions involving the defense sector are in scope,
+
+regardless of transaction volume or business line.
+
+In the event of provisions of the Group Responsible Financing Policy contradicting local legislation,
+
+local legislation will prevail.
+
+EG_A_40017 Erste Group
+
+
+
+Date: 10/2025
+
+Page: 5/30
+
+Public
+
+
+
+Group Responsible Financing Policy
+
+2 Overview of Functional Roles and Responsibilities
+
+
+
+2.1 Group Functional Roles
+
+2.1.1 Policy Owner
+
+The Policy Owner refers to the team responsible for the implementation and oversight of the policy
+
+within the organization. At Holding Level, the Policy Owner is represented by the ESG Function within
+
+Credit Risk Portfolio, which is also responsible for the Policy’s content and alignment with Erste
+
+Group’s financing principles.
+
+
+
+2.1.2 First and second line of control
+
+
+
+Business Units comprise by
+
+i) All Corporate segments – Large Corporates, Small \& Mid Cap Enterprises, Public Sector,
+
+Commercial Real Estate, as well as
+
+ii) Markets’ Segments and Financial Institutions together with all corresponding product units
+
+
+
+First Line of Control
+
+Business, in collaboration with Credit Underwriting, constitutes the first line of control. Business acts
+
+as the deal originator, being directly or indirectly connected to the transaction in question and holds
+
+day-to-day responsibility for making financing decisions in line with the Policy. Ahead of being
+
+transferred to the second line of control, Credit Underwriting serves as an additional reviewer,
+
+verifying the plausibility of the information provided by Business and ensuring alignment with Policy
 
 principles.
 
-Page: 3/26
 
 
+Second line of control – Credit Risk, Non-Financial Risk
 
-• Erste Group contributes to the acceptance and implementation of such principles within the
+At Holding Level, the second line of control is fulfilled by the ESG Function within Credit Risk Portfolio.
 
-financial industry.
+The ESG Function within Credit Risk Portfolio holds ultimate ownership of the Group Responsible
 
+Financing Policy, and is responsible for the content, implementation, and oversight of the Policy with
 
+support of local Risk Functions within local entities.
 
-These principles aim to meet Erste Group ́s commitments regarding Environment, Social and
+EG_A_40017 Erste Group
 
-Governance as set out in the United Nations (UN) Global Compact, which seeks to ensure that
 
-respect for human rights and the environment are an integral part of all Erste Group financing
 
-activities.
+Date: 10/2025
 
+Page: 6/30
 
+Public
 
-The principles described in this policy are reviewed at least on an annual basis, however, Erste Group
 
-will adapt these based on the business environment including external stakeholders as necessary.
 
-Any updates are approved by the Board of Erste Group Bank AG (Holding Board).
+Group Responsible Financing Policy
 
+3 Responsible Financing Policy Process
 
 
-Erste Group has set out principles concerning financing of the Energy, Defence/Weapons,
 
-Biodiversity and the Gaming Sector.
+An assessment shall be initiated at the earliest convenience when a transaction or target transaction
 
+falls within, or potentially falls within, the scope of this Policy. In case of uncertainty, Business or
 
+Non-Financial Risk Team must promptly consult the respective Policy Owner for clarification.
 
-This document defines industry specific ESG criteria and limits and sets out the rules to determine
 
-whether and how a transaction can be carried out and defines the non-financial risk profiles that
 
-require risk management support. In addition, the policy describes the assessment process in
+3.1 Criteria Categories
 
-specific circumstances to ensure efficient and competent decision-making on a well-documented
+To ensure clarity and consistency in application, the policy distinguishes between two categories of
 
-basis.
+criteria:
 
+ Exclusion Criteria
 
+Refers to transactions that fall under the Policy’s hard exclusions. These are predefined areas
 
-All products and services in the Corporates and Markets area for all financial institution entities in
+– where no risk acceptance through a Non-Financial Risk (NFR) decision is permitted.
 
-the scope of consolidation of Erste Group Bank AG are in scope of this Policy.
+ Non-Eligibility Criteria
 
+Refers to transactions that do not fall within the pre-approved risk appetite outlined in the
 
+Policy. While these transactions are not automatically excluded, they require further
 
-A client company/group is considered within scope of the policy if the economic activity in question
+assessment and may be escalated through the defined escalation procedure, as detailed in
 
-accounts for more than 5% of the group's turnover, unless otherwise specified.
+Chapter 3.3 of this Policy
 
 
 
-Not in scope of this policy are all retail business line products, single payment transactions,
+3.2 Process Steps
 
-transactions below a threshold of € 1.000.000,- within an existing approved limit and “responsible
 
-Investments” (ESG in Erste Asset Management, please see Responsible investing (erste-am.at)).
 
+The following steps shall be applied:
 
+1. Assess whether the transaction falls within the scope of the Group Responsible Financing
 
-In case that provisions of the Responsible Financing Policy contradict local legislations, local
+Policy.
 
-legislations will prevail.
+2. Evaluate Policy Alignment
 
+ Aligned Transactions: Proceed without further intervention.
 
+ Non-Aligned Transactions: Either discontinue or escalate for review under the Group
 
-1.1 Responsibilities and Responsible Financing Policy Process
+Non-Financial Risk Management framework.
 
+ Excluded Transactions: Activities prohibited by the Policy (e.g., controversial weapons
 
+or those exceeding defined thresholds) are categorically ineligible for approval.
 
-Erste Group has established a clear structure and governance on how to execute decisions within
+ Defense-Related Micro Clients: Financing is permissible only if fully compliant with the
 
-the scope of the Responsible Financing Policy. First line and second line of defense is implemented.
+principles outlined in the Policy; non-compliant cases cannot be approved.
 
+EG_A_40017 Erste Group
 
 
-To comply with the requirements of the policy the deal originator in the first line of defense has to:
 
+Date: 10/2025
 
+Page: 7/30
 
-• Seek a dedicated dialogue with high- emitting clients, typically starting with an industry and
+Public
 
-client-specific assessment of ESG issues leading to the identification of sustainable finance
 
-instruments matching the client’s sustainability and funding strategy.
 
-Page: 4/26
+Group Responsible Financing Policy
 
 
 
-• Gather or collect all relevant information and documents related to the specific deal.
+3.3 Non-Financial Risk – Country Index
 
 
 
-• Assess the non-financial risks in line with the Responsible Financing policy and proposals for
+The Non-Financial Risk Country Index (NFR-CI) bundles several internationally accepted indices
 
-corresponding follow-up measures if necessary.
+measuring the status of the covered country based on legal, political and economic standards. A
 
+predetermined procedure by Group Non-Financial Risk Management function assesses a final score
 
+for the Defense Industry, the Energy Sector, Biodiversity and the Gaming Sector for each country.
 
-The second line of defense is fulfilled by the Local and Group Non-financial Risk Management
+This is used as an input for the decision grid (see chapter 4.3.2 Defense Sector – Decision Grid). If no
 
-function (Local and Group NFR). They guide the initiator of the deal and associated employees
+value is available in the NFR-CI for a country, the local Non-Financial Risk Management Function – or,
 
-through the specific NFR process required by the deal in question.
+if not implemented, the Group Function – shall be consulted.
 
+EG_A_40017 Erste Group
 
 
-The Group ESG Office is responsible for the content of the Group Responsible Financing Policy,
 
-ensuring alignment of the financing principles with the ESG strategy, targets and priorities of the
+Date: 10/2025
 
-Group. Group ESG office will also support the business in the interpretation of this policy to meet its
+Page: 8/30
 
-criteria.
+Public
 
 
 
-In accordance with the Responsible Financing Policy, the assessment starts immediately after deal
+Group Responsible Financing Policy
 
-origination and comprises the following steps:
+4 Defense Sector
 
 
 
-i. Verify whether the deal is within the scope of the Responsible Financing Policy.
+4.1 Defense Sector – Objectives
 
-ii. If the deal is within scope, assess whether the deal is eligible according to the principles
+Our Approach
 
-outlined in this policy.
+Erste Group recognizes the adverse impact of controversial, such as nuclear weapons on the
 
-In case the planned transaction:
+environment, health of society, and humanitarian principles. Erste Group acknowledges responsibility
 
+to society and maintain a clear stance against financing such weapons. Other parts of the defense
 
+industry are only considered for financing within well-defined rules.
 
-i. Is eligible according to the Group Responsible Financing Policy, no further activities are
+At the same time, Erste Group acknowledges that in recent years, a rapidly shifting geopolitical
 
-required.
+landscape – marked by increased security threats, armed conflict on European soil, and growing
 
-ii. does not fulfill all criteria of the Group Responsible Financing Policy the deal originator can
+concerns over strategic dependencies – has fundamentally reshaped the strategic importance of the
 
-initiate an internal non-financial risk decision procedure where the adequate escalation body
+defense sector in Europe. These developments have elevated expectations on financial institutions to
 
-decides upon an acceptance of the transaction based on a well-founded reasoning to be
+play a role in supporting the continent’s collective security, industrial resilience, and defense
 
-provided by the deal originator and a comprehensive risk assessment involving other relevant
+readiness, as outlined in the EU White Paper on Defence Readiness 2030). However, this must be
 
-stakeholders for such exception.
+done responsibly and with full adherence to law, humanitarian principles, and our internal risk and
 
+ESG standards. Erste Group aims to balance its role as a responsible financial institution with the
 
+growing need for security investment in Europe.
 
-1.2 Areas of Concern
 
 
+Context of EU Policy Change
 
-Erste Group’s Code of Conduct and Statement of Purpose demand a sensible approach towards
+In March 2025, the European Commission issued the EU White Paper on Defence Readiness 2030.
 
-potential negative impacts on environment, society and people’s conditions of labour and life.
+The paper sets out a strategic framework for greater resilience, industrial readiness, and strategic
 
+autonomy on our continent. Furthermore, it acknowledges the critical role of financial institutions in
 
+enabling this transformation – particularly in allocating and mobilizing capital for defense innovation,
 
-Areas of concern include among others:
+enhancing defense production and capacity, supporting dual-use technologies, and strengthening the
 
-• Utilisation of natural resources (e.g. water, agriculture, fisheries, forestry, hunting), power
+EU’s defense industrial base.
 
-generation from fossil energy sources (e.g. oil, gas, mining), extraction of conflict stimulating
 
-goods (e.g. chemicals, metals, conflict resources) and goods and beings that require
 
-preservation (e.g. endangered species, endangered ecoregions, world heritage sites);
+4.2 Defense Sector – Scope
 
+In Scope Definitions
 
+ Transactions with producers or dealers of weapons and firearms
 
-• Materials and products that threaten the welfare of humans, animals or the environment (e.g.
+ Transactions with producers or dealers of components \& spare parts of weapons or firearms
 
-nuclear power, pollutants, hazardous waste, dangerous substances);
+ Transactions with producers or dealers of dual use products
 
+ Transactions in connection with the acquisition of products mentioned above
 
+ Transactions in connection with storage, import and export of products mentioned above
 
-• Maltreatment and exploitation of people at work (e.g. labour conditions, modern slavery);
+ General Purpose Financing
 
-Page: 5/26
+EG_A_40017 Erste Group
 
 
 
-• Abundance of nature and its protection (e.g. biodiversity, human diversity, indigenous
+Date: 10/2025
 
-populations);
+Page: 9/30
 
+Public
 
 
-• Violation of human dignity (e.g. child labour, forced labour, human trafficking, prostitution).
 
+Group Responsible Financing Policy
 
 
-1.3 Responsible Financing Country Index
 
+Out of Scope Definitions
 
+ Hunting \& Sporting weapons and firearms
 
-Erste Group refers to the RFCI (Responsible Financing Country Index). The RFCI bundles a number
+ General corporate banking relationships – defined as current accounts, deposits, and
 
-of internationally accepted indices to assess the status of a given country based on legal, political
+payments services that are not directly connected to the sale, purchase or transport of non-
 
-and economic standards1. A predetermined procedure by the Group Non-Financial-Risk
+eligible products or services within the defense industry.
 
-Management function assesses a final score for the Defense/Weapons industry, the Energy Sector,
 
-Biodiversity and the Gaming sector for each country. This is used as an input for the decision grid
 
-(see following chapters), allowing transactions of different types of goods in different countries.
+4.3 Defense Sector – Guidelines
 
+As a financial institution, Erste Group ́s commitment to ethical conduct is the foremost priority.
 
+Accordingly, Erste Group has developed a rigorous assessment, ensuring strategic alignment with the
 
-1 Examples: Defense / Weapons industry:, CPI – Transparency International, GTV – Regulation on Money
+EU White Paper on Defence Readiness 2030 by evaluating:
 
-Laundering and Terrorist Finance Risk, FATF – High Risk and non-cooperative jurisdictions, OFAC – Sanctions
+(1) Weapon Type Restriction – Transactions involving controversial weapons – including but
 
-Programs and Country Information, UN / EU Sanctions, UN / EU Weapons Embargo, Freedom House, Global
+not limited to biological, chemical, nuclear weapons, cluster munitions, and fully
 
-Peace Index, Rule of Law and other indices if necessary Energy Sector:, CPI – Transparency International, GTV
+autonomous weapons systems operating without meaningful human control – are strictly
 
-– Regulation on Money Laundering and Terrorist Finance Risk, FATF – High Risk and non-cooperative
+excluded from banking services as defined in Chapter 4.3.1. of this Policy
 
-jurisdictions, UN / EU Weapons Embargo, Freedom House, Global Peace Index, Environmental Performance
+(2) Geographical Scope Requirements – Banking services shall only be provided where the
 
-Index and other indices if necessary
+counterparty and end-users are based in
 
-Page: 6/26
+ European Union (EU) Member States
 
+ Erste Group Home Markets \& Extended Erste Group Home Markets
 
+ NATO Member States with NFR-CI from level 1 to 5
 
-2 Defense/Weapons Industry
+ EU Strategic Defense Partners with NFR-CI from level 1 to 5
 
+EG_A_40017 Erste Group
 
 
-2.1 Defense/Weapons Industry Objectives
 
+Date: 10/2025
 
+Page: 10/30
 
-While Erste Group has no specific business focus on the Defense/Weapons industry, it applies the
+Public
 
-principles of the Defense/Weapons Industry Sector both to manage its business activities in this
 
-sector and to serve its clients and society in a responsible manner.
 
+Group Responsible Financing Policy
 
 
-The Defense/Weapons Industry Sector Principles described in this policy are based on those
 
-accepted by the Defense/Weapons Industry and other stakeholders who represent best practice
+Not Eligible for new financing in the defense sector if any of the following are met:
 
-and are compliant with our longstanding commitment to sustainable and socially responsible
+ Transactions directly or indirectly associated with human rights violations, including but not
 
-business practices/commitments.
+limited to activities involving forced labor, unlawful surveillance, or the suppression of civil
 
+liberties are not eligible for financing. Erste Group refers to UN Guiding Principles of Business
 
+and Human rights for reference.
 
-2.2 Defense/Weapons Industry Scope
+ The beneficiary of the transaction and/or the destination of the underlying goods is in a
 
+country that:
 
+i. is subject to a United Nations, European Union or any other relevant national
 
-Business clients and special purpose financing in the scope of this chapter include:
+weapons embargo,
 
-• Transactions with producers or dealers of weapons and firearms.
+ii. does not meet our Non-Financial Risk – Country Index Criteria
 
-• Transactions with producers or dealers of components (i.e. semi-finished and finished
+iii. in the event of compliance-related concerns— such as those related to Anti-
 
-products), including spare parts which are supplied to producers of complete weapon
+Money Laundering, Counter-Terrorism Financing, sanctions and export
 
-systems or licensed producers of weapons and firearms.
+controls, or anti-bribery and corruption—the transaction may proceed under
 
-• Transactions with producers or dealers of civil products, if these might intended to serve a
+standard risk governance
 
-special military purpose (= dual use).
+Please note that even within countries classified under NFR-CPI levels 1–5, specific regions
 
-• Transactions with companies that manufacture, develop or trade in controversial weapons
+may be subject to restrictions or full blocks—such as the currently restricted areas in
 
-(such as chemical weapons or biological weapons).
+Ukraine—based on evolving risk assessments and geopolitical developments.
 
-• Transactions in connection with transport of products covered in the previous enumeration.
+ The parties involved in the transaction shall have no convictions related to non-compliance
 
-• Transactions in connection with acquisition of products covered in the previous enumeration.
+with national arms trade legislation or international sanctions on weapons, nor any convictions
 
-• Transactions in connection with storage, import and export of products covered in the
+for corruption, illegal taking of interest, misappropriation of public funds for weapons, or
 
-previous enumeration.
+engagement in economic activities within sanctioned territories.
 
+ For defense-related transactions involving micro clients – financing will only be considered if
 
+the transaction fully complies with the principles outlined in this chapter. Transactions that do
 
-Hunting and sporting weapons and firearms are not in scope. In order to be classified as a hunting or
+not meet the defined criteria are not eligible for risk acceptance under the Non-Financial Risk
 
-sporting weapon or firearm, the hunting/sporting purpose must be undoubtedly proven (e.g. weapon
+Decision Process.
 
-certificate). Involvement of the local ESG function in decision-making is recommended in this case.
 
 
+The following criteria must be fulfilled regarding all transaction partners:
 
-General corporate banking relationships, i.e. current account, deposit and payment business which
+ All transactions shall be conducted exclusively with parties who have successfully completed
 
-is not directly linked to the sale, purchase or transport of non-eligible products or services of the
+and passed Anti-Money Laundering Checks, as well as Know Your Customer (KYC)
 
-Defense/Weapons Industry), are not in scope. Such relationships are subject to an overall NFR
+screenings and are able to provide adequate documentation for each armament-related
 
-assessment conducted by the local ESG function.
+transaction.
 
 
 
-Financing for general purposes (e.g. investment loan, working capital or overdraft facilities) of a
+4.3.1 Weapon Categorization
 
-company operating in the Defense/Weapons industry is in scope. When the country of origin of the
+As part of the initial assessment, the defense product involved in the transaction must be clearly
 
-financed company is taken into account (“country of risk” principle RFCI), the registered seat of the
+classified. Erste Group defined five distinct defense categories, as follows:
 
-company determines the "country of origin".
+ Controversial Arms
 
-Page: 7/26
+ Large \& Small Arms represent active military products
 
+ Passive Arms – Non-lethal protective equipment, as well as defensive military goods designed
 
+to provide protection
 
-2.3 Defense/Weapons Industry Guidelines/Criteria
+ Neutral Arms – Goods used for disarmament, disabling or reduction of military capabilities
 
+ Dual Use Goods, Technologies and Components requires contextual evaluation and must be
 
+assessed in conjunction with the associated end-product to determine its operational role.
 
-Erste Group aims to only provide banking services if:
+In case where a defense product comprises multiple components or sub-systems, the classification
 
+shall be based on the most aggressive or combat-relevant feature present.
 
+EG_A_40017 Erste Group
 
-• Such transactions are neither directly nor indirectly linked to human rights violations and
 
 
+Date: 10/2025
 
-• Such transactions do not have controversial weapons in scope and
+Page: 11/30
 
+Public
 
 
-• The beneficiary of the transaction and/or the destination of the underlying goods is in a
 
-country that (i) is not subject to a weapons embargo of the United Nations, European Union
+Group Responsible Financing Policy
 
-or any other relevant nation, (ii) complies with international humanitarian law and (iii) meets
 
-our RFCI criteria.
 
+Furthermore, Erste Group qualifies Fully Autonomous Weapon Systems (“human-out-of-the-loop”) as
 
+controversial – as defined by the International Committee of the Red Cross (ICRC):
 
-• There are no convictions related to non-compliance with national legislation on the arms trade
+“Autonomous Weapon Systems that, once activated, can select and engage targets without further
 
-or international sanctions on weapons, no convictions for acts of corruption, illegal taking of
+intervention by a human operator.”
 
-interest or misappropriation of public funds for weapons and there is no economic activity in
+Furthermore, in the context of EU regulatory standards, in particular the Sustainable Finance
 
-sanctioned territories.
+Disclosure Regulation (Regulation (EU) 2019/2088), “controversial weapons” are defined as “anti-
 
+personnel mines, cluster munitions, chemical weapons and biological weapons”. This is reflected in
 
+the graphic below.
 
-Furthermore, specific criteria must be fulfilled regarding all transaction partners. For partners based
+The graphic presented below is intended as a guided framework for clustering weapon types.
 
-on the AML/KYC check, they must be able to provide sufficient documentation for every armament
+However, the list is non-exhaustive, meaning not all weapon types are reflected within the graphic.
 
-deal and must also qualify as governments, governmental- and state-owned organizations.
+EG_A_40017 Erste Group
 
 
 
-Whether a specific deal complies with the criteria defined is determined by a two-stage
+Date: 10/2025
 
-assessment, based on the weapon category and the Responsible Financing Country Index (RFCI).
+Page: 12/30
 
+Public
 
 
-2.4 Weapon Categorization
 
+Group Responsible Financing Policy
 
 
-As first part of the assessment, the categorization of the weapon/firearm must be defined. Erste
 
-Group defines five categories of weapons and firearms, within which categories1–3 are considered
+4.3.2 Defense Sector – Decision Grid
 
-active military products. If a weapon has a feature which enables its upgrade into a more
+As outlined in Chapter 3.4 – Non-Financial Risk Country Index (NFR-CI), the decision grid serves as a
 
-dangerous item/use, it should be included in the stricter category.
+key tool to assess transaction eligibility. It enables streamlined processing for certain transaction
 
+types without requiring further escalation, based on two core criteria: the weapon categorization and
 
+the NFR-CI1 2rating of the destination country.
 
-The five categories are:
+EG_A_40017 Erste Group
 
 
 
-i) Controversial Weapons/firearms which are prohibited by international humanitarian law
+Date: 10/2025
 
-and/or recommended for prohibition by the International Committee of the Red Cross. This
+Page: 13/30
 
-includes:
+Public
 
 
 
-• Biological weapons, chemical weapons, anti-personnel and landmines, cluster
+Group Responsible Financing Policy
 
-munitions.
+5 Energy Sector
 
 
 
-• Nuclear weapons, weapons containing depleted uranium and uranium 238 or its
+5.1 Energy Sector – Objectives
 
-essential components.
+Erste Group supports the energy sector in its essential role of ensuring energy security and driving
 
-Page: 8/26
+economic development across Central and Eastern Europe, while sensibly managing the
 
+environmental and social impacts. The transition to a low-carbon economy is advanced through
 
+increased support for renewable energy and energy efficiency projects across the region.
 
-• Erste Group qualifies Autonomous Weapon Systems (AWS) as controversial since
+Sustainable financing solutions are provided to energy clients to support their transition and
 
-they apply force to targets without human intervention (ICRC position on autonomous
+alignment with long-term climate goals. While fossil energy sources may still play a role under
 
-weapon systems).
+national energy and climate plans (NECPs), the Group applies robust assessment frameworks and
 
+tracks progress against clear decarbonisation targets. These efforts contribute to a secure, resilient,
 
+and sustainable energy future.
 
-• Cluster munitions based on the Convention on Cluster Munitions (CCM).
+Erste Group supports the energy sector in its key roles of providing energy security and developing
 
+the economies in CEE but also in sensibly managing the environmental and social impacts of energy
 
+sector projects. It is emphasized that in the mid- to long-term, economic, social and environmental
 
-ii) Large Arms, one of the six heavy weapons categories of the UN Register of Conventional
+well-being are not mutually exclusive, but inherently linked to each other. Therefore, Erste Group
 
-Arms
+implements principles for the energy sector for a better management of the environmental and
 
+climate risks, as well as energy security and social impacts of actual energy change.
 
+The Energy Sector Principles are based on accepted industry principles, seen by various stakeholders
 
-• Battle tanks, armored combat vehicles (unless used by police forces), large-caliber
+as representing best practice, and are aligned with Erste Group ́s long-standing commitment to the
 
-artillery systems, combat aircraft and unmanned combat aerial vehicles, attack
+Paris Agreement (COP21). Erste Group recognizes the strategic importance of renewable energy and
 
-helicopters, warships and missile launchers. Large arms financing shall only be
+energy efficiency projects.
 
-permitted if they are to be used in the EU/Home Market or in a NATO country for
 
-military purposes (i.e. national armies of Erste Group countries and EU member
 
-countries).
+5.2 Energy Sector – Scope
 
+The following economic activities and business cases are in scope:
 
+ The exploration, production, transportation, storage, distribution, waste management, trading
 
-iii) Small Arms as defined in the ‘Small Arms’ category of the UN Register of Conventional Arms.
+and refining of oil \& gas (including processing of other hydrocarbons), solid fossil fuels and
 
+nuclear fuel cycle activities (mining, processing, conversion, enrichment, as well as back-end
 
+activities, such as decommissioning and reprocessing of spent fuel)
 
-• Small arms are designed for personal use. These typically include: revolvers and self-
+ Production, transportation, storage, distribution of biofuels and other sustainable fuels;
 
-loading pistols, rifles and carbines, sub-machine guns, assault rifles and light machine
-
-guns.
-
-
-
-• Light weapons are designed for use by several persons working together as a crew.
-
-These typically include: heavy machine guns, hand-held under-barrel and mounted
-
-grenade launchers, portable anti-tank guns, recoilless rifles, portable anti-tank
-
-missile, launchers, rocket systems and mortars of calibers measuring < 75mm.
-
-
-
-iv) Passive military products such as helmets, bullet proof vests, combat and army uniforms as
-
-well as any military equipment which cannot be categorized as active.
-
-
-
-v) Neutral military products which are defined as disarmament/disarming equipment, such as
-
-mine detectors, bomb squad robots, etc.
-
-
-
-Spare parts and components (i.e. software and electrical components) used in the assembly of
-
-a military product shall be assessed together and in the same way as, the respective product,
-
-e.g. spare components such as software or wiring used to assemble an active weapon shall also
-
-be considered as active military products.
-
-
-
-Dual use products shall be assessed in the same way as active military products. Dual use
-
-products are civil goods and technologies which, due to their clear and objective specification,
-
-constitute a strategic advantage to a military user. (For example, a drone with technical
-
-specifications that enable it to carry out offensive military operations is dual use, while a
-
-standard Camcopter is not.) Many dual use goods are already defined by official export control
-
-lists (e.g. Waasenaar Arrangement) which can be used for guidance. However, these lists are
-
-not considered exhaustive for the purpose of this policy.
-
-Page: 9/26
-
-
-
-2.4.1 Decision Grid for Defense/Weapons Industry
-
-
-
-Together with the “Risk Financing Country Index” (RFCI), the decision grid determines whether
-
-certain types of transactions are eligible. Eligibility depends on the categorization of the underlying
-
-goods for weapons and the RFCI of the country of destination (or country of origin in the case of
-
-general financing). Transactions with controversial weapons and large weapons with RFCI (8-9) do
-
-not qualify for a risk acceptance by a NFR decision.
-
-
-
-Figure 1: Goods/country eligibility matrix for the Defense/Weapons Industry
-
-
-
-Transactions of imports are treated by the RFCI the same as exports. (For example, arms imports
-
-from one country are dealt with the same way as exporting to that country. Hence, the country
-
-indices also need to be used for the eligibility decision grid for financing the imports).
-
-
-
-In the event that a country of origin is a Erste Home Market country with a high score regarding the
-
-goods that are the subject of the transaction, the RFCI of that country is relevant. for example,
-
-Bosnia and Herzegovina is an Erste Home Market country, with an RFCI 8 for weapons, which is the
-
-primary indicator in the decision-making process.)
-
-Page: 10/26
-
-
-
-3 Energy Sector
-
-
-
-3.1 Energy Sector Objectives
-
-
-
-Erste Group supports the energy sector in its key roles to provide energy security and to develop
-
-the CEE economies but also in sensibly managing the environmental and social impacts of energy
-
-sector projects. It should be emphasized that in the mid-to long term, economic, social and
-
-environmental well-being are not mutually exclusive, but inherently linked to each other. Therefore,
-
-Erste Group implements principles for the energy sector for better management of environmental
-
-and climate risks, as well as energy security and social impacts of actual energy transition.
-
-
-
-These Energy Sector Principles are based on accepted industry principles and acknowledged by
-
-various stakeholders as representing best practice. These principles are also aligned with Erste
-
-Group ́s long commitment to the Paris Agreement and the Group recognizes the strategic
-
-importance of renewable energy and energy efficiency projects.
-
-
-
-Especially fossil fuelled energy production contributes most to the emissions of greenhouse gases
-
-(GHG) and its negative impact on climate change. Erste Group will take all actions possible to stay
-
-below the 1.5°C global temperature increases in order to mitigate the effects of Global Warming.
-
-
-
-As a member of the Net Zero Banking Alliance, Erste Group has set ambitious decarbonization
-
-targets in high-emission sectors, including energy. In line with these commitments, Erste Group
-
-actively engages with clients to understand and support their long-term transition plans for their
-
-core business and their decarbonization strategies. Erste Group aims to provide financial services
-
-to support energy sector projects which are focused on energy efficiency, renewable energy and
-
-the implementation of low-carbon technologies.
-
-
-
-3.2 Energy Sector Scope
-
-
-
-The following economic activities and business cases are in scope for the Energy Sector:
-
-
-
-• The exploration, production, transportation, storage, distribution, waste management,
-
-trading and refining of oil \& gas (including processing of other hydrocarbons), solid fossil
-
-fuels and nuclear energy sources.
-
-• Production, transportation, storage, distribution of biofuels and other renewable sources.
-
-• The generation of power, heat and/or cold by means of fossil-fired power plants (e.g., oil,
+ The generation of power and/or heat/cold by means of fossil-fired power plants (such as oil,
 
 gas and coal-fired power plants), nuclear power plants and power plants based on renewable
 
-energy sources (e.g., hydro, wind, thermal solar and photovoltaic solar, geothermal, biogas
+energy sources (hydro, wind, thermal solar, photovoltaic solar, geothermal, biogas and
 
-and biomass energy).
+biomass energy);
 
-• The transmission and distribution of power or heat/cold generated by such power plants.
+ The transmission and distribution of power or heat/cold generated by such power plants;
 
-• The production of technical components (i.e., semi-finished and finished products, including
+ The production of technical components (i.e. semi-finished and finished products, incl. spare
 
-spare parts) for plants of the above-mentioned energy sources. Financing production of
-
-Page: 11/26
-
-
+parts) for plants of the energy sources referenced above. Financing of production of
 
 components in general is not in scope; the components shall only be considered in scope
 
-when the components can be assigned to a specific type of power plant (e.g., transformers
+when the components can be assigned to only a specific type of power plant (e.g.
 
-for a nuclear power plant or transformers for a gas thermal power plant).
+transformers for a nuclear power plant or transformers for a gas thermal power plant).
 
-• Projects in connection with the phase-out or closing of power plants (e.g., nuclear, thermal,
+ Projects in connection with the phase-out/closing of power plants (nuclear, thermal, hydro,
 
-hydro, etc.).
+etc.).
 
-• Services related to the above-mentioned activities (e.g., maintenance or construction of an
+ Services related to the above-mentioned activities (e.g. maintenance, construction of access
 
-access road to a power plant).
+road to a power plant).
 
-
-
-3.3 Energy Sector General Guidelines/Criteria
+EG_A_40017 Erste Group
 
 
 
-Erste Group will provide banking services (including financing, advisory or any other services) to
+Date: 10/2025
 
-the energy sector only if such projects or transactions are:
+Page: 14/30
 
-
-
-• In compliance with national and international environmental laws (with www.ecolex.org
-
-regarded as the most comprehensive information source)
+Public
 
 
 
-• Not located in protected areas, such as those designated part of Natura 2000
-
-in accordance with EU Directive 92/43/EWG, or any locally designated protected areas (with
-
-protectedplanet.net regarded as the most comprehensive global database on protected
-
-areas)
+Group Responsible Financing Policy
 
 
 
-• In compliance with human rights standards
+5.3 Energy Sector – Guidelines
 
-• State of the art in terms of emission and safety performance and use equipment that complies
+Erste Group will provide banking services to the energy sector only if such projects or transactions:
 
-with the Best Available Technology (BAT) standard. If this is not the case, this information will
+ Are in compliance with national and international environmental laws (www.ecolex.org is
 
-be included in the NFR decision-making and such an exception will be duly justified and
+regarded as the most comprehensive information source).
 
-approved.
+ Comply with EU Taxonomy’s Do No Significant Harm (DNSH) criteria for protection of
+
+biodiversity and ecosystems as described in Chapter 6 – Biodiversity.
+
+Additional sector specific guidelines and criteria shall be applied to the following energy sources. For
+
+the avoidance of doubt, potential projects / activities and transactions that qualify as
+
+“environmentally sustainable” within the meaning of the EU Taxonomy are always considered eligible
+
+for financing by Erste Group.
 
 
 
-Additional sector-specific guidelines and criteria shall be applied to the following energy sources.
-
-
-
-3.4 Fossil Fuels (Oil \& Gas)
-
-
+5.4 Fossil Fuels (Oil \& Gas)
 
 Key risks identification
 
-• Oil and gas are responsible for severe environmental degradation, with exploration creating
+ Oil and gas have a severe impact on environmental degradation creating significant risks and
 
-significant risks to and impact on biodiversity, water quality and marine resources. Such
+impact on biodiversity, water quality and marine resources caused by exploration and harbors
 
-activities also harbour the risk of human rights violations through forced expropriation as
+the risk of human rights violations through forced expropriation and the risk of violations of
 
-well as the risk of workers' rights violations.
+workers' rights;
 
-• Oil and gas burning for power generation contributes significantly to climate change through
+ Oil and gas burning for power generation contributes to high exposure to climate change
 
-GHG emissions.
+through GHG emissions;
 
-• Associated activities pose the secondary risk of reputation and litigation risks.
-
-Page: 12/26
+ Associated activities are exposed to secondary reputational and litigation risks.
 
 
 
 Policy objectives
 
-Erste Group has committed to avoid expansion of its exposure to oil and gas exploration financing
+Erste Group is committed to not expand its exposure of oil and gas exploration financing unless it is
 
-unless it is crucial for independence from Russia and is indispensable for national energy security
+crucial for energy independence from Russia and is indispensable for national energy security within
 
-within Europe. Erste Group aims to exclude any financing of extraction methods in unconventional
+Europe. Erste Group does not finance extraction methods in unconventional sectors and generally
 
-sectors (e.g., oil and gas bound in sedimentary rocks which have to be washed out) and projects
+projects within the Arctic region.
 
-within the Arctic region.
 
 
+Eligible at client level:
 
-Erste Group will provide banking services if the following conditions are met:
+ The corporate has established an Environmental Action Plan that comprehensively addresses
 
+all issues identified in the Environmental Impact Assessment (EIA)￼ – including, but not
 
+limited to, contingency measures for oil spills and the prohibition of continuous venting of
 
-Eligible on client level:
+associated gas into the atmosphere. In addition, the plan must include clearly defined
 
+mitigation actions aimed at preventing, minimizing, or offsetting adverse environmental
 
+impacts throughout the project lifecycle; and
 
-• The corporate has implemented an environmental action plan that addresses all issues raised
+ No more than 20% of the corporate’s turnover is derived from activities classified as
 
-in the Environmental Impact Assessment, including but not limited to, a plan for oil spills and
+unconventional extraction methods, as defined in Chapter 5.4.1.
 
-the exclusion of continuous venting of associated gas to the atmosphere.
+ The client is committed to respecting human and labour rights in the conduct of its business;
 
-• No more than 20% of the corporate’s turnover comes from extraction methods in
+and has implemented a stakeholder engagement plan that provides for a consultation process
 
-unconventional sectors, such as fracking activities.
+with communities that might be affected where applicable.
 
-• The client has committed to respect human and labor rights in the conduct of its business;
+EG_A_40017 Erste Group
 
-and has implemented a stakeholder engagement plan, where applicable, that provides for a
 
-consultation process with communities that might be affected.
 
+Date: 10/2025
 
+Page: 15/30
 
-Eligible on deal level:
+Public
 
 
 
-• Have no material adverse effects on protected natural habitats, critical freshwater resources
+Group Responsible Financing Policy
 
-or marine reserves, as defined in the chapter on biodiversity.
 
 
+Eligible at deal level:
 
-• Are not mainly located in areas of high risk (i.e., areas of conflict or geological and/or
+ Have no material adverse effects on protected natural habitats, critical freshwater resources
 
-environmental hazards; the expert opinion of Physical Security is required for risk assessment
+or marine reserves as defined in Chapter 6 – Biodiversity;
 
-of possible hazards)
+ Are not mainly located in areas of high risk (i.e. areas of conflict or of geological and
 
-• Are not dedicated upstream and midstream projects in unconventional extraction sectors,
+environmental hazards);
 
-such as fracking activities (project financing), no outright financing of oil and gas exploration
+ Are not dedicated upstream and midstream projects in unconventional extraction sectors
 
-and greenfield development (upstream and midstream activities directly linked to exploration
+such as fracking activities. No financing of oil and gas exploration and greenfield development
 
-activities); exceptions allowed for the segment of natural gas in the event that the project
+(upstream and midstream activities directly linked to exploration activities); exceptions
 
-supports independence from Russian gas/energy and is indispensable for national energy
+allowed for the segment of natural gas in the event of the project supporting the
 
-security within Europe.
+independence from Russia and is indispensable for national energy security within Europe.
 
 
 
-3.4.1 Oil Sand/Tar Sand
+5.4.1 Definition of Unconventional Methods
 
 
 
-No banking services will be provided if the transaction is related to an oil sand or tar sand project or
+5.4.1.1 Oil Sand / Tar Sand
 
-if more than 20% of the client’s turnover comes from oil sand or tar sand.
+Oil Sands (or Tar Sands) refer to a type of unconventional petroleum deposit consisting of a mixture
 
-Page: 13/26
+of sand, water, clay, and bitumen, which is a thick, tar-like form of crude oil. Unlike conventional oil
 
+which can be pumped directly from reservoirs, bitumen found in oil sands is too viscous to flow on its
 
+own and requires specialized extraction methods.
 
-3.4.2 Arctic Oil \& Gas
+The extraction and processing of oil sands is energy-intensive and has significant environmental
 
+concerns, including high greenhouse gas emissions, high water use, and land disruption.
 
 
-The Arctic region is one of the last pristine natural places left on the planet. It has shallow,
 
-biologically productive seas and a vulnerable ecosystem. Arctic seas are serving as an important
+Exclusion Criteria:
 
-feeding source for the fragile communities of whales, seabirds and other wildlife. The region
+No banking services will be provided if the transaction is related to an oil sand / tar sand project or if
 
-covered by AMAP is, therefore, essentially the terrestrial and marine areas north of the Arctic Circle
+more than 20% of the relevant client’s turnover is derived from activities classified as unconventional
 
-(66°32'N) and north of 62°N in Asia and 60°N in North America, modified to include the marine
+methods.
 
-areas north of the Aleutian chain, Hudson Bay, and parts of the North Atlantic Ocean including the
 
-Labrador Sea.
 
+5.4.1.2 Arctic Oil \& Gas
 
+The Arctic region is one of the last pristine natural places left on the planet. It has shallow, biologically
 
-Economic activities subject to Arctic Oil \& Gas financing
+productive seas and vulnerable ecosystem. Arctic seas are serving as an important feeding source for
 
-Arctic Oil \& Gas activities are defined as the exploration, drilling, production and transportation of
+the fragile communities of whales, seabirds and other wildlife. The region covered by AMAP is,
 
-Oil \& Gas (including LNG) performed in and/or impacting the Arctic region.
+essentially the terrestrial and marine areas north of the Arctic Circle (66°32'N), and north of 62°N in
 
+Asia and 60°N in North America, modified to include the marine areas north of the Aleutian chain,
 
+Hudson Bay, and parts of the North Atlantic Ocean including the Labrador Sea.
 
-Key risk identification
+Arctic Oil \& Gas activities are defined as the exploration, drilling, production and transportation of Oil
 
-• Exploration and industrial activities are harmful for the living and feeding conditions of the
+\& Gas (including LNG) performed in and impacting the Arctic region.
 
-fragile wildlife of the Arctic region, which would result in environmental degradation and
+Exploration and industrial activities are harmful for the living and feeding conditions of the fragile
 
-decreasing biodiversity.
+wildlife of the Artic region and can result in environmental degradation and decreasing biodiversity.
 
-• Remote proximity, extreme weather conditions and lack of infrastructure mean a delayed
+Remote proximity, extreme weather conditions and lack of infrastructure means a delayed
 
-mobilization of mitigating measures for industrial accidents, thereby causing far more severe
+mobilization of mitigating measures for industrial accidents, therefore causing far more severe
 
 impacts to the Arctic ecosystem.
 
 
 
-Policy objectives
+Exclusion Criteria:
 
-Erste Group aims to diminish its exposure to the risks of environmental degradation in the
+Erste Group does not want to be exposed to the risks of environmental degradation in the vulnerable
 
-vulnerable ecosystems of the Arctic region and therefore refrains from any financing of projects,
+ecosystems of the Arctic region and will therefore refrain from any financing of projects, assets or
 
-assets or cash flows directly related to Arctic Oil \& Gas activities. This restriction also applies to
+cash flows directly related to Arctic Oil \& Gas activities. This restriction applies also to financing of
 
-financing of maintenance or supply chain dedicated directly to Artic Oil \& Gas activities.
+maintenance or supply chain dedicated directly to the Arctic Oil \& Gas activities.
 
-
-
-3.5 Thermal Coal
+EG_A_40017 Erste Group
 
 
 
-The thermal coal sector is a significant contributor to rising temperatures of the planet, and hence
+Date: 10/2025
 
-has a responsibility towards society and future generations in terms of environmental preservation,
+Page: 16/30
 
-human rights and human health. Currently, coal is still a relevant factor for energy security in the
-
-CEE region and it serves as a significant primary energy source in district and retail heating for
-
-some of those countries. Based on the 2014 IPCC report, the global warming limit of 1.5°C set by
-
-the Paris Agreement can be achieved only by phasing out the coal sector by as early as 2030. Yet
-
-taking the dependency of the CEE region, the transition needs to ensure energy security and social
-
-responsibility.
+Public
 
 
 
-Key risks identification
-
-• Coal mining has a severe impact on environmental degradation. In addition to the
-
-contribution to climate change, other risks are linked to air pollution caused by small
-
-particles, water usage and its significant impact on biodiversity. Coal mining also harbors
-
-Page: 14/26
+Group Responsible Financing Policy
 
 
 
-the risk of human rights violations through forced expropriation and the violations of
+5.4.1.3 Hydraulic Fracturing
 
-workers' rights.
+Hydraulic Fracturing (Fracking) produces significant amounts of methane, a potent greenhouse gas
 
-• Coal burning for power generation contributes to climate change through greenhouse gas
+that contributes to climate change, especially if there are leaks during extraction. Fracking requires
 
-emissions and subsequent environmental degradation by storage of unutilized coal ashes
+significant volumes of water, which can strain local water resources. Chemicals used in fracking could
 
-and combustion waste.
+potentially contaminate nearby groundwater sources if not properly managed. The injection of
 
-• In addition, associated activities can expose a financing party to reputational risk.
+wastewater into deep wells after fracking has been linked to minor earthquakes, a phenomenon
 
+known as induced seismicity. Additionally, the infrastructure required for fracking, including roads,
 
-
-Policy objectives
-
-Erste Group is committed to a progressive reduction of its financing of thermal coal mining and
-
-thermal coal power generation, with the ultimate target of net zero exposure by 2030. In the spirit
-
-of this commitment, Erste Group intends to lead in-depth discussions with relevant clients by the
-
-end of 2025 to set transition plans and support their transition efforts to disengage from the
-
-thermal coal sector by our 2030 deadline.
+drilling pads, and pipelines disrupts local ecosystems and wildlife habitats.
 
 
 
-For the purpose of this policy the following up-, mid- and downstream activities are in scope.
+Exclusion Criteria:
+
+No banking services will be provided if the transaction is related to fracking or if more than 20% of
+
+the relevant client’s turnover is derived from activities classified as unconventional methods.
 
 
 
-Non-eligible for new financing in the coal sector if any of the following are met:
+5.5 Thermal Coal
+
+The thermal coal sector is a significant contributor to rising temperatures of the planet and hence has
+
+a responsibility towards society and future generations in terms of environmental preservation,
+
+human rights and human health. Thermal Coal remains a critical energy pillar in several EU countries,
+
+driven not only by its established infrastructure and affordability, but also by the recent geopolitical
+
+shifts that have underscored the urgent need for energy security. In the wake of the ongoing crisis
+
+stemming from reduced access to Russian oil and gas, many countries are prioritizing energy
+
+independence and diversification of their energy mix. In this context, thermal coal continues to serve
+
+as a reliable base-load energy source, particularly in regions, where alternative solutions are still in
+
+development or constrained by infrastructural challenges.
+
+Starting in 2025, Erste Group’s Thermal Coal clients are required to submit transition plans for formal
+
+review. As part of our decision-making process, Erste Group closely monitor the progress and
+
+alignment of National Energy and Climate Plans (NECPs), as required by the European Commission.
+
+These plans are of paramount importance, as they provide a clear roadmap for each country’s energy
+
+transition, outlining critical milestones for decarbonization, renewable energy adoption, and the
+
+phase-out of fossil fuels. For us as a Financial Institution, NECPs serve as a key indicator of
+
+governmental commitments and regulatory direction, allowing us to assess the long-term viability of
+
+coal-related assets within the context of a nation’s broader climate strategy. They help us to evaluate
+
+the credibility of client transition strategies and ensure that our financing aligns with both national and
+
+EU-wide climate objectives, as well as our own targets.
+
+Erste Group pursues a clearly defined coal exit approach that balances responsibility for climate
+
+action with the need to ensure energy security in the CEE region. Many of the CEE markets still
+
+heavily rely on fossil fuels, and the transition to renewable energy requires both time and substantial
+
+investment. Erste Group recognizes the urgency of contributing to the decarbonization of the energy
+
+sector while at the same time ensuring that households and businesses have continuous access to
+
+affordable energy. Against this background two-step exit are set out:
+
+ From 2030 onwards, Erste Group will no longer finance coal mining,
+
+ And from 2035 Erste Group will refrain from financing power or heat generation from coal.
+
+The extension period is exclusively available to clients of Erste Group which hold an existing
+
+relationship at the time of transaction decision. Eligibility is contingent upon the demonstration of
+
+credible and actionable transition efforts that are fully aligned with the National Energy and Climate
+
+Plan (NECP) of their respective country, as outlined in Chapter 5.5.1 Thermal Coal – Decision Grid for
+
+Extension Period.
+
+EG_A_40017 Erste Group
 
 
 
-• Direct financing of thermal coal-asset specific investments or cash flows related to thermal
+Date: 10/2025
+
+Page: 17/30
+
+Public
+
+
+
+Group Responsible Financing Policy
+
+
+
+Not Eligible for new financing in the coal sector if any of the following are met:
+
+ Direct financing of thermal coal-asset specific investments or cash flows related to thermal
 
 coal mining, thermal coal processing, coke processing or thermal coal-based power
 
-generation (electricity, heat, steam). Not in scope of the exclusion are the extension,
+generation (electricity, heat, steam). The extension, refurbishment and servicing of existing
 
-refurbishment and servicing of existing plants (improvements on security and ESG issues).
+plants (improvements on security and ESG matters) are not in scope of the exclusion.
 
-• Indirect financing through supply chain dedicated directly to assets of thermal coal mining
+ Direct financing of petroleum coke (petcoke) - a high carbon by-product of oil refining used
+
+primarily as industry fuel – is not eligible.
+
+ Indirect financing through the supply chain dedicated directly to assets of thermal coal mining
 
 or thermal coal fired power plants, especially, but not limited to machinery and engineering
 
-support for power plants, and industrial facilities burning or processing coal.
+support for power plants, and industrial facilities burning or processing coal;
 
-• Power, heat and steam production for industrial processes (metallurgical coal) using coal as
+ Power, heat, and steam production for industrial processes using coal as the predominant
 
-a/the predominant energy source, although there are industrial scale alternatives.
+energy source, although there are industrial scale alternatives;
 
-• Corporate financing of companies or groups of companies which extend their thermal coal
+ Corporate financing of companies or groups of companies which extend their thermal coal
 
-mining or thermal coal-based power generation (installed) capacities.
+mining or thermal coal-based power generation (installed) capacities;
 
-• Corporate financing of new clients which have more than 25% of revenues from thermal
+ Corporate Financing shall not be granted to:
 
-coal sector.
+o New clients with revenue exposure to the thermal coal sector.
 
-• Corporate financing of companies or groups of companies which do not set up a transition
+o Existing clients whose coal transition plan do not meet the 2030 phase-out target
 
-plan which includes a 2030 phase out target by the end of 2025.
+and are not granted an extension period as per Chapter 5.5.1 – Thermal Coal –
 
-• Trade finance of thermal coal as commodity, financing of stocking and processing of
+Decision Grid for Extension Period
 
-thermal coal.
+ Trade finance of thermal coal as commodity, financing of stocking and processing of thermal
 
-Page: 15/26
+coal.
 
-
-
-Eligibility and exceptions rules for new financing in the coal sector
-
-• Financing clients using or producing coal for industrial processes (such as steel, aluminum,
-
-cement, bricks, ceramics, glass, etc.), metallurgical coal, as there are no industrial scale
-
-alternatives.
+EG_A_40017 Erste Group
 
 
 
-• Thermal coal used in other applications, such as filtration, cleaning or other specialized
+Date: 10/2025
 
-products like activated carbon, carbon fiber or silicon metal.
+Page: 18/30
 
-
-
-• Corporate financing to existing clients having more than 25% of revenues from the coal
-
-sector is subject to a credible time-bound exit plan to be presented not later than the end of
-
-2025.
+Public
 
 
 
-• Financing of safety maintenance, improvement of environmental parameters, procurement of
+Group Responsible Financing Policy
 
-technologies/services, essential repair work but not investments in a significant extension of
+
+
+Eligibility criteria for new financing activities in the coal sector:
+
+ Financing clients using or producing coal for industrial processes, such as steel, aluminum,
+
+cement, bricks, ceramics, glass, etc. (metallurgical coal) as there are no industrial scale
+
+alternatives;
+
+ Thermal coal used in other applications, such as filtration, cleaning or other specialized
+
+products like activated carbon, carbon fiber or silicon metal;
+
+ Corporate Financing may be granted to:
+
+o Existing clients provided they have submitted a credible coal transition plan by end of
+
+2025, including a commitment to phase out coal by 2030, or in case an extension
+
+period is granted in accordance with the decision grid outlined in Chapter 5.5.1 of this
+
+Policy
+
+ Financing of safety maintenance, improvement of environmental parameters, procurement of
+
+technologies/services, essential repair work, but not investments in a significant extension of
 
 the service life (replacement of complete functional units, boilers, etc.), with a maximum
 
-duration until due date in 2030 for district heating units.
+duration until the due date in 2030 for district heating units, unless extension period is
+
+granted in accordance with the decision grid outlined in Chapter 5.5.1 below;
+
+ Financing of suppliers, except for direct financing of projects to expand physical coal
+
+capacities (no new capacities), provided the buyer complies with the 2030 phase-out plan;
+
+ Climate-aligned activities related to clients operating in the coal sector – such as, but not
+
+limited to, renewable energy projects or climate adaption measures within midstream
+
+operations- may be eligible for financing. This reflects our commitment to supporting their
+
+contribution to climate protection and the transition to low-carbon energy.
+
+EG_A_40017 Erste Group
 
 
 
-• Financing of suppliers, except for direct financing of projects to expand physical coal
+Date: 10/2025
 
-capacities (no new capacities), provided the buyer complies with the 2030 phase-out plan.
+Page: 19/30
 
-
-
-• Financing of climate-aligned activities (NECPs) (e.g. renewable energy or climate adaptation
-
-in midstream activities, etc.) in relation to the coal industry, as we aim to support their
-
-contribution to climate protection, environmental restoration and low-carbon energy
-
-production.
+Public
 
 
 
-Erste Group seeks to review all existing coal sector client engagement and conduct in-depth
-
-discussions with the impacted clients to align their financing by the end of 2025 in accordance with
-
-the eligibility rules of this policy. Financing engagements with direct coal-asset financing will
-
-continue until the maturity of existing contracts; revolving contracts shall not be prolonged beyond
-
-the end of 2025.
+Group Responsible Financing Policy
 
 
 
-3.6 Nuclear
+5.6 Nuclear Energy
+
+
 
 Erste Group has a very restrictive approach concerning projects in the nuclear energy industry. Due
 
 to the long radioactive half-life of nuclear waste and the difficulties involved in its final storage, it is
 
-not in Erste Group’s interest to see nuclear energy capacities extended. Erste Group therefore
+not in Erste Group’s interest to see nuclear energy capacities extended. Erste Group acknowledges
 
-intends to finance only those projects that are indispensable to a country’s energy security.
+that countries in the region that Erste Group is active in, have declared that they currently must rely
 
+on nuclear power to ensure energy security. However, Erste Group will only finance - if at all - any
 
+projects related to nuclear power plants if these projects are of indispensable importance to a
 
-Transactions (defined as financing, advisory or other banking services) in this sector can be
-
-categorized as follows:
-
-
-
-Non-eligible projects
-
-• All transactions related to expanding nuclear power plant projects (not EU Taxonomy aligned)
-
-and all related projects (e.g. access roads or security systems for new nuclear plants), as well
-
-Page: 16/26
+country’s energy security.
 
 
 
-as components, spare parts required for the operation of the new power plant if these are not
+Non-eligible projects and transactions:
 
-of indispensable importance to its national energy security of a country.
+ All transactions related to expanding nuclear power plant projects (not EU Taxonomy aligned)
 
+and all related projects (e.g. access roads, security systems for new nuclear plants), as well
 
+as components, spare parts required for the operation of the new power plant if these
 
-• Projects relating to the surface extraction of uranium, as well as the transformation,
+projects are not considered to be of indispensable importance to its national energy security
 
-processing, and storage of nuclear fuel.
+by a country.
 
+ Projects relating to the mining of uranium, as well as the conversion, enrichment, processing
 
-
-Eligible projects
-
-• Transactions concerning existing and operational nuclear power plants that are considered
-
-to be indispensable to the national energy security of a country:
+and storage of nuclear fuel.
 
 
 
-o If they increase safety standards of the respective power plant (including better
+Eligible projects and transactions:
 
-security systems against accidents or violent attacks).
+ Transactions concerning existing and operational nuclear power plants that are considered to
 
+be of indispensable importance to the national energy security by a country:
 
+o if they increase the safety standards (incl. better security systems against accidents
 
-o If they relate to the acquisition of spare parts, vital components and necessary
+or violent attacks) of the respective power plants;
+
+o if they relate to the acquisition of spare parts, vital components and necessary
 
 maintenance which are required for the operation of those plants, with the rationale
 
-that without the replacement of parts and related maintenance works, a safe and
+that without the replacement of the respective parts and the related maintenance
 
-adequate functioning of the respective plant could not be ensured.
+works a safe and adequate functioning of the respective plant could not be ensured;
 
+o if they concern projects and related costs for decommissioning existing nuclear power
 
+plants, while ensuring the highest safety standards.
 
-o If they concern projects and related costs for running down existing nuclear power
+ Projects related to new nuclear power plant projects and related investments are eligible only:
 
-plants while ensuring the highest safety standards.
+o if they meet the criteria of Commission Delegated Regulation (EU) 2022/1214,
 
+including those that they ensure no significant harm is done to other environmental
 
+objectives;
 
-• Projects related to new nuclear power plant projects and related investments are eligible only:
+o if they are considered to be of indispensable importance to the national energy
 
+security by a country.
 
-
-o If they meet the criteria of the Commission Delegated Regulation (EU) 2022/1214,
-
-including those that ensure significant harm is done to other environmental objectives.
-
-
-
-o And if they are considered to be indispensable to the national energy security of a
-
-country.
+ The decommissioning, reprocessing, storage of domestic nuclear waste.
 
 
 
-o The transformation, processing and storage of domestic nuclear waste.
+In addition, eligible transactions need to comply with certain safety, legal and security standards
+
+which can be ascertained based on the assessment of the country (Energy NFR-CI) where the
+
+respective project or transaction will take place. Nuclear deals are only deemed eligible for countries
+
+within Erste Group Home Markets and EU countries with an Energy NFR-CI from Country Index 1 to 5,
+
+all others are deemed non-eligible.
+
+EG_A_40017 Erste Group
 
 
 
-In addition, eligible transactions need to comply with safety, legal and security standards which can
+Date: 10/2025
 
-be ascertained based on the assessment of the country (Energy RFCI) where the respective project
+Page: 20/30
 
-or transaction will take place.
-
-
-
-3.7 Renewables
+Public
 
 
 
-Increasing the share of renewable energy across different sectors of the economy is key to
-
-reaching the goal of reducing greenhouse gas emissions to net zero. Erste Group’s ambition is to
-
-steadily increase the share of renewables in the Bank’s total energy credit portfolio.
+Group Responsible Financing Policy
 
 
 
-3.7.1 Biofuels/Biomass
+5.7 Renewables
+
+Increasing the share of renewable energy across the different sectors of the economy is a key
+
+building block to reaching the goal of reducing greenhouse gas emissions. Erste Group’s ambition is
+
+to gradually increase the share of renewables in the total energy credit portfolio.
 
 
 
-Erste Group intends to provide financing, advisory and/or any other banking services if such
+5.7.1 Biofuels / Biomass
 
-projects or deals:
+Erste Group will provide financing, advisory or any other banking services if such projects or deals
 
-Page: 17/26
+ clearly identify the type of the biomass (agricultural/forest);
 
+ ensure that production of digestate covers monitoring and contingency plan (to minimize
 
+methane leakage at the facility) and produced biogas is used directly for the generation of
 
-• Clearly identify the type of biomass (agricultural/forest).
+electricity or heat or upgraded to bio-methane for injection in natural gas grad or used as
 
-• Ensure that production of digestate covers monitoring and a contingency plan and that
+vehicle fuel or feedstock in the chemical industry;
 
-produced biogas is used directly for generation of electricity or heat or upgraded to bio-
+ have no significant negative impact on environment (e.g. biodiversity), food supply security
 
-methane for injection in natural gas or used as vehicle fuel or feedstock in chemical industry.
+and biodiversity;
 
-• Have no significant negative impact on nature and environment, food supply security and
+ have no adverse effects on the sustainable use of soils, critical natural habitats such as rain
 
-biodiversity.
+forests or other territories outlined in Chapter 6 of this Policy or critical freshwater resources;
 
-• Have no adverse effects on the sustainable usage of soils, critical natural habitats such as
-
-rain forests or other territories outlined in the abstract on biodiversity or critical freshwater
-
-resources.
-
-• Do not substantially increase water usage compared to previous usage of the area from
+ do not substantially increase water usage compared to the previous usage of the area from
 
 which biomass originates.
 
 
 
-3.7.2 Hydro Power and Other Renewables
+5.7.2 Hydro Power and other Renewables
+
+Erste Group will provide banking services – as defined in the introduction – only if the related
+
+transactions or projects meet the following criteria:
+
+ comply with the World Commission on Dams (WCD) Framework in the case of hydro plants
+
+and international conventions such as the European Union Water Framework Directive and Art
+
+4 Directive (EU) 2000/60/EC);
+
+ comply with the EU Taxonomy’s Do No Significant Harm (DNSH) criteria for protection of
+
+biodiversity and ecosystems (for more details, refer to Chapter 6 below)
+
+ includes an impact assessment prior to construction of the project to assess all its potential
+
+impacts on the status of water bodies within the same river basin and on protected habitats
+
+and species directly dependent on water, considering in particular migration corridors, free-
+
+flowing rivers or ecosystems close to unimpaired conditions; and includes all technically
+
+feasible and ecologically relevant mitigation measures have been implemented to reduce
+
+adverse impacts on water as well as on protected habitats and species directly dependent on
+
+water (evidence is provided by documentation of environmental impact assessment or other
+
+official documentation).
 
 
 
-Erste Group will only provide financing, advisory or other banking services if such projects or deals:
+For Small Hydro Power Plant Projects, the following minimum standards are to be met (current and
+
+future projects):
+
+ Technical due diligence conducted by an independent consultant - taking into account the
+
+following aspects: project location (protected and forest areas), residents within the proximity
+
+of construction site, land use permit, cultural heritage within 1 km of the site, installation of
+
+oil-based transformers, capacity of the energy generation, location of the site within fish or
+
+wildlife migration areas etc.;
+
+EG_A_40017 Erste Group
 
 
 
-• Comply with relevant water frameworks and directives (including the World Commission on
+Date: 10/2025
 
-Dams (WCD) Framework in the Case of Hydro Plants, the European Union Water Framework
+Page: 21/30
 
-Directive and Art 4 Directive (EU) 2000/60/EC).
-
-• Have no adverse effects on critical natural habitats or freshwater resources, while projects in
-
-protected areas (e.g., Natura 2000 as set out by the EU Directive 92/43/EWG) are to be
-
-considered non-eligible for any financing, advisory or banking services.
-
-• Include an impact assessment prior to construction of the project to assess all potential
-
-impacts on water bodies within the same river basin and on protected habitats and species
-
-directly dependent on those water bodies.
+Public
 
 
 
-Ensure all technically feasible and ecologically relevant mitigation measures have been
-
-implemented to reduce adverse impacts on water bodies as well as on protected habitats and
-
-species directly dependent on those water bodies (evidence to be provided by environmental
-
-impact assessment or other official documentation).
+Group Responsible Financing Policy
 
 
 
-For “Small Hydro Power Projects” (SHPP), the following minimum standards are to be met for both
+ Due Diligence of Environmental and Social Impact Analysis (ESIA) or in the absence of a legal
 
-current and future projects:
+obligation for ESIA, an ESIA report shall be prepared by a third-party consultant, including a
 
-• Technical due diligence conducted by an independent consultant which takes into account
+site visit by the third party;
 
-divergent aspects, e.g., project location, residents within the proximity of construction site,
+ Water quality and sedimentation measurements are conducted annually. Semi-annual
 
-land use permit, cultural heritage within 1km of the site, installation of oil-based transformer
-
-and energy generation capacity.
+monitoring of all projects, as well as annual site visits by an internal/external specialist.
 
 
 
-• Due Diligence of the Environmental and Social Impact Analysis (ESIA) or, in case there is no
+5.8 Energy Sector – Decision Grid
 
-legal obligation for ESIA, an ESIA report to be conducted by a third-party consultant, including
-
-a site visit.
-
-Page: 18/26
-
-
-
-• Water quality and sedimentation measurements to be conducted annually. Semi-annual
-
-monitoring of all projects and an annual site visit by an internal/external specialist.
-
-
-
-3.8 Energy Sector Decision Grid
-
-
-
-For the purpose of the Decision Grid, energy sector deals are categorized into three main energy
+For the purpose of the Decision grid, energy sector deals are categorized into three main energy
 
 source groups:
 
+i) Nuclear,
 
+ii) Fossil fuels,
 
-• Nuclear
+iii) Renewable and others.
 
-• Fossil Fuels
+The potential project or transaction must comply with both the relevant Policy principles for the
 
-• Renewables and others.
+energy source in question and certain safety standards, which can be determined on the basis of the
 
+assessment of the country in which the project or transaction is to be carried out.
 
+The following country ratings signal the eligibility of a deal, provided that all other principles
 
-The potential project or transaction must comply with both the relevant policy principles for the
-
-energy source in question and relevant safety standards, based on the assessment of the country
-
-in which the project or transaction is to be carried out.
-
-
-
-The following country ratings signal the eligibility of a deal, provided that all other principles of this
-
-policy are met:
+mentioned in chapter 5.3 of the Policy are met:
 
 
 
-• Nuclear: Erste home market or EU countries with Energy RFCI between 1 and 5 and
+ Nuclear: Erste Home Markets or EU countries with Energy Non-Financial Risk – Country Index
 
-limitations as stated for non-eligible cases (nuclear, non-eligible transactions).
+between levels 1 to 5 and limitations as stated for non-eligible cases (see Chapter 5.6 of this
 
+Policy)
 
+ Fossil fuels: no geographical limitation; non-eligible criteria as per Chapter 5.4 of this Policy
 
-• Fossil fuels: no geographical limitation; non-eligible criteria.
+ Renewables and other: no geographical limitation; non-eligible criteria as per Chapter 5.7 of
 
+this Policy
 
-
-• Renewables: no geographical limitation; non-eligible criteria.
-
-Page: 19/26
-
-
-
-4 Biodiversity
+EG_A_40017 Erste Group
 
 
 
-Erste Group acknowledges the importance of biodiversity as it contributes to economic prosperity
+Date: 10/2025
 
-and human development. Nature is an important supplier of resources to many different economic
+Page: 22/30
 
-sectors and offers essential services such as, for example, purification of water, flood protection,
-
-pollination and carbon sequestration. Erste Group recognizes that the degradation of nature and
-
-actions aimed at conserving, restoring and sustainably using natural resources present significant
-
-risks and opportunities for business, finance and society, both now and in the future.
+Public
 
 
 
-4.1 Land and Soil Management
+Group Responsible Financing Policy
+
+6 Biodiversity
 
 
+
+Erste Group recognizes that biodiversity is foundational to the stability of ecosystems and the global
+
+economy. Climate Change, as well as the degradation of natural systems and environments present
+
+material risks to the financial sector, including credit, operational, and reputational exposures. Erste
+
+Group acknowledges its role in identifying, assessing, mitigating and managing biodiversity-related
+
+risks and impacts within our financing and investment activities. By integrating biodiversity-related
+
+factors into our responsible financing practices and decision-making processes, Erste Group aims to
+
+support the protection of ecosystems and contribute to a more resilient, sustainable future for our
+
+planet.
+
+Erste Group carries out a comprehensive analysis of biodiversity risks in relation to transactions in
+
+scope of this Policy and conducts due diligence on clients to understand their impact on, and
+
+vulnerability to, climate-related and environmental risks. The assessment is carried out using the
+
+tools “ENCORE” and the “WWF Biodiversity Risk Filter”. These tools enable the connection between
+
+economic activities and their impacts, including potential harm to biodiversity.
+
+For the avoidance of doubt, potential projects / activities and transactions that qualify as
+
+“environmentally sustainable” within the meaning of the EU Taxonomy are always considered eligible
+
+for financing by Erste Group.
+
+
+
+6.1 Land and soil management
 
 Key Risk Identification
 
-Soil is an essential and non-renewable resource for agriculture, providing the basis for production
+Soil is an essential, non-renewable resource for agriculture, providing the basis for the production of
 
-of food, fibre and other resources for a circular bioeconomy. Soil also supports biodiversity, plays a
+food, fibre, and other resources for a circular bioeconomy. Soil also supports biodiversity, plays a
 
-central role in carbon sequestration and storage and provides other ecosystem services, such as
+central role in carbon sequestration and storage, and provides a number of other ecosystem services,
 
-water regulation and nutrient cycling.
+such as water regulation and nutrient cycling.
 
 
 
 Policy objective:
 
+Erste Group will not provide financing, advisory and any other banking services to entities that:
 
+contribute to degradation of land by adopting intensive practices (intensive tillage practices - (e.g.
 
-Erste Group aims to refrain from any financing, advisory and other banking services to entities that:
+more than 3 tillage/year except cover crops - that disturb the earth's structure and contribute to
 
+degradation like deforestation overgrazing, intensive cultivation and construction work on/of land
 
+under special protection such as e.g. rainforests or the last remaining virgin forests in Europe);
 
-• Contribute to degradation of land by adopting intensive tillage practices
+damage biodiversity as a consequence of practicing monocultures (agricultural or forestry land on
 
-• Damage biodiversity
+which only one crop species is cultivated for more than 5 consecutive years);
 
-• Practice land abandonment and neglect, especially use of agricultural land for other purposes,
+practice land abandonment and neglect, especially use agricultural land for other purposes, with the
 
-with the exceptions permitted by the law.
-
-
-
-Non-eligible projects/deals
-
-Erste Group will not finance any activities or projects located in, or which have a material impact on:
-
-
-
-• UNESCO World Heritage Sites
+exceptions permitted by the law.
 
 
 
-• Wetlands of international importance on the Ramsar List
+Non-eligible projects / deals
+
+Unless they qualify as “environmentally sustainable” within the meaning of the EU Taxonomy, Erste
+
+Group will not finance any activities or projects located in or which have a material impact on:
+
+ UNESCO World Natural Heritage Sites
+
+ Wetlands of International importance on the Ramsar List
+
+ IUCN-listed protected areas (category I and II areas, or
+
+ Natura 2000.
+
+EG_A_40017 Erste Group
 
 
 
-• IUCN-listed protected areas (Category I and II areas) or Natura 2000
+Date: 10/2025
+
+Page: 23/30
+
+Public
 
 
 
-An impact assessment of the project must be carried out on all potential impacts. If the project
-
-complies with IFI standards (i.e. IFC Performance Standards, EBRD Performance Requirements,
-
-Equator Principles, etc.) or a positive impact assessment in accordance with Directive 2011/92/EU
-
-confirms that satisfactory mitigation measures have been taken to compensate for any negative
-
-impacts of the project on the protected area, the project may be financed.
-
-Page: 20/26
+Group Responsible Financing Policy
 
 
 
-4.2 Deforestation
+Prior to approval of financing for large-scale high-impact project, the corporate must submit a
+
+comprehensive assessment detailing the project’s environmental and social implications. A project
+
+may be considered for financing only if it demonstrably complies with internationally recognized
+
+environmental and social standards – including the IFC Performance Standards, EBRD Performance
+
+Requirements, and the Equator Principles – and is supported by a positive Environmental Impact
+
+Assessment (EIA) conducted in accordance with Directive 2011/92/EU. The EIA must confirm that
+
+appropriate mitigation measures are in place, with particular attention to impacts on protected areas.
+
+The corporate is responsible for providing documented evidence of compliance and mitigation as part
+
+of the financing application.
+
+The Environmental Impact Assessment (EIA) Directive, also known as Directive 2011/92/EU, is an
+
+EU-wide legal framework that requires certain public and private projects to undergo a formal
+
+environmental assessment process, before receiving development consent. The aim is to ensure that
+
+environmental factors are identified early, considered transparently, and integrated into decision-
+
+making.
 
 
 
-Land clearance for commercial agriculture and plantations is by far the largest cause of loss of
+This policy applies primarily to clients and projects subject to mandatory Environmental Impact
 
-biodiversity, often driven primarily by land speculation rather than the absolute need for food
+Assessments (EIAs) under Directive 2011/92/EU. The directive targets large-scale developments
 
-production.
+with potentially significant environmental effects, such as intensive agricultural operations, major
 
-Erste Group intends to follow the existing principles set out in the EU Biodiversity Strategy for 2030
-
-(which echoes the ambition of the European Green Deal) and shall ensure financing, advisory or any
-
-other financing services are provided to entities that ensure their activity is not causing any form of
-
-degradation of ecosystems (Directive 2011/92/EU).
+land-use changes, or projects located in ecologically sensitive areas.
 
 
 
-Non-eligible Projects:
+Financing may be considered in alignment with this policy if both the project and the client fully
+
+comply with all regulatory and legal requirements under the EIA framework, and no material
+
+environmental concerns are identified.
 
 
 
-Erste Group Bank AG aims to abstain from financing direct or indirect projects or activities involving
+In the agricultural sector, additional considerations apply regarding subsidy frameworks, particularly
 
-deforestation of primary forests and tropical rainforests, and removal of high conservation value
+those governed by the EU’s Common Agricultural Policy (CAP) and relevant national funding
 
-(HCV2) forests.
+programs. Projects that are EIA-obligated and simultaneously benefit from agricultural subsidies must
+
+demonstrate full compliance with both environmental and subsidy-related regulations. Financing is
+
+permissible in such cases, provided regulatory alignment is ensured.
 
 
 
-4.3 Water quality and reuse in agriculture
+6.2 Deforestation
+
+Land clearance for commercial agriculture and plantations is by far the largest cause of loss, often
+
+driven primarily by land speculation rather than the absolute need for food production.
+
+Erste Group will make use the existing principles set out in the EU Biodiversity Strategy for 2030
+
+(which echoes the ambition of the European Green Deal and shall advise financing, do advisory work
+
+or provide any other financing services to entities that ensure that the result of practicing their
+
+activity is not causing any form of degradation of ecosystems as per the impact assessment
+
+according to Directive 2011/92/EU , including the removal of a forest or stand of trees from land that
+
+is then converted to non-forest use
 
 
 
-While Europe is largely considered as having adequate water resources, water scarcity and drought
+Exclusion Criteria:
 
-are increasingly frequent and widespread phenomena in the European Union. The main overall
+ Erste Group will abstain from financing direct or indirect projects / activities involving
+
+deforestation of primary forests and tropical rainforests, and of removal of high conservation
+
+value (HCV2) forests (HCV Approach | HCV Network). Forest-owning forestry companies,
+
+including forest-owning pulp and paper companies operating in high-risk areas - as defined in
+
+the Forest 500 High Risk Country List by NGO Global Canopy - must have Forest Stewardship
+
+Council (FSC) or Programme for Endorsement of Forest Certification Schemes (PEFC)
+
+certification;
+
+EG_A_40017 Erste Group
+
+
+
+Date: 10/2025
+
+Page: 24/30
+
+Public
+
+
+
+Group Responsible Financing Policy
+
+
+
+ Erste Group will abstain from entering new transactions with companies that grow and/or
+
+trade palm oil unless they are members of the Roundtable on Sustainable Palm Oil (RSPO) and
+
+have a corresponding RSPO certification;
+
+ Erste Group will abstain from entering new transactions with companies that grow soy in the
+
+Amazon Basin and/or trade soy from the Amazon Basin unless they are certified by the Round
+
+Table on Responsible Soy (RTRS).
+
+
+
+6.3 Water quality and reuse in agriculture
+
+While Europe is largely considered as having adequate water resources, water scarcity and drought is
+
+an increasingly frequent and widespread phenomenon in the European Union. The main overall
 
 objective of EU water policy is to ensure access to good quality water in sufficient quantity for all
 
-Europeans and to ensure the good status of all water bodies across Europe.
+Europeans, and to ensure the good status of all water bodies across Europe.
 
 
 
-Erste Group therefore refrains from financing, providing advisory and/or any other services to
+Exclusion Criteria
 
-projects and activities that:
+ Projects that do not protect surface waters from chemical pollution and discharged water, and
 
+therewith do not comply with the quality parameters as indicated in the national regulations
 
+(heavy pollution);
 
-• Do not protect surface waters from chemical pollution and discharged water does not
+ Projects that are non-compliant with EU-Directive 2006/118/EC on the protection of
 
-comply with the quality parameters as indicated in the national regulations (heavy pollution).
-
-
-
-• Are non-compliant with EU-Directive 2006/118/EC on the protection of groundwater
-
-against pollution and deterioration.
+groundwater against pollution and deterioration.
 
 
 
-4.4 Biodiversity Decision Grid
+6.4 Commodity Certification Guidelines
+
+As part of the commitment to sustainability, it is crucial for Erste Group to evaluate the environmental,
+
+social and governance impact of the commodities Erste Group finances. Key commodities are widely
+
+traded and consumed globally. However, these commodities come with significant ESG risks,
+
+particularly regarding deforestation, labor rights, and environmental degradation. Below, Erste Group
+
+outlines key certifications to consider when assessing ESG compliance of these commodities. Erste
+
+Group’s assessment focuses on transactions directly linked to commodity trading clients, prioritizing
+
+engagements within the core commodity value chain.
 
 
 
-For the purpose of the Decision Grid, the impact of a project on biodiversity should be assessed as
+Palm Oil
 
-follows:
+Palm Oil is a versatile and highly demanded commodity, but its production has been linked to
+
+significant deforestation, loss of biodiversity, and human rights violations. To mitigate these risks,
+
+Erste Group prioritizes financing palm oil production that adheres to rigorous sustainability standards.
+
+ RSPO (Roundtable on Sustainable Palm Oil): The RSPO certification ensures that palm oil is
+
+produced sustainably, with measures to prevent deforestation, promote biodiversity, and
+
+uphold worker’s rights. The RSPO also sets standards for transparency and traceability across
+
+the supply chain.
+
+ ISCC (International Sustainability and Carbon Certification): This certification is crucial for
+
+palm oil that claims to reduce carbon emissions and follows environmental and social
+
+sustainability practices. ISCC addresses climate change by focusing on carbon footprint
+
+reduction, biodiversity preservation, and supply chain transparency.
+
+ Rainforest Alliance: Rainforest Alliance certified palm oil is produced in a way that protects
+
+ecosystems and the rights of workers. This certification promotes integrated landscape
+
+management and climate adaption strategies to enhance biodiversity and community well-
+
+being.
+
+EG_A_40017 Erste Group
 
 
 
-i) Location of the project.
+Date: 10/2025
 
-ii) Impact assessment according to Directive 2011/92/EU on the effects of certain
+Page: 25/30
 
-public and private projects on the environment.
-
-iii) Deforestation: classification as HCV2 forest.
-
-Page: 21/26
+Public
 
 
 
-iv) Water: compliance with EU-Directive 2006/118/EC on the protection of groundwater
-
-against pollution and deterioration.
+Group Responsible Financing Policy
 
 
 
-The potential project or transaction must comply with the relevant policy principles and can be
+Coffee \& Cocoa
 
-determined based on the assessment of the country in which the project or transaction is to be
+The coffee and cocoa industry faces several ESG challenges, including deforestation, poor labor
+
+conditions, environmental degradation, and the effects of climate change on coffee-growing regions.
+
+To ensure that our financing supports sustainable coffee production, Erste Group considers
+
+certifications that focus on both environmental and social impacts.
+
+ Fair Trade Certified: This certification ensures fair wages and working conditions for
+
+farmers and workers, while promoting sustainable farming practices. Fair Trade also
+
+supports community development and focuses on eliminating exploitative labor practices,
+
+especially for smallholder farmers.
+
+ Rainforest Alliance: Like palm oil, coffee that carries the Rainforest Alliance seal is
+
+produced using methods that conserve biodiversity, protect forests, and support
+
+sustainable farming practices. The certification also emphasizes improving the livelihoods
+
+of coffee farmers, particularly in the face of climate change.
+
+
+
+6.5 Biodiversity – Decision Grid
+
+For the purpose of the decision grid, the impact of a project on biodiversity should be assessed using
+
+in the following steps:
+
+i) Location of project (Links regarding protected areas as outlined in Chapter 6.1);
+
+ii) Compliance with the EU Taxonomy’s Do No Significant Harm (DNSH) criteria for
+
+protection of biodiversity and ecosystems:
+
+a. Completion of an Environmental Impact Assessment (EIA) or screening
+
+i. For projects / activities in the EU, in accordance with Directive 2011/92/EU
+
+on the assessment of the effects of certain public and private projects on
+
+the environment;
+
+ii. For projects / activities in third countries: in accordance with equivalent
+
+applicable national law or international standards requiring the completion
+
+of an Environmental Impact Assessment (EIA), for example, the IFC
+
+Performance Standard 1: Assessment and Management of Environmental
+
+and Social Risks;
+
+Implementation of the required mitigation and compensation measures for
+
+protecting the environment;
+
+b. Conduct of an appropriate assessment, where applicable, where project sites
+
+/operations are located in or near biodiversity-sensitive areas (including the Natura
+
+2000 network of protected areas, UNESCO World Heritage sites and Key
+
+Biodiversity Areas, as well as other protected areas)
+
+i. for projects / activities in the EU: in accordance with Directive
+
+2009/147/EC on the conservation of wild birds and Council Directive
+
+92/43/EEC on the conservation of natural habitats and wild fauna and flora
+
+;
+
+ii. for projects / activities in third countries: in accordance with equivalent
+
+applicable national law or international standards, that aim at the
+
+conservation of natural habitats, wild fauna and wild flora, and that require
+
+to carry out
+
+EG_A_40017 Erste Group
+
+
+
+Date: 10/2025
+
+Page: 26/30
+
+Public
+
+
+
+Group Responsible Financing Policy
+
+
+
+1\. a screening procedure to determine whether, for a given activity,
+
+an appropriate assessment of the possible impacts on protected
+
+habitats and species is needed;
+
+2\. such assessment, where the screening determines that it is
+
+needed, for example IFC Performance Standard 6: Biodiversity
+
+Conservation and Sustainable Management of Living Natural
+
+Resources; Implementation of the required mitigation measures to
+
+ensure that the project will not have any significant effects on the
+
+conservation objectives of the protected area ;
+
+c. Dedicated DNSH criteria for certain economic activities set out in the Climate
+
+Delegated Act and Environmental Delegated Act;
+
+i) All projects and transaction involving deforestation must be supported by
+
+a rigorous assessment provided by the client, evaluating potential adverse
+
+impacts on High Conservation Value 2 (HCV2) forests. These forests are
+
+critical for maintaining essential ecosystem services and landscape-level
+
+ecological functions. The client is responsible for submitting
+
+comprehensive documentation that demonstrates the assessment has
+
+been conducted in accordance with recognized environmental standards.
+
+ii) For water compliance with EU-Directive 2006/118/EC on the protection of
+
+groundwater against pollution and deterioration.
+
+The potential project or transaction must comply with the relevant Policy principles and can be
+
+determined on the basis of the assessment of the country in which the project or transaction is to be
 
 carried out.
 
-Page: 22/26
+EG_A_40017 Erste Group
 
 
 
-5 Gaming and Gambling Sector
+Date: 10/2025
+
+Page: 27/30
+
+Public
+
+
+
+Group Responsible Financing Policy
+
+7 Gaming \& Gambling Sector
 
 
 
 Erste Group has no specific business focus on the gaming industry. The exposure is maintained as
 
-a marginal part of the Erste Group portfolio. Erste Group implements this policy to govern its
+marginal part of the Erste Group portfolio. Erste Group implements this Policy to govern its business
 
-business activities in this sector as well as to service its clients and society in a responsible manner.
+activities in this sector as well as to service its clients and society in a responsible manner. Erste
 
-Erste Group recognises that the sector provides entertainment services to society, but at the same
+Group recognizes that the sector provides entertainment services to society, but at the same time,
 
-time, this sector is also vulnerable to the risk of harm to vulnerable customer segments. Erste
+this sector is also vulnerable to the risk of losses in sensitive customer segments. Therefore, Erste
 
-Group therefore applies a very selective financing policy and engages only with service providers
+Group applies a very selective financing policy and engages only with service providers, which can
 
-that can ensure best-in-class management of risks of social harm.
+ensure best-in-class management of risks of social damages. Erste Group will engage only with
 
+reputable and transparent companies in the European Economic Area, Erste Group Home Market or
 
+the UK (“extended EEA”) where the gaming industry is strongly regulated and which are subject to
 
-Erste Group will engage only with reputable and transparent companies in the European Economic
+supervision and comply with responsible gambling principles, as well as adhere to extended EEA-wide
 
-Area, Erste Group Home Market or the UK (“extended EEA”) where the gaming industry is
-
-regulated, is the subject of supervision and must comply with responsible gambling principles, as
-
-well as adhere to extended EEA-wide AML and CTF standards.
-
-
+AML and CTF standards.
 
 The best-in-class gaming service providers must comply with many aspects of the responsible
 
-gaming criteria set out in a dedicated responsible gaming scorecard. These provide Erste Group the
+gaming criteria contained in a dedicated responsible gaming scorecard which provide Erste Group
 
-necessary comfort for addiction prevention and addiction cure policies.
+with the necessary comfort for addiction prevention and addiction cure policies. Erste Group
 
+considers lottery services, particularly state – owned lottery services, or clearly connected to
 
+humanitarian causes – less harmful and preferable for financing activities.
 
-Erste Group considers lottery services, especially those which are state-owned or connected to
+The parameters described in this Policy are based on those accepted by the industry and by various
 
-humanitarian causes, less harmful and preferable for the financing activities.
+other stakeholders as representing best practice and are consistent with Erste Group’s longstanding
 
+commitment to sustainable and socially responsible business conduct and its aim to mitigate potential
 
-
-The parameters described in this policy are based on those accepted by the gaming industry and
-
-by other stakeholders as representing best practice. These principles are consistent with Erste
-
-Group’s longstanding commitment to sustainability and socially responsible business conduct and
-
-mitigate potential reputational and other non-financial risks.
+reputational and other non-financial risks.
 
 
 
-5.1 Gaming Sector Scope
+7.1 Gaming Sector Scope
 
+ Gaming and gambling service providers, licensed gambling industry, internet gambling
 
+industry, sports betting, providers of hard- and software related to the gambling industry,
 
-• Gaming and gambling service providers: The licensed and unlicensed gambling industry, the
+providers of payment processing with respect to gambling.
 
-internet gambling industry, sports betting, providers of hard- and software related to the
-
-gambling industry, providers of payment processing with respect to gambling.
-
-• Gaming and gambling services: Wagering of money or something of material value on an
+ Gaming and gambling services, wagering of money or something of material value on an
 
 event with an uncertain outcome with the primary intent of winning money or material goods,
 
@@ -1712,49 +2130,57 @@ partially prohibited by national law. Includes dice games, card games, gaming ma
 
 lottery; the main characteristic is the random course of events.
 
-• Gaming-related service providers: Business activities which are solely or mostly related to
+ Gaming-related service providers, business activities which are solely or mostly related to
 
 gaming business, operators of casinos, lotteries, sports betting, producers of gaming
 
 software and hardware, operators and vendors of gaming machines, providers of payment
 
-processing with respect to gambling.
+processing with respect to gambling etc.
 
-• Payment service providers: Money flows – either physically or virtually represented by a set
+ Payment service providers money flows – either physically or virtually represented by a set
 
 of relevant data – to or from a client bank account held by a bank in Erste Group.
 
+The NACE Code 9200 Gambling and Betting is typically adressing gaming-related sectors and treat
 
-
-The NACE Codes 9200 Gambling and Betting typically addresses gaming-related sectors and
-
-treats the client as the gaming-related subject of this policy.
-
-Page: 23/26
+the client as gaming-related subject to this Policy.
 
 
 
 Key risk identification
 
-The involvement with the business area gaming and gambling poses risks to society:
+Any involvement with the business area of gaming and gambling poses risks to Erste Group, namely
+
+through reputational risk and a wider risk to society:
+
+ Risk of vulnerable players being prone to addiction leading to financial extorsion, social
+
+exclusion and follow-up crime.
+
+ Due to the large amounts of money processed by gaming-related clients potentially registered
+
+in weakly regulated jurisdictions, the sector is prone to the risk of money laundering and other
+
+criminal activities.
+
+EG_A_40017 Erste Group
 
 
 
-• Risk of vulnerable players prone to addiction leading to financial extortion, social exclusion
+Date: 10/2025
 
-and follow-up crime.
+Page: 28/30
 
-
-
-• Due to the large amounts of money processed by gaming-related clients – especially if
-
-registered in weakly regulated jurisdictions – it is prone to the risk of money laundering and
-
-other criminal activities.
+Public
 
 
 
-• Potentially illegal gaming and gambling are prone to risks of macroeconomic losses (e.g., tax
+Group Responsible Financing Policy
+
+
+
+ Potential illegal gaming and gambling is prone to risks of macroeconomic losses (e.g. tax
 
 evasion).
 
@@ -1762,121 +2188,169 @@ evasion).
 
 Policy objective
 
-Erste Group aims to financially support the Gaming and Gambling sector only on a very selective
+Erste Group is willing to consider supporting the Gaming and Gambling sector strictly on a highly
 
-basis. The Bank has a clear objective to provide financing only for leisure activities while ensuring
+selective basis with a clear objective to provide financing only for leisure activities. All engagements
 
-minimizing the risk of social harm risk posed by the financed companies.
+must align with Chapter 7.2 of the financing criteria and ensure that no socially adverse risks are
 
-
-
-5.2 Financing Rules
+assumed by the financed entities.
 
 
 
-A detailed KYC and AML-DD process is mandatory as a first step in the on-boarding process, in line
+7.2 Financing Criteria
 
-with the Group Compliance Policy (Group Compliance Questionnaire).
+A detailed KYC and AML-Due Diligence process is mandatory as the first step of the on-boarding
 
+process, in line with the Group Policy Anti-Money Laundering, Know Your Customer and Counter
 
-
-The following are not eligible for new financing or any other banking services (payments,
-
-current account operations, etc) in the Gaming and Gambling sector:
+Terrorist Financing.
 
 
 
-• Service providers failing to comply with Erste Group’s Compliance Questionnaire.
+7.2.1 Service providers/companies not eligible for new financings or any other
 
-• Service providers in any dispute with local or European law enforcement, or bodies
+banking services within the Gaming and Gambling sector:
+
+ Service providers failing to comply with the Erste Group Compliance Questionnaire;
+
+ Service providers in any dispute with local or European law enforcement, or bodies
 
 supervising the Gaming and Gambling sector activities that might have an impact on the
 
-license.
+license;
 
-• Service providers with major controversies connected to the gaming and gambling activities.
+ Service providers with severe controversy issues connected to gaming and gambling
 
-• Service providers who would hold client funds beyond the minimum deposit amount required
+activities;
 
-for the management of their clients.
+ Service providers who hold client funds beyond the minimum deposit amount required for the
 
-• Service providers not complying with the minimum level of standards as defined by the Erste
+management of their clients;
 
-Group Responsible Gaming Scorecard. In this case due diligence is to be exercised by
+ Services providers not complying with the minimum level of standards defined by the Erste
 
-Business/Deal Originator in order to obtain sufficient comfort on the points above. A company
+Group Responsible Gaming Score Card - with a special focus on addiction awareness
 
-not scoring a minimum in Underage gambling and betting, limits, playing with credit and a
+measures, addiction prevention measures, addiction countermeasures, underage gaming
 
-minimum (83 for Lotteries, 115 for Gambling, 105 for Betting) in the Total Score, does not
+prevention, training for staff, advertisement restrictions.
 
-qualify for a Risk Acceptance by a NFR decision.
+ Due diligence is to be conducted by the Deal Originator in order to obtain sufficient comfort
 
-Page: 24/26
+on the points above.
+
+A company not scoring a minimum in Underage gambling and betting, Limits, Playing with credit and a
+
+minimum of (83 for Lotteries, 115 for Gambling, 105 for Betting) in the Total Score, does not qualify
+
+for a Risk Acceptance by a NFR decision.
+
+When fulfilling a Responsible Gaming Score Card for service providers for whom, due to the nature of
+
+the job, some questions from the Score Card cannot be answered, it is necessary to answer the
+
+question with a best result of 3 points and put Not applicable in the comment.
+
+If the service provider is equally engaged in all three activities (lottery / gambling / betting) based on
+
+turnover, then it should be pragmatic and evaluate the activity through an activity that has the
+
+strictest rules. If one activity is less than 10% of the turnover, an assessment is not required.
+
+When fulfilling a Responsible Gaming Score Card for pure service providers such as gaming software
+
+and hardware manufacturers, gaming machine operators and suppliers, gambling-related payment
+
+processing service providers, etc., the "main client" for whom it provides services/products has to be
+
+assessed.
+
+EG_A_40017 Erste Group
 
 
 
-Eligible for new financing in the Gaming and Gambling sector
+Date: 10/2025
+
+Page: 29/30
+
+Public
 
 
 
-• National lotteries or private operators of lotteries with humanitarian causes, subject to a
+Group Responsible Financing Policy
 
-minimum Scorecard Result.
 
-• Other gaming operations reaching best three Scorecard Results of the national market
+
+7.2.2 Service providers/companies eligible for new financing in the Gaming and
+
+Gambling sector
+
+ National lotteries or private operators of lotteries with humanitarian causes, subject to a
+
+minimum Score Card Result;
+
+ Other gaming operations reaching the best 3 Score Card Results of the national market
 
 (excluding national lotteries or private operator lotteries with humanitarian causes).
 
 
 
-Revolving lines for existing clients that do not qualify for new financing should not be prolonged
+7.2.3 Service providers/companies eligible for banking services and operations
 
-beyond 2023.
+(beyond financing) in the Gaming and Gambling sector:
+
+ Services providers reaching a score above the minimum level of standards defined by the
+
+Erste Group Responsible Gaming Score Card - with special focus on addiction awareness
+
+measures, addiction prevention measures, addiction countermeasures, underage gaming
+
+prevention, training for staff, advertisement restrictions.
+
+ Service providers not breaching the criteria (1-4) listed in chapter 7.2.1.
+
+ Considering the sensitive nature of the gaming and gambling sector, these clients are not
+
+serviced by the relationship management of the branches.
+
+When assessing the Responsible Gaming criteria for a Group of Connected Clients (GCC), only one
+
+Responsible Gaming Score Card should be provided, covering all the operations for the respective
+
+GCC (and, geographically, as a minimum all countries in the Erste Group Extended Home Market).
+
+EG_A_40017 Erste Group
 
 
 
-Eligible for banking services and operations (beyond financing) in the Gaming and Gambling
+Date: 10/2025
 
-sector:
+Page: 30/30
 
-
-
-• Service providers reaching a score above the minimum level of standards defined by the Erste
-
-Group Responsible Gaming Scorecard Service providers not breaching the criteria 1-4 listed
-
-in Non-eligible for new financing or for other banking services.
-
-Page: 25/26
+Public
 
 
 
-Annex 1 Abbreviations
+Group Responsible Financing Policy
+
+8 Abbreviations
 
 
 
-AMAP - Arctic Monitoring and Assessment Programme
+AMAP – Arctic Monitoring And Assessment Programme
 
 AML – Anti-Money-Laundering
 
-AO – Assignment Office
-
-BAT – Best Available Technology
+AML-DD – Anti Money Laundering Due Diligence
 
 C\&M – Corporates and Markets
 
-CCM – Convention on Cluster Munition
-
 CEE – Central-and Eastern Europe
 
-CFO – Chief Finance Officer
+COP21 – (21st Conference of the Parties - UN-Climate Change Conference in Paris).
 
-COP21 – 21st Conference of the Parties - UN-Climate Change Conference in Paris
-
-CRE – Commercial Real Estate
-
-CRO – Chief Risk Officer
+CRO \- Chief Risk Officer
 
 CTF – Counter-Terrorism Financing
 
@@ -1886,60 +2360,38 @@ EEA – European Economic Area
 
 EG – Erste Group
 
-ESIA – Environmental and Social Impact Analysis
+ESIA \- Environmental and Social Impact Analysis
 
 ESG – Environment, Social and Governance
 
-FI – Financial Institutions
-
-FFPP – Fossil Fired Power Plants
+FATF \- Financial Action Task Force
 
 GHG – Greenhouse gases
 
-GOCC – Group Operational Conduct Committee
-
-ICRC – International Committee of the Red Cross
-
-IEA – International Energy Agency
-
-IFI - Industrial Fastener Institute
-
-IFC – International Finance Cooperation
-
-IHL – International Humanitarian Law
-
-IPCC – Intergovernmental Panel on Climate Change
+ICRC – International Committee of Red Cross
 
 IUCN – International Union for Conservation of Nature
 
-LC – Large Corporates
-
-GM – Group Markets
+IFC – Industry Foundation Classes
 
 KYC – Know Your Customer
 
+LNG \- Liquefied Natural Gas
+
 NECP – National Energy and Climate Plan
 
-NFR – Non-Financial Risks (operational, compliance, reputational, security, legal and ICT risks)
+NFR – Non-Financial Risks
 
-PS – Public Sector
-
-RFCI – Responsible Financing Country Index
+NFR-CI – Non-Financial Risk - Country Index
 
 ROCC – Regional Operational Conduct Committee
 
-Page: 26/26
+RSPO \- Roundtable on Sustainable Palm Oil
 
+RTRS \- Round Table on Responsible Soy
 
-
-SE\&E – Social, Environmental and Economic development
-
-SHPP – Small Hydro Power Plants
-
-SME – Small and Medium-sized Enterprises
-
-SPoC – Single Point of Contact
+SASB – Sustainability Accounting Standards Board
 
 UN – United Nations
 
-WCD - The World Commission on Dams
+WCD – The World Commission on Dams
