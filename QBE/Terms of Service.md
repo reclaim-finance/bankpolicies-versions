@@ -240,9 +240,9 @@ pirate fishing.
 
 
 
-Forestry, mining, large-scale
+Forestry, mining, and large-scale
 
-hydropower dams, and mining
+hydropower dams
 
 
 
