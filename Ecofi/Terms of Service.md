@@ -348,7 +348,7 @@ Téléchargez nos contenus en un clic
 
 ### Politique d'engagement
 
-396 Ko
+320 Ko
 
 [Télécharger](https://www.ecofi.fr/telecharger/pub/2259/politique-dengagement)
 
