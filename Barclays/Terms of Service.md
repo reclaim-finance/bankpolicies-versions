@@ -1,152 +1,200 @@
-1
+Climate Change
+
+Statement
 
 
 
-Restricted - External
-
-
-
-Climate Change Statement
-
-
-
-February 2024
+December 2025
 
 2
 
 
 
-Restricted - External
+Contents
 
 
 
-About this Statement
+Introduction 2
 
 
 
-This statement updates our previous positions as
+Scope of statement 3
 
-set out in our February 2023 statement and sets
 
-out our revised position and approach to sensitive
+
+Approach to Sustainability Enhanced Due Diligence 3
+
+
+
+Oil \& Gas 4
+
+
+
+Upstream Oil \& Gas 4
+
+
+
+Unconventional Oil \& Gas 5
+
+
+
+Thermal Coal 6
+
+
+
+Thermal Coal Mining 6
+
+
+
+Thermal Coal Power 6
+
+
+
+Mountain Top Removal (MTR) Coal Mining 7
+
+
+
+Biomass 7
+
+
+
+Applicability of financing restrictions 7
+
+
+
+Disclosures 8
+
+
+
+Referral and Escalation Procedure 8
+
+
+
+Governance 8
+
+
+
+Third Party Data 8
+
+
+
+Key Definitions 9
+
+
+
+About this document
+
+
+
+This statement sets out our position and approach to financing certain sensitive
 
 sectors.
 
-February 2024
+
+
+The application of the provisions in this statement is subject to compliance with
+
+applicable laws and regulations, which may change from time to time.
 
 
 
-Contents
-
-Background ...................................................................................................................................... 3
-
-Oil \& Gas .......................................................................................................................................... 4
-
-Upstream Oil \& Gas ...................................................................................................................... 4
-
-Unconventional Oil \& Gas ............................................................................................................. 5
-
-Thermal Coal .................................................................................................................................... 6
-
-Thermal Coal Mining ..................................................................................................................... 6
-
-Thermal Coal Power...................................................................................................................... 6
-
-Mountain Top Removal (MTR) Coal Mining................................................................................... 7
-
-Biomass............................................................................................................................................ 7
-
-Approach to EDD.............................................................................................................................. 8
-
-Key Definitions................................................................................................................................ 10
+December 2025
 
 3
 
 
 
-Restricted - External
+Introduction
+
+Our ambition to be a net zero bank by 2050, approved by shareholders in 2020, was driven by a
+
+recognition of the risks and opportunities associated with climate change.
 
 
 
-Background
+We continue to enhance how we manage the risks associated with the transition, financial and
 
+associated, and evolve how we appropriately mitigate these risks through our policies and processes,
 
+including our environmental statements such as this, taking into account regional and jurisdictional
 
-Our Climate Strategy
+considerations. We will continue to consider and adapt our approach in light of the evolving landscape.
 
+Scope of statement
 
-
-In March 2020, Barclays announced its ambition to be a net zero bank by 2050, becoming one of the first
-
-banks to do so.
-
-
-
-We have a three-part strategy to turn our net zero ambition into action:
-
-
-
-1. Achieving net-zero operations | Barclays is working to reduce its Scope 1, Scope 2 and Scope 3
-
-operational emissions consistent with a 1.5°C aligned pathway and counterbalance any residual
-
-emissions.
-
-2. Reducing our financed emissions | Barclays is committed to aligning its financing with the goals
-
-and timelines of the Paris Agreement, consistent with limiting the increase in global
-
-temperatures to 1.5°C.
-
-3. Financing the transition | Barclays is helping to provide the green and sustainable finance
-
-required to transform the economies, customers and clients we serve.
-
-
-
-Our strategy (including our climate strategy) reflects our Purpose and is driven by consideration of all
-
-relevant risks and considerations.
-
-
-
-Over the coming years, our strategy will continue to evolve. It will need to adapt to reflect market,
-
-technological, regulatory and geopolitical developments affecting the shape and timing of the transition
-
-to a low-carbon economy. We will keep our policies, targets and progress under review in light of the
-
-rapidly changing external environment and the need to support governments and clients in delivering an
-
-orderly energy transition, integrating social considerations and providing energy security. Progress may
-
-vary and we need to be able to adapt our approach to maintain our support for the transition, whilst
-
-remaining focused on our ambition of becoming a net zero bank by 2050.
-
-
-
-Updated Climate Change Statement
-
-
-
-We have reviewed our restrictions and conditions to financing of sensitive sectors taking into account
-
-relevant risk and other considerations as well as our Purpose. This updated Climate Change Statement
-
-sets out our approach to financing sensitive sectors and includes new restrictions on financing upstream
-
-oil \& gas, as well as Enhanced Due Diligence (EDD) requirements for biomass.
+This statement covers the provision of financing in certain sensitive sectors .
 
 
 
 Words in italics are defined in the Key Definitions table and clarify the intended scope of this statement.
 
+Approach to Sustainability Enhanced Due Diligence
+
+We conduct Sustainability Enhanced Due Diligence (SEDD) on a case-by-case basis on Groups in scope of
+
+this statement. This approach is risk based and Groups are analysed against specific environmental and
+
+social risk considerations in addition to the below requirements which include, but are not limited to:
+
+i. The Group’s adherence to the Equator Principles (if a project finance or credit transaction is
+
+deemed to be in scope) including, where appropriate, any relevant International Finance
+
+Corporation (IFC) performance standards;
+
+ii. The Group’s adherence to local and national environmental regulation and standards and Industry
+
+best practice;
+
+iii. The Group’s management and implementation of procedures which minimise direct
+
+environmental impacts in the context of their operations;
+
+iv. The Group’s disclosures in relation to corporate governance and oversight of climate change
+
+issues and associated corporate risks, including disclosure against principles such as the Financial
+
+Stability Board (FSB) Taskforce on Climate-related Financial Disclosures (TCFD) and appropriate
+
+transition plans;
+
+v. The Group’s approach to and track record in protecting the health and safety of the workforce and
+
+local communities;
+
+vi. The Group’s approach to stakeholder engagement and consultation, including its commitment
+
+and adherence to the principles of Free Prior Informed Consent (FPIC) where indigenous peoples
+
+may be impacted by their operations;
+
+vii. The Group’s approach to identifying and addressing its human rights impacts, including through
+
+due diligence.
+
+
+
+Additional SEDD questions will vary by sector, for instance, in addition to the SEDD criteria outlined
+
+above, for Biomass, this process will also consider the sustainable sourcing of feedstock.
+
+
+
+External technical input may be obtained to assist the business in reviewing and assessing whether
+
+certain Group activities meet our internal SEDD criteria, or where there is uncertainty as to whether a
+
+certain activity is within scope of our SEDD criteria. Barclays will continue to align its approach to
+
+sensitive sectors with developments in government and public policy.
+
+
+
+In order to assist and enhance the SEDD process, we operate a mandatory training programme for
+
+relevant colleagues.
+
 4
-
-
-
-Restricted - External
 
 
 
@@ -154,29 +202,17 @@ Oil \& Gas
 
 Upstream Oil \& Gas
 
-Project Level
-
-From the date of this statement,
-
-• we will not provide project finance for expansion projects or infrastructure projects
-
-primarily to be used for such expansion projects.
-
-• we will not provide other direct financing to Energy Groups for expansion projects or
-
-infrastructure projects primarily to be used for such expansion projects.
 
 
-
-Entity Level
+Working with our clients on their transition
 
 Client Transition Framework (CTF)
 
-We assess the information available on Energy Groups’ plans for alignment with our emissions
+We assess the information available on Energy Groups’ plans for alignment with our emissions reduction
 
-reduction targets through the Client Transition Framework (CTF) against several factors
+targets through the Client Transition Framework (CTF) against several factors including, but not limited to,
 
-including, but not limited to, the following:
+the following:
 
 • Scope 1 and 2 emissions reduction targets, including methane.
 
@@ -188,109 +224,107 @@ including, but not limited to, the following:
 
 
 
-By 1 January 2025, we expect all Energy Groups to be producing relevant information in relation
-
-to their transition plans or decarbonisation strategies.
-
-
-
 Client Transition Review Forum (CTRF)
 
-We have established a senior Client Transition Review Forum (CTRF) to carry out targeted
+We have established a Client Transition Review Forum (CTRF) to carry out targeted reviews of Groups
 
-reviews of Groups subject to a CTF assessment. These are informed by the CTF assessment and
+subject to a CTF assessment. These are informed by the CTF assessment and take into account
 
-take into account consideration of relevant risks and other business factors. These reviews help
+consideration of relevant risks and other business factors. These reviews help determine our financing
 
-determine our financing appetite (including consideration of client retention and conditions to
+appetite (including consideration of client retention and conditions to refinancings) alongside implications
 
-refinancings) alongside implications for our emissions reduction targets and commercial, credit
-
-and reputational impacts.
+for our emissions reduction targets and commercial, credit and reputational impacts.
 
 
 
-Energy Groups meeting any of the following will be subject to mandatory annual review by the
+Energy Groups meeting any of the following will be subject to mandatory annual review by the CTRF to
 
-CTRF to determine whether continued financing support is appropriate in the context of their
+determine whether continued financing support is appropriate in the context of their investment plans
 
-investment plans and overall decarbonisation or transition plans:
+and overall decarbonisation or transition plans:
 
-• Energy Groups where more than 10% of their total planned upstream oil \& gas capital
+• Energy Groups where more than 10% of their total planned upstream oil \& gas capital expenditure
 
-expenditure is in expansion.
+is in expansion.
 
 • Non-diversified Groups
 
-o We recognise that Non-diversified Groups may present greater transition risk than
+o We recognise that Non-diversified Groups may present greater transition risk than diversified
 
-diversified Energy Groups, in particular those engaged in long-lead expansion.
+Energy Groups, in particular those engaged in long-lead expansion.
 
-o We have very limited appetite for Non-diversified Groups where they are engaged in
+o We have very limited appetite for Non-diversified Groups where they are engaged in long-lead
 
-long-lead expansion - see below for further details.
+expansion.
 
 • Energy Groups with the lowest CTF assessment scores.
 
 
 
-Notwithstanding the outcomes of the CTRF reviews, financing decisions are transaction specific
+Notwithstanding the outcomes of the CTRF reviews, financing decisions are transaction specific and will
 
-and will continue to be subject to consideration by relevant committees, if appropriate, to
+continue to be subject to consideration by relevant committees, if appropriate, to consider issues such as
 
-consider issues such as credit risk, reputational risk and capital impact.
+credit risk, reputational risk and capital impact.
 
 
 
-From 1 January 2025 any new financing or renewal of existing financing for Non-diversified Groups
+Project Level
 
-where more than 10% of their total planned oil \& gas capital expenditure is in long-lead expansion
+• We will not provide project finance for expansion projects or infrastructure projects primarily to
 
-would be by exception.
+be used for such expansion projects.
+
+• We will not provide other direct financing to Energy Groups for expansion projects or
+
+infrastructure projects primarily to be used for such expansion projects.
+
+
+
+Entity Level
+
+• We will not provide financing to new clients that are Energy Groups where more than 10% of their
+
+total planned oil \& gas capital expenditure is in expansion.
+
+• We will only provide new financing or renewal of existing financing for Non-diversified Groups
+
+where more than 10% of their total planned oil \& gas capital expenditure is in long-lead expansion,
+
+by exception.
+
+• We expect all Energy Groups to be producing relevant information in relation to their transition
+
+plans or decarbonisation strategies.
 
 5
 
 
 
-Restricted - External
+• We expect Energy Groups to demonstrate that they are committed to reducing their own
 
+emissions by having:
 
-
-Minimum requirements
-
-From 1 January 2026 we will only provide financing to Energy Groups if they are able to
-
-demonstrate that they are committed to reducing their own emissions by having:
-
-• net zero-aligned near-term Scope 1 and 2 emissions reduction targets (absolute or
+- net zero-aligned near-term Scope 1 and 2 emissions reduction targets (absolute or
 
 intensity-based); and
 
-• targets to reduce methane emissions by 2030, aligned with OGCI, OGMP2.0, or similar
+- targets to reduce methane emissions by 2030, aligned with OGCI, OGMP2.0, or similar
 
 industry guidance; and
 
-• a commitment to end all routine / non-essential venting and flaring by 2030.
+- a commitment to end all routine / non-essential venting and flaring by 2030.
 
 
 
-New clients
-
-From the date of this statement, we will not provide financing to new clients that are Energy
-
-Groups where more than 10% of their total planned oil \& gas capital expenditure is in expansion.
-
-
-
-See “Applicability of Financing Restrictions below” for further detail on how restrictions will be applied.
+See “Applicability of Financing Restrictions” below for further detail on how restrictions will be applied.
 
 
 
 Unconventional Oil \& Gas
 
 Project Level
-
-As at the date of this statement restrictions on business appetite are as follows:
 
 • Amazon Biome/Ultra-Deep Water/Extra Heavy Oil
 
@@ -318,11 +352,7 @@ of new: (i) Oil Sands exploration, production and/or Oil Sands processing assets
 
 Oil Sands pipelines.
 
-
-
 Entity Level
-
-As at the date of this statement restrictions on business appetite are as follows:
 
 • Arctic Circle
 
@@ -338,9 +368,9 @@ production or new pipeline transportation projects in the Arctic Circle.
 
 • Hydraulic Fracturing (Fracking)
 
-- We will not provide financing to Clients materially engaged in Fracking activities in the UK
+- We will not provide financing to Clients materially engaged in Fracking activities in the
 
-and Europe.
+UK and Europe.
 
 • Oil Sands
 
@@ -352,29 +382,23 @@ wholly or primarily for the construction of new: (i) Oil Sands exploration, prod
 
 and/or Oil Sands processing assets; or (ii) Oil Sands pipelines.
 
+• Amazon Biome
+
+- We will not provide financing to Clients engaged in exploration, appraisal, development,
+
+and production of oil \& gas in the Amazon Biome.
+
+• We will not provide financing to Energy Groups whose aggregate share of production in Oil Sands,
+
+Extra Heavy Oil, Hydraulic Fracturing in the UK/EU, and Arctic Circle oil \& gas exceeds 20% of their
+
+total oil \& gas production.
+
 6
 
 
 
-Restricted - External
-
-
-
-From 30 June 2024 the following restrictions on business appetite will apply:
-
-• We will not provide financing to Energy Groups whose aggregate share of production in Oil
-
-Sands, Extra Heavy Oil, Hydraulic Fracturing in the UK/EU, and Arctic Circle oil \& gas exceeds
-
-20% of their total oil \& gas production.
-
-• We will not provide financing to Clients engaged in exploration, appraisal, development, and
-
-production of oil \& gas in the Amazon Biome.
-
-
-
-See “Applicability of Financing Restrictions below” for further detail on how restrictions will be applied.
+See “Applicability of Financing Restrictions” below for further detail on how restrictions will be applied.
 
 
 
@@ -384,41 +408,37 @@ Thermal Coal Mining
 
 Project Level
 
-As at the date of this statement, restrictions on business appetite are as follows:
+• We will not provide project finance for greenfield development or material expansion of thermal
 
-• No project finance for greenfield development or material expansion of thermal coal mines
+coal mines anywhere in the world, including captives.
 
-anywhere in the world, including captives.
+• We will not provide project finance for development of infrastructure projects primarily to be
 
-• No project finance for development of infrastructure projects primarily to be used for
-
-thermal coal mines anywhere in the world.
+used for thermal coal mines anywhere in the world.
 
 
 
 Entity Level
 
-As at the date of this statement, restrictions on business appetite are as follows:
+• We will not provide financing to new clients engaged in thermal coal mining.
 
-• No financing to new clients engaged in thermal coal mining.
+• We will not provide general corporate purpose financing that is specified as being for new or
 
-• No general corporate purpose financing that is specified as being for new or material
+material expansion of thermal coal mining.
 
-expansion of thermal coal mining.
+• We will not provide financing to existing clients that generate more than 30% of their revenues
 
-• No financing to existing clients that generate more than 30% of revenues from thermal coal
+from thermal coal mining.
 
-mining.
+• We will not provide general corporate purposes financing to clients with entities engaged in
 
-• No general corporate purposes financing to clients with entities engaged in opening new
+opening new thermal coal mines or material expansion of existing thermal coal mines, unless an
 
-thermal coal mines or material expansion of existing thermal coal mines, unless an
+undertaking is received from the borrower or we are otherwise satisfied that the proceeds of
 
-undertaking is received from the borrower or we are otherwise satisfied that the proceeds
+such financing will not be made available to entities engaged in opening new thermal coal mines or
 
-of such financing will not be made available to entities engaged in opening new thermal coal
-
-mines or material expansion of existing thermal coal mines.
+material expansion of existing thermal coal mines.
 
 
 
@@ -436,13 +456,13 @@ By 1 January 2035, we will phase out financing for all clients engaged in therma
 
 
 
-General exceptions
+Exception
 
-General exceptions apply to our thermal coal mining policy in the following circumstances:
+We will consider exceptions to our thermal coal mining policy on a case-by-case basis for any transition
 
-• In relation to any transition finance provided by Barclays to clients reducing their thermal
+finance provided by Barclays to clients reducing their thermal coal portfolio including retrofitting of
 
-coal portfolio including retrofitting of existing facilities.
+existing facilities.
 
 
 
@@ -450,49 +470,37 @@ Thermal Coal Power
 
 Project Level
 
-As at the date of this statement, restrictions on business appetite are as follows:
+• We will not provide project finance to enable the construction or material expansion of thermal
 
-• No project finance to enable the construction or material expansion of thermal coal-fired
-
-power plants anywhere in the world, including captives.
-
-7
-
-
-
-Restricted - External
+coal-fired power plants anywhere in the world, including captives.
 
 
 
 Entity Level
 
-As at the date of this statement, restrictions on business appetite are as follows:
+• We will not provide general corporate purpose financing that is specified as being for new or
 
-• No general corporate purpose financing that is specified as being for new or material
+material expansion of thermal coal-fired power plants.
 
-expansion of thermal coal-fired power plants.
+• We will not provide financing to clients that generate more than 30% of their revenue from thermal
 
-• No financing to clients that generate more than 50% of revenue from thermal coal-fired
+coal-fired power generation.
 
-power generation.
+• We will not provide general corporate purposes financing to clients with entities engaged in
 
-• No general corporate purposes financing to clients with entities engaged in developing new
+developing new thermal coal-fired power plants or material expansion of existing thermal coal-
 
-thermal coal-fired power plants or material expansion of existing thermal coal-fired power
-
-plants, unless an undertaking is received from the borrower, or we are otherwise satisfied
-
-that the proceeds of such financing will not be made available to entities engaged in
-
-developing new thermal coal-fired power plants or material expansion of existing thermal
-
-coal-fired power plants.
+7
 
 
 
-By 1 January 2025, we will no longer provide financing to clients that generate more than 30% of
+fired power plants, unless an undertaking is received from the borrower, or we are otherwise
 
-revenue from thermal coal-fired power generation.
+satisfied that the proceeds of such financing will not be made available to entities engaged in
+
+developing new thermal coal-fired power plants or material expansion of existing thermal coal-
+
+fired power plants.
 
 
 
@@ -524,129 +532,35 @@ zero; OR
 
 supply; OR
 
-• Remaining thermal coal-fired power plants are required to remain open by operation of law,
+• Remaining thermal coal-fired power plants are required to remain open by operation of
 
-regulation or contract.
+law, regulation or contract.
 
 
 
-General exceptions
+Exception
 
-General exceptions apply to our thermal coal power policy in the following circumstances:
+We will consider exceptions to our thermal coal power policy on a case-by-case basis for any transition
 
-• In relation to any transition finance provided by Barclays to clients reducing their thermal
+finance to clients reducing their thermal coal portfolio including retrofitting of existing facilities or where
 
-coal portfolio including retrofitting of existing facilities;
-
-• Where Barclays is providing financing for decommissioning plants for those unable to
-
-transition.
+we are providing financing for decommissioning plants for those unable to transition.
 
 
 
 Mountain Top Removal (MTR) Coal Mining
 
-As at the date of this statement, restrictions on business appetite are as follows:
-
-• Barclays will not directly finance projects or developments using MTR coal mining.
-
-
+• We will not directly finance projects or developments using MTR coal mining.
 
 Biomass
 
-From 30 June 2024, we will conduct EDD on Groups that have \>500MW installed Biomass capacity
+We will conduct SEDD on Groups that have \>500MW installed Biomass capacity AND/OR \>50% of their
 
-AND/OR \>50% of their total installed capacity as Biomass.
-
-8
+total installed capacity as Biomass.
 
 
-
-Restricted - External
-
-
-
-Approach to EDD
-
-We conduct EDD on a case-by-case basis on Groups in scope of this Statement. This approach is risk
-
-based and Groups are analysed against specific environmental and social risk considerations in addition
-
-to the above requirements which include, but are not limited to:
-
-i. The Group’s adherence to the Equator Principles (if a project finance or credit transaction is
-
-deemed to be in scope) including, where appropriate, any relevant International Finance
-
-Corporation (IFC) performance standards;
-
-ii. The Group’s adherence to local and national environmental regulation and standards and industry
-
-best practice;
-
-iii. The Group’s management and implementation of procedures which minimise direct
-
-environmental impacts in the context of their operations;
-
-iv. The Group’s disclosures in relation to corporate governance and oversight of climate change
-
-issues and associated corporate risks, including disclosure against principles such as the
-
-Financial Stability Board (FSB) Taskforce on Climate-related Financial Disclosures (TCFD) and
-
-appropriate transition plans;
-
-v. The Group’s approach to and track record in protecting the health and safety of the workforce
-
-and local communities;
-
-vi. The Group’s approach to stakeholder engagement and consultation, including its commitment
-
-and adherence to the principles of Free Prior Informed Consent (FPIC) where indigenous peoples
-
-may be impacted by their operations;
-
-vii. The Group’s approach to identifying and addressing its human rights impacts, including through
-
-due diligence.
-
-
-
-Additional EDD questions will vary by sector, for instance, in addition to the EDD criteria outlined above,
-
-for Biomass, this process will also consider the sustainable sourcing of feedstock.
-
-
-
-External technical input may be obtained to assist the business in reviewing and assessing whether
-
-certain Group activities meet our internal EDD criteria, or where there is uncertainty as to whether a
-
-certain activity is within scope of our EDD criteria. Barclays will continue to align its approach to sensitive
-
-sectors with developments in government and public policy.
-
-
-
-In order to assist and enhance the EDD process, we operate a mandatory training programme for
-
-relevant colleagues.
 
 Applicability of financing restrictions
-
-In relation to new restrictions which apply from the date of this statement, whilst we intend to begin
-
-applying them from this date, it will take us some time to fully implement the internal systems and
-
-controls necessary to apply these restrictions (which we aim to have established by 30 June 2024).
-
-Accordingly, there may be transactions that are not identified during this period or, at the point in time
-
-at which a transaction is identified, Barclays determines it would be commercially unreasonable not to
-
-proceed with the transaction.
-
-
 
 Any existing commitments or financing entered into prior to any of the restrictions coming into effect
 
@@ -658,19 +572,25 @@ described above).
 
 
 
-In certain cases, we may enter into Sustainable Finance or Transition Finance Transactions with an entity in
+In certain cases, we may enter into Sustainable Finance or Transition Finance transactions with an entity in
 
-a Group that would otherwise be restricted as a result of the application of the Upstream Oil \& Gas section
+a Group that would otherwise be restricted as a result of the application of the Upstream Oil \& Gas
 
-of this statement where Barclays is satisfied that any Sustainable Finance or Transition Finance
+section of this statement where Barclays is satisfied that any Sustainable Finance or Transition Finance
 
-Transactions provided to it will not be used directly to support oil \& gas activity.
+transactions provided to it will not be used directly to support oil \& gas activity.
 
-9
+8
 
 
 
-Restricted - External
+In cases where clients are identified as not meeting the non-mandatory expectations and Barclays has an
+
+active relationship with those clients, we encourage them to adhere to these expectations. Where
+
+clients are unable or unwilling to do so over time, we will review the relationship and may reduce our
+
+support.
 
 
 
@@ -678,11 +598,9 @@ Disclosures
 
 We intend to disclose in our annual reporting, subject to maintaining client confidentiality, the following:
 
-• Client Transition Review Forum composition and governance (in Annual Report 2023)
+• In relation to the CTF assessments in the Energy Sector, the CTF analysis of outcomes by lending
 
-• In relation to the CTF assessments in the Energy Sector, the CTF analysis of outcomes by client
-
-count and lending limits, for the relevant financial year
+limits, for the relevant financial year.
 
 • The combined number and aggregate value of exceptions granted for the relevant financial year
 
@@ -690,47 +608,35 @@ to:
 
 o Non-diversified Groups under the “Non-diversified Groups restrictions” above (for financial
 
-years starting on or after 1 January 2025), and
-
-o Energy Groups we have provided financing to which have a near term Scope 1 and 2
-
-emissions reduction target (absolute or intensity-based) date falling after 2030 and where
-
-exceptions have been approved by Barclays Group Sustainability Committee (for financial
-
-years starting on or after 1 January 2026).
+years starting on or after 1 January 2025).
 
 
 
-Governance
+Referral and Escalation Procedure
 
-This statement will be reviewed annually by the Barclays Group Sustainability Committee. Any revisions
+We assess the risk of client relationships, and associated transactions, through SEDD and CTRF, and
 
-are approved by the Head of Public Policy \& Corporate Responsibility and any material changes of
+escalate to the relevant business review committee, where appropriate, for consideration and a decision
 
-strategy or policy are referred to the Board Sustainability Committee. This statement is also noted by
-
-the Group Executive Committee.
+on whether to proceed if transaction related.
 
 
 
-Referral and escalation procedure
-
-Where Groups are assessed as higher risk following either an enhanced due diligence review or following
-
-a CTRF assessment they will be considered for escalation to the appropriate business review committee
-
-for consideration and a decision on whether to proceed if transaction related.
-
-
-
-Should the issues be assessed as presenting material reputational risk they would be escalated to the
+Should the issues be assessed as presenting material reputational risk, they would be escalated to the
 
 Group Reputation Risk Committee, which comprises members of the Group Executive Committee.
 
 
 
-Third party data
+Governance
+
+Any review of this statement will be undertaken by the Barclays Group Sustainability Committee with
+
+escalation to the Barclays Board Sustainability Committee or Barclays Board (as appropriate).
+
+
+
+Third Party Data
 
 To the extent this statement requires the assessment of a client or Group’s activities, production
 
@@ -748,11 +654,7 @@ provisions set out in this statement. Barclays shall have no liability for any e
 
 connection with any third-party data which it relies on and considers to be credible.
 
-10
-
-
-
-Restricted - External
+9
 
 
 
@@ -766,17 +668,17 @@ Amazon Biome
 
 
 
-Refers to the world’s largest rainforest, covering 6.7 million km2 across
+Refers to the world’s largest rainforest, covering 6.7 million km2
 
-nine countries (Brazil, Bolivia, Peru, Ecuador, Colombia, Venezuela,
+across nine countries (Brazil, Bolivia, Peru, Ecuador, Colombia,
 
-Guyana, French Guiana, Suriname).
+Venezuela, Guyana, French Guiana, Suriname).
 
-The boundary of the Amazon Biome is defined by the Amazon Network
+The boundary of the Amazon Biome is defined by the Amazon
 
-of Georeferenced Socio-Environmental Information (RAISG) as the
+Network of Georeferenced Socio-Environmental Information
 
-area formed by:
+(RAISG) as the area formed by:
 
 i) the limits of the Amazon biome in Colombia and Venezuela;
 
@@ -784,13 +686,13 @@ ii) the limits of the Amazon basin in Ecuador, Perú and Bolivia;
 
 iii) the sum of the limits of the basins (Amazonas and
 
-Araguaia/Tocantins) and the limits of the administrative Legal
+Araguaia/Tocantins) and the limits of the administrative
 
-Amazon in Brazil; and
+Legal Amazon in Brazil; and
 
-iv) the whole continental territories of Guyana, French Guyana and
+iv) the whole continental territories of Guyana, French Guyana
 
-Suriname.
+and Suriname.
 
 For further information visit:
 
@@ -798,19 +700,19 @@ www3.socioambiental.org/geo/RAISGMapaOnline/
 
 
 
-Arctic Circle Refers to the area within the Arctic Circle, which is subject to sea ice,
+Arctic Circle Refers to the area within the Arctic Circle, which is subject to sea
 
-the Arctic National Wildlife Refuge (ANWR) and Coastal Plains.
+ice, the Arctic National Wildlife Refuge (ANWR) and Coastal Plains.
 
 
 
 Biomass
 
-Refers to energy production from biomass and biogas power plants,
+Refers to energy production from biomass and biogas power
 
-which includes the thermal combustion of organic energy sources,
+plants, which includes the thermal combustion of organic energy
 
-including energy crops and woody biomass.
+sources, including energy crops and woody biomass.
 
 
 
@@ -818,27 +720,27 @@ Captives
 
 
 
-In relation to Thermal Coal Power, captives refers to thermal coal power
+In relation to Thermal Coal Power, captives refers to thermal coal -
 
-plants used and managed with the primary purpose of providing power
+fired power plants used and managed with the primary purpose of
 
-to an industrial or commercial energy user, for their own use. In relation
+providing power to an industrial or commercial energy user, for
 
-to Thermal Coal Power, captives refers to thermal coal-fired power
+their own use.
 
-plants used and managed with the primary purpose of providing power
+In relation to Thermal Coal Mining, captives refers to thermal coal
 
-to an industrial or commercial energy user, for their own use.
+mines dedicated to providing thermal coal for captive thermal coal-
 
-In relation to Thermal Coal Mining, captives refers to thermal coal mines
-
-dedicated to providing thermal coal for captive thermal coal-fired
-
-power plants.
+fired power plants.
 
 
 
-Client Transition Framework (CTF)
+Client Transition Framework
+
+(CTF)
+
+
 
 Refers to a tool developed by Barclays designed to support our
 
@@ -856,29 +758,37 @@ Means in relation to any proposed transaction the client entity (or
 
 entities) entering into the transaction.
 
-Any restrictions relating to the % revenue generated by such clients
+Any restrictions relating to the % revenue generated by such
 
-from thermal coal activities applies to the consolidated revenues of the
+clients from thermal coal activities applies to the consolidated
 
-entity being financed, whether transacting with a Group parent,
+revenues of the entity being financed, whether transacting with a
 
-subsidiary or joint venture.
+Group parent, subsidiary or joint venture.
 
 
 
-Directly finance or direct financing Refers to financing where the use of proceeds is known to be for a
+Directly finance or direct
+
+financing
+
+Refers to financing where the use of proceeds is known to be for a
 
 particular project.
+
+10
 
 
 
 Energy Group(s)
 
-Groups that have over 20% revenue from upstream oil \& gas activities
+Groups that have over 20% revenue from upstream oil \& gas
 
-(i.e., exploration, development and production) and/or Groups that are
+activities (i.e. exploration, development and production) and/or
 
-considered to be supermajor or major integrated oil \& gas companies.
+Groups that are considered to be supermajor or major integrated oil
+
+\& gas companies.
 
 
 
@@ -886,21 +796,15 @@ Engaged in
 
 
 
-In relation to Thermal Coal Mining and Thermal Coal Power, a client is
+In relation to Thermal Coal Mining and Thermal Coal Power, a client
 
-defined as “engaged in” if it generates more than 5% of its revenues
+is defined as “engaged in” if it generates more than 5% of its
 
-from the activity.
+revenues from thermal coal-fired power generation and/or thermal-
+
+coal mining.
 
 In relation to Amazon Oil \& Gas, a client is defined as “engaged in” if
-
-11
-
-
-
-Restricted - External
-
-
 
 more than 5% of its expenditure (CAPEX and OPEX) are on oil \& gas
 
@@ -912,9 +816,11 @@ Expansion
 
 Refers to any upstream oil \& gas projects with a final investment
 
-decision (or equivalent) after 31 December 2021. This includes, but is
+decision (or equivalent) after 31 December 2021. This includes, but
 
-not limited to, exploration, development, and production.
+is not limited to, exploration, development, and production.
+
+
 
 Extra Heavy Oil Refers to Crude Oil with an API gravity of less than 15O.
 
@@ -930,29 +836,31 @@ reserve-based lending agreements), underwriting, arranging and/or
 
 distribution of debt or equity, as well as trade and working capital
 
-finance and excludes, without limitation, any debt or securities traded
+finance and excludes, without limitation, any debt or securities
 
-or placed through secondary market activity.
+traded or placed through secondary market activity.
 
 
 
-Barclays may occasionally continue to be involved in primary financing
+Barclays may occasionally continue to be involved in primary
 
-activity for distressed entities such as (without limitation) debt for
+financing activity for distressed entities such as (without limitation)
 
-equity swaps and other recapitalisation activities. When undertaking
+debt for equity swaps and other recapitalisation activities. When
 
-such activity, Barclays has a responsibility to minimise losses and will
+undertaking such activity, Barclays has a responsibility to minimise
 
-look to deploy possible financing options to manage distressed
+losses and will look to deploy possible financing options to manage
 
-positions and/or maximise recoveries where it is a liability holder. Such
+distressed positions and/or maximise recoveries where it is a
 
-financing arrangements are not typically for the purposes of funding
+liability holder. Such financing arrangements are not typically for
 
-the ongoing operational activity of the distressed entity. Accordingly,
+the purposes of funding the ongoing operational activity of the
 
-any such activity is excluded from the definition of financing.
+distressed entity. Accordingly, any such activity is excluded from
+
+the definition of financing.
 
 
 
@@ -966,9 +874,11 @@ Hydraulic Fracturing (Fracking)
 
 Refers to an oil \& gas well development technique, using a high-
 
-pressure injection of liquid into the rock, which creates fracturing and
+pressure injection of liquid into the rock, which creates fracturing
 
-allows natural gas and oil to flow more freely.
+and allows natural gas and oil to flow more freely.
+
+11
 
 
 
@@ -998,83 +908,75 @@ including captives, by more than 20%, measured from a baseline of
 
 maximum p.a. tonnage for preceding 3 years reported.
 
-In relation to Thermal Coal Power, production refers to an investment
+In relation to Thermal Coal Power, production refers to an
 
-to (i) extend the unabated operating lifetime of existing thermal coal
+investment to (i) extend the unabated operating lifetime of existing
 
-power plants including captives or (ii) increase net operational thermal
+thermal coal power plants including captives or (ii) increase net
 
-power capacity, including captives, by more than 10% measure from a
+operational thermal power capacity, including captives, by more
 
-baseline of maximum capacity for preceding 3 years reported.
+than 10% measure from a baseline of maximum capacity for
 
-Material expansion in such cases relates to absolute global increases
+preceding 3 years reported.
 
-rather than increases for an entity or Group as a result of mergers or
+Material expansion in such cases relates to absolute global
 
-acquisitions.
+increases rather than increases for an entity or Group as a result of
 
-
-
-Materially engaged in – Arctic Circle For Arctic Circle, Groups are defined as “materially engaged in” if they
-
-have over 20% revenue from oil \& gas activities in the Arctic Circle or
+mergers or acquisitions.
 
 
 
-1 This definition is informed by the IEA Net Zero Roadmap, 2023 update which highlights that the decline in fossil fuel
+Materially engaged in – Arctic
 
-demand in the IEA NZE Scenario means that no new long-lead time oil \& gas projects are approved for development. It
-
-also notes that investment in existing fossil fuel supply projects is still needed in the NZE Scenario to ensure that
-
-supply does not fall faster than the decline in demand. This includes the use of in-fill drilling and improved management
-
-of reservoirs as well as some enhanced oil recovery and tight oil drilling to avoid a sudden near-term drop in supply.
-
-12
+Circle
 
 
 
-Restricted - External
+For Arctic Circle, Groups are defined as “materially engaged in” if
 
+they have over 20% revenue from oil \& gas activities in the Arctic
 
+Circle or have, after February 2024, approved capital investment for
 
-have approved capital investment for new exploration and production
+new exploration and production or new pipeline transportation of
 
-or new pipeline transportation of oil \& gas within the Arctic Circle.
+oil \& gas within the Arctic Circle.
 
 
 
 Materially engaged in – Fracking
 
-For Hydraulic Fracturing, Groups are defined as “materially engaged in”
+For Hydraulic Fracturing, Groups are defined as “materially engaged
 
-if they have over 20% revenue from Fracking activities in the UK and
+in” if they have over 20% revenue from Fracking activities in the UK
 
-Europe.
+and Europe.
 
 
 
-Mountain Top Removal (MTR) coal
+Mountain Top Removal (MTR)
 
-mining
+coal mining
 
 
 
 Refers to surface coal mining (and the associated reclamation
 
-operations) that remove entire coal seams running through the upper
+operations) that remove entire coal seams running through the
 
-fraction of a mountain, ridge, or hill, by removing all of the overburden
+upper fraction of a mountain, ridge, or hill, by removing all of the
 
-and creating a level plateau or gently rolling contour with no high-walls
+overburden and creating a level plateau or gently rolling contour
 
-remaining – as defined by the Surface Mining Control \& Reclamation
+with no high-walls remaining – as defined by the Surface Mining
 
-Act (SMCRA 1977), available at www.gpo.gov/fdsys/pkg/CFR-2012-
+Control \& Reclamation Act (SMCRA 1977), available at
 
-title30-vol3/pdf/CFR-2012-title30-vol3- sec716-3.pdf
+www.gpo.gov/fdsys/pkg/CFR-2012-title30-vol3/pdf/CFR-2012-
+
+title30-vol3- sec716-3.pdf
 
 
 
@@ -1084,19 +986,35 @@ Barclays Group Sustainability Committee.
 
 
 
-New client(s) Refers to an entity in relation to whom no member of the Group is an
+New client(s) Refers to an entity in relation to whom no member of the Group is
 
-existing client of Barclays.
+an existing client of Barclays.
+
+
+
+1 This definition is informed by the IEA Net Zero Roadmap, 2023 update which highlights that the decline in
+
+fossil fuel demand in the IEA NZE Scenario means that no new long-lead time oil \& gas projects are approved
+
+for development. It also notes that investment in existing fossil fuel supply projects is still needed in the NZE
+
+Scenario to ensure that supply does not fall faster than the decline in demand. This includes the use of in-fill
+
+drilling and improved management of reservoirs as well as some enhanced oil recovery and tight oil drilling to
+
+avoid a sudden near-term drop in supply.
+
+12
 
 
 
 Non-diversified Groups
 
-Refers to non-state-owned Energy Groups that generate almost all of
+Refers to non-state-owned Energy Groups that generate almost all
 
-their revenues from upstream oil \& gas activities (i.e., exploration,
+of their revenues from upstream oil \& gas activities (i.e.,
 
-development and production).
+exploration, development and production).
 
 
 
@@ -1106,23 +1024,25 @@ heavy, viscous oil called bitumen.
 
 
 
-Oil Sands exploration and production
+Oil Sands exploration and
 
-companies
+production companies
 
 
 
 Refers to Groups that majority own (\>50%) or operate oil sands
 
-exploration, production \& Oil Sands processing assets, excluding those
+exploration, production \& Oil Sands processing assets, excluding
 
-that generate less than 10% of revenue from these activities.
+those that generate less than 10% of revenue from these
+
+activities.
 
 
 
-Oil Sands pipelines Refers to pipelines whose primary use is for the transportation of crude
+Oil Sands pipelines Refers to pipelines whose primary use is for the transportation of
 
-oil extracted from oil sands.
+crude oil extracted from oil sands.
 
 
 
@@ -1136,9 +1056,9 @@ Project Finance
 
 
 
-Refers to transactions that are a form of loan financing originated by
+Refers to transactions that are a form of loan financing originated
 
-Barclays (either as an agent or as part of a syndicate) where the
+by Barclays (either as an agent or as part of a syndicate) where the
 
 repayment depends primarily on the project’s cash flow and on the
 
@@ -1148,35 +1068,55 @@ corporate level asset financing.
 
 
 
-Reserve-based lending agreement
+Reserve-based lending
+
+agreement
 
 
 
-Refers to a type of asset-based lending whereby a loan is secured by
+Refers to a type of asset-based lending whereby a loan is secured
 
-collateral. Reserved-based lending is commonly used in the oil \& gas
+by collateral. Reserved-based lending is commonly used in the oil \&
 
-sector, where such loans are secured by an oil \& gas field or a portfolio
+gas sector, where such loans are secured by an oil \& gas field or a
 
-of undeveloped or developed and producing oil \& gas assets – known
+portfolio of undeveloped or developed and producing oil \& gas
 
-as the borrowing base. These facilities are typically multi-banked, and
+assets – known as the borrowing base. These facilities are typically
 
-the asset base is approved subject to majority lender consent.
+multi-banked, and the asset base is approved subject to majority
 
-
-
-Sustainable Finance or Transition
-
-Finance Transactions
+lender consent.
 
 
 
-Refers to transactions that qualify under Barclays’ Sustainable Finance
+Revenue from thermal coal-fired
 
-Framework or Transition Finance Framework as amended from time to
+power generation
 
-time.
+
+
+Refers to revenues attributable directly to the generation of
+
+electricity from thermal coal and excludes any other revenues
+
+including revenues attributable to the transmission and
+
+distribution of electricity.
+
+
+
+Sustainable Finance or
+
+Transition Finance
+
+
+
+Refers to transactions that qualify under Barclays’ Sustainable
+
+Finance Framework or Transition Finance Framework as amended
+
+from time to time.
 
 
 
@@ -1184,8 +1124,10 @@ Thermal Coal
 
 Thermal coal (also known as steam coal) are grades of coal used for
 
-power and heat generation. These typically include lignite and sub-
+power and heat generation. These typically include lignite and
 
-bituminous grades of coal.
+subbituminous grades of coal.
+
+
 
 Ultra-Deep Water Refers to waters where the water depth is 1,500 metres or more.
