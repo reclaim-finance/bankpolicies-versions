@@ -52,7 +52,9 @@ Supply ChainSustainability-Related GovernanceAppendix
 
 14
 
-181820
+17
+
+1820
 
 Environmental and Social Policy Framework | 3
 
@@ -154,7 +156,9 @@ $100B Environmental Finance Goal
 
 2017
 
-Announced goal to source 100% renewableelectricity for our facilities by 20202018
+Announced goal to source 100% renewableelectricity for our facilities by 2020
+
+2018
 
 Published first TCFD Report 2019
 
@@ -168,7 +172,7 @@ Poseidon Principles
 
 2023
 
-Added Auto Manufacturing, Commercial Real Estate,Steel and Thermal Coal Mining loan portfolios to ourNet Zero PlanParticipated in the development of the SustainableAluminum Finance Framework with RMI
+Added Auto Manufacturing, Commercial Real Estate,Steel and Thermal Coal Mining loan portfolios to ournet zero approachParticipated in the development of the SustainableAluminum Finance Framework with RMI
 
 
 
@@ -202,11 +206,11 @@ $1B commitmentLaunched $200M Imapct Fund
 
 2022
 
-Published third TCFD Report and initial Net Zero Plan
+Published third TCFD Report and initialnet zero approach
 
 Added Energy and Power loan portfolios
 
-to our Net Zero PlanFounding signatory of the Sustainable 2023 STEELPrinciples with RMI
+to our net zero approachFounding signatory of the Sustainable 2023 STEELPrinciples with RMI
 
 2024
 
@@ -230,7 +234,7 @@ Citi’s Approach to Climate Change
 
 Climate change is one of the most critical challenges facing our global society and economy in the21st century. The data is irrefutable, and the world’s climate scientists agree that urgent action mustbe taken to address the current and potential impacts of climate change, including chronic changesto temperature and precipitation, rising sea levels and more intense and frequent extreme weatherevents. Some of these impacts are already being felt in communities across the globe, and longer-term climatic changes have the potential to cause wide-ranging impacts affecting business andsociety, including disrupted supply chains, damaged infrastructure, reduced crop yields and a declinein biodiversity. These risks and impacts are exacerbated by inequality and unsustainable economicdevelopment, which put additional pressure on land, water, forests and other natural resources.These interconnected challenges endanger the vitality of communities all over the world and presenta threat to global prosperity if not managed properly. The financial sector has an important role toplay in addressing this challenge by supporting the transition to a sustainable, low-carbon economythat balances the environmental, social and economic needs of society. Citi understands these criticalsustainability issues and believes we must respect and support the environment and human rights inour operations, supply chain and client transactions.
 
-We also understand the complexity of developing solutions to these challenges, which require acombination of strong governmental policy and regulatory frameworks, corporate leadership, investorengagement and individual actions. As one of the largest financiers of carbon-intensive sectors suchas energy, power and industrials, we know that the ambition to bring our business into alignment withthe ambitions stated in the Paris Agreement will not be easy. Moreover, aligning the global economywith the Paris Agreement will require rapid and far-reaching transitions in energy systems, industrialprocesses, land-use, buildings, transport and other infrastructure, all supported by an enabling policyenvironment. We also know that delaying this transition could increase the costs, lock in carbon-emitting technology and infrastructure, increase the risks of stranded assets and reduce the rangeof effective responses to the challenge in the medium and long term. In light of these opportunitiesand risks, in 2021 we announced our intent to achieve net zero GHG emissions associated with ourfinancing by 2050 and net zero for our own operations by 2030. For details on our Net Zero Plan andthe underlying interim targets, please see our climate reporting.
+We also understand the complexity of developing solutions to these challenges, which require acombination of strong governmental policy and regulatory frameworks, corporate leadership, investorengagement and individual actions. As one of the largest financiers of carbon-intensive sectors suchas energy, power and industrials, we know that the ambition to bring our business into alignment withthe ambitions stated in the Paris Agreement will not be easy. Moreover, aligning the global economywith the Paris Agreement will require rapid and far-reaching transitions in energy systems, industrialprocesses, land-use, buildings, transport and other infrastructure, all supported by an enabling policyenvironment. We also know that delaying this transition could increase the costs, lock in carbon-emitting technology and infrastructure, increase the risks of stranded assets and reduce the rangeof effective responses to the challenge in the medium and long term. In light of these opportunitiesand risks, in 2021 we announced our intent to achieve net zero GHG emissions associated with ourfinancing by 2050 and net zero for our own operations by 2030. For details on our net zero approachand the underlying interim targets, please see our climate reporting.
 
 Achieving a low-carbon economy will also require increased financing of climate solutions. Buildingon our previous $50 billion climate initiative from 2007-2013 and our $100 billion environmentalfinance goal from 2014-2019, in 2021 Citi announced a commitment to $1 trillion in sustainablefinance by 2030. This commitment extends our previous environmental finance goal from $250billion and includes environmental and social criteria such as renewable energy, sustainabletransportation and circular economy as well as affordable housing, economic inclusion, education,food security and healthcare.
 
@@ -248,11 +252,11 @@ Citi’s Net Zero Commitment
 
 
 
-In March 2021, we announced our intent to achieve net zero GHG emissions associated with ourfinancing by 2050 and net zero for our own operations by 2030. Our Net Zero Plan provides thefoundation for us to implement our goal of achieving our net zero commitment. Our Net Zero Plan issummarized in the graphic below. Details on each of the elements in this plan, our interim 2030 targetsfor select sectors, and our year-on-year progress toward meeting our net zero objectives are availablein our climate reporting.
+In March 2021, we announced our intent to achieve net zero GHG emissions associated with ourfinancing by 2050 and net zero for our own operations by 2030. Our net zero approach provides thefoundation for us to implement our goal of achieving our net zero commitment. Our net zero approachis summarized in the graphic below. Details on each of the elements in this plan, our interim 2030targets for select sectors, and our year-on-year progress toward meeting our net zero objectives areavailable in our climate reporting.
 
 
 
-Citi’s Net Zero Plan
+Citi’s Net Zero Approach
 
 
 
@@ -408,7 +412,9 @@ Construction, rehabilitation, and/or the preservation of quality affordable hous
 
 
 
-EconomicInclusion
+EconomicInclusionand Socio-economicAdvancement
+
+
 
 Support access to financial services, economic opportunities and resources invulnerable and underserved communities
 
@@ -438,11 +444,11 @@ Our Environmental and Social Risk Management (ESRM) Policy guides our approach t
 
 Citi’s global ESRM Policy, which is regularly updated in response to emerging risks, applies across thefirm any time one of the following criteria is met:
 
-1. A transaction is above relevant financial thresholds for the financial product type that has anidentified use of proceeds directed to a specific physical asset or project
+1. A transaction is above relevant financial thresholds for the financial product type that has anidentified use of proceeds directed to a specific physical asset or project;
 
-2. Clients or transactions covered by one of Citi’s ESRM sector- specific requirements (see page 14-18), or
+2. A client or transaction is covered by one of Citi’s ESRM sector-specific requirements (see page 14-18); or
 
-3. Transactions that trigger one of the ESRM Areas of High Caution (see page 12-14).
+3. A transaction triggers one of the ESRM Areas of High Caution (see page 12-14).
 
 
 
@@ -466,7 +472,7 @@ ESRM Policy Implementation
 
 
 
-Implementation of the ESRM Policy is a shared responsibility across Citi business and risk teamsglobally when any of the above listed policy triggers apply.
+Implementation of the ESRM Policy is a shared responsibility across Citi globally when any of the abovelisted policy triggers apply.
 
 The ESRM Policy is subject to Citi policy governance processes and reviewed by internal governanceforums or committees and subject to review and challenge. Application of the ESRM Policy is subjectto internal controls to ensure adherence by Citi businesses. Citi policy governance allows requests forexceptions in exceptional cases, with reasons for the exception clearly articulated and a formal requestsent to the Policy Owner.
 
@@ -690,7 +696,15 @@ All transactions involving large-scale resettlement or displacement of people re
 
 
 
-Sector- Specific Requirements
+Major Environmental or Social Incidents
+
+
+
+Clients or projects with any recent history of major environmental regulatory violations, majorenvironmental litigation, environmental or social activist campaigns, or large-scale protests willrequire enhanced due diligence.
+
+
+
+Sector-Specific Requirements
 
 
 
@@ -710,11 +724,11 @@ Forestry
 
 
 
-Citi requires environmental and social risk assessments prior to onboarding and at annual review for allforestry clients that are directly involved in logging or primary processing of timber from either naturalforests or plantations. We review all forestry clients’ policies, practices and track record on forestrymanagement to evaluate alignment with responsible industry practice, including labor, communityengagement, systems to avoid deforestation or land conversion of high conservation value and highcarbon stock forests, and proper prevention of fire risk. To help mitigate associated risks, all forestryclients operating in tropical forests are required to be members of the Forestry Stewardship Council(FSC) and commit to a time bound action plan to achieve FSC certification within three to five yearsof client onboarding or new land acquisition, which includes establishing management systemsconsistent with the principles of No Deforestation, No Peat and No Exploitation. FSC certification maybe required in other geographies if concerns of impacts to high conservation value forests are identified
+Citi requires environmental and social risk assessments prior to onboarding and at annual review for allforestry clients that are directly involved in logging or primary processing of timber from either naturalforests or plantations. We review all forestry clients’ policies, practices and track record on forestrymanagement to evaluate alignment with responsible industry practice, including labor, communityengagement, systems to avoid deforestation or land conversion of high conservation value and highcarbon stock forests, and proper prevention of fire risk. To help mitigate associated risks, all forestry
 
 Environmental and Social Policy Framework | 15
 
-thereby increasing risk. Forestry clients are reviewed annually by Citi to confirm ongoing certificationstatus and management practices. Citi also has a long-standing public commitment not to engage inbusiness with companies that we know to be in violation of local or national forestry and logging laws.If any forestry client is unable or unwilling to pursue the required certification or undertake correctiveactions, ESRM would escalate the relationship to the relevant risk committees for consideration to exitthe relationship.
+clients operating in tropical forests are required to be members of the Forestry Stewardship Council(FSC) and commit to a time bound action plan to pursue FSC certification subsequent to clientonboarding or new land acquisition, which includes establishing management systems consistentwith the principles of No Deforestation, No Peat and No Exploitation. FSC certification may berequired in other geographies if concerns of impacts to high conservation value forests are identifiedthereby increasing risk. Forestry clients are reviewed annually by Citi to confirm ongoing certificationstatus and management practices. Citi also has a long-standing public commitment not to engage inbusiness with companies that we know to be in violation of local or national forestry and logging laws.If any forestry client is unable or unwilling to pursue the required certification or undertake correctiveactions, ESRM would escalate the relationship to the relevant risk committees for consideration to exitthe relationship.
 
 
 
@@ -722,7 +736,7 @@ Palm Oil
 
 
 
-Citi is a member of the Roundtable on Sustainable Palm Oil (RSPO), a respected globalmultistakeholder forum setting environmental and social criteria for the palm oil industry. We havelong required all palm oil clients involved in the upstream production of palm oil (e.g., growers andmills) to become members of the RSPO. These clients must commit to a time-bound action plan toachieve full RSPO certification within three to five years of becoming a Citi client. Downstream palmoil refiners and traders are reviewed for RSPO membership, zero deforestation policies, as well aslinks to Areas of High Caution in their supply chain and encouraged to obtain RSPO certification ifrelevant. Citi ESRM team monitors progress annually on alignment with RSPO Principles and Criteriato ensure palm oil clients’ operations are consistent with the principle of No Deforestation, No Peatand No Exploitation. We evaluate our clients’ identification and preservation of high conservationvalue areas (including peatlands and high carbon forests), implementation of responsible industrypractice fire prevention and management systems, adherence to international labor standards, and theimplementation of FPIC for project-affected communities. Any palm oil producer client who has notachieved certification by 2025 will be escalated to the Head of ESRM and relevant risk committees forconsideration to exit the relationship.
+Citi is a member of the Roundtable on Sustainable Palm Oil (RSPO), a respected globalmultistakeholder forum setting environmental and social criteria for the palm oil industry. We havelong required all palm oil clients involved in the upstream production of palm oil (e.g., growers andmills) to become members of the RSPO. These clients must commit to a time-bound action plan toachieve full RSPO certification within three to five years of becoming a Citi client. Downstream palmoil refiners and traders are reviewed for RSPO membership, zero deforestation policies, as well aslinks to Areas of High Caution in their supply chain and encouraged to obtain RSPO certification ifrelevant. Citi ESRM team monitors progress annually on alignment with RSPO Principles and Criteriato ensure palm oil clients’ operations are consistent with the principle of No Deforestation, No Peatand No Exploitation. We evaluate our clients’ identification and preservation of high conservationvalue areas (including peatlands and high carbon forests), implementation of responsible industrypractice fire prevention and management systems, adherence to international labor standards, andthe implementation of FPIC for project-affected communities. Any palm oil producer client who doesnot progress towards certification in a reasonable timeframe will be referred to the Head of ESRM andrelevant risk committees for consideration to exit the relationship.
 
 
 
@@ -738,13 +752,13 @@ Beef
 
 
 
-The beef industry can act as a driver of deforestation and land clearance in biodiverse ecoregionsof Argentina, Bolivia, Brazil, Colombia, Ecuador, Paraguay and Peru. Citi evaluates clients directlyinvolved in cattle rearing, fattening and finishing in these countries, as well as slaughterhouses andmeat processing plants sourcing from these countries, to determine if their operations or supplychains overlap sensitive ecoregions – specifically the Amazon Forest, the Cerrado tropical savanna,the Pantanal grasslands and the Gran Chaco Forest. For these clients, Citi reviews their policies andmanagement plans for clear commitments to 100% traceability of their supply chain in alignment withthe Accountability Framework Initiative. This framework provides guidance based on international
+The beef industry can act as a driver of deforestation and land clearance in biodiverse ecoregionsof Argentina, Bolivia, Brazil, Colombia, Ecuador, Paraguay and Peru. Citi evaluates clients directlyinvolved in cattle rearing, fattening and finishing in these countries, as well as slaughterhouses andmeat processing plants sourcing from these countries, to determine if their operations or supply
 
 16 | Environmental and Social Policy Framework
 
 
 
-norms and responsible industry practices for companies to prevent deforestation driven by theproduction of agricultural commodities, including livestock, in their operations and supply chains.Citi reviews these clients annually and encourages time-bound improvement in alignment andtraceability commitments.
+chains overlap sensitive ecoregions – specifically the Amazon Forest, the Cerrado tropical savanna,the Pantanal grasslands and the Gran Chaco Forest. For these clients, Citi reviews their policies andmanagement plans for clear commitments to 100% traceability of their supply chain in alignment withthe Accountability Framework Initiative. This framework provides guidance based on internationalnorms and responsible industry practices for companies to prevent deforestation driven by theproduction of agricultural commodities, including livestock, in their operations and supply chains.Citi reviews these clients annually and encourages time-bound improvement in alignment andtraceability commitments.
 
 Coal
 
@@ -758,19 +772,17 @@ Coal Mining
 
 
 
-Citi will not provide project-related financing for new thermal coal mines or significant expansion ofexisting mines, and has set targets to phase out our financing of mining companies deriving 25% oftheir revenue from thermal coal mining:
+Citi will not provide project-related financing for new thermal coal mines or significant expansion ofexisting mines. For companies deriving ≥25% of their revenue from thermal coal mining:
 
 
 
-• By the end of 2025, we will reduce our credit exposure to these companies by at least 50% from a2020 baseline;
+• Citi will no longer facilitate capital markets transactions or mergers and acquisition advisory and
+
+financing for these companies;
+
+• By the end of 2030, Citi’s credit exposure to these companies will be reduced to zero.
 
 
-
-• After 2025, we will no longer facilitate capital markets transactions or mergers and acquisitionadvisory and financing for these companies;
-
-
-
-• By the end of 2030, all remaining exposure to these companies will be reduced to zero.
 
 Approval for any transaction for a coal mining company requires escalation for review of the company’stransition away from coal.
 
@@ -780,57 +792,59 @@ Coal-fired Power Generation
 
 
 
-Citi is committed to helping our Power clients transition to a Paris Agreement-aligned future. Globally,Citi will not provide project-related financial services for transactions supporting the construction orexpansion of coal-fired power plants, including refinancing recently constructed plants. This includestransactions supporting the supply of all components, equipment, materials and services directlyrequired for the construction of such plants.
-
-In addition, in line with our net zero targets we have established a set of increasing expectations overtime for our clients with coal-fired power generation.
-
-Citi expects clients with coal-fired power generation to:
+Citi is committed to helping our Power clients transition to a low-carbon future. Globally, Citi commits to:
 
 
 
-• Publicly report their GHG emissions annually consistent with the GHG Protocol; and
+• Not provide project-related financial services for transactions supporting the construction or
 
+expansion of coal-fired power plants, including refinancing recently constructed plants. This
 
+includes transactions supporting the supply of all components, equipment, materials and services
 
-• Engage with Citi as requested on their low-carbon transition strategy to diversify away from coal-fired power generation. It is our expectation that such strategies will align with Paris Agreementdecarbonization pathways by 2030 (for clients with power generation in OECD countries) and by2040 (for clients with power generation in non-OECD countries).
-
-Furthermore, Citi commits to:
-
-
+directly required for the construction of such plants;
 
 • Not provide acquisition financing or acquisition advisory services related to coal-fired power
 
+plants. Exceptions may be considered if the proposed transaction is being pursued in the context
+
+of a low-carbon transition strategy or managed phaseout;
+
+• Not onboard any new clients with ≥20% of power generation from coal-fired power plants unless
+
+such client is pursuing a low-carbon transition strategy;
+
+
+
+• Not onboard any new clients that have plans to expand coal-fired power generation;
+
+• In addition, as part of our net zero approach, Citi has set an interim target to reduce thecarbon intensity of our Power portfolio by 63% by 2030 from a 2020 baseline. As part of this
+
+commitment, Citi calculates the financed emissions and physical intensity of the portfolio,
+
+engages with and assesses clients’ low-carbon transition plans, and partners with our clients on
+
+transition opportunities.
+
 Environmental and Social Policy Framework | 17
-
-plants. Exceptions may be considered if the proposed transaction is being pursued in the contextof a low-carbon transition strategy or managed phaseout.
-
-
-
-• Not onboard any new clients with ≥20% of power generation from coal-fired power plants unlesssuch client meets the above criteria; i.e., is pursuing a low-carbon transition strategy.
-
-
-
-• Not onboard any new clients that have plans to expand coal-fired power generation.
-
-After 2025, Citi commits to:
-
-
-
-• No longer extend capital and/or provide other financial services to clients that do not have alow-carbon transition strategy to diversify away from coal-fired power generation and align withParis Agreement decarbonization pathways by 2030 (for clients with power generation in OECDcountries) or by 2040 (for clients with power generation in non-OECD countries). Exceptions maybe considered, with escalated senior management review, for regulated utilities or state-ownedentities that are not able to decarbonize in line with the policy due to legal and/or regulatoryrequirements, or if the proposed transaction is being pursued in the context of a low-carbontransition strategy or managed phaseout.
-
-
-
-• Not onboard any new clients with a material business line in power generation unless they alignwith a Paris Agreement decarbonization pathway as described above.
 
 After 2030, Citi commits to:
 
 
 
-• For clients with power generation operations in OECD countries, no longer extend capital and/or provide other financial services unless the share of power generation from coal-fired powerplants is less than 5%.
+• For clients with power generation operations in OECD countries, no longer extend capital and/or provide other financial services unless the share of power generation from coal-fired power
+
+plants is less than 5%;
+
+• For clients with power generation operations in non-OECD countries, no longer extend capital
+
+and/or provide other financial services unless such clients have a low-carbon transition strategy
+
+that is designed to reduce the share of power generation from coal-fired power plants to less
+
+than 5% by 2040.
 
 
-
-• For clients with power generation operations in non-OECD countries, no longer extend capitaland/or provide other financial services unless such clients have a low-carbon transition strategythat is designed to reduce the share of power generation from coal-fired power plants to lessthan 5% by 2040.
 
 Military Equipment
 
@@ -840,25 +854,11 @@ Citi will not directly finance the production, distribution or sale of cluster m
 
 
 
-Nuclear Power
-
-
-
-Citi recognizes the complexities involved in the responsible management of nuclear power. Project-related transactions will be evaluated against host-country environmental laws, regulations, andpermits, and in emerging markets, against the international nuclear environmental guidelines that areset forth by the International Atomic Energy Agency (IAEA) and IFC standards. Construction of newnuclear power plants will be subject to independent review by qualified consultants.
-
-
-
 Oil and Gas
 
 
 
-The oil and gas sector presents a number of sensitive environmental and social risks that must be
-
-18 | Environmental and Social Policy Framework
-
-
-
-carefully assessed to evaluate whether companies’ policies and management approach align withresponsible industry practice. Our due diligence approach to any project-related transaction in thissector includes the risk management policy implementation (see Risk Screening for Project- RelatedTransactions on page 10 or the appendix) and focuses on oil and gas sector-specific risks such asemergency response and spill response plans, methane and other emissions management, and theexperience and operational track record of the company, prior to making a decision whether to proceed.
+The oil and gas sector presents a number of sensitive environmental and social risks that must becarefully assessed to evaluate whether companies’ policies and management approach align withresponsible industry practice. Our due diligence approach to any project-related transaction in thissector includes the risk management policy implementation (see Risk Screening for Project- RelatedTransactions on page 10 or the appendix) and focuses on oil and gas sector-specific risks such asemergency response and spill response plans, methane and other emissions management, and theexperience and operational track record of the company, prior to making a decision whether to proceed.
 
 Beyond project-related lending, the ESRM unit evaluates the risk profile of oil \& gas clients basedon the geographic locations of their assets, the risks associated with their activities (such as frontierexploration, oil sands, LNG terminals, midstream pipelines, developments in sensitive areas), potentialoverlaps with ESRM’s Areas of High Caution, any patterns of regulatory violations or safety incidents,and large-scale community opposition or litigation related to environmental or social issues.
 
@@ -870,6 +870,10 @@ Supply Chain
 
 Citi strives to maintain sustainable practices in its supply chain. Suppliers must adhere to allapplicable laws and comply with Citi’s Requirements for Suppliers which communicate relevant Citipolicies and mandate, among other requirements, supplier policies and practices designed to prohibitdiscrimination in the workplace and address the risk of forced labor, child labor or other indicators ofmodern slavery.
 
+18 | Environmental and Social Policy Framework
+
+
+
 Citi’s Statement of Supplier Principles outlines aspirational guidelines in the areas of ethical businesspractices, human rights in the workplace and environmental sustainability which it encourages itssuppliers to maintain. Suppliers are also asked to provide information which helps Citi understandwhether our suppliers are adhering to regulatory requirements related to modern slavery, as well asCiti expectations related to human rights and labor practices. That process enables Citi to assess riskexposure, particularly for suppliers in higher-risk sectors and geographies.
 
 Sustainability-Related Governance
@@ -879,8 +883,6 @@ Sustainability-Related Governance
 The Citi Board of Directors has ultimate oversight of our work to identify, assess and integrateenvironmental- and social-related risks and opportunities throughout Citi, including our climate-related work and talent efforts. The Board receives reports from key personnel on our progress and keyissues on a periodic basis.
 
 The Nomination, Governance and Public Affairs Committee of the Board receives reports frommanagement on Citi’s activities pertaining to environmental sustainability, climate change, humanrights and other environmental and social issues, as well as Citi’s strategy for engagement withexternal stakeholders. For more information on the roles and responsibilities of this committee, see theNomination, Governance and Public Affairs Committee Charter.
-
-Environmental and Social Policy Framework | 19
 
 The Audit Committee of the Board has oversight over the controls and procedures related to Citigroup-level ESG and climate-related reporting. For more information on the roles and responsibilitiesof this committee, see the Audit Committee Charter.
 
@@ -893,6 +895,8 @@ Citi’s full Board provides oversight of Citi’s net zero strategy and related
 Citi’s Sustainability Council provides a senior management level forum for oversight of our ESG-relatedcommitments. The Sustainability Council, which meets quarterly, is chaired by the CEO and includesmembers of the Executive Management Team as well as subject matter experts. Other steering groups,including the Climate Risk Steering Group and the Climate and Sustainability Council, also exist toprovide forums for discussion, debate and deep dives into key topics, and the leads of those steeringgroups are members of and/or provide reports to the Global Sustainability Council.
 
 The senior-executive level Climate Risk Steering Group consists of Citi leaders from across thefirm who provide guidance, feedback and support with regards to the integration of climate riskmanagement. The Steering Group is chaired by the Head of Climate Risk and facilitates engagementwith senior global leadership, ensuring senior management commitment and provides assistance tohelp coordinate resources across the firm.
+
+Environmental and Social Policy Framework | 19
 
 The Climate and Sustainability Council provides input and guidance on relevant policies andinitiatives and helps drive sustainability through the businesses. The committee is chaired by theChief Sustainability Officer (CSO) and includes other executives from Banking, Risk, Public Affairs,Operations, and ESRM. Committee meetings are held approximately bi-monthly.
 
@@ -918,7 +922,7 @@ BusinessOpportunityIdentified
 
 • Business opportunityidentified for internalreview and discussion
 
-• Banker notifies risk teamsand Environmental andSocial Risk Management(“ESRM”), of early stageclient discussions prior toformal approval
+• Banker notifiesEnvironmental and SocialRisk Management (ESRM)of early stage clientdiscussions prior to formalapproval
 
 GreenlightMemo \&MarketingStage
 
@@ -928,7 +932,7 @@ GreenlightMemo \&MarketingStage
 
 • Initial approvals requiredfrom appropriate SeniorBusiness Heads to submitproposal/marketing letterto client
 
-• Approval to send marketingletter or proposal requiredfrom Independent Risk aswell as ESRM unit• Project screened forpotential environmentaland social risks, includinghuman rights risks• Applicable ESRM Policyrequirements identified,which in emerging marketsincludes alignmentwith IFC PerformanceStandards and IFC EHSGuidelines
+• Approval to send marketingletter or proposal requiredfrom Approvers, includingthe ESRM unit• Project screened forpotential environmentaland social risks, includinghuman rights risks• Applicable ESRM Policyrequirements identified,which in emerging marketsincludes alignmentwith IFC PerformanceStandards and IFC EHSGuidelines
 
 Discussion ofCiti Proposalwith Client
 
@@ -946,7 +950,15 @@ Detailed DueDiligenceProcess,IncludingTerm SheetNegotiations
 
 • Client provides toCiti ESRM-relateddocumentation (e.g.Environmental and SocialImpact AssessmentManagement Plan,Action Plan, stakeholderconsultation information)
 
-• Banker, ESRM and IESC (when required) reviewenvironmental and social documentation, includingdocumentation on any human rights risks and climate risksif relevant to transaction• When gaps exist between current plans and CitiESRM Policy requirements, ESRM/IESC prepare anEnvironmental and Social Action Plan (“ESAP”) withrecommended actions to properly mitigate and/or manageany environmental, social and human rights risks
+
+
+• Banker, ESRM and IESC (when required) review
+
+environmental and social documentation, includingdocumentation on any human rights risks and climate risksif relevant to transaction• When gaps exist between current plans and CitiESRM Policy requirements, ESRM/IESC prepare an
+
+Environmental and Social Action Plan (ESAP) withrecommended actions to properly mitigate and/or manage
+
+any environmental, social and human rights risks
 
 Environmental and Social Policy Framework | 21
 
