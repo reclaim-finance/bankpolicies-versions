@@ -1,124 +1,144 @@
 ENGAGEMENT POLICY
 
-OF
+OF EURIZON CAPITAL SGR S.p.A.
 
-EURIZON CAPITAL S.A.
-
-
-
-July 2024
-
-Engagement policy Pagina 2 di 14
+Engagement Policy Page 2of 30
 
 
 
-Index
+POLICY
 
-INTRODUCTION.................................................................................................................................................3
 
-PART I – DEFINITIONS AND SCOPE ...................................................................................................................3
 
-PART II - ORGANISATIONAL SAFEGUARDS ADOPTED BY THE COMPANY ..............................................................6
+APPROVING BODY TYPE OF ACTION EFFECTIVE DATE
 
-INTERNAL REGULATIONS..................................................................................................................................6
+Board of Directors Update November 2025
 
-ROLES AND RESPONSIBILITIES..........................................................................................................................6
 
-BOARD OF DIRECTORS.....................................................................................................................................7
 
-CONDUCTING OFFICERS...................................................................................................................................7
+UNIT RESPONSIBLE FOR THE DOCUMENT
 
-INDEPENDENT DIRECTORS COMMITTEE .............................................................................................................7
+Responsible Investments \& Stewardship
 
-INVESTMENTS DEPARTMENT.............................................................................................................................7
 
-COMPLIANCE \& AML FUNCTION.......................................................................................................................8
 
-PART III - MEASURES ADOPTED TO IMPLEMENT THE “ITALIAN STEWARDSHIP PRINCIPLES”..................................8
+RECIPIENTS
 
-POLICY OF THE EXERCISE OF PARTICIPATION AND VOTING RIGHTS ......................................................................8
+Eurizon Capital SGR S.p.A.
 
-MONITORING METHODS FOR PARTICIPATING ISSUERS ........................................................................................9
 
-CONSCIOUS EXERCISE OF VOTING RIGHTS ...................................................................................................... 13
 
-REPORTING .................................................................................................................................................. 14
+REGULATIONS PERTAINING TO SENSITIVE AREAS
 
-PART IV - UPDATES AND TRANSPARENCY ...................................................................................................... 14
+RELATED TO LEGISLATIVE DECREE no 231/01
 
-CONTROLS AND UPDATES ............................................................................................................................. 14
+NORMS/PROCESSES RELEVANT TO FINANCIAL
 
-TRANSPARENCY ........................................................................................................................................... 14
+REPORTING RISK (LAW no 262/05)
 
-INTRODUCTION.................................................................................................................................................3
+Yes No
 
-PART I – DEFINITIONS AND SCOPE ...................................................................................................................3
+Engagement Policy Page 3of 30
 
-PART II - ORGANISATIONAL SAFEGUARDS ADOPTED BY THE COMPANY ..............................................................6
 
-INTERNAL REGULATIONS..................................................................................................................................6
 
-ROLES AND RESPONSIBILITIES..........................................................................................................................6
+CONTENTS
 
-BOARD OF DIRECTORS.....................................................................................................................................7
 
-CONDUCTING OFFICERS...................................................................................................................................7
 
-INDEPENDENT DIRECTORS COMMITTEE .............................................................................................................7
+INTRODUCTION ........................................................................................................................................................ 4
 
-INVESTMENTS DEPARTMENT.............................................................................................................................7
+PART I - DEFINITIONS AND SCOPE ............................................................................................................................ 6
 
-COMPLIANCE \& AML FUNCTION.......................................................................................................................8
+PART II - ORGANISATIONAL SAFEGUARDS ADOPTED BY THE COMPANY ..................................................................... 10
 
-PART III - MEASURES ADOPTED TO IMPLEMENT THE “ITALIAN STEWARDSHIP PRINCIPLES”..................................8
+INTERNAL REGULATIONS ....................................................................................................................................... 10
 
-POLICY OF THE EXERCISE OF PARTICIPATION AND VOTING RIGHTS ......................................................................8
+ROLES AND RESPONSIBILITIES ............................................................................................................................... 10
 
-MONITORING METHODS FOR PARTICIPATING ISSUERS ........................................................................................9
+BOARD OF DIRECTORS .......................................................................................................................................... 10
 
-CONSCIOUS EXERCISE OF VOTING RIGHTS ...................................................................................................... 13
+CHIEF EXECUTIVE OFFICER AND GENERAL MANAGER;............................................................................................ 11
 
-REPORTING .................................................................................................................................................. 14
+ENVIRONMENTAL, SOCIAL AND GOVERNANCE (ESG) COMMITTEE ........................................................................... 11
 
-PART IV - UPDATES AND TRANSPARENCY ...................................................................................................... 14
+INDEPENDENT DIRECTORS COMMITTEE ................................................................................................................... 11
 
-CONTROLS AND UPDATES ............................................................................................................................. 14
+RESPONSIBLE INVESTMENTS \& STEWARDSHIP STRUCTURE .................................................................................... 11
 
-TRANSPARENCY ........................................................................................................................................... 14
+INVESTMENTS DEPARTMENT .................................................................................................................................. 12
 
-Engagement policy Pagina 3 di 14
+OPERATIONS DEPARTMENT .................................................................................................................................... 12
+
+COMPLIANCE \& AML FUNCTION.............................................................................................................................. 13
+
+PART III - MEASURES ADOPTED TO IMPLEMENT THE “ITALIAN STEWARDSHIP PRINCIPLES” .......................................... 14
+
+PRINCIPLE 1 - THE COMPANY SHALL ADOPT A DOCUMENTED POLICY ........................................................................ 14
+
+PRINCIPLE 2 - THE COMPANY SHALL MONITOR INVESTEE ISSUERS............................................................................ 16
+
+PRINCIPLE 3 - THE COMPANY SHALL MONITOR ACTION TIMES AND PROCEDURES....................................................... 21
+
+PRINCIPLE 4 - THE COMPANY SHALL COOPERATE WITH OTHER INSTITUTIONAL INVESTORS......................................... 23
+
+PRINCIPLE 5 - THE COMPANY SHALL EXERCISE VOTING RIGHTS IN AN INFORMED MANNER.......................................... 25
+
+PRINCIPLE 6 - THE COMPANY SHALL KEEP TRACK OF THE EXERCISE OF RIGHTS ........................................................ 27
+
+PART IV - UPDATES AND TRANSPARENCY ............................................................................................................... 28
+
+CONTROLS AND UPDATES ...................................................................................................................................... 28
+
+TRANSPARENCY .................................................................................................................................................... 28
+
+FRAMEWORK OF THE STRUCTURES INVOLVED IN THE ENGAGEMENT POLICY ................................................................ 29
+
+Engagement Policy Page 4of 30
 
 
 
 INTRODUCTION
 
-Eurizon Capital S.A. (hereinafter also "the Company") believes that high standards of governance and
 
-behaviour geared towards growth and sustainable development contribute to promote confidence in the capital
 
-market and that the role played by institutional investors, asset managers and their advisors is fundamental in
+Eurizon Capital SGR S.p.A. (hereinafter also “the Company”) believes that high standards of governance and
 
-the internal dialogue of the investee companies.
+a conduct oriented towards growth and sustainable development over time contribute to fostering confidence
 
-In particular, the Company has a fiduciary commitment aimed at protecting and creating value for its Clients
+in the capital market and that the role played by institutional investors, asset managers and their advisers is
 
-and Investors, and attaches importance to the oversight of the " corporate governance" of the investee issuers
+fundamental in the internal dialectics of the investee companies.
 
-and the ways in which they manage the environmental and social issues deemed most relevant to their
+In particular, the Company – given its fiduciary commitment aimed at protecting and creating value for its
 
-respective businesses.
+Customers and Investors – attaches importance to monitoring the corporate governance (“external corporate
 
-The Company’s stewardship activities also aim to promote transparency, high standards of corporate
+governance”) of investee issuers and the ways in which they manage the environmental and social issues
 
-governance and the adoption of practices focussed on the sustainable development of companies also
+deemed most significant to their respective areas of business.
 
-contributing to consolidating trust in the capital markets.
+Indeed, the company's Stewardship activities aim to promote transparency, the achievement of high standards
 
-This document represents the "Engagement Policy" (hereinafter the “Policy”) adopted by the Company:
+of corporate governance and the adoption of practices geared towards sustainable development, while also
 
-− Pursuant to Directive 2007/36/EC of the European Parliament and of the Council of 11 July 2007 on the
+contributing to confidence in the capital market.
 
-exercise of certain rights of shareholders in listed companies
+To this end, in 2014 the Company adopted the “Italian Stewardship Principles”1 defined by Assogestioni
+
+(hereinafter the “Principles”) with the aim of providing a series of best practices aimed at encouraging
+
+responsible shareholding by its members, stimulating an effective integration between the corporate
+
+governance of issuing companies and its own investment process. These Principles are for companies that
+
+provide collective asset and portfolio management services, in order to encourage dialogue and engagement
+
+with the listed issuers in which they invest.
+
+The present document represents the “Engagement Policy” (hereinafter the “Policy”) adopted by Eurizon
+
+Capital SGR2:
 
 − pursuant to Directive (EU) 2017/828 of the European Parliament and of the Council of 17 May 2017
 
@@ -126,79 +146,101 @@ amending Directive 2007/36/EC as regards the encouragement of long-term sharehol
 
 (“Shareholders Rights II Directive”),
 
-− pursuant to Article 23, Strategies for the exercise of voting rights, of the CSSF Regulation 10-04
+− pursuant to Article 124-quinquies of Legislative Decree no. 58 of 24 February 1998 (“Consolidated Finance
 
-(coordinated version) transposing Commission Directive 2010/43/EU of 1 July 2010 implementing Directive
+Act” - TUF), which governs the ways in which asset managers monitor investee companies and engage
 
-2009/65/EC of the European Parliament and of the Council as regards organisational requirements,
-
-conflicts of interest, conduct of business, risk management and content of the agreement between a
-
-depositary and a management company,
-
-− Pursuant to Section 5.5.10. Exercise of voting rights, of the CIRCULAR CSSF 18/698 Authorisation and
-
-organisation of investment fund managers incorporated under Luxembourg law,
+with them,
 
 − for the purposes of adopting (i) the “Stewardship Code”, promoted by the European Fund and Asset
 
 Management Association (EFAMA), to encourage, at European level, the development of good corporate
 
-governance practices;
+governance practices and (ii) the “Italian Stewardship Principles” and related Recommendations, defined
+
+by Assogestioni, and
 
 − pursuant to Commission Delegated Regulation (EU) 2022/1288 of 6 April 2022 supplementing Regulation
 
-(EU) 2019/2088 of the European Parliament and of the Council on sustainability- related disclosures in the
+(EU) 2019/2088 of the European Parliament and of the Council on sustainability reporting in the financial
 
-financial services sector;
+services sector
 
-to describe the company's approach to promoting dialogue with the issuers in which it invests, also with a view
+to describe the conduct the Company adopts to stimulate comparison with the issuers in which it invests, also
 
-to mitigating the main negative impacts of investment decisions on sustainability factors, integrating its
+in order to mitigate the main negative effects of investment decisions on sustainability factors, integrating its
 
-commitment as a shareholder into the investment strategy.
+commitment, in its capacity as a shareholder in the investment strategy.
 
 This document comprises four sections:
 
-− Part I outlines the scope;
+− Part I contains the definitions of some recurrent terms in the document and outlines the scope;
 
-− Part II identifies the organisational safeguards the Company adopts in order to monitor “external” corporate
+− Part II identifies the organisational safeguards the Company adopts in order to monitor “external”
 
-governance activities;
+corporate governance activities;
 
-− Part III contains the measures implemented by the Company in carrying out engagement activities towards
+− Part III contains indications for the correct application of the “Italian Stewardship Principles” in the
 
-the investee issuers in the provision of the collective asset management and portfolio management service;
 
-− Part IV describes the procedures and times for amending and/or integrating the Policy, and for the
 
-disclosure on the adoption of the Principles.
+1 The Principles defined by Assogestioni are aligned with those contained in the EFAMA Code for External Governance
 
-PART I – DEFINITIONS AND SCOPE
+approved by the European Fund and Asset Management Association (EFAMA) to which Assogestioni participates and of
+
+which Eurizon Capital SGR is also a member.
+
+
+
+2 Under the Bank of Italy’s Regulation on collective asset management dated 19 January 2015, asset management companies
+
+operating in another EU Member State, including through branches, must comply with the regulatory supervision provisions
+
+of the TUF, which encompass internal control requirements applicable to the provision of collective asset management
+
+services.
+
+Engagement Policy Page 5of 30
+
+
+
+provision of the collective management service and in the provision of the portfolio management service;
+
+− Part IV describes the modalities and timing for amending and/or supplementing the Policy, as well as for
+
+reporting on the application of the Principles to Assogestioni.
+
+Engagement Policy Page 6of 30
+
+
+
+PART I - DEFINITIONS AND SCOPE
+
+
 
 DEFINITIONS
 
 1. For the purposes of this policy, the following definitions apply:
 
-a) “CDP”: an independent non-profit organisation that provides companies, states, regions and cities with
+a) “Advance”: collective engagement initiative promoted by the United Nations (UN PRI), aimed at
+
+encouraging best practices in respect of human rights, society, communities and workers.
+
+b) “CDP”: an independent non-profit organisation that provides companies, states, regions and cities with
 
 a framework to measure, track, manage and share information on their environmental impact globally,
 
 with the aim of promoting action to mitigate climate change.
 
-b) “Client”: the subject the Company provides the investment services to.
+c) “Customer”: the subject the Company provides the investment services to.
 
-Engagement policy Pagina 4 di 14
-
-
-
-c) “Climate Action 100+” (CA100+): collective engagement initiative promoting the adoption of
+d) “Climate Action 100+” (CA100+): collective engagement initiative promoting the adoption of
 
 decarbonisation pathways by the world's largest greenhouse gas emitters, consistent with the Paris
 
 Agreement.
 
-d) “Regulations on collective asset management”:
+e) “Regulations on collective asset management”:
 
 − Directive 2009/65/EC of the European Parliament and of the Council of 13 July 2009 and additional
 
@@ -212,7 +254,7 @@ Commission Delegated Regulation (EU) No 231/2013);
 
 − related national implementing regulations.
 
-e) “MiFID”:
+f) “MiFID”:
 
 − Directive 2014/65/EC (MiFID II) of the European Parliament and of the Council of 15 May 2014 and
 
@@ -220,63 +262,57 @@ additional implementing measures contained in second-level Regulations and Direc
 
 − related national implementing regulations.
 
-f) “National implementing regulations”: provisions adopted in Luxembourg law for the purposes of
+g) “National implementing regulations”: provisions adopted in Italian law for the purposes of implementing
 
-implementing legislation on collective asset management and MiFID:
+legislation on collective asset management and MiFID:
 
-− Law of 5 April 1993 on the financial sector, as amended,
+− Legislative Decree 58 of 24 February 1998 (“TUF”), as last amended: Articles 24 (portfolio
 
-− Law of 30 May 2018 (coordinated version) on markets in financial instruments,
+management) and 35-decies (collective asset management);
 
-− Grand-ducal Regulation of 30 May 2018 (coordinated version) on the protection of financial
+− Bank of Italy Collective Asset Management Regulation of 19 January 2015, as last amended
 
-instruments and funds belonging to clients, product governance obligations and the rules applicable
+(“Collective Asset Management Regulation”);
 
-to the provision or reception of fees, commissions or any monetary or non-monetary benefits,
+− Bank of Italy Regulation of 5 December 2019 implementing Articles 4-undecies and 6(1)(b) and (c-
 
-− Law of 17 December 2010 (coordinated version) relating to undertakings for collective investment,
+bis) of the TUF, as last amended (“Bank of Italy Regulation”): Article 34;
 
-− CSSF Regulation No 10-4 transposing Commission Directive 2010/43/EU of 1 July 2010
+− CONSOB Regulation no. 16190 of 29 October 2007 as amended, with provisions implementing the
 
-implementing Directive 2009/65/EC of the European Parliament and of the Council as regards
+TUF on intermediaries (“Intermediaries Regulation”).
 
-organisational requirements, conflicts of interest, conduct of business, risk management and content
+h) “Shareholder Rights II Directive”: Directive (EU) 2017/828 of the European Parliament and of the
 
-of the agreement between a depositary and a management company “as amended by CSSF
-
-Regulation No 22-05 of 27 July 2022 amending CSSF Regulation No 10-4 of 20 December 2010,
-
-− the CIRCULAR CSSF 18/698 Authorisation and organisation of investment fund managers
-
-incorporated under Luxembourg law,
-
-g) “Shareholder Rights II Directive”: Directive (EU) 2017/828 of the European Parliament and of the Council
-
-of 17 May 2017 amending Directive 2007/36/EC as regards the encouragement of long-term
+Council of 17 May 2017 amending Directive 2007/36/EC as regards the encouragement of long-term
 
 shareholder engagement.
 
-h) “Listed investee issuer”: a company with shares traded on a regulated market, in which the SGR holds
+i) “Listed investee issuer”: a company with shares traded on a regulated market, in which the Company
 
-financial instruments on behalf of managed assets.
+holds financial instruments on behalf of managed assets.
 
-i) “Collective Asset Management“: the service that is carried out through the management of UCIs and the
+j) “Collective asset management”: the service that is carried out through the management of UCIs and the
 
 related risks.
 
-j) “Asset managers”: the Management Company that directly manage own assets and subjects authorised
+k) “Asset managers”: the asset management companies, SICAVs and SICAFs that directly manage own
 
-in Luxembourg in accordance with Chapter 15 of the Law of 17 December 2010 (coordinated version)
+assets and subjects authorised in Italy to provide the service indicated in Article 1(5)(d) of the TUF
 
-alternative investment fund manager within the meaning of the Luxembourg Law of 12 July 2013
+(“Portfolio Management”).
 
-k) “Corporate Governance”: the set of instruments, rules and systems aimed at achieving the best decision-
+l) “Corporate Governance”: the set of instruments, rules and systems aimed at achieving the best decision-
 
 making process for a company, in the interest of various categories of subjects concerned with corporate
 
 life.
 
-l) “Engagement”: benchmarking and dialogue with investees for managed assets, in order to establish a
+Engagement Policy Page 7of 30
+
+
+
+m) “Engagement”: benchmarking and dialogue with investees for managed assets, in order to establish a
 
 medium/long-term relationship that makes it possible to monitor significant issues, including the strategy,
 
@@ -284,153 +320,239 @@ financial and non-financial results, as well as risks, capital structure, social
 
 and corporate governance.
 
-m) “Institutional Investors Group on Climate Change” (IIGCC): The European Investors Association
+n) “Institutional Investors Group on Climate Change” (IIGCC): the European Investors Association
 
 promoting collaboration on climate change and the reduction of net greenhouse gas emissions.
 
-n) “Investor”: the person the Company provides the collective asset management service to.
+o) “Investor”: the person the Company provides the collective asset management service to.
 
-Engagement policy Pagina 5 di 14
-
-
-
-o) “Nature Action 100”: collective engagement initiative that encourages institutional investors to adopt
+p) “Nature Action 100”: collective engagement initiative that encourages institutional investors to adopt
 
 best practices to combat biodiversity loss and deforestation.
 
-p) “Net Zero Asset Managers Initiative” (NZAMI): initiative promoted by an international group of asset
+q) “Net Zero Asset Managers Initiative” (NZAMI): initiative promoted by an international group of asset
 
-managers committed to supporting the goal of achieving net zero greenhouse gas emissions by 2050,
+managers committed to supporting the goal of achieving zero net greenhouse gas emissions by 2050,
 
 in line with the commitments made by the states that signed the Paris Agreement, aimed at containing
 
-the impacts of climate change and limiting the rise in temperatures to 1.5 degrees Celsius by 2050.
+the impacts of climate change and limiting the rise in temperatures to 1.5 degrees Celsius by 20503.
 
-q) “Net Zero Tracker”: public database that provides information on CO2 emission reduction targets of the
+r) “Net Zero Investment Framework (NZIF)”: methodological guidance developed by the IIGCC on aligning
+
+portfolios with the Paris Agreement's goal of achieving zero net emissions by 2050.
+
+s) “Net Zero Tracker”: public database that provides information on CO2 emission reduction targets for the
 
 2,000 largest listed companies globally in terms of turnover.
 
-r) “Industry regulations”:
+t) “Industry regulations”:
 
 − regulations on collective asset management;
 
 − MiFID.
 
-s) “UCI”: UCITS and AIFs.
+u) OCSE (OECD): Organisation for Economic Cooperation and Development (OECD)
 
-t) "Sustainability Policy': the Policy on the Integration of Sustainability Risks into the Investment Process
+v) “UCI”: UCIs and AIFs.
 
-of the Company, adopted pursuant to Article 31 of Regulation (EU) 2019/2088 of the European
+w) International Labour Organisation (ILO): The International Labour Organisation is a specialised agency
+
+of the United Nations that works to promote social justice and internationally recognised human rights,
+
+with particular reference to those concerning work in all its aspects.
+
+x) “Sustainability Policy”: the Policy on the Integration of Sustainability Risks into the Investment Process
+
+of the Company, adopted pursuant to Article 34 of Regulation (EU) 2019/2088 of the European
 
 Parliament and of the Council on Sustainability Disclosure in the Financial Services Sector (so-called
 
 "Sustainable Finance Disclosure Regulation") and the related implementing regulations, including
 
-Regulation (EU) 2020/852 (so-called "Taxonomy Regulation") on environmental sustainability.
+Regulation (EU) 2020/852 (so-called "Taxonomy Regulation”) on environmental sustainability.
 
-u) “Principal adverse impacts of investment decisions on sustainability factor”: refers to unfavourable
+y) “Main negative effects of investment decisions on sustainability factors”: refers to unfavourable
 
 repercussions caused by an investment decision or investment advice on sustainability factors such as
 
-environmental issues, social and employee matters, respect for human rights and anti‐corruption and
+environmental issues, social issues concerning staff, respect for human rights and issues related to the
 
-anti‐bribery matters.
+fight against active and passive corruption.
 
-v) "Adverse Impact Indicators" or "Principal Adverse Impact Indicators" (so-called "PAIs"): key indicators
+z) “Adverse Impact Indicators” or “Principal Adverse Impact Indicators” (so-called "PAIs”): key indicators
 
 identified in Table 1 of Appendix I of Delegated Regulation (EU) 2022/1288 to assess the Main Negative
 
 Impacts of Investment Decisions on Sustainability Factors.
 
-w) “Stewardship Principles“: the principles promoted (i) by the “Stewardship Code” of the European Fund
+aa)“Stewardship Principles”: the principles promoted (i) by the “Stewardship Code”, promoted by the
 
-and Asset Management Association (EFAMA) to encourage, at European level, the development of
+European Fund and Asset Management Association (EFAMA), to encourage, at European level, the
 
-good corporate governance practices and (ii) “the Italian Stewardship Principles” adopted by the
+development of good corporate governance practices and (ii) the “Italian Stewardship Principles”
 
-Executive Board of Assogestioni, for companies that provide collective asset and portfolio management
-
-services, in order to encourage dialogue and engagement with the listed issuers in which they invest.
-
-x) "SFDR Regulation': Regulation (EU) 2019/2088 of the European Parliament and of the Council on
-
-sustainability reporting in the financial services sector.
-
-y) “Investment services”: the portfolio management service.
-
-z) "Science Based Target Initiative (SBTi): international initiative set up to support companies in defining
-
-their climate change mitigation goals in line with scientific objectives.
-
-aa) “Company”: Eurizon Capital S.A..
-
-bb) “Strategy to exercise participation and voting rights inherent to the financial instruments pertaining
-
-to the managed assets of Eurizon Capital S.A..”: the Strategy adopted pursuant to Section 5.5.10.
-
-Exercise of voting rights, of the Circular CSSF 18/698 Authorisation and organisation of investment fund
-
-managers incorporated under Luxembourg law.
-
-cc) “Task Force on Climate-Related Financial Disclosures” (TCFD): Task Force establishing
-
-recommendations for the disclosure of clear, comparable and consistent information on the risks and
-
-opportunities presented by climate change.
-
-dd) “Task force on Nature-related Financial Disclosures” (TNFD): initiative establishing
-
-recommendations and guidelines for transparency about impacts, risks and opportunities related to
-
-natural capital management.
+adopted by the Management Board of
 
 
 
-1 Financial market participants shall publish on their websites information about their policies on integrating sustainability
+3 On 13 January 2025, NZAMI initiated a review of the initiative to ensure alignment with the new global context. During this
 
-risks into their investment decision-making processes. Financial advisors shall publish on their websites information about
+review phase, the initiative will pause its activities of monitoring implementation and reporting by the signatories.
 
-their policies on integrating sustainability risks into their investment or insurance advice.
+4 Financial market participants publish information on their websites about their policies on integrating sustainability risks into
 
-Engagement policy Pagina 6 di 14
+their investment decision-making processes. Financial advisers publish information on their websites regarding their policies
+
+on the integration of sustainability risks in their advice on investments or insurance.
+
+Engagement Policy Page 8of 30
 
 
 
-ee) “Transition Pathway Initiative” (TPI): free platform that provides independent research, based on
+These Principles are for companies that provide collective asset and portfolio management services, in
 
-public data, to assess companies' progress in the transition to a low-carbon economy.
+order to encourage dialogue and engagement with the listed issuers in which they invest.
 
-SCOPEThis Policy describes the procedures adopted by the Company in terms of engagement with the
+bb)“Recommendations”: the “second level” indications defined by Assogestioni on proposal of the
 
-companies in which it invests, regardless of the type of asset class (so-called asset class)..
+Corporate Governance Committee, in order to identify a series of best practices functional to adopting
 
-That said, with reference to shares, the Company favours dialogue and participation in Shareholder meetings
+a conduct that is consistent with the contents of the Principles.
 
-of investees, based on a “targeted” approach to corporate governance, encouraging - by adopting the principle
+cc) “SFDR”: Regulation (EU) 2019/2088 of the European Parliament and of the Council on sustainability
 
-of proportionality - companies deemed “relevant” according to the qualitative/quantitative criteria indicated from
+reporting in the financial services sector.
 
-time to time in internal regulations.
+dd) “Investment services”: the portfolio management service.
 
-With regard to bond instruments, the Company acknowledges the role that stewardship activities may have,
+ee)“Science Based Target Initiative (SBTi): international initiative that supports companies in defining their
 
-not only prior to the investment, but throughout the duration of the instrument, in line with a long-term approach.
+climate change mitigation goals in line with scientific objectives.
 
-In this context, the Company analyses, among other characteristics, the issuer’s sustainability profile, the
+ff) “Stewardship”: interaction with the investee companies through (i) the attendance and voting rights and
 
-capital structure, its composition and development over time.
+(ii) interaction with the investee companies.
 
-The Company does not intend to "micro-manage" the investee issuers nor does it preclude any decision to
+gg)“Strategy for the exercise of intervention and voting rights pertaining to financial instruments pertaining
 
-dispose of an interest, where this represents the most effective solution to protect the interests of Clients/
+to the assets managed by Eurizon Capital SGR S.p.A.”: the Strategy adopted pursuant to Article 35-
 
-Investors.
+decies of the TUF and Article 112 of the Intermediary Regulations (hereinafter also the “Voting
 
-With specific reference to the provision of the Portfolio Management Service for institutional clients, this policy
+Strategy”).
 
-applies, in compliance with applicable regulations, based on written agreements (“management mandates”)
+hh)“Task Force on Climate-Related Financial Disclosures” (TCFD): Task Force establishing
 
-with each client.
+recommendations for the dissemination of clear, comparable and consistent information on the risks
+
+and opportunities presented by climate change.
+
+iii) “Taskforce on Nature-related Financial Disclosures” (TNFD): initiative establishing recommendations
+
+and guidelines for transparency about impacts, risks and opportunities related to natural capital
+
+management.
+
+jj) “Transition Pathway Initiative” (TPI): free platform that provides independent research, based on public
+
+data, to assess companies' progress in the transition to a low-carbon economy.
+
+kk) “UN Global Compact” (UNGC): UN-sponsored initiative to mobilise the private sector and corporate
+
+organisations to adopt responsible and sustainable business practices based on ten universal principles
+
+covering the areas of human rights, labour, environment and anti-corruption.
+
+ll) “UN Guiding Principles” (UNGP): United Nations Principles on Business and Human Rights that set out
+
+guidelines for all enterprises to respect human rights beyond compliance with national laws and
+
+regulations.
+
+
+
+SCOPE
+
+This Policy describes the ways in which the Company, in the provision of collective asset management and
+
+portfolio management services, promotes comparisons with the companies in which it invests, regardless of
+
+the type of asset (so-called asset class). The Company's approach is differentiated according to the
+
+management style of the managed products5.
+
+That said, for products characterised by an active management style, the Company:
+
+− favours dialogue and participation in Shareholders' Meetings of equity issuers, according to a “targeted”
+
+approach to corporate governance, giving preference – in application of the principle of proportionality – to
+
+companies deemed “relevant”, according to qualitative/quantitative criteria specified from time to time in
+
+internal regulations;
+
+− recognises the role that stewardship can play for bonds, not only in the pre-investment phase, but
+
+throughout the life of the instrument, consistent with a long-term approach. In this context, the Company
+
+analyses, among other characteristics, the sustainability profile of the issuer, its capital structure, its
+
+composition and its evolution over time.
+
+These products use engagement as a tool for dialogue with issuers not only for monitoring purposes but also
+
+to bring issues deemed of particular interest to the attention of the management of investee companies,
+
+encouraging the adoption of appropriate measures or the revision of company policies
+
+
+
+5 Both Italian-law and Luxembourg-law products established through Eurizon Capital SGR S.p.A. – Luxembourg Branch fall
+
+within this scope.
+
+Engagement Policy Page 9of 30
+
+
+
+(such as, for example, the way in which administrative bodies are made up, the mechanisms defined within
+
+the framework of remuneration policies, or the adoption of measures relating to climate change, diversity,
+
+equity and inclusion, or in any case relating to the environmental and/or social sphere).
+
+In any case, the Company does not intend to “micro-manage” the affairs of investee issuers nor does it
+
+preclude any decisions to sell a shareholding, where this represents the most effective solution to protect the
+
+interests of Customers/Investors.
+
+The Company also recognises that investments in products adopting a passive management style, i.e. aiming
+
+to replicate the performance of an index, are not made with the aim of changing or influencing the issuers'
+
+choices. For these products, engagement activity is in fact aimed at monitoring investment performance
+
+through a transparent dialogue with the investee companies. In this context, the Company also reserves the
+
+right to engage financial index providers) with the aim of (i) deepening the data used to construct the
+
+benchmarks and (ii) promoting the transparency of the methodologies used. In any case, even for such
+
+products, the Company retains the right to vote for or against the proposals that are submitted to the
+
+shareholders' meeting from time to time, including the appointment of members of the administrative bodies.
+
+Finally, with regard to the provision of the Portfolio Management Service to institutional clients, in accordance
+
+with the regulations in force, the application of this Policy depends on the agreements (so-called "management
+
+mandates") signed with each of them.
+
+Engagement Policy Page 10of 30
+
+
 
 PART II - ORGANISATIONAL SAFEGUARDS ADOPTED BY THE COMPANY
 
@@ -446,75 +568,87 @@ The next sections report on:
 
 self-governance measures;
 
-− the roles and responsibilities of the entities involved in the process to manage the “corporate governance“
+− the roles and responsibilities of the entities involved in the process to manage the “corporate governance”
 
 of investee issuers.
 
+
+
 INTERNAL REGULATIONS
 
-The Company adopted, in compliance with sector regulations, specific organisational measures and/or
+Eurizon Capital SGR and its directly-held subsidiaries that provide collective investment management and/or
 
-procedures aimed at ensuring, where discretionary rights have been attributed regarding the administration
+portfolio management services have adopted, in compliance with sector regulations, specific organisational
 
-and voting relative to its shareholdings in investee companies, the independence and autonomy in exercising
+measures and/or procedures aimed at ensuring, where discretionary rights have been attributed regarding the
 
-such rights. In this context, the Company has set out a specific voting strategy.
+administration and voting relative to its shareholdings in investee companies, the independence and autonomy
 
-In this regard, the Company has adopted special internal procedures, suitably formalized, relating to the procedures for
+in exercising such rights. In this context, the Company has set out a specific voting strategy.
 
-exercising the right to intervene and vote inherent in "managed" shareholdings and describing the safeguards put in place
+In this regard, the Company has adopted specific internal procedures, which are suitably formalised, on the
 
-to ensure alignment with the provisions of EU and national regulations. Participation in Shareholders’ meetings takes
+exercise of participation and voting rights attached to “managed” investments and which describe the
 
-place in the sole interest of managed portfolios and market integrity, with the aim of minimizing the risk of
+safeguards in place to guarantee alignment with EU and national regulations.
 
-conflicts of interest. In conflict situations, the Company shall in any case act so as to ensure fair treatment, in
+Participation in Shareholders’ meetings takes place in the sole interest of managed portfolios and market
 
-compliance with applicable Group and Company policies.
+integrity, with the aim of minimising the risk of conflicts of interest. In conflict situations, the Company shall in
+
+any case act so as to ensure fair treatment, in compliance with applicable the Group and Company’s policies.
 
 As regards the individual portfolio management service, specific provisions in contract documentation are
 
-envisaged, to exclude the exercise of voting rights by the Company, reserving said right to managed clients.
+envisaged, to exclude the exercise of voting rights by the Company and/or its subsidiaries, reserving said right
+
+to managed clients.
+
+
 
 ROLES AND RESPONSIBILITIES
 
-The Company assigns importance to monitoring and engagement with its investee companies, as well as
+The Company attaches importance to monitoring activities and engagement with its investee companies, as
 
-participation in the relevant Shareholders' Meetings.
+well as participating in their Shareholder meetings.
 
-To promote a correct adoption of its own Engagement Policy, the Company has established a framework
+To promote a correct adoption of its own Engagement Policy, Eurizon Capital SGR has established a
 
-involving the following corporate bodies and entities:
+framework involving the following corporate bodies and entities:
 
-− Board of Directors;
+− Board of Directors
 
-− Conducting Officers;
+− Chief Executive Officer and General Manager;
+
+− Environmental, Social and Governance (ESG) Committee
 
 − Independent Directors Committee;
 
-− Investments Department;
+− Investments Division including the Responsible Investments \& Stewardship Structure;
 
-Engagement policy Pagina 7 di 14
+− Operations Department
 
-
-
-− Compliance \& AML Function;
+− Compliance \& AML Function
 
 The roles and responsibilities of the corporate bodies and entities are described in the following paragraphs.
 
+
+
 BOARD OF DIRECTORS
 
-The Board of Directors is responsible for managing the company and must guarantee the alignment of the
+It defines, on the basis of the proposals made by the Chief Executive Officer and General Manager in the
 
-company’s objective with the interests of shareholders and various stakeholders.
+context of the Environmental, Social and Governance Committee (hereinafter also the “ESG Committee”), this
 
-The Board defines, with the support of the Conducting Officers, the present Engagement Policy, which
-
-establishes the procedures for:
+Engagement Policy, which establishes the procedures for:
 
 − monitoring the corporate governance aspects of investee issuers, based on the best protection of the
 
 interest of UCIs and managed portfolios;
+
+Engagement Policy Page 11of 30
+
+
 
 − managing interaction with investee issuers, with reference to significant matters concerning strategy,
 
@@ -522,125 +656,209 @@ financial and non-financial results, risks, capital structure, social and enviro
 
 governance;
 
-PARTICIPATION IN SHAREHOLDER MEETINGS IN RELATION TO THE EXERCISE OF VOTING RIGHTS.CONDUCTING
+− participation in Shareholder meetings in relation to the exercise of voting rights.
 
-OFFICERS
+Finally, it periodically monitors the correct implementation of the Company’s Engagement Policy.
 
-In the context of the Management Committee, the Company periodically monitors the effectiveness of
 
-measures to exercise participation and voting rights, or if significant circumstances occur that require an
 
-amendment and/or addition, so that the definition of the conduct the Company is committed to adopting,
+CHIEF EXECUTIVE OFFICER AND GENERAL MANAGER;
 
-is updated at all times, also to take account of changes in its own organisation and the services it provides,
+The Chief Executive Officer and General Manager, assisted by the “ESG Committee”, formulates proposals to
 
-and to maintain a high level of oversight of solutions identified to mitigate any conflicts of interest detected.
+put to the Board of Directors on the definition and subsequent updating of this Engagement Policy and
 
-Participation in individual meetings is authorised by the Conducting Officers of the Company, who also define
+periodically monitors the correct implementation, using reporting prepared by the Responsible Investments \&
 
-(i) the vote to be cast, (ii) any specific requests to be made in the interest of investors, independently of any
+Stewardship Structure.
 
-internal or external influence on the Company, and (iii) the methods of participation, including proxy, at
+The Board of Directors has given the Chief Executive Officer and General Manager the power to participate or
 
-individual meetings, to be given to specialised third party companies, giving explicit instructions.
+delegate its participation in ordinary and extraordinary meetings of shareholders and/or bondholders of
+
+companies whose securities are held in managed portfolios. In this framework, it authorises participation in
+
+Shareholders’ Meetings, also defining (i) the procedures for exercising voting rights, (ii) the vote to cast in the
+
+most significant Meetings and (iii) any specific indications to report during the Meeting, according to the
+
+procedures described in the Voting Strategy.
+
+
+
+ENVIRONMENTAL, SOCIAL AND GOVERNANCE (ESG) COMMITTEE
+
+This Committee is an advisory body, assisting the Chief Executive Officer and General Manager (i) in defining
+
+proposals to put to the Board of Directors on the Engagement Policy (ii) in periodically monitoring the Policy,
+
+using reporting prepared by the Responsible Investments \& Stewardship Structure.
+
+
 
 INDEPENDENT DIRECTORS COMMITTEE
 
-The independent directors on the Board of Directors of Eurizon Capital SA check the correct adoption of the
+Independent Directors are given specific powers of control and action, to assess procedures for exercising
 
-principles and procedures concerning the exercise of administrative rights of financial instruments of managed
+participation and voting rights, in the case of conflicts of interest. To this end, they carry out their own
 
-assets, also with the specialist support of the Compliance \& AML Function.
+assessments and provide opinions on the:
 
-The Board of Directors has established the Committee of Independent Directors, which is charged with
+− matters specifically assigned to them by the Assogestioni Independence Protocol and by related internal
 
-advisory and proposal duties regarding the management of conflicts of interest. The opinions expressed by
+procedures;
 
-the Committee of Independent Directors are not binding; any decisions of the Board of Directors not in
+− additional potential conflict of interest situations identified by them;
 
-accordance with the opinion of the Independent Directors must be adequately justified.
+− matters submitted to them by at least two members of the Board of Directors.
 
-With specific reference to the manner of exercising of intervention and voting rights, the Committee of
+The Board of Directors has set up the Independent Directors Committee, which has advisory duties regarding
 
-Independent Directors is informed by the Investment Department:
+the management of conflicts of interest. The opinions expressed by the Independent Directors Committee are
 
-− in advance, of the Shareholders' Meetings of the most significant shareholders in which the Company
+not binding; any decisions of the Board of Directors that do not conform to the opinion of the Independent
 
-intends to participate; the Company, where issues of particular interest arise, shall provide information
+Directors must be adequately justified.
 
-regarding any interventions at the meetings;
+With specific reference to the procedures to exercise participation and voting rights, the Independent Directors
 
-− on a periodic basis, by means of a report on participation in the Shareholders' Meetings of companies
+Committee is notified by the Responsible Investments \& Stewardship Structure:
 
-whose financial instruments are present in the portfolios of the UCIs.
+− in advance of Meetings of the most significant shareholders the Company intends participating in; in the
 
-INVESTMENTS DEPARTMENT
+case of matters of particular interest, the Company provides information on meeting proceedings, if
 
-The Head of Investments, with the support of the ESG \& Strategic Activism Function of Eurizon Capital SGR
+applicable;
 
-S.p.A., monitors active shareholder activity, coordinating (i) the monitoring of corporate governance matters of
+− periodically, through information on participation in the Meetings of shareholders of companies whose
 
-investee issuers, based on the best protection of the interest of managed assets, (ii) the management of
-
-interaction with investee issuers, with reference to significant matters concerning strategy, financial and non-
-
-financial results, risks, capital structure, social and environmental impact and corporate governance, as well
-
-as (iii) activities prior to participation in Shareholders' Meetings in relation to the exercise of voting rights.
-
-The Company pursues the interests of investors in the assets it manages both through investment or
-
-disinvestment choices and when exercising voting rights at Shareholders' Meetings, taking into account the
-
-usefulness of participation in relation to the interests of the assets managed. In this context, the Company's
-
-Investment Function is involved in the process of external corporate governance, and in particular:
-
-Engagement policy Pagina 8 di 14
+financial instruments are included in the portfolio of UCIs.
 
 
 
-- coordinates monitoring and engagement activities referred to corporate governance matters regarding
+RESPONSIBLE INVESTMENTS \& STEWARDSHIP STRUCTURE
 
-significant issuers, also with the support of ESG \& Strategic Activism Function of the Parent Company
+The Responsible Investments \& Stewardship Structure, which is part of the Investments Department, monitors
 
-Eurizon Capital SGR for environmental, social and ethical matters;
+active shareholder activity, coordinating (i) the monitoring of corporate governance matters of investee issuers,
 
-- coordinates the activities related to participation in shareholder meetings regarding the exercise of voting
+based on the best protection of the interest of managed assets, (ii) the management of interaction with investee
+
+issuers, with reference to significant matters concerning strategy, financial and non-financial results, risks,
+
+capital structure, social and environmental impact and corporate governance, as well as (iii) those prior to
+
+participation in Shareholders’ meetings regarding the exercise of voting rights.
+
+To this end, the Structure comprises a (i) Corporate Governance unit, and a (ii) Sustainability unit.
+
+Engagement Policy Page 12of 30
+
+
+
+Corporate Governance:
+
+− coordinates monitoring and engagement activities referred to corporate governance matters regarding
+
+significant issuers, also coordinating with the managers of the Investments Department, and with the
+
+Sustainability unit, for environmental, social and ethical matters;
+
+− coordinates the activities related to participation in shareholder meetings regarding the exercise of voting
 
 rights for investments held by the assets managed by the Company;
 
-- oversees the update of the voting strategy, as well as additional documentation on corporate governance,
+− oversees the maintenance of the voting strategy, as well as additional documentation on corporate
 
-liaising with competent units, also for related disclosure;
+governance, liaising with competent units, also for related disclosure;
 
-- provides, where required, prior information to the Independent Directors Committee on participation in the
+− takes part in the Assogestioni Managers Committee, along with any other representatives indicated by the
+
+Investments Department representing portfolio managers;
+
+− provides, where foreseen, prior information to the Independent Directors Committee on participation in the
 
 Meetings of the most significant shareholders and on the manner of participation;
 
-In this framework, the Investment Department managers are involved in the corporate governance process of
-
-issuers, with particular reference to:
-
-- operational engagement activities;
-
-- sharing information on the most significant Shareholder meetings it participates in;
-
-- the proposed percentage of securities for participation in Shareholder meetings;
-
-- participation with the support the ESG \& Strategic Activism Function in defining proposals regarding voting
-
-instructions of the most significant meetings and any further indications to report during the Meeting.
-
-- prepares periodic reports on the manner in which voting rights are exercised at shareholder meetings of
+− prepares periodic reports on the manner in which voting rights are exercised at shareholder meetings of
 
 the companies whose securities are present in the portfolios of the funds managed and reports on this to
 
 the Independent Directors Committee.
 
+Sustainability:
+
+− co-ordinates with the Corporate Governance unit the monitoring and engagement with respect to relevant
+
+issuers, with particular reference to environmental and social issues including the mitigation of major
+
+negative effects of investment decisions on sustainability factors that may be identified in the context of
+
+managed products, consistently with the ESG / SRI strategies adopted from time to time.
+
+− Identifies and activates collective engagement initiatives on environmental and social issues;
+
+− supports the work of the ESG Committee and prepares related reports;
+
+− supports the Chief Executive Officer and General Manager in updating the Sustainability Policy.
+
+
+
+INVESTMENTS DEPARTMENT
+
+The Company pursues the interests of investors in the assets it manages, not only as regards investment or
+
+divestment choices, but also for exercising participation and voting rights, taking account of the usefulness of
+
+participating in relation to the interests of each asset managed. In this framework, the Investment Department6
+
+managers are involved in the corporate governance process of issuers, with particular reference to:
+
+− operational engagement activities;
+
+− sharing information on the most significant Shareholder meetings it participates in;
+
+− participation, through designated representatives, in the Assogestioni Managers' Committee;
+
+− the proposed percentage of securities for participation in Shareholder meetings;
+
+− participation – supporting the Head of the Responsible Investments \& Stewardship Structure – in defining
+
+proposals regarding voting instructions of the most significant meetings and any further indications to report
+
+during the Meeting.
+
+
+
+OPERATIONS DEPARTMENT
+
+The Operations Department7 manages administrative activities related to the exercise of voting rights. In
+
+particular, the Department:
+
+− where appropriate, prepares documentation necessary to participate in Shareholder meetings (CEO and
+
+General Manager proxies for the Company’s representative, required from the Custodian of meeting
+
+invitations and/or certification for filing candidate lists to renew corporate boards, etc.);
+
+− files documentation produced in specific dossiers.
+
+
+
+6 This refers to the Investment Division of Eurizon Capital SGR and the Investments Structure of the Luxembourg Branch.
+
+7 This refers to the Operational Governance Division of Eurizon Capital SGR and the Operations \& Finance Structure of the
+
+Luxembourg Branch.
+
+Engagement Policy Page 13of 30
+
+
+
 COMPLIANCE \& AML FUNCTION
 
-The Compliance \& AML Function monitors the corporate governance process, identifying the correct adoption
+The Compliance \& AML Function8 monitors the corporate governance process, identifying the correct adoption
 
 of the safeguards envisaged in external and internal regulations.
 
@@ -650,6 +868,14 @@ In particular, the Compliance \& AML Function:
 
 and in the conduct to adopt, also for the purposes of managing conflicts of interest;
 
+− supported by results of audits conducted by the Responsible Investments \& Stewardship Structure, it further
+
+assesses any conflict-of-interest situations attributable to (i) the candidates identified by the Assogestioni
+
+Managers Committee, for the renewal of the corporate boards of listed Italian companies, representing
+
+minority interests and ii) investees;
+
 − verifies, on a random basis, the correct filing of documentation by the competent entities of the Company.
 
 The Compliance \& AML Function reports every six months to the Independent Directors Committee on controls
@@ -658,31 +884,75 @@ of the correct adoption of the principles and procedures concerning the exercise
 
 rights for financial instruments of assets managed by the Company.
 
+
+
+8 Also through the Luxembourg Branch's corresponding structure.
+
+Engagement Policy Page 14of 30
+
+
+
 PART III - MEASURES ADOPTED TO IMPLEMENT THE “ITALIAN STEWARDSHIP PRINCIPLES”
 
-POLICY OF THE EXERCISE OF PARTICIPATION AND VOTING RIGHTS
 
-As set forth in Directive 2010/43/EU (which describes the methods for implementing Directive 2009/65/EC, as
 
-regards organizational requirements, conflicts of interests, conduct of business, risk management and content
+The measures put in place by the Company in order to adopt a conduct in line with the recommendations
 
-of agreements entered into between a depositary and a management company) and related implementing
+indicated by Assogestioni for implementing the “Italian Stewardship Principles” in the context of the provision
 
-regulations (CSSF Regulation 10-4 of December 22nd, 2010), the Company has adopted a set of procedures
+of collective asset management and portfolio management services are reported below.
 
-and measures aimed at:
 
-− monitor corporate events related to the financial instruments held in the managed portfolio, where required
 
-by the characteristics of the financial instruments that incorporate the rights to be exercised;
+PRINCIPLE 1 - THE COMPANY SHALL ADOPT A DOCUMENTED POLICY
 
-− assess the methods and times for any possible exercise of participation and voting rights, based on a cost-
 
-benefit analysis that also considers the objectives and investment policy of each managed portfolio;
 
-− prevent or manage any conflict of interest situations that may arise from the exercise of voting rights on
+MANAGEMENT COMPANIES SHALL ADOPT A DOCUMENTED POLICY, MADE AVAILABLE TO THE PUBLIC, THAT SETS OUT THE
 
-behalf of assets under management.
+STRATEGY TO EXERCISE RIGHTS CONCERNING FINANCIAL INSTRUMENTS OF MANAGED PORTFOLIOS AND UCIS.
+
+
+
+METHOD FOR IMPLEMENTING THE RECOMMENDATION:
+
+Pursuant to Article 35-decies of the TUF and Article 112 of the Intermediaries Regulation, the Company has
+
+made a specific Voting strategy available to investors. This Strategy defines a set of procedures and measures
+
+to:
+
+− monitor corporate events connected with the financial instruments held in managed portfolios, where
+
+required by the characteristics of the financial instruments that incorporate rights to be exercised;
+
+− assess the methods and times for any possible exercise of participating and voting rights, based on a
+
+cost-benefit analysis that also considers the objectives and investment policy of each managed portfolio;
+
+− prevent or manage any conflict-of-interest situations that may arise from exercising of voting rights on
+
+behalf of managed assets.
+
+Specifically, the Strategy defines the procedures adopted to:
+
+− monitor listed investee issuers, also through active engagement;
+
+− manage conflict of interest situations;
+
+− prevent the circulation of information among various Group Companies and the Parent Company (so-called
+
+“Chinese Wall”);
+
+− designate persons responsible for decisions regarding the methods to exercise voting rights;
+
+− engage with investee issuers, independently and cooperating with other investors, also through specific
+
+initiatives undersigned by the Company;
+
+− exercise voting rights, through proxies assigned to specialist companies, and through “electronic voting” if
+
+envisaged by issuers.
 
 In particular, based on a cost/benefit analysis that takes into account the investment objectives and policies of
 
@@ -690,17 +960,13 @@ the managed products, the Company has adopted preliminary and operating processe
 
 exercise of voting rights, depending on whether the decision concerns resolutions of shareholders’ meetings:
 
-− considered more significant, based on one or more of the following criteria;
+− considered more significant, based on one or more quantitative and qualitative criteria;
 
 − for which the Company uses electronic voting (proxy voting).
 
-Based on the above, the Company has defined the following criteria to identify meetings of the most significant
+Based on the above, the Company has defined the following quantitative and qualitative criteria to identify
 
-Engagement policy Pagina 9 di 14
-
-
-
-shareholders:
+meetings of the most significant shareholders:
 
 − holding significant amounts of capital, identified from time to time in company procedures;
 
@@ -718,443 +984,665 @@ representing minority shareholders;
 
 to support or oppose a proposed operation.
 
-If considered the most efficient procedure in the interest of managed assets and if the above
+If it is deemed to be the most efficient method in the interest of the assets under management and the
 
-qualitative/quantitative criteria do not apply, the Company also exercises voting rights by electronic voting, if
+qualitative and quantitative criteria indicated do not apply, the Company will make use of the electronic voting
 
-contemplated by issuers. To this end, ECSA uses an IT platform to streamline the process of exercising voting
+process (so-called "proxy voting") that may be envisaged for the shareholders' meetings of the issuers in which
+
+it holds an interest. To this end, the Company uses an IT platform to streamline the process of exercising voting
 
 rights, with particular reference to foreign issuers.
 
-ECSA may opt to not exercise a voting right in cases where the situation might not benefit the managed assets,
+Engagement Policy Page 15of 30
 
-for example:
 
-- overall, the Company has a marginal investment;
 
-- it is necessary to block the availability of financial instruments for a period of time considered too long,
+The Company reserves the right not to exercise a voting right in cases where the situation might not benefit
+
+the managed assets, for example:
+
+− overall, the Company has a marginal investment;
+
+− it is necessary to block the availability of financial instruments for a period of time considered too long,
 
 which would influence management strategies;
 
-- he agenda of the shareholders’ meeting does not envisage the discussion of significant topics;
+− the agenda of the shareholders’ meeting does not envisage the discussion of significant topics;
 
-- the necessary administrative costs, also considering expected procedures in some countries, are
+− the necessary administrative costs, also considering expected procedures in some countries, are
 
-considered to outweigh the expected benefits of participation in the meeting, above all in the case of
+considered to outweigh the expected benefits of participation in the meeting, above all in the case of short-
 
-positions arising from short-term investment strategies.
+term investment strategies.
+
+Under no circumstances does the Company bind itself to voting or blocking syndicates.
 
 The Company undertakes to adopt and apply the Strategy, to ensure that participation and voting rights are
 
-exercised in the exclusive interest of investor participants
+exercised in the exclusive interest of investor participants.
 
-The Company monitors the effectiveness of the measures for exercising participation and voting rights and, in
+The Company monitors the effectiveness of measures to exercise participation and voting rights and, in any
 
-any case, reviews the Strategy adopted at least annually.
+case, reviews the Voting strategy at least annually. The Strategy and any updates are available to UCI
 
-The Strategy and any updates are available to UCI participants, at www.eurizoncapital.com.
+participants, at www.eurizoncapital.com.
 
-MONITORING METHODS FOR PARTICIPATING ISSUERS
-
-The Company shall actively monitors corporate events related to the financial instruments in the portfolio of
-
-managed UCIs, where required by the characteristics of the instruments that incorporate the rights to be
-
-exercised.
-
-The aim is to identify issues in advance, while minimising any potential loss of value arising from aspects
-
-related to the corporate performance of the companies in which it invests on behalf of the assets under
-
-management, as well as any significant negative impact of investment decisions on the sustainability factors
-
-identified within the individual managed products.
-
-The main stages of the engagement activities adopted by the Company, with the support of the ESG \&
-
-Strategic Activism of the Parent Company Eurizon Capital SGR are summarised below:
+Engagement Policy Page 16of 30
 
 
 
-PREPARATION PERFORMANCE CLOSURE
+PRINCIPLE 2 - THE COMPANY SHALL MONITOR INVESTEE ISSUERS
 
 
 
-Identification of issuers to
-
-contact also according to the
-
-"macro-themes" of interest to
-
-the Company; analysis of
-
-public material available to
-
-identify the engagement focus.
+MANAGEMENT COMPANIES SHALL MONITOR LISTED INVESTEE ISSUERS.
 
 
 
-− The start of engagement activities with the
+METHOD FOR IMPLEMENTING THE RECOMMENDATION:
 
-identified company: exchange may take place
+The Company shall actively monitor corporate events connected to the financial instruments in the portfolio of
 
-by email, through online or face-to-face
+managed UCIs, where required by the characteristics of the instruments that incorporate rights to be exercised.
+
+The Company encourages dialogue and participation in Shareholders’ Meetings of selected companies with
+
+shares listed on Borsa Italiana and on international markets, adopting a “targeted” approach to corporate
+
+governance, taking into account the usefulness of participating in the interests of managed assets, also based
+
+on the single reference markets and/or the specific circumstance, and the possibility of influencing decisions
+
+in relation to the voting rights held. For this purpose, the Company periodically identifies, via the Responsible
+
+Investments \& Stewardship Structure, the priority issues to focus on in engagement with investees, also taking
+
+into account the results of such activities in the previous year.
+
+In fact, the Company aims to identify possible problems in advance and minimise, at the same time, potential
+
+losses in value determined by aspects related to the performance of the companies in which it invests on behalf
+
+of the managed assets, as well as any major negative effects of investment decisions on the sustainability
+
+factors identified within the individual managed products.
+
+Below is an outline of the characteristic phases of the engagement activity carried out by the Company with
+
+the investee issuers:
+
+
+
+PREPARATION EXECUTION CLOSURE
+
+
+
+Identification of issuers to be
+
+contacted, also according to
+
+the “macro-themes” of interest
+
+to the Company; analysis of
+
+available public material to
+
+identify the focus of the
+
+dialogue.
+
+
+
+− Launch of engagement activities with the
+
+identified company: exchanges can take place
+
+via email, virtual meetings or face-to-face
 
 meetings.
 
-− Evaluation of information obtained from the
+− Evaluation of the information acquired from the
 
-issuer and evaluation of the advisability of
+issuer and assessment of whether the
 
-extending engagement or of taking escalation
+engagement should be prolonged or escalation
 
-measures.
+measures should be undertaken.
 
-− Start of an escalation process
+− Launch of a possible escalation process{4}
 
 
 
-Closure of engagement
+Closure of the engagement
 
-activities if feedback is
+activity if the feedback is
 
 considered satisfactory.
 
-In the case of a negative
+In the event of a negative
 
 outcome of any escalation
 
 action, the Company will
 
-evaluate the possible disposal
-
-of the assets.
+consider divesting the assets.
 
 
 
-The Company, through its Parent Company Eurizon Capital SGR, is involved in initiatives at national and
+The Company is actively involved in national and international initiatives that promote the integration of
 
-international level which promote the integration of sustainability principles in the financial sector; it participates
+sustainability principles in the financial sector, participates in working groups for the development of best
 
-Engagement policy Pagina 10 di 14
+practices in the ESG field as well as in training events and conferences, aimed at sharing its experiences.
+
+In particular, as a signatory:
+
+− of the United Nations' “Principles for Sustainable Investment” (UN PRI), pays particular attention to the
+
+policies implemented by the issuers in which it invests on behalf of the assets it manages, believing that
+
+sound sustainability policies and practices (incorporating environmental, social and corporate governance
+
+issues) can create long-term shareholder value;
+
+− of the Net Zero Asset Managers Initiative (NZAMI) and the associated long-term commitments made,
+
+attaches importance to climate risks, energy and climate transition plans, and transparency regarding
+
+greenhouse gas emissions caused directly and indirectly by investee companies, especially with regard to
+
+the most polluting sectors.
+
+The Company has therefore adopted specific methodologies to select financial instruments which take account
+
+of the Environmental, Social and Governance (ESG) factors and principles of Sustainable and Responsible
+
+Investments (SRI).
+
+These strategies, aimed at integrating sustainability risks within the Investment Process of managed assets,
+
+are regulated in the “Sustainability Policy of Eurizon Capital SGR S.p.A.”, a summary of which is available on
+
+the Company’s website.
 
 
 
-in work groups for the development of ESG-related best practices, and in training events and conferences, to
+4 The escalation process is described under Principle 3 of the Engagement Policy.
 
-share its experience.
+Engagement Policy Page 16 of 28
 
-In particular, the Parent Company Eurizon Capital SGR, as a signatory:
 
-− of the United Nations’ “Principles for Responsible Investment” (UN PRI), it pays particular attention to the
-
-policies adopted by the issuers in which it invests assets under management, believing that sound
-
-sustainability policies and practices (covering environmental, social and governance issues) can create
-
-long-term shareholder value;
-
-− of the Net Zero Asset Managers Initiative (NZAMI) and the associated long-term commitments made in
-
-relation to it, attaches importance to climate risks, energy and climate transition plans, and transparency
-
-regarding greenhouse gas emissions caused directly and indirectly by investee companies, especially with
-
-regard to the most polluting sectors.
-
-In this context, the Company has also adopted a methodology for the selection of financial instruments which
-
-takes into account the principles the Environmental, Social and Governance (ESG) factors and principles of
-
-Sustainable and Responsible Investments (SRI). These strategies, intended to integrate sustainability risks in
-
-the Investment Process for managed assets, are governed in the “Eurizon Capital S.A. Sustainability Policy”,
-
-of which a summary is available on the Company’s website.
-
-Indeed, the Company believes that environmental, social and corporate governance factors have an impact
-
-on portfolio performance, and that the adoption of ESG and SRI criteria can contribute to improve the ability
-
-to respond more effectively to Clients’/Investors’ expectations, aligning investment activities with the broader
-
-interests of issuers.
-
-The escalation process and related restrictions are applied to all actively managed products, both benchmark
-
-and flexible.
 
 In fact, the Company believes that environmental, social and corporate governance factors impact portfolio
 
 performance, and that the adoption of ESG and SRI criteria can contribute to improving the ability to respond
 
-more effectively to Clients’/Investors’ expectations, aligning investment activities with the wider-ranging
+more effectively to Customers’/Investors’ expectations, aligning investment activities with the wider-ranging
 
 interests of issuers.
 
-To this end, the Company gives priority to establishing a constructive dialogue with investee issuers concerned
+To this end, the Company prioritises the establishment of a constructive dialogue with investee issuers on the
 
-with the following macro-issues, covering all industrial sectors:
+following “macro-issues”, which cut across all industrial sectors:
 
-− climate change mitigation and adaptation;
+a) mitigation of and adaptation to climate change;
 
-− biodiversity loss mitigation and offsetting deforestation;
+b) mitigating biodiversity loss and combating deforestation
 
-− respect for human rights, and combating the production of non-conventional weapons;
+c) respect for human rights and combating the production of unconventional weapons;
 
-− good corporate governance practices.
+d) Good corporate governance practices.
 
-For each of these , the Company encourages investee companies to improve their processes by considering
+For each of them, the Company encourages the companies to improve their processes by considering – where
 
-- where appropriate - the definition of suitable corrective actions. For the purposes of comparison with investee
+appropriate – the definition of suitable corrective actions. For the purposes of comparison with issuers, the
 
-issuers, the Company considers the activities carried out by issuers and their alignment with the provisions of
+Company considers the activities carried out by these issuers and their alignment with the provisions of the
 
-the Taxonomy Regulation on environmental sustainability. In order to optimise its engagement initiatives, the
+Taxonomy Regulation on environmental sustainability. In order to optimise its initiatives, the Company reserves
 
-Company reserves the right to assess the materiality of additional areas of interest, also depending on the
+the right to assess the materiality of additional areas of interest, also depending on the sector to which the
 
-sector to which the issuing companies belong, such as, for example, gender diversity and aspects of
+issuing companies belong, such as, for example, gender diversity and aspects of cybersecurity, including the
 
-cybersecurity, including the use of Artificial Intelligence tools.
+use of Artificial Intelligence tools.
 
-CLIMATE CHANGE MITIGATION AND ADAPTATION
+A) MITIGATION OF AND ADAPTATION TO CLIMATE CHANGE;
 
-The Company considers that institutional investors should analyse companies and related sectors in order to
+The Company believes that institutional investors are called upon to analyse companies and their sectors in
 
-assess their energy transition potential, with the aim of exercising participation and voting rights in an informed,
+order to assess their transition potential, with the aim of exercising their intervention and voting rights in an
 
-consistent manner.
+informed and consistent manner.
 
-To mitigate the impact of investments on the climate, the Company’s Sustainability Policy envisages specific
+In order to assess a company's degree of alignment with the “Net Zero” scenario, the Company uses the “Net
 
-exclusions or restrictions for2 issuers operating in sectors considered “not responsible”, providing for specific
+Zero Investment Framework” (NZIF) methodology promoted by the IIGCC, which takes into account the
 
-engagement processes with companies that have a greater exposure, also with the aim of ensuring that no
+following criteria:
 
-new projects are started, and that the gradual phase out of these activities is monitored. The ESG \& Strategic
+− “Ambition”: the presence of public declarations of wanting to achieve zero net direct and indirect
+
+emissions (so-called 'Scope 1' and 'Scope 2'){5} by 2050;
+
+− “Target”: the publication of short- and medium-term targets for the reduction of its level of emissions
+
+('Scope 1' and 'Scope 2');
+
+− “Emission Performance”: publication of the levels of direct and indirect greenhouse gas emission
+
+reductions ('Scope 1' and 'Scope 2') compared to the defined targets;
+
+− “Transparency”: publication of its emission levels;
+
+− “Decarbonisation Strategy”: the adoption of a decarbonisation strategy;
+
+− “Capital Allocation”: the consistency of capital expenditure with the goal of achieving the “Net Zero”
+
+scenario.
+
+In line with the commitments undertaken in joining the NZAMI, the Company prioritises engagement activities
+
+with companies considered to be lagging behind in the decarbonisation process (so-called 'laggards'), also
+
+making use of:
+
+− public reporting on the decarbonisation strategies of investee companies and the research and
+
+development projects undertaken by them;
+
+− studies and evaluations carried out by third parties, such as the Transition Pathway Initiative (TPI), Climate
+
+Action 100+ (CA100+), Science Based Target Initiative (SBTi) and Net Zero Tracker.
+
+Discussions with issuers are intended to deepen the information gathered, address any critical issues, monitor
+
+progress and, more generally, foster transparency in the dialogue.
+
+The Company believes that intervention with investee companies is most effective when it is geared towards
+
+building a long-term relationship, establishing a constant and constructive dialogue with the aim of monitoring
+
+the companies' commitments over time. For this reason, the Company aims to carry out engagement activities
+
+with companies accounting for respectively 90% and 2030% of the emissions financed by its “Portfolio in
+
+Scope” (i.e. the share of its assets time to time identified to be managed in line with the climate neutrality
+
+scenario) under the NZAMI by 2025 and 2030 to incentivise them to undertake
 
 
 
-2 The exclusions are applied to all active management products, while in the case of Limited Tracking Error products and
+5 Indirect 'Scope 3' emissions will be considered at a later date in view of data availability.
 
-index-linked products (with the exception of those that specifically integrate ESG factors), the maximum direct investment
-
-allowed is equal to the weight of the issuer in the sustainable benchmark.
-
-Engagement policy Pagina 11 di 14
+Engagement Policy Page 17 of 30
 
 
 
-Activism Function of the Parent Company Eurizon Capital SGR monitors engagement initiatives aimed at
+decarbonisation pathways of their activities and progressively align to the net zero emissions scenario.
 
-establishing a constructive dialogue with the issuers identified, notifying the results to the ESG Committee.
+In order to mitigate the climate impact of investments, the Company's Sustainability Policy provides for specific
 
-Lastly, the Company, with the support of the ESG \& Strategic Activism Function of the Parent Company
+exclusions or restrictions 6 for issuers operating in sectors considered to be non-responsible according to the
 
-Eurizon Capital SGR, encourages investee issuers operating in the Energy sector, in particular "Oil \& Gas"
+characteristics of the products and their classification under the SFDR. In particular, the Company's
 
-and "Electric Utilities" companies, (i) to adopt and publish targets to reduce greenhouse gas emissions
+Sustainability Policy provides for exclusions for issuers active in the fossil fuel sector that exceed certain
 
-including methane emissions, both in the short- and medium-term, according to strategies in line with the Paris
+tolerance thresholds7. In addition, the Sustainability Policy provides for special engagement processes in
 
-Agreement; (ii) to commit to gradually reducing (so-called 'phase-down') the production and use of fossil fuels
+respect of companies whose exposure falls below the tolerance thresholds identified by the Company, also
 
-such as coal, oil and natural gas/methane until these activities are phased out (so-called 'phase-out'); (iii) to
+with the aim of verifying that no new projects are initiated and monitoring the gradual “phase out” of such
 
-adopt and publish information on own investment plans and provide periodic progress reports; (iv) to present
+activities. The Responsible Investments \& Stewardship Structure oversees engagement initiatives aimed at
 
-their transition plans to the shareholders at Annual General Meetings (so-called 'Say on Climate' vote).
+establishing a constructive dialogue with identified issuers, bringing the findings to the attention of the ESG
 
-BIODIVERSITY LOSS MITIGATION AND FIGHTING DEFORESTATION
+Committee.
 
-Companies can generate negative impacts on biodiversity and ecosystems, including through their own value
+The Company encourages investee issuers operating in the Energy sector, in particular “Oil \& Gas” and
 
-chains, by contributing to (i) land and sea exploitation resulting from deforestation, conversion for agriculture
+“Electric Utilities” companies, (i) to adopt and publish targets for the reduction of greenhouse gas emissions
 
-and aquaculture; (ii) climate change brought about by pollution; (iii) the spread of invasive species; and (iv)
+(of Scope 1, 2 and 3), including methane emissions, both in the short and medium term, according to
 
-unsustainable fishing, hunting and farming practices that can adversely affect animal and plant populations.
+trajectories in line with the Paris Agreement; “Electric Utilities”), (i) to adopt and publish targets for the reduction
 
-Land use, including deforestation, is among the most significant drivers of biodiversity loss also due to
+of greenhouse gas emissions (Scope 1, 2 and 3), including methane emissions, in both the short and medium
+
+term, according to trajectories in line with the Paris Agreement; (ii) to undertake to gradually reduce (so-called
+
+'phase-down') the production and use of fossil fuels such as coal, oil and natural gas/methane until these
+
+activities are phased out (so-called 'phase-out'); (iii) to adopt and publish information on their investment plans
+
+and periodic progress reports; to present its transition plans to the shareholders at the Annual General
+
+Meetings (so-called 'Say on Climate' vote).
+
+In this regard, the Company assesses the credibility of the transition plans of its fossil fuel subsidiaries by
+
+analysing the completeness and information provided with reference to (i) the absolute and/or relative
+
+greenhouse gas emission reduction targets (direct and indirect emissions including 'Scope 3' emissions), (ii)
+
+the expected evolution of the “energy mix”, (iii) investment plans broken down by activity and divided between
+
+maintenance and development (iv) the use of carbon capture and offsetting technologies.
+
+B) MITIGATING BIODIVERSITY LOSS AND COMBATING DEFORESTATION
+
+Corporations can generate negative impacts on biodiversity8 and ecosystems, including through their own
+
+value chains, contributing to (i) land and sea exploitation from deforestation, conversion for agriculture and
+
+aquaculture; (ii) climate change caused by pollution; (iii) the spread of invasive species and (iv) unsustainable
+
+fishing, hunting and farming practices that may adversely affect animal and plant populations.
+
+Land use, including deforestation, is one of the most significant factors in the loss of biodiversity, also due to
 
 increased emissions of carbon dioxide and other greenhouse gases.
 
 The Company encourages issuers to take measures to counter biodiversity loss and deforestation by
 
-promoting (i) transparency in the sourcing and use of raw materials, (ii) the adoption of circular economy
+promoting (i) transparency in the sourcing and use of raw materials9, (ii) the adoption of circular economy and
 
-practices and reuse of materials, and (iii) continued commitment to more sustainable standards, including with
+material reuse practices, and (iii) a continued commitment to more sustainable standards, including in the
 
-respect to the supply chain.
+supply chain.
 
-In dealing with investee issuers, the Company encourages:
+In this context, the Responsible Investments \& Stewardship Structure has defined an internal screening
 
-- the adoption by issuers in risk sectors, of effective strategies and policies to preserve biodiversity that
+methodology (“Eurizon Naturewatch”) that is inspired by the principles contained in the “Global Biodiversity
+
+Framework” (or “GBF”) of
+
+
+
+6 In relation to indexed or Limited Tracking Error products, the maximum direct investment allowed is equal to the weight
+
+of the issuer in the benchmark, except for issuers characterised by a clear direct involvement in the manufacture of
+
+unconventional weapons, for which the exclusions provided for by Law No. 220/2021 apply; Limited Tracking Error products
+
+that explicitly integrate ESG factors into their investment choices are subject to the same exclusions as actively managed
+
+products.
+
+7 The Company considers issuers operating in the following sectors to be environmentally “non-responsible”: (a) thermal
+
+coal, i.e. issuers deriving at least (i) 25% of their revenue or (ii) 20% of their revenue alongside expansion plans from
+
+mining or power generation activities related to thermal coal, i.e. the fossil fuel with the highest carbon dioxide emissions;
+
+(b) oil sands, i.e. issuers deriving at least 10% of their turnover from the exploitation of oil sands.
+
+8 Biodiversity means “the variability among living organisms from all sources including, inter alia, terrestrial, marine and
+
+other aquatic ecosystems and the ecological complexes of which they are part; this includes diversity within species,
+
+between species and of ecosystems. ‘(Source: Convention on Biological Diversity).
+
+9 The raw materials include: palm oil, soya, coffee, cocoa, timber, intensive livestock farming.
+
+Engagement Policy Page 18 of 30
+
+
+
+Kunming-Montreal10, aimed at identifying issuers that may generate negative impacts on biodiversity caused
+
+by (i) the location of their production sites near sensitive areas and fragile ecosystems or
+
+(ii) from its own activities. The objective of this methodology is to provide an assessment of the possible
+
+exposure of investee companies to issues related to ecosystem exploitation as well as the potential loss of
+
+value associated with it. In this context, the Company aims to identify companies with the potential to generate
+
+negative impacts on biodiversity in order to prioritise its engagement actions towards those with the greatest
+
+exposure to the above criteria.
+
+In the context of its dealings with investee issuers, the Company encourages:
+
+− the adoption by issuers in risky sectors11 of effective strategies and policies to preserve biodiversity that
 
 include the involvement of management and corporate bodies;
 
-- the presence of due-diligence processes of the company's supply chain, including how it collaborates with
+− the presence of the company's supply chain due-diligence processes, including how it works with
 
 stakeholders and/or participates in industry-relevant initiatives;
 
-- investment in research and development aimed at conserving and mitigating biodiversity loss;
+− investments in research and development aimed at the conservation and mitigation of biodiversity loss;
 
-- transparency both on commitments made, including to local communities, and in the presence of any
-
-disputes.
+− transparency both on commitments made, including to local communities, and in the event of disputes.
 
 In this regard, the Company encourages companies to disclose information about their impact on nature and
 
 ecosystems, in line with the recommendations of the Taskforce on Nature-related Financial Disclosure (TNFD).
 
-Consistent with the Parent Company’s membership in the Nature Action 100 collective engagement initiative,
+Consistent with joining the collective engagement initiative “Nature Action 100”, the Company undertakes to
 
-the Company is committed to requiring identified companies:
+request from the companies identified:
 
-- an explicit corporate commitment to mitigating biodiversity loss and protecting ecosystems;
+− an explicit corporate commitment to mitigating biodiversity loss and promoting the protection of ecosystems;
 
-- assessment and reporting of biodiversity-related impacts, risks and opportunities, including along the
+− the assessment and reporting of biodiversity-related impacts, risks and opportunities also along the
 
 respective value chains;
 
-- to communicate (i) time-bound targets, specific to the operating context, for reducing risks and exploiting
+− to communicate (i) time-bound, context-specific objectives to reduce risks and exploit opportunities related
 
-opportunities related to natural capital, and to publish annual progress against stated targets, (ii) the plan
+to natural capital and to publish annual progress against stated objectives, (ii) the plan to achieve them,
 
-to achieve them, and (iii) progress achieved;
+and (iii) progress achieved;
 
-- review by their respective oversight bodies of matters pertaining to biodiversity conservation and
+− verification by the respective supervisory bodies of matters relating to the conservation and preservation of
 
-preservation and management's assessment and management of nature-related dependencies, impacts,
+biodiversity and the assessment and management of nature-related dependencies, impacts, risks and
 
-risks and opportunities;
+opportunities by management;
 
-- engagement with Stakeholders to create an environment conducive to the implementation of identified
+− engagement with Stakeholders to create an environment conducive to the implementation of identified
 
-plans and the achievement of set goals.
+plans and the achievement of objectives.
 
-RESPECT FOR HUMAN RIGHTS, AND COMBATING THE PRODUCTION OF NON-CONVENTIONAL WEAPONS;
+C) RESPECT FOR HUMAN RIGHTS AND COMBATING THE PRODUCTION OF UNCONVENTIONAL WEAPONS;
 
-In line with the United Nations’ Sustainable Development Goals, the Company encourages issuers to develop
+In line with the Sustainable Development Goals promoted by the United Nations, the Company encourages
 
-policies and practices aimed at an effective management of their own human capital. The companies are
+issuers to develop policies and practices aimed at effective management of their human capital. Companies
 
-required to protect worker health and safety throughout the production chain and to commit to fostering a
+are called upon to protect the health and safety of workers throughout the production chain and to commit to
 
-Engagement policy Pagina 12 di 14
+establishing a corporate culture that ensures good health and safety practices, implementing a clear
 
+management system for monitoring and, if necessary, taking corrective measures.
 
+The Company expects issuers to implement due diligence assessment processes to prevent and mitigate risks
 
-company culture that ensures good health and safety practices, putting in place a clear management system
+related to human capital management, including the violation of fundamental human rights, including in the
 
-for monitoring, and if necessary, adopting corrective measures.
+supply chain. The Company is aware of the importance of (i) the so-called “Just Transition', based on respect
 
-The Company expects issuers to implement due diligence processes to prevent and mitigate risks related to
+for workers' rights and support for initiatives that promote the achievement of climate neutrality and (ii) respect
 
-human capital management, including the violation of fundamental human rights, including in the supply chain.
+for international human rights standards, such as the principles of the
 
-With regard to compliance with international human rights standards, the Company encourages its investee
 
-companies to adopt corporate policies on respect for human and labour rights and welcomes the adoption of
 
-internationally recognised human rights principles.
+10 Introduced during COP 15, the GBF was defined with the objective of aiming to halt and reverse biodiversity loss by
 
-With regard to the production of unconventional weapons, the Company’s Sustainability Policy provides for
+2030, supporting the achievement of the UN Sustainable Development Goals. The GBF report's main recommendations
 
-specific exclusions or restrictions for issuers that are clearly involved directly in the manufacture of non-
+include the need to integrate biodiversity into investment decision-making, assessing its dependencies, impacts, risks and
 
-conventional weapons.
+opportunities.
 
-The Company may start engagement with issuers, with the aim of further reviewing their compliance with
+11 Such as, by way of example: agriculture, fisheries and aquaculture, food, beverages and tobacco, forestry, thermal
 
-international treaties and national laws. Based on information obtained, the Company evaluates the feasibility
+utilities, construction, electricity, water services, supply chains and transport, chemical industry, civil aviation, real estate,
 
-of starting escalation processes.
+mining and metals, retail consumer goods, oil and gas, automotive, healthcare, electronics, insurance and capital
 
-GOOD CORPORATE GOVERNANCE PRACTICES
+management, banking and digital communication.
 
-The Company believes that issuers who adopt robust corporate governance practices are able to manage
+Engagement Policy Page 19 of 30
 
-corporate risks more efficiently. For this reason, it promotes a constructive approach with companies it invests
 
-in and is aware of the importance of dialogue in corporate governance practices. The Company has therefore
 
-adopted principles of conduct to observe when evaluating proposals on the agenda of key shareholder
+(so-called “UN Guiding Principles” and “UN Global Compact”), the OECD's Guidelines for Multinational
 
-meetings, taking into account market best practices.
+Enterprises, and the international standards promoted by the International Labour Organisation, as well as (iii)
 
-As part of its monitoring activities, the Company also requests listed investee issuers and their advisors to
+the prevention and mitigation of any negative effects that may be generated by the investee companies.
 
-ensure that any information which could compromise the ability to trade the financial instruments of such
+With specific reference to the “Just transition”, in line with the commitments undertaken by adhering to the Net
 
-issuers are not disclosed without prior consent.
+Zero Asset Management Initiative, the Company, as part of its analyses, also assesses the social aspects and
 
-The Head of Investments monitors, also with the support of the ESG \& Strategic Activism structure of the
+impacts that issuers' decarbonisation plans may have on communities and workers. To this end, the Company
 
-outsourcer Eurizon Capital SGR, the evolution of the performance, corporate governance and sustainability of
+analyses, on the basis of the information made available by the companies, any (i) commitments made (so-
 
-the participated companies, in order to evaluate the activation of a comparison with the representatives of the
+called "public commitment"), (ii) the analyses carried out and (iii) projects/programmes already underway,
 
-companies invested. The purpose of this interaction is to identify any problems in advance and minimize, at
+including with regard to staff training (so-called "reskilling" or “upskilling”). Where available, the Company also
 
-the same time, potential losses in value.
+considers the indicator provided by CA100+12.
 
-In this context, the monitoring activity is complementary both to the analysis of investments and to the exercise
+With regard to compliance with international standards on respect for human rights, the Company encourages
 
-of voting rights because it makes it possible to address specific governance concerns of issuers, avoiding, in
+its investee companies to adopt corporate policies on respect for human and labour rights and welcomes the
 
-the first instance, to assess the disposal of the shareholding or voting against it.
+adoption of internationally recognised human rights principles.
 
-CONSIDERATION OF PRINCIPAL ADVERSE IMPACTS ON SUSTAINABILITY FACTORS
+The Company's Sustainability Policy provides for specific limitations for issuers who (i) violate the principles of
 
-In line with the provisions of Delegated Regulation (EU) 2022/1288, the assessment of the Principal Adverse
+the United Nations Global Compact “UNGC”) or the OECD Guidelines for Multinational Enterprises “OECD
 
-Impacts of investment decisions on sustainability factors and the definition of possible measures to mitigate
+Guidelines”) or (ii) are characterised by an obvious direct involvement in the manufacture of unconventional
 
-them are an integral part of Eurizon's approach to sustainability.
+weapons13.
 
-In this context, the Company has a specific framework that defines how Principal Adverse Impact indicators
+The Company reserves the right to initiate discussions with the issuers, with the aim of investigating
 
-are taken into account within the assets under management, in accordance with the SFDR implementation
+compliance with international treaties and national legislation. On the basis of the information acquired, the
 
-rules and in line with the sustainability risk integration strategies adopted for each product.
+Company assesses the appropriateness of activating escalation processes.
 
-The following table shows the mapping of the Principal Adverse Impact indicators taken into account in the
+D) GOOD CORPORATE GOVERNANCE PRACTICES
 
-dialogue with investee companies:
+The Company believes that issuers that adopt sound corporate governance practices are able to manage
 
+corporate risks more efficiently. For this reason, it promotes a constructive approach to the companies in which
 
+it invests and is aware of the importance of dialogue on corporate governance practices. The Company has
 
-PRINCIPAL ADVERSE IMPACT
+therefore adopted principles and conduct to be followed when evaluating proposals on the agenda of the most
 
-INDICATORS ON
+significant shareholders' meetings, taking into consideration market best practices, including the Italian
 
-SUSTAINABILITY FACTORS
+Corporate Governance Code and the main international Codes of Conduct (e.g. International Corporate
 
+Governance Network - ICGN).
 
+As part of its engagement activities, the Company analyses:
 
-"MACRO-THEMES' IDENTIFIED BY THE COMPANY
+− the composition, independence, and role of the Board of Directors, as well as the presence of any board
 
-MITIGATION OF AND
+committees, including for the assessment of ESG risks to which the company is exposed;
 
-ADAPTATION TO
+− diversity within the company, including with regard to corporate bodies and managerial functions;
 
-CLIMATE CHANGE
+− the method of electing directors;
+
+− the manner of conducting and participating in shareholders' meetings;
+
+− the company's remuneration and incentive policies, with a focus on alignment with long-term strategies;
+
+− the transparency of climate transition strategies and the company's commitment to developing its
+
+workforce, promoting diversity and a safe working environment;
+
+− information provided by issuers on the application of Corporate Governance Codes in their respective
+
+listing countries.
+
+As part of monitoring activities, the Company requests listed investee issuers and their advisers to ensure that
+
+any information which could compromise the ability to trade financial instruments of such issuers are not
+
+disclosed without prior consent.
+
+
+
+12 The following table shows the mapping of the Principal Adverse Impact Indicators taken into account in the dialogue
+
+activities with investee companies:
+
+13 The Company considers issuers operating in the non-conventional weapons sector to be socially “non-responsible”, i.e.
+
+issuers characterised by a clear direct involvement in the manufacture of the following types of weapons: Anti-personnel
+
+mines; Cluster bombs; Nuclear Weapons, Depleted Uranium, Biological Weapons, Chemical Weapons, Invisible
+
+Fragmentation Weapons/Nondetectable Shrapnel, Blinding Lasers, Incendiary Weapons, White Phosphorus.
+
+Engagement Policy Page 20 of 30
+
+
+
+CONSIDERATION OF THE MAIN NEGATIVE EFFECTS ON SUSTAINABILITY FACTORS
+
+In line with the provisions of Delegated Regulation (EU) 2022/1288, the assessment of the Main Negative
+
+Impacts of Investment Choices on Sustainability Factors and the definition of possible actions to mitigate them
+
+are an integral part of the Company's approach to sustainability.
+
+In this context, the Company has a specific framework that defines how Adverse Impact Indicators are taken
+
+into account within the assets under management, in accordance with the SFDR implementation rules and
+
+consistent with the sustainability risk integration strategies adopted by each product.
+
+The following table shows the mapping of the main adverse impact indicators taken into account in the dialogue
+
+activities with investee companies:
+
+
+
+MAIN NEGATIVE EFFECTS ON
+
+SUSTAINABILITY
+
+
+
+“MACRO-THEMES” IDENTIFIED BY THE COMPANY
+
+MITIGATION OF
+
+AND ADAPTATION
+
+TO CLIMATE
+
+CHANGE
 
 
 
 MITIGATION OF
 
-BIODIVERSITY
+BIODIVERSITY LOSS
 
-LOSS
+RESPECT FOR HUMAN RIGHTS
 
+AND COMBATING THE
 
-
-RESPECT FOR HUMAN RIGHTS AND
-
-FIGHT THE PRODUCTION OF
+PRODUCTION OF
 
 UNCONVENTIONAL WEAPONS
 
@@ -1166,208 +1654,628 @@ GOVERNANCE
 
 PRACTICES
 
-Greenhouse gas emissions 
+
+
+Greenhouse gas emissions 
 
 
 
-Biodiversity 
+Biodiversity 
 
 
 
-Water 
+Water 
 
 
 
-Waste 
+Waste 
+
+Indicators on
+
+social and personnel
+
+issues
+
+ 
 
 
 
-Indicators on social and
+Within the framework of Principle No. 3, the Company defines the timing and modalities of intervention and the
 
-employees matters  
+related processes of
 
-Engagement policy Pagina 13 di 14
+escalation to be activated in the event of an unsatisfactory outcome of the dialogue activities.
+
+Lastly, it is reported that the Company publishes the mitigation actions adopted in the 'Statement on the main
+
+negative effects of investment decisions on the sustainability factors of Eurizon Capital SGR S.p.A. and its
+
+subsidiaries', made available on the Company's website.
+
+Engagement Policy Page 21 of 30
 
 
 
-Within the framework of Principle No. 3, the SGR defines when and how to intervene and the related escalation
+PRINCIPLE 3 - THE COMPANY SHALL MONITOR ACTION TIMES AND PROCEDURES
 
-processes to be activated in the event of an unsatisfactory outcome of dialogue activities.
 
-Lastly, it is reported that the Company publishes the mitigation actions adopted in the “Principal Adverse
 
-Sustainability Impacts Statement of Eurizon Capital SGR S.P.A. and Its Subsidiaries” made available on the
+MANAGEMENT COMPANIES SET OUT CLEAR GUIDELINES ON THE TIME FRAMES AND PROCEDURES FOR ACTIVITIES WITH
 
-Company website.
+LISTED INVESTEE ISSUERS, IN ORDER TO PROTECT AND INCREASE THEIR VALUE.
 
-COLLABORATION WITH OTHER INSTITUTIONAL INVESTORS:
 
-In addition, the Company can activate a further process of comparison with its participated companies,
 
-promoting, for example, joint collaboration with other institutional investors.
+METHOD FOR IMPLEMENTING THE RECOMMENDATION:
 
-The Company recognises the benefits that may derive from the activation of forms of collective engagement
+The Company promotes proactive interaction with the companies in which it invests by encouraging effective
 
-with other investors. In particular, the Company assesses this solution when it considers it the most effective
+communication, through one of the following approaches to engagement:
 
-choice to improve communication with issuers. This may occur in the event of significant corporate events or
+− “unilateral' where it is the Company or the issuer that initiates the communication (‘one-way’);
 
-issues of public interest.
+− “two-way”, if the Company and investee issuer have established a constructive dialogue;
 
-Any method of collective engagement is conducted in compliance with internal and external regulations on the
+− “collective”, if coordinated action is taken over targeted aspects regarding several institutional investors.
 
-management of conflicts of interest and on insider information (market abuse), paying particular attention to
+In general, the Company undertakes to carry out an in-depth investigation and establish a constructive dialogue
 
-regulations on concerted action.
+with the administration and/or control bodies of “significant issuers”. For the purposes of identifying issuers
 
-In addition, the Company may collectively carry out monitoring, participation and engagement activities also
+relevant to the activation of the engagement process, the Company considers, in particular, those
 
-through participation in the activities of the Corporate Governance Committee and the Committee of Managers
+characterised by:
 
-promoted by Italian industry association Assogestioni.
+− significant exposure on managed products (holding of “significant amounts of capital”);
 
-CONSCIOUS EXERCISE OF VOTING RIGHTS
+− significant compared to the benchmark of the individual assets under management;
 
-The Company adopts a "targeted" approach to corporate governance by participating in the Shareholders'
+− high exposure to sustainability risks, such as (i) involvement in sectors deemed not “socially responsible”,
 
-Meetings of selected companies with shares listed on the Italian Stock Exchange and international markets,
+(ii) exposure to environmental issues, such as the risk of biodiversity loss and deforestation, (iii) lack of
 
-taking into account the usefulness of participating in the interests of the assets under management and the
+respect for human rights, and (iv) lack of appropriate corporate governance practices.
 
-possibility of influencing decisions in relation to the voting shares held.
+The Investments Department monitors developments in the corporate governance and sustainability of
 
-Participation in the Shareholders' Meetings of other companies is in any case envisaged if significant amounts
+investees, in order to assess whether to contact the officers of the companies it invests in. The purpose of this
 
-of capital are held or is considered significant in the interest of the assets managed.
+interaction is to:
 
-The Head of Investments defines the proposals relating to voting instructions on the basis of the analyses and
+− identify any problems, and at the same time minimise potential losses in value;
 
-in-depth analyses carried out on public documents, the results of any interaction with the issuing company, the
+− steer companies towards improvements in their practices, evaluating, only as a last scenario, the disposal
 
-indications provided by advisors specialised in research to support corporate governance decisions and voting
+of investments.
 
-recommendations, as well as the indications provided by the relevant Managers.
+Procedures for taking action with investee issuers may include:
 
-To support its investment decisions and the exercise of its participation and voting rights, the Company may
+− benchmarking with members of corporate bodies (including minority bodies), or the entities appointed by
 
-also use the services of a voting consultant (proxy advisor, to streamline - in accordance with the principle of
+them, to specifically discuss the issues identified, through:
 
-proportionality - the analyses preparatory to the definition of voting instructions. Recommendations made by
+− individual meetings, held at the head office of the Company or by conference call;
 
-this advisor are not binding and the Company undertakes to make, in the best interest of managed assets,
+− participation in events, such as presentations, seminars or conferences;
 
-voting decisions that differ from both proxy advisor’s and investee’s management recommendations. In any
+− the sending of formal communication to the corporate bodies and/o senior management of the companies.
 
-case, the Company actively liaises with its advisor, to avoid any risk of over-reliance.
+The Company considers action taken with investees to be more effective when it is based on a medium/long-
 
-The Company pay particular attention to the policies adopted by the issuers in which it invests, in the belief
+term relationship with corporate bodies and senior management that, in these situations, are more likely to
 
-that sound corporate governance policies and practices (which incorporate environmental, social and
+consider institutional investors as credible, committed partners. In this regard, actions are in addition to the
 
-governance issues) are able to create value for shareholder in the long-term. In this context, in support of
+analysis of investments and exercise of voting rights, because they make it possible to deal with specific
 
-investment decisions and the exercise of participation and voting rights, the Company has adopted specific
+governance aspects of issuers, avoiding in the first instance, an assessment of the disposal of the investment
 
-methodologies to select financial instruments which take account of the Environmental, Social and Governance
+or a vote cast against a motion.
 
-(ESG) factors and principles of Sustainable and Responsible Investments (SRI).
+ESCALATION PRACTICES
+
+The engagement process includes a medium-term monitoring cycle aimed at assessing the progress made by
+
+issuers, with a particular focus on the “macro-themes” that the Company considers a priority. Such
+
+assessments normally require a time frame of at least 18-36 months.
+
+
+
+14 Under current regulations, the Company may not, through the open-ended funds it manages, exercise control or
+
+significant influence over the issuing company, including through participation in voting syndicates.
+
+Engagement Policy Page 22 of 30
+
+
+
+If investee issuers do not respond constructively, the Company will consider activating appropriate escalation
+
+processes which, depending on the situation, may include 3 levels:
+
+First level
+
+− increasing the frequency of contact with the issuer;
+
+− the sending of formal communications aimed at explaining the Company's expectations;
+
+− joint collaboration with other institutional investors, as outlined in Principle No. 4, for the purpose of
+
+submitting comments or specific requests for in-depth analysis of particular issues;
+
+Second level
+
+− making public statements at the Shareholders' Meeting;
+
+− abstaining or voting against at the Shareholders' Meeting;
+
+− the evaluation of the divestment of participations within the ESG Committee.
+
+Engagement Policy Page 23 of 30
+
+
+
+PRINCIPLE 4 - THE COMPANY SHALL COOPERATE WITH OTHER INSTITUTIONAL INVESTORS
+
+
+
+MANAGEMENT COMPANIES SHALL ASSESS AS NECESSARY, POSSIBLE COOPERATION WITH OTHER INSTITUTIONAL
+
+INVESTORS, WHERE APPROPRIATE, PAYING PARTICULAR ATTENTION TO REGULATIONS GOVERNING JOINT ACTIONS;
+
+
+
+METHOD FOR IMPLEMENTING THE RECOMMENDATION:
+
+The Company shall recognise the benefits that may arise from promoting forms of collective engagement with
+
+other institutional investors. Specifically, as indicated for the purposes of Principle 3, the Company shall assess
+
+this solution when it believes it is the most effective choice for improving communication with the issuers. This
+
+circumstance may occur in the case of significant corporate events or matters of public interest.
+
+Any type of collective engagement takes place in compliance with internal and external regulations on the
+
+management of conflicts of interest and inside information (market abuse), paying particular attention to
+
+regulations on concerted action. In particular, the Company does not cooperate with other institutional
+
+investors:
+
+− with the intention of undertaking concerted actions or agreements relating to the acquisition, holding or sale
+
+of financial instruments;
+
+− for the purposes of defining the composition of the corporate bodies of investee companies, outside the
+
+cases governed by the Assogestioni “Protocol on the Tasks and Functions of the Corporate Governance
+
+Committee and the Management Committee”;
+
+− for the purpose of submitting binding proposals at the shareholders' meeting.
+
+Within the framework of single collaborations, the Company reserves the right to select issuers with which it
+
+wishes to be more active. In particular, the Company takes part in the comparison activities with investee
+
+companies as:
+
+− “leader', contacting the companies on behalf of the Working Group and providing them with a summary of
+
+the activities carried out and the results obtained;
+
+− “co-signatory”, choosing to actively support initiatives alongside “leader” investors both in preparing
+
+and/or attending meetings and signing letters to issuers;
+
+− “endorser', supporting the initiative publicly, although without direct participation in the activities.
+
+Having said this, the Company collectively carries out monitoring, takes action and manages engagement
+
+activities, also through participating in:
+
+− activities of the Corporate Governance Committee and the Assogestioni Managers Committee;
+
+− initiatives promoted jointly with other institutional investors who are signatories to the following codes of
+
+business conduct:
+
+− “Responsible Investment Principles” promoted by the United Nations;
+
+− “Net Zero Asset Managers Initiative”;
+
+− “CDP”:
+
+− “Institutional Investors Group on Climate Change”;
+
+− “Forum for Sustainable Finance”;
+
+− “International Corporate Governance Network”.
+
+Specifically, the Company has subscribed to the following collective initiatives:
+
+− “Net Zero Engagement Initiative{§11}” promoted by IIGCC, as Lead and Co-Signer;
+
+− “Climate Action 100+', as a signatory;
+
+− “Nature Action 100” as a signatory;
+
+− “Advance16” promoted by UNPRI as a signatory.
+
+
+
+15 Initiative to provide a forum to accelerate engagement activities within investment portfolios and enable investors to
+
+achieve the engagement goals they have set as part of their Net Zero commitments.
+
+
+
+16 Collective engagement initiative aimed at encouraging best practices in respect of human rights, society, communities
+
+and workers.
+
+Engagement Policy Page 24 of 30
+
+
+
+The Company is also involved in the following national and international working groups.
+
+− “PRI Listed Equity Working Group”, which aims to promote the implementation of methodologies to assess
+
+progress towards the Net Zero scenario with regard to listed equity investments;
+
+− “PRI Circular Economy Reference Group”, with the aim of raising investor awareness of the risks and
+
+opportunities associated with the transition to a circular economy;
+
+− “IIGCC Proxy Adviser Engagement Working Group”, aimed at spurring proxy advisers to take into account,
+
+in their voting policies, information on the alignment path to the “Net Zero” scenario of listed companies;
+
+− “IIGCC Bondholder Stewardship Working Group”, which promotes the commitment of bondholders to
+
+support climate action and drive the transition towards achieving Net Zero;
+
+− “IIGCC Sovereign Bonds and Country Pathways Working Group”, which promotes the net zero commitment
+
+in the context of investments in government issuers;
+
+− “IIGCC Index Investing Working Group”, which explores the topic of net zero in passive investing;
+
+− “Engagement', promoted by the Forum for Sustainable Finance;
+
+− “Sustainable Systems Investment Manager Reference Group”, established by UN PRI with the aim of
+
+promoting regular discussions with management companies.
+
+In any case, the Company reserves the right to subscribe to additional collective engagement initiatives
+
+deemed useful to pursue the best interests of its Investors. These include the Company's participation in
+
+campaigns promoted by:
+
+− “CDP” (“Non-Disclosure Campaign” – climate, water, forest – and “Science-Based Targets Campaign”, as
+
+Co-Signer);
+
+− “French Sustainable Investment Forum, FIR (‘Shareholder dialogue can lead to real progress on climate’);
+
+− “UN PRI”, “IIGCC” and other network partners (“The 2024 Global Investor Statement to Governments on
+
+the Climate Crisis”).
+
+Through dialogue, the Company intends to monitor the degree of awareness of issuers on specific issues. In
+
+the course of engagements, the Company shares with issuers any critical issues encountered and related
+
+mitigation actions.
+
+Engagement Policy Page 25 of 30
+
+
+
+PRINCIPLE 5 - THE COMPANY SHALL EXERCISE VOTING RIGHTS IN AN INFORMED MANNER
+
+
+
+THE MANAGEMENT COMPANIES EXERCISE THE VOTING RIGHTS ATTACHED TO THE FINANCIAL INSTRUMENTS PERTAINING
+
+TO THE UCIS AND CONSCIOUSLY MANAGED PORTFOLIOS.
+
+
+
+METHOD FOR IMPLEMENTING THE RECOMMENDATION:
+
+The Voting strategy adopted by the Company entails a differentiated approach based on the significance of
+
+the investee, related reference markets and/or specific circumstance, and a cost/benefit analysis that takes
+
+into account the investment objectives and policies of the individual portfolios.
+
+For the most significant shareholders’ meetings, resulting from the adoption of quantitative and qualitative
+
+criteria, participation in individual meetings is authorised by the CEO and General Manager of the Company
+
+that also defines (i) the vote to cast, (ii) any specific indications to disclose, in the interest of investors,
+
+independently of any influence from within or outside the Company and (iii) procedures for participation,
+
+including proxies, for individual meetings, to give to specialised third-party companies, issuing specific
+
+instructions.
+
+For this purpose, the Responsible Investments \& Stewardship Structure identifies significant shareholders’
+
+meetings, carries out necessary analyses and defines – in coordination with reference managers – proposals
+
+relating to voting instructions to be evaluated by the CEO and General Manager. These proposals are identified
+
+on the basis of (i) analyses and in-depth analyses carried out on public documents, (ii) available research
+
+supporting corporate governance decisions and voting recommendations, (iii) indications provided by
+
+reference managers and (iv) the results of any engagement with the issuer company, if considered useful or
+
+necessary.
+
+The CEO and General Manager defines the vote to cast and the specific requests to make in the interests of
+
+investors, independently of any influence from within or outside the Company, and determines the procedures
+
+for participating in the meetings.
+
+Save for the possibility of the Company to delegate specialised third-party companies, giving instructions to
+
+exercise voting rights, in the interest of managed assets.
+
+With regard to the meetings for which the Company makes use of electronic voting (so-called proxy voting),
+
+instructions are defined on the basis of specific guidelines approved by the Board of Directors on the proposal
+
+formulated by the CEO and General Manager within the ESG Committee. The Responsible Investments \&
+
+Stewardship Structure monitors the proper conduct of the process, submitting to the Chief Executive Officer
+
+and Chief Operating Officer (i) any unregulated cases or (ii) voting proposals that differ from the criteria set
+
+forth in this Strategy. In these cases, voting instructions are undertaken directly by the CEO and General
+
+Manager according to procedures consistent with those for shareholders’ meetings, taking account of the
+
+adoption of quantitative and qualitative criteria.
+
+Decisions taken are brought to the attention of the ESG Committee on the first possible occasion. The
+
+Committee also monitors the correct adoption of the Voting Strategy, in order to assess, in the interest of
+
+managed assets, any developments in guidelines for exercising voting rights.
+
+To support its investment decisions and the exercise of its participation and voting rights, the Company uses
+
+the services of a voting consultant (proxy adviser, to streamline – in accordance with the principle of
+
+proportionality – the analyses preparatory to the definition of voting instructions. Recommendations made by
+
+this adviser are not binding and the Company may make, in the best interest of managed assets, voting
+
+decisions that differ from the proxy adviser and from the recommendations of the investee’s management. In
+
+any case, the Company actively liaises with its adviser, avoiding an excess influence of the latter on the process
+
+to exercise voting rights (“over-reliance”).
+
+As a signatory of the United Nations “Principles for Responsible Investment”, the Company uses specialised
+
+research which also includes information on the social and environmental responsibility of issuers, aimed at
+
+identifying any impact in terms of reputation, competition and business opportunities determined by corporate
+
+governance choices.
 
 The Company considers exercising the right to vote concerning financial instruments of managed assets
 
 issued by group companies or by companies with whom the Company, its significant members or group
 
-companies have strategic relations or in relation to which group companies of ECSA appoint one or more
+companies have strategic relations or in relation to which group companies of the Company nominate or
 
-members of corporate bodies as a conflict of interest. Therefore, the Company has adopted the Protocol of
+appoint one or more members of corporate bodies as a conflict of interest.
 
-Autonomy for the management of conflicts of interest prepared by Assogestioni with the aim of safeguarding
-
-the Company's decision-making autonomy in its choices concerning the provision of management services. In
-
-this context, as a preventive measure to neutralise the same, the Company does not exercise the right to vote
-
-concerning shares of managed assets issued by companies that are directly or indirectly parents, or in relation
-
-to whom ECSA Group companies appoint or designate one or more members of the company boards. The
-
-Company may still aggregate shares of managed assets issued by these companies in order to reach the
-
-Engagement policy Pagina 14 di 14
+Engagement Policy Page 26 of 30
 
 
 
-minimum quota of holdings required by the regulations in force for presenting lists of candidates for the
+Therefore, the Company has adopted the “Independence Protocol for managing conflicts of interest” prepared
 
-renewal of the corporate positions in question.
+by Assogestioni, with the aim of safeguarding the decision-making autonomy of the Company in its choices
+
+concerning the provision of management services. In this context, as a preventive neutralising measure, the
+
+Company does not exercise the right to vote concerning shares of managed assets issued by companies that
+
+are directly or indirectly parents, or in relation to whom SGR Group companies appoint or designate one or
+
+more members of the company boards. The Company may still aggregate shares of managed assets issued
+
+by these companies, in order to reach the minimum quota of holdings required by regulations in force for
+
+presenting lists of candidates for the renewal of the corporate positions in question.
+
+As indicated with reference to Principle 1, regarding Portfolio Management, the voting right is exercised
+
+exclusively if specific instructions from the investor are present, issued through a proxy and in accordance with
+
+applicable laws and regulations - in compliance with and according to the limits of indications issued, which
+
+shall be received no later than the contract cut-off date.
+
+Engagement Policy Page 27 of 30
 
 
 
-With reference to procedures to exercise participation and voting rights, ECSA may delegate - for each single
+PRINCIPLE 6 - THE COMPANY SHALL KEEP TRACK OF THE EXERCISE OF RIGHTS
 
-meeting, specialist third-party companies, giving them specific voting instructions. In any case, ECSA does not
 
-delegate Group companies or officers to exercise the right to vote concerning shares of managed assets, apart
 
-from the case of another management company, and ensures, in any event, that the delegated party exercises
+MANAGEMENT COMPANIES KEEP TRACK OF THE EXERCISE OF THE RIGHTS ATTACHED TO THE FINANCIAL INSTRUMENTS
 
-the right to vote in compliance with the interest of participants in the UCIs or their clients.
+PERTAINING TO THE UCIS AND MANAGED PORTFOLIOS, ADOPTING A POLICY ON THE DISCLOSURE OF INFORMATION ON
 
-REPORTING
+EXTERNAL GOVERNANCE.
 
-The Company provides on its website the "Engagement Policy" and the "Voting Procedure for financial
 
-instruments of managed assets of Eurizon Capital S.A.” showing its commitment to high standards of external
 
-corporate governance.
+METHOD FOR IMPLEMENTING THE RECOMMENDATION:
 
-In addition, the Company provides transparent disclosure of activities to exercise participation and voting rights
+As also outlined in the implementation of Principle no. 1, the Company makes available on its website the
 
-through:
+“Engagement Policy” and the “Voting Strategy” in which it also provides evidence of its adherence to (i) the
 
-− its website, publishing information at regular intervals participation in the Shareholders' Meetings and on
+“Stewardship Code” promoted by the European Fund and Asset Management Association (EFAMA) in order
 
-the engagement, with reference to companies whose securities are present in the portfolios of the managed
+to encourage, at a European level, the development of good corporate governance practices and (ii) the “Italian
+
+Stewardship Principles”17 for the exercise of administrative and voting rights in listed companies and the related
+
+Best Practice Recommendations defined by Assogestioni, as well as to the UN “Principles for Sustainable
+
+Investment”, demonstrating its commitment to high standards of external corporate governance.
+
+In addition, the Company provides transparency in the exercise of intervention and voting rights through:
+
+− the website, publishing periodic information on the participation in the Assemblies and the activity of
+
+engagement performed with companies whose securities are present in the portfolios of the managed
 
 UCIs;
 
-- the Report on the management of the UCIs, in which details on the vote cast and conduct adopted.
+− the management report of the UCIs, in which details are given of the votes cast and the conduct of the
 
-These documents include both qualitative and quantitative information.
+UCIs.
 
-The Company attaches importance to formalising the documentation necessary to ensure complete traceability
+These documents include information of both a qualitative and quantitative nature.
 
-of the decision-making process adopted to exercise participation and voting rights and engage with the issuers.
+The Company emphasises the formalisation of the necessary documentation to guarantee full traceability of
 
-The updating of the Engagement Policy is carried out by the Head of Investments, who is supported by the
+the decision-making process involved in exercising attendance and voting rights, as well as in interactions with
 
-Company's and Parent Company’s competent structures.
+the issuing companies.
 
-The Compliance \& AML Function periodically checks the correct application and effectiveness of the measures
+The Responsible Investments \& Stewardship Structure is responsible for updating the Engagement Policy,
 
-adopted by the Company for the purposes of implementing the regulations in force from time to time.
+and it does so with the assistance of the relevant departments within the Company.
+
+The Compliance \& AML Function carries out periodic checks on the correct application and effectiveness of
+
+the measures adopted by the Company for the purpose of implementing the regulations in force at the time
+
+and the Recommendations defined by the Trade Association.
+
+
+
+17 The Principles defined by Assogestioni are aligned with those contained in the EFAMA Code for External Governance
+
+approved at the European Fund and Asset Management Association (EFAMA) to which Assogestioni participates and of
+
+which Eurizon Capital SGR is also a member.
+
+Engagement Policy Page 28 of 30
+
+
 
 PART IV - UPDATES AND TRANSPARENCY
 
+
+
 CONTROLS AND UPDATES
 
-The Engagement Policy is periodically revised, or if significant circumstances occur that require an amendment
 
-and/or addition, so that the definition of the conduct the Company is committed to adopting, is updated at all
 
-times, also to take account of changes in its own organisation and the services it provides, and to maintain a
+The Engagement Policy is subject to periodic reassessment, i.e. upon the occurrence of relevant
 
-high level of oversight of solutions identified to mitigate any conflicts of interest detected.
+circumstances that require its amendment and/or integration, so that the definition of the behaviours that the
 
-Proposals to amend the Policy are monitored by Investments Department in coordination with the Compliance
+Company undertakes to adopt is constantly updated, also to take into account the changes in the
 
-\& AML Function in order to assess the consistency of the methodologies adopted by the Company in relation
+organisational structure of the Company and the services it provides, and so that the solutions identified for
 
-to developments in national and international best practices.
+the mitigation of any conflicts of interest detected are kept under high control.
+
+Proposals to amend the Policy are overseen by the Responsible Investments \& Stewardship Structure, in
+
+coordination with the Compliance \& AML Function and the Outsourcing Control \& Cybersecurity Structure, with
+
+the aim of assessing the consistency of the practices adopted by the Company with respect to the evolution of
+
+best practices developed at national and international level.
+
+Any changes are brought to the attention of the ESG Committee, prior to their presentation to the Board of
+
+Directors.
+
+
 
 TRANSPARENCY
 
-In compliance with indications in applicable regulations, the Company makes this Policy available to
 
-Clients/investors and other stakeholders, and any significant amendment to the same, at
 
-www.eurizoncapital.com.
+In accordance with the provisions of the regulations in force, the Company makes this Policy, and any relevant
+
+amendments to it, available to its Customers/Investors and other stakeholders, which is made available on the
+
+website www.eurizoncapital.com.
+
+In addition to the information made available to Customers/Investors in accordance with the regulations in
+
+force, as signatory of the “Italian Stewardship Principles”, the Company periodically transmits a specific
+
+information flow to the Assogestioni Category Association on the state of application of the Principles,
+
+highlighting the changes that have occurred with respect to the information communicated the previous year.
+
+
+
+This document is originally written in Italian language. In case of discrepancy between the original Italian text and
+
+the present English translation, the Italian version will prevail.
+
+Engagement Policy Page 29 of 30
+
+
+
+ANNEX
+
+FRAMEWORK OF THE STRUCTURES INVOLVED IN THE ENGAGEMENT POLICY
+
+
+
+The following section summarises the functions responsible for the activities described in this document, grouped
+
+according to the areas they oversee:
+
+
+
+STRUCTURE
+
+COMPETENT ORGANISATIONAL UNITS
+
+PRODUCTS GOVERNED BY ITALIAN
+
+LAW
+
+PRODUCTS GOVERNED BY
+
+LUXEMBOURG LAW
+
+
+
+Investment Department Investment Division Investments Structure
+
+
+
+Operations Department Operational Governance Division Operations \& Finance Structure
+
+
+
+Compliance \& AML Compliance Compliance - Luxembourg Branch
