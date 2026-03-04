@@ -8,7 +8,7 @@ hort
 
 CARMIGNAC’S EXCLUSION POLICY
 
-OCTOBER 2025
+MARCH 2026
 
 2
 
@@ -46,14 +46,6 @@ guidelines.
 
 
 
-Our Socially Responsible Investment Funds have broadened their commitments through additional
-
-negative screening and exclusions, detailed in the following sections, in the Transparency Code and fund
-
-documentation published on our website.
-
-
-
 1. BUSINESS NORMS EXCLUSIONS
 
 
@@ -66,7 +58,7 @@ Declaration on Fundamental Principles and Rights at Work, and the Organisation f
 
 operation and Development (OECD) guidelines for multinational enterprises. These frameworks help us
 
-evaluate companies' adherence to various norms, such as human rights, labor laws, and climate
+evaluate companies' adherence to various norms, such as human rights, labour laws, and climate
 
 practices. To assist us in monitoring and identifying controversies, we rely on an external data provider,
 
@@ -84,7 +76,7 @@ be lifted after internal analysis in the following cases:
 
 - The issuer is involved in a controversy but has limited operational control over resolving the issue.
 
-- The issuer has already taken credible and measurable steps to address a legacy controversy and
+- The issuer has already taken credible and measurable steps to address a legacy controversy, and
 
 we are expecting this to be reflected in the severity rating of the controversy.
 
@@ -92,21 +84,19 @@ we are expecting this to be reflected in the severity rating of the controversy.
 
 For companies that severely breach these principles and guidelines, but are invested in following the
 
-internal review, we may implement an enhanced engagement process. If this process, which can take
+internal review, we may implement an enhanced engagement process. If this process, which can take up
 
-up to three years, fails to bring about the desired change, we will exclude the company from our
+to three years, fails to bring about the desired change, we will exclude the company from our investment
 
-investment universe.
-
-3
-
-
+universe.
 
 2. BUSINESS ACTIVITY EXCLUSIONS
 
 
 
 TOBACCO
+
+3
 
 
 
@@ -168,6 +158,14 @@ years8. Furthermore, Carmignac pledges that, should there be any future coal-
 
 related investments permitted within the confines of Carmignac’s Exclusion
 
+Policy, a total exit from coal-related investee companies will be implemented by
+
+2030 for OECD countries and 2040 for non-OECD countries. We deem that
+
+thermal coal faces an increasing investment risk for the future, as companies are
+
+moving away from thermal coal as a fuel source
+
 
 
 1 World Health Organization: https://www.who.int/news-room/fact-sheets/detail/tobacco
@@ -202,16 +200,6 @@ conducted by the Sustainable Investment team.
 
 
 
-Policy, a total exit from coal-related investee companies will be implemented by
-
-2030 for OECD countries and 2040 for non-OECD countries. We deem that
-
-thermal coal faces an increasing investment risk for the future, as companies are
-
-moving away from thermal coal as a fuel source
-
-
-
 Firm wide exclusion
 
 
@@ -236,7 +224,7 @@ Extended Thermal Coal - Fund specific exclusion
 
 
 
-In addition to our firm wide exclusion, some of our funds have a stricter exclusion
+In addition to our firmwide exclusion, some of our funds have stricter exclusion
 
 criteria on thermal coal. Companies which derive any revenue from activities in
 
@@ -246,13 +234,13 @@ coal or providing dedicated equipment or services for such companies are
 
 excluded from the investment universe.
 
-The company must not be involved in the exploitation or development of
+Companies must not be involved in the exploitation or development of new
 
-new coal mines.
+coal mines.
 
-In addition, a company involved in the aforementioned activities could be
+Any company involved in the aforementioned activities could be reintegrated to
 
-reintegrated to the investment universe if it meets the following criteria:
+the investment universe if it meets the following criteria:
 
 
 
@@ -284,19 +272,17 @@ should face a blanket exclusion from our investment universe at firm level until
 
 the new clean energy system is more widely implemented. Instead, we utilise a
 
+range of approaches including portfolio net zero targets, a case-by-case approach
+
+to assessing the ESG risks and transition plan based on individual companies
+
+performance, with stewardship consequences if required and clear reporting.
+
 
 
 9 International Energy Agency: https://www.iea.org/reports/oil-2024#overview
 
 5
-
-
-
-range of approaches including portfolio net zero targets, a case by case approach
-
-to assessing the ESG risks and transition plan based on individual companies
-
-performance, with stewardship consequences if required and clear reporting.
 
 
 
@@ -372,6 +358,12 @@ Power generators play a crucial role in the global energy transition. Emissions
 
 related to the power generation industry contribute to 26% of global emissions11,
 
+contributing largely to global warming and requiring a framework to ensure our
+
+investments do not contribute further to these. Even though thermal coal may
+
+have a short-term role in the economic development and growth of emerging
+
 
 
 10 https://www.carmignac.fr/en_GB/sustainable-investment/approach
@@ -381,12 +373,6 @@ related to the power generation industry contribute to 26% of global emissions11
 6
 
 
-
-contributing largely to global warming and requiring a framework to ensure our
-
-investments do not contribute further to these. Even though thermal coal may
-
-have a short-term role in the economic development and growth of emerging
 
 countries, in a context of falling renewable energy prices, coal-powered plants will
 
@@ -432,7 +418,7 @@ generation mix in thermal coal are excluded.
 
 
 
-Carmignac recognizes the importance of encouraging companies to reduce their
+Carmignac recognises the importance of encouraging companies to reduce their
 
 dependence on coal power generation in order to align their activities with the
 
@@ -440,7 +426,7 @@ Paris Agreement. Hence, Carmignac will consider making exceptions to its
 
 exclusion rules for the power generators making credible commitments (ie SBTI
 
-approved targets or well defined transition strategies with clear coal exit policies)
+approved targets or well-defined transition strategies with clear coal exit policies)
 
 to reduce and exit their thermal coal-based power generation.
 
@@ -466,8 +452,6 @@ dedicated equipment or services for such companies are excluded from the
 
 investment universe.
 
-7
-
 
 
 On an exceptional basis, a company with any involvement in the aforementioned
@@ -477,6 +461,10 @@ activities can be deemed investable if it meets at least one of the following cr
 following a dedicated analysis from the Sustainable Investment team:
 
 • Have a carbon intensity lower than 291 gCO2/kWh
+
+7
+
+
 
 • Have a SBTi target set at well-below 2°C or 1.5°C, or have a SBTi ‘Business
 
@@ -544,6 +532,12 @@ Controversial weapons are excluded at firm level because they cause
 
 indiscriminate harm and long lasting damages to civilians and the environment
 
+and are widely considered unethical and inhumane. In contrast, conventional
+
+weapons, provided they are used in accordance with international law, are a
+
+fundamental component of international defence and an indispensable tool for
+
 
 
 12 https://www.carmignac.fr/en_GB/sustainable-investment/approach
@@ -559,12 +553,6 @@ relevant company.
 8
 
 
-
-and are widely considered unethical and inhumane. In contrast, conventional
-
-weapons, provided they are used in accordance with international law, are a
-
-fundamental component of international defence and an indispensable tool for
 
 maintaining national security and stability which is why they are only excluded in
 
@@ -615,6 +603,12 @@ states (USA, Russia, UK, France and China).
 7. The 1980 Convention on certain conventional weapons concerning non
 
 detectable fragments, mines incendiary weapons, blinding laser weapons.
+
+8. Italian Law 220/2021 which prohibits the financing of companies involved in
+
+the development, production, maintenance, and sale of anti-personnel
+
+mines, cluster munitions and submunitions.
 
 
 
@@ -760,11 +754,11 @@ to the disastrous impact of palm oil on biodiversity, there are numerous reports
 
 of human rights abuses in the palm oil industry, including poor working
 
-conditions, child labor, and exploitation of workers. Indigenous communities are
+conditions, child labour, and exploitation of workers. Indigenous communities
 
-often displaced from their land to make way for palm oil plantations, leading to
+are often displaced from their land to make way for palm oil plantations, leading
 
-social conflicts and loss of livelihoods. This is why Carmignac has a fund range
+to social conflicts and loss of livelihoods. This is why Carmignac has a fund range
 
 with higher ESG outcome standards for which companies that are involved in
 
@@ -972,7 +966,23 @@ Underlying money market funds are considered cash-equivalent and are not evaluat
 
 purpose is technical or for the hedging of risks.
 
+
+
+SOVEREIGN EXPOSURE POLICY- Carmignac ESG Sovereign Model–
+
+Carmignac developed a proprietary ESG rating model for Sovereign Debt; details are available in
+
+Carmignac’s ESG Intgeration Policy.
+
+
+
+Countries with a score below 2.5/5 in Carmignac’s ESG Sovereign Model are excluded from Carmignac’s
+
+Fixed Income funds range (except for SFDR Article 6 funds).
+
 13
+
+14
 
 
 
@@ -988,45 +998,49 @@ A. GUIDELINES
 
 issuer name derivatives and corporate bonds) are in scope.
 
-2. Carmignac’s in-house ESG team, supported by external data, tools and research providers,
+2. Details about the implementation of company exclusions on long and short positions are
+
+available in Carmignac’s ESG Integration Policy.
+
+3. Carmignac’s in-house ESG team, supported by external data, tools and research providers,
 
 undertakes a series of ESG-themed assessments which identify companies within our investment
 
 universe that could qualify for potential exclusion.
 
-3. Any new firm-wide sector exclusion is discussed within the Investment team, which is then
+4. Any new firm-wide sector exclusion is discussed within the Investment team, which is then
 
 submitted to Carmignac’s Strategic Development Committee for approval.
 
-4. Cases of companies with controversial behaviour are discussed firstly within the Investment and
+5. Cases of companies with controversial behaviour are discussed firstly within the Investment and
 
 Sustainable Investment team. The decision must be backed up with specific arguments and is
 
 concluded on by the SI team.
 
-5. For discretionary mandates and client-specific investments solutions, Carmignac will initially
+6. For discretionary mandates and client-specific investments solutions, Carmignac will initially
 
 suggest clients apply the current Carmignac exclusion framework; but Carmignac may finally
 
 apply further / different restrictions if requested by client.
 
-6. If company A is partially owned by company B and company B is involved in controversial
+7. If company A is partially owned by company B and company B is involved in controversial
 
 behaviour, controversial weapons, thermal coal mining or tobacco, Carmignac will not exclude
 
 company A.
 
-7. The list of excluded companies does not apply to index derivatives, whose administrators are
+8. The list of excluded companies does not apply to index derivatives, whose administrators are
 
 external parties.
 
-8. Excluded companies will be reviewed on a quarterly basis, using Carmignac’s proprietary
+9. Excluded companies will be reviewed on a quarterly basis, using Carmignac’s proprietary
 
 assessment framework, to check if relevant changes have been made to the company’s activities
 
 or behaviour. A review of such changes may lead to the exclusion being lifted.
 
-9. Once an invested company is placed on Carmignac’s exclusion list, we will divest any holdings
+10. Once an invested company is placed on Carmignac’s exclusion list, we will divest any holdings
 
 from our Funds within a defined and precise timeframe. Carmignac’s Compliance team monitors
 
@@ -1058,13 +1072,13 @@ portfolio management trading system where hard exclusions of sectors and process
 
 exclusion policy are registered and cannot be traded. The Compliance team acts as a second level of
 
+15
+
+
+
 control and ensures that the applied exclusion strategy complies with the various constraints (regulatory,
 
 statutory and internal), using the software Bloomberg Compliance Manager tool (CMGR).
-
-14
-
-
 
 APPENDIX
 
@@ -1142,15 +1156,15 @@ markets, consistent with the need for sound commercial practice.
 
 facilitating training opportunities for employees.
 
+16
+
+
+
 5. Refrain from seeking or accepting exemptions not contemplated in the statutory or regulatory
 
 framework related to human rights, environmental, health, safety, labour, taxation, financial
 
 incentives, or other issues.
-
-15
-
-
 
 6. Support and uphold good corporate governance principles and develop and apply good
 
@@ -1230,7 +1244,7 @@ bargaining, the elimination of forced or compulsory labour, the abolition of chi
 
 elimination of discrimination in respect of employment and occupation.
 
-16
+17
 
 
 
@@ -1238,11 +1252,11 @@ elimination of discrimination in respect of employment and occupation.
 
 
 
-The Tobacco, Adult Entertainment, Thermal Coal mining, Power generators and Controversial Weapons
+The Tobacco, Adult Entertainment, Thermal Coal mining, Power generators, Global Norms and
 
-exclusion categories are firm wide exclusion, they apply to all of our funds and are therefore not present
+Controversial Weapons exclusion categories are firm wide exclusion, they apply to all of our funds and
 
-in the table below.
+are therefore not present in the table below.
 
 
 
@@ -1276,10 +1290,6 @@ Carmignac Portfolio Tech Solutions
 
 Oil and Gas Extraction
 
-
-
-Carmignac Portfolio Absolute Return Europe
-
 Carmignac Absolute Return Europe
 
 Carmignac Portfolio Long-Short European
@@ -1289,8 +1299,6 @@ Equities
 
 
 Carmignac China New Economy
-
-Carmignac Portfolio China New Economy
 
 
 
@@ -1366,13 +1374,19 @@ Carmignac Portfolio Emergents FP Carmignac Emerging Markets
 
 Conventional Weapon
 
-Producers Carmignac Portfolio Absolute Return Europe Carmignac Absolute Return Europe
+Producers (10%
+
+revenues threshold)
+
+Carmignac Absolute Return Europe
 
 
 
 Conventional Weapons
 
 and Support Services
+
+(5% revenues threshold)
 
 
 
@@ -1403,8 +1417,6 @@ FP Carmignac Global Equity Compounders
 FP Carmignac European Leaders
 
 Carmignac China New Economy
-
-Carmignac Portfolio China New Economy
 
 
 
@@ -1452,13 +1464,9 @@ Carmignac Emergents
 
 Carmignac Portfolio Emergents
 
-Carmignac Portfolio Absolute Return Europe
-
 Carmignac Absolute Return Europe
 
 Carmignac China New Economy
-
-Carmignac Portfolio China New Economy
 
 Carmignac Portfolio Grandchildren
 
@@ -1510,7 +1518,7 @@ Carmignac Portfolio Emergents FP Carmignac Emerging Markets
 
 \*Extended Thermal Coal exclusions apply the requirements of the French and Belgian Sustainability labels
 
-17
+18
 
 
 
