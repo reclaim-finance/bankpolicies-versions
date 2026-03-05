@@ -385,9 +385,9 @@ Téléchargez nos contenus en un clic
 Notre démarche ISR
 ------------------
 
-[](https://www.ecofi.fr/telecharger/pub/3398/notre-demarche-isr)
+[Télécharger](https://www.ecofi.fr/telecharger/pub/3398/notre-demarche-isr)
 
 Code de transparence
 --------------------
 
-[](https://www.ecofi.fr/telecharger/pub/2254/code-de-transparence)
+[Télécharger](https://www.ecofi.fr/telecharger/pub/2254/code-de-transparence)
