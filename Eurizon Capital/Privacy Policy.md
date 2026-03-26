@@ -2,7 +2,7 @@ ENGAGEMENT POLICY
 
 OF EURIZON CAPITAL SGR S.p.A.
 
-Engagement Policy Page 2of 30
+Engagement Policy Page 2 of 32
 
 
 
@@ -12,7 +12,7 @@ POLICY
 
 APPROVING BODY TYPE OF ACTION EFFECTIVE DATE
 
-Board of Directors Update November 2025
+Board of Directors Update March 2026
 
 
 
@@ -38,7 +38,7 @@ REPORTING RISK (LAW no 262/05)
 
 Yes No
 
-Engagement Policy Page 3of 30
+Engagement Policy Page 3of 32
 
 
 
@@ -64,37 +64,37 @@ ENVIRONMENTAL, SOCIAL AND GOVERNANCE (ESG) COMMITTEE ...........................
 
 INDEPENDENT DIRECTORS COMMITTEE ................................................................................................................... 11
 
-RESPONSIBLE INVESTMENTS \& STEWARDSHIP STRUCTURE .................................................................................... 11
+RESPONSIBLE INVESTMENTS \& STEWARDSHIP STRUCTURE .................................................................................... 12
 
-INVESTMENTS DEPARTMENT .................................................................................................................................. 12
+INVESTMENTS DEPARTMENT .................................................................................................................................. 13
 
-OPERATIONS DEPARTMENT .................................................................................................................................... 12
+OPERATIONS DEPARTMENT .................................................................................................................................... 13
 
-COMPLIANCE \& AML FUNCTION.............................................................................................................................. 13
+COMPLIANCE \& AML FUNCTION.............................................................................................................................. 14
 
-PART III - MEASURES ADOPTED TO IMPLEMENT THE “ITALIAN STEWARDSHIP PRINCIPLES” .......................................... 14
+PART III - MEASURES ADOPTED TO IMPLEMENT THE “ITALIAN STEWARDSHIP PRINCIPLES” .......................................... 15
 
-PRINCIPLE 1 - THE COMPANY SHALL ADOPT A DOCUMENTED POLICY ........................................................................ 14
+PRINCIPLE 1 - THE COMPANY SHALL ADOPT A DOCUMENTED POLICY ........................................................................ 15
 
-PRINCIPLE 2 - THE COMPANY SHALL MONITOR INVESTEE ISSUERS............................................................................ 16
+PRINCIPLE 2 - THE COMPANY SHALL MONITOR INVESTEE ISSUERS............................................................................ 17
 
-PRINCIPLE 3 - THE COMPANY SHALL MONITOR ACTION TIMES AND PROCEDURES....................................................... 21
+PRINCIPLE 3 - THE COMPANY SHALL MONITOR ACTION TIMES AND PROCEDURES....................................................... 24
 
-PRINCIPLE 4 - THE COMPANY SHALL COOPERATE WITH OTHER INSTITUTIONAL INVESTORS......................................... 23
+PRINCIPLE 4 - THE COMPANY SHALL COOPERATE WITH OTHER INSTITUTIONAL INVESTORS......................................... 26
 
-PRINCIPLE 5 - THE COMPANY SHALL EXERCISE VOTING RIGHTS IN AN INFORMED MANNER.......................................... 25
+PRINCIPLE 5 - THE COMPANY SHALL EXERCISE VOTING RIGHTS IN AN INFORMED MANNER.......................................... 28
 
-PRINCIPLE 6 - THE COMPANY SHALL KEEP TRACK OF THE EXERCISE OF RIGHTS ........................................................ 27
+PRINCIPLE 6 - THE COMPANY SHALL KEEP TRACK OF THE EXERCISE OF RIGHTS ........................................................ 30
 
-PART IV - UPDATES AND TRANSPARENCY ............................................................................................................... 28
+PART IV - UPDATES AND TRANSPARENCY ............................................................................................................... 31
 
-CONTROLS AND UPDATES ...................................................................................................................................... 28
+CONTROLS AND UPDATES ...................................................................................................................................... 31
 
-TRANSPARENCY .................................................................................................................................................... 28
+TRANSPARENCY .................................................................................................................................................... 31
 
-FRAMEWORK OF THE STRUCTURES INVOLVED IN THE ENGAGEMENT POLICY ................................................................ 29
+FRAMEWORK OF THE STRUCTURES INVOLVED IN THE ENGAGEMENT POLICY ................................................................ 32
 
-Engagement Policy Page 4of 30
+Engagement Policy Page 4of 32
 
 
 
@@ -200,7 +200,7 @@ of the TUF, which encompass internal control requirements applicable to the prov
 
 services.
 
-Engagement Policy Page 5of 30
+Engagement Policy Page 5of 32
 
 
 
@@ -210,7 +210,7 @@ provision of the collective management service and in the provision of the portf
 
 reporting on the application of the Principles to Assogestioni.
 
-Engagement Policy Page 6of 30
+Engagement Policy Page 6 of 32
 
 
 
@@ -308,7 +308,7 @@ making process for a company, in the interest of various categories of subjects 
 
 life.
 
-Engagement Policy Page 7of 30
+Engagement Policy Page 7 of 32
 
 
 
@@ -330,17 +330,21 @@ p) “Nature Action 100”: collective engagement initiative that encourages ins
 
 best practices to combat biodiversity loss and deforestation.
 
-q) “Net Zero Asset Managers Initiative” (NZAMI): initiative promoted by an international group of asset
+q) “Net Zero Asset Managers Initiative” (NZAMI): international initiative promoted by asset management
 
-managers committed to supporting the goal of achieving zero net greenhouse gas emissions by 2050,
+companies committed to supporting the objectives of the Paris Agreement and, in particular, to
 
-in line with the commitments made by the states that signed the Paris Agreement, aimed at containing
+keeping the global average temperature rise well below 2°C above pre-industrial levels and
 
-the impacts of climate change and limiting the rise in temperatures to 1.5 degrees Celsius by 20503.
+continuing efforts to limit the temperature increase to 1.5°C. In this context, the Company is
+
+committed to supporting investments aligned with the global goal of net zero greenhouse gas
+
+emissions.
 
 r) “Net Zero Investment Framework (NZIF)”: methodological guidance developed by the IIGCC on aligning
 
-portfolios with the Paris Agreement's goal of achieving zero net emissions by 2050.
+portfolios with the Paris Agreement's goal of achieving zero net GHG emissions by 2050.
 
 s) “Net Zero Tracker”: public database that provides information on CO2 emission reduction targets for the
 
@@ -364,7 +368,7 @@ with particular reference to those concerning work in all its aspects.
 
 x) “Sustainability Policy”: the Policy on the Integration of Sustainability Risks into the Investment Process
 
-of the Company, adopted pursuant to Article 34 of Regulation (EU) 2019/2088 of the European
+of the Company, adopted pursuant to Article 33 of Regulation (EU) 2019/2088 of the European
 
 Parliament and of the Council on Sustainability Disclosure in the Financial Services Sector (so-called
 
@@ -396,17 +400,13 @@ adopted by the Management Board of
 
 
 
-3 On 13 January 2025, NZAMI initiated a review of the initiative to ensure alignment with the new global context. During this
-
-review phase, the initiative will pause its activities of monitoring implementation and reporting by the signatories.
-
-4 Financial market participants publish information on their websites about their policies on integrating sustainability risks into
+3 Financial market participants publish information on their websites about their policies on integrating sustainability risks into
 
 their investment decision-making processes. Financial advisers publish information on their websites regarding their policies
 
 on the integration of sustainability risks in their advice on investments or insurance.
 
-Engagement Policy Page 8of 30
+Engagement Policy Page 8 of 32
 
 
 
@@ -480,7 +480,7 @@ portfolio management services, promotes comparisons with the companies in which 
 
 the type of asset (so-called asset class). The Company's approach is differentiated according to the
 
-management style of the managed products5.
+management style of the managed products4.
 
 That said, for products characterised by an active management style, the Company:
 
@@ -508,11 +508,11 @@ encouraging the adoption of appropriate measures or the revision of company poli
 
 
 
-5 Both Italian-law and Luxembourg-law products established through Eurizon Capital SGR S.p.A. – Luxembourg Branch fall
+4 Both Italian-law and Luxembourg-law products established through Eurizon Capital SGR S.p.A. – Luxembourg Branch fall
 
 within this scope.
 
-Engagement Policy Page 9of 30
+Engagement Policy Page 9 of 32
 
 
 
@@ -550,7 +550,7 @@ with the regulations in force, the application of this Policy depends on the agr
 
 mandates") signed with each of them.
 
-Engagement Policy Page 10of 30
+Engagement Policy Page 10 of 32
 
 
 
@@ -620,15 +620,17 @@ framework involving the following corporate bodies and entities:
 
 − Chief Executive Officer and General Manager;
 
-− Environmental, Social and Governance (ESG) Committee
+− Risk and Sustainability Committee;
+
+− Environmental, Social and Governance (ESG) Committee;
 
 − Independent Directors Committee;
 
 − Investments Division including the Responsible Investments \& Stewardship Structure;
 
-− Operations Department
+− Operations Department;
 
-− Compliance \& AML Function
+− Compliance \& AML Function.
 
 The roles and responsibilities of the corporate bodies and entities are described in the following paragraphs.
 
@@ -646,7 +648,7 @@ Engagement Policy, which establishes the procedures for:
 
 interest of UCIs and managed portfolios;
 
-Engagement Policy Page 11of 30
+Engagement Policy Page 11 of 32
 
 
 
@@ -684,7 +686,35 @@ most significant Meetings and (iii) any specific indications to report during th
 
 procedures described in the Voting Strategy.
 
+RISK AND SUSTAINABILITY COMMITTEE
 
+The Risk and Sustainability Committee is a body with advisory, instructional and propositional functions
+
+with regard to the decisions taken by the Board of Directors on sustainability matters. In particular, the
+
+Committee:
+
+− assesses and examines sustainability issues related to the activities of the asset management
+
+company and the respective assets under management, also in light of new regulations, best
+
+practices and international principles;
+
+− expresses opinions on the proposals made by the ESG Committee to be submitted to the Board of
+
+Directors;
+
+− examines the periodic reports of the ESG Committee;
+
+− examines in advance updates and proposals relating to the Sustainability Policy;
+
+− examines in advance the “Principal Adverse Sustainability Impacts Statement of Eurizon Capital SGR
+
+and its Subsidiaries”;
+
+monitors the initiatives undertaken and programs promoted in the areas of environmental, social, and
+
+corporate governance sustainability
 
 ENVIRONMENTAL, SOCIAL AND GOVERNANCE (ESG) COMMITTEE
 
@@ -724,6 +754,10 @@ With specific reference to the procedures to exercise participation and voting r
 
 Committee is notified by the Responsible Investments \& Stewardship Structure:
 
+Engagement Policy Page 12 of 32
+
+
+
 − in advance of Meetings of the most significant shareholders the Company intends participating in; in the
 
 case of matters of particular interest, the Company provides information on meeting proceedings, if
@@ -752,7 +786,7 @@ participation in Shareholders’ meetings regarding the exercise of voting right
 
 To this end, the Structure comprises a (i) Corporate Governance unit, and a (ii) Sustainability unit.
 
-Engagement Policy Page 12of 30
+Engagement Policy Page 13 of 32
 
 
 
@@ -810,7 +844,7 @@ The Company pursues the interests of investors in the assets it manages, not onl
 
 divestment choices, but also for exercising participation and voting rights, taking account of the usefulness of
 
-participating in relation to the interests of each asset managed. In this framework, the Investment Department6
+participating in relation to the interests of each asset managed. In this framework, the Investment Department5
 
 managers are involved in the corporate governance process of issuers, with particular reference to:
 
@@ -832,7 +866,7 @@ during the Meeting.
 
 OPERATIONS DEPARTMENT
 
-The Operations Department7 manages administrative activities related to the exercise of voting rights. In
+The Operations Department6 manages administrative activities related to the exercise of voting rights. In
 
 particular, the Department:
 
@@ -846,19 +880,19 @@ invitations and/or certification for filing candidate lists to renew corporate b
 
 
 
-6 This refers to the Investment Division of Eurizon Capital SGR and the Investments Structure of the Luxembourg Branch.
+5 This refers to the Investment Division of Eurizon Capital SGR and the Investments Structure of the Luxembourg Branch.
 
-7 This refers to the Operational Governance Division of Eurizon Capital SGR and the Operations \& Finance Structure of the
+6 This refers to the Operational Governance Division of Eurizon Capital SGR and the Operations \& Finance Structure of the
 
 Luxembourg Branch.
 
-Engagement Policy Page 13of 30
+Engagement Policy Page 14 of 32
 
 
 
 COMPLIANCE \& AML FUNCTION
 
-The Compliance \& AML Function8 monitors the corporate governance process, identifying the correct adoption
+The Compliance \& AML Function7 monitors the corporate governance process, identifying the correct adoption
 
 of the safeguards envisaged in external and internal regulations.
 
@@ -886,9 +920,9 @@ rights for financial instruments of assets managed by the Company.
 
 
 
-8 Also through the Luxembourg Branch's corresponding structure.
+7 Also through the Luxembourg Branch's corresponding structure.
 
-Engagement Policy Page 14of 30
+Engagement Policy Page 15 of 32
 
 
 
@@ -984,17 +1018,19 @@ representing minority shareholders;
 
 to support or oppose a proposed operation.
 
-If it is deemed to be the most efficient method in the interest of the assets under management and the
+If it is deemed to be the most efficient method in the interest of the assets under management and, provided
 
-qualitative and quantitative criteria indicated do not apply, the Company will make use of the electronic voting
+that the above-mentioned qualitative and quantitative criteria do not apply, the Company makes use of the
 
-process (so-called "proxy voting") that may be envisaged for the shareholders' meetings of the issuers in which
+electronic voting process that may be envisaged by issuers. To this end, the Company uses an IT platform to
 
-it holds an interest. To this end, the Company uses an IT platform to streamline the process of exercising voting
+streamline the process of exercising voting rights, with particular reference to foreign issuers.
 
-rights, with particular reference to foreign issuers.
+In these situations, voting instructions are defined based on specific guidelines approved by the Board of
 
-Engagement Policy Page 15of 30
+Directors and proposals from the CEO and General Manager in the context of the ESG Committee.
+
+Engagement Policy Page 16 of 32
 
 
 
@@ -1012,9 +1048,9 @@ which would influence management strategies;
 
 − the necessary administrative costs, also considering expected procedures in some countries, are
 
-considered to outweigh the expected benefits of participation in the meeting, above all in the case of short-
+considered to outweigh the expected benefits of participation in the meeting, especially in the case of
 
-term investment strategies.
+short-term investment strategies.
 
 Under no circumstances does the Company bind itself to voting or blocking syndicates.
 
@@ -1028,7 +1064,7 @@ case, reviews the Voting strategy at least annually. The Strategy and any update
 
 participants, at www.eurizoncapital.com.
 
-Engagement Policy Page 16of 30
+Engagement Policy Page 17 of 32
 
 
 
@@ -1042,9 +1078,11 @@ MANAGEMENT COMPANIES SHALL MONITOR LISTED INVESTEE ISSUERS.
 
 METHOD FOR IMPLEMENTING THE RECOMMENDATION:
 
-The Company shall actively monitor corporate events connected to the financial instruments in the portfolio of
+Eurizon Capital shall actively monitor corporate events connected to the financial instruments in the portfolio
 
-managed UCIs, where required by the characteristics of the instruments that incorporate rights to be exercised.
+of managed UCIs, where required by the characteristics of the instruments that incorporate rights to be
+
+exercised.
 
 The Company encourages dialogue and participation in Shareholders’ Meetings of selected companies with
 
@@ -1110,7 +1148,7 @@ engagement should be prolonged or escalation
 
 measures should be undertaken.
 
-− Launch of a possible escalation process{4}
+− Launch of a possible escalation process8{4}
 
 
 
@@ -1160,7 +1198,7 @@ of the Environmental, Social and Governance (ESG) factors and principles of Sust
 
 Investments (SRI).
 
-These strategies, aimed at integrating sustainability risks within the Investment Process of managed assets,
+These strategies, aimed at considering sustainability factors within the Investment Process of managed assets,
 
 are regulated in the “Sustainability Policy of Eurizon Capital SGR S.p.A.”, a summary of which is available on
 
@@ -1168,19 +1206,35 @@ the Company’s website.
 
 
 
-4 The escalation process is described under Principle 3 of the Engagement Policy.
-
-Engagement Policy Page 16 of 28
-
-
-
 In fact, the Company believes that environmental, social and corporate governance factors impact portfolio
+
+
+
+8 The escalation process is described under Principle 3 of the Engagement Policy.
+
+Engagement Policy Page 18 of 32
+
+
 
 performance, and that the adoption of ESG and SRI criteria can contribute to improving the ability to respond
 
 more effectively to Customers’/Investors’ expectations, aligning investment activities with the wider-ranging
 
 interests of issuers.
+
+Eurizon maintains a structured and continuous dialogue with the primary info-providers and data providers
+
+used for monitoring investee issuers, in order to promote the quality, methodological consistency, and reliability
+
+of the data used in its decision-making processes. Engagement activities with service providers include, among
+
+others, periodic discussions on (i) methodologies, (ii) data collection, estimation and aggregation methods, (iii)
+
+requests for clarification on metrics and assumptions, (iv) in-depth analysis of any outliers, and technical
+
+inquiries. This approach mitigates the risk of excessive dependence (so-called “over-reliance”) on external
+
+sources, thereby safeguarding independence of judgment throughout the assessment processes.
 
 To this end, the Company prioritises the establishment of a constructive dialogue with investee issuers on the
 
@@ -1224,7 +1278,7 @@ following criteria:
 
 − “Ambition”: the presence of public declarations of wanting to achieve zero net direct and indirect
 
-emissions (so-called 'Scope 1' and 'Scope 2'){5} by 2050;
+emissions (so-called 'Scope 1' and 'Scope 2')9 by 2050;
 
 − “Target”: the publication of short- and medium-term targets for the reduction of its level of emissions
 
@@ -1266,41 +1320,41 @@ building a long-term relationship, establishing a constant and constructive dial
 
 the companies' commitments over time. For this reason, the Company aims to carry out engagement activities
 
+
+
+9 Indirect 'Scope 3' emissions will be considered at a later date in view of data availability.
+
+Engagement Policy Page 19 of 32
+
+
+
 with companies accounting for respectively 90% and 2030% of the emissions financed by its “Portfolio in
 
 Scope” (i.e. the share of its assets time to time identified to be managed in line with the climate neutrality
 
-scenario) under the NZAMI by 2025 and 2030 to incentivise them to undertake
+scenario) under the NZAMI by 2025 and 2030 to incentivise them to undertake decarbonisation pathways of
 
-
-
-5 Indirect 'Scope 3' emissions will be considered at a later date in view of data availability.
-
-Engagement Policy Page 17 of 30
-
-
-
-decarbonisation pathways of their activities and progressively align to the net zero emissions scenario.
+their activities and progressively align to the net zero emissions scenario.
 
 In order to mitigate the climate impact of investments, the Company's Sustainability Policy provides for specific
 
-exclusions or restrictions 6 for issuers operating in sectors considered to be non-responsible according to the
+exclusions or restrictions10 for issuers operating whose conduct and/or operations are such as to cause
 
-characteristics of the products and their classification under the SFDR. In particular, the Company's
+significant negative impacts on the environment and/or in the social issues according to the characteristics of
 
-Sustainability Policy provides for exclusions for issuers active in the fossil fuel sector that exceed certain
+the products and their classification under the SFDR. In particular, the Company's Sustainability Policy
 
-tolerance thresholds7. In addition, the Sustainability Policy provides for special engagement processes in
+provides for exclusions for issuers active in the fossil fuel sector that exceed certain tolerance thresholds11. In
 
-respect of companies whose exposure falls below the tolerance thresholds identified by the Company, also
+addition, the Sustainability Policy provides for special engagement processes in respect of companies whose
 
-with the aim of verifying that no new projects are initiated and monitoring the gradual “phase out” of such
+exposure falls below the tolerance thresholds identified by the Company, also with the aim of verifying that no
 
-activities. The Responsible Investments \& Stewardship Structure oversees engagement initiatives aimed at
+new projects are initiated and monitoring the gradual “phase out” of such activities. The Responsible
 
-establishing a constructive dialogue with identified issuers, bringing the findings to the attention of the ESG
+Investments \& Stewardship Structure oversees engagement initiatives aimed at establishing a constructive
 
-Committee.
+dialogue with identified issuers, bringing the findings to the attention of the ESG Committee.
 
 The Company encourages investee issuers operating in the Energy sector, in particular “Oil \& Gas” and
 
@@ -1332,9 +1386,19 @@ the expected evolution of the “energy mix”, (iii) investment plans broken do
 
 maintenance and development (iv) the use of carbon capture and offsetting technologies.
 
+Finally, the Company evaluates the use of Artificial Intelligence to support the transition plans of investee
+
+companies, assessing their contribution to the achievement of decarbonization targets, for example through (i)
+
+the implementation of smart metering systems12 for analytical and real-time monitoring of energy consumption,
+
+and (ii) the use of drones and sensors for real-time inspection of external pipelines, in order to promptly identify
+
+leaks (e.g., methane or water).
+
 B) MITIGATING BIODIVERSITY LOSS AND COMBATING DEFORESTATION
 
-Corporations can generate negative impacts on biodiversity8 and ecosystems, including through their own
+Corporations can generate negative impacts on biodiversity13 and ecosystems, including through their own
 
 value chains, contributing to (i) land and sea exploitation from deforestation, conversion for agriculture and
 
@@ -1348,9 +1412,45 @@ increased emissions of carbon dioxide and other greenhouse gases.
 
 The Company encourages issuers to take measures to counter biodiversity loss and deforestation by
 
-promoting (i) transparency in the sourcing and use of raw materials9, (ii) the adoption of circular economy and
 
-material reuse practices, and (iii) a continued commitment to more sustainable standards, including in the
+
+10 In relation to indexed-linked products, namely those characterized by a passive management style or a limited level of
+
+deviation from the benchmark (so-called Limited Tracking Error products), the maximum direct investment allowed is equal
+
+to the weight of the issuer in the benchmark, except for issuers characterised by a clear direct involvement in the
+
+manufacture of prohibited or unconventional weapons for which the exclusions, included those provided for by Law No.
+
+220/2021, apply; Limited Tracking Error products that explicitly integrate ESG factors into their investment choices are
+
+subject to the same exclusions as actively managed products.
+
+11 The Company believes issuers operating in the following sectors capable of generating significant adverse environmental
+
+impacts: (a) thermal coal, i.e. issuers deriving at least (i) 25% of their revenue or (ii) 20% of their revenue alongside
+
+expansion plans from mining or power generation activities related to thermal coal, i.e. the fossil fuel with the highest carbon
+
+dioxide emissions; (b) oil sands, i.e. issuers deriving at least 10% of their turnover from the exploitation of oil sands.
+
+12 Advanced remote reading and remote management systems for electricity, gas, and water, to measure consumption in
+
+real-time.
+
+13 Biodiversity means “the variability among living organisms from all sources including, inter alia, terrestrial, marine and
+
+other aquatic ecosystems and the ecological complexes of which they are part; this includes diversity within species, between
+
+species and of ecosystems. ‘(Source: Convention on Biological Diversity).
+
+Engagement Policy Page 20 of 32
+
+
+
+promoting (i) transparency in the sourcing and use of raw materials1415, (ii) the adoption of circular economy
+
+and material reuse practices, and (iii) a continued commitment to more sustainable standards, including in the
 
 supply chain.
 
@@ -1358,57 +1458,23 @@ In this context, the Responsible Investments \& Stewardship Structure has define
 
 methodology (“Eurizon Naturewatch”) that is inspired by the principles contained in the “Global Biodiversity
 
-Framework” (or “GBF”) of
+Framework” (or “GBF”) of Kunming-Montreal15, aimed at identifying issuers that may generate negative
 
+impacts on biodiversity caused by (i) the location of their production sites near sensitive areas and fragile
 
+ecosystems or (ii) from its own activities. The objective of this methodology is to provide an assessment of the
 
-6 In relation to indexed or Limited Tracking Error products, the maximum direct investment allowed is equal to the weight
+possible exposure of investee companies to issues related to ecosystem exploitation as well as the potential
 
-of the issuer in the benchmark, except for issuers characterised by a clear direct involvement in the manufacture of
+loss of value associated with it. In this context, the Company aims to identify companies with the potential to
 
-unconventional weapons, for which the exclusions provided for by Law No. 220/2021 apply; Limited Tracking Error products
+generate negative impacts on biodiversity in order to prioritise its engagement actions towards those with the
 
-that explicitly integrate ESG factors into their investment choices are subject to the same exclusions as actively managed
-
-products.
-
-7 The Company considers issuers operating in the following sectors to be environmentally “non-responsible”: (a) thermal
-
-coal, i.e. issuers deriving at least (i) 25% of their revenue or (ii) 20% of their revenue alongside expansion plans from
-
-mining or power generation activities related to thermal coal, i.e. the fossil fuel with the highest carbon dioxide emissions;
-
-(b) oil sands, i.e. issuers deriving at least 10% of their turnover from the exploitation of oil sands.
-
-8 Biodiversity means “the variability among living organisms from all sources including, inter alia, terrestrial, marine and
-
-other aquatic ecosystems and the ecological complexes of which they are part; this includes diversity within species,
-
-between species and of ecosystems. ‘(Source: Convention on Biological Diversity).
-
-9 The raw materials include: palm oil, soya, coffee, cocoa, timber, intensive livestock farming.
-
-Engagement Policy Page 18 of 30
-
-
-
-Kunming-Montreal10, aimed at identifying issuers that may generate negative impacts on biodiversity caused
-
-by (i) the location of their production sites near sensitive areas and fragile ecosystems or
-
-(ii) from its own activities. The objective of this methodology is to provide an assessment of the possible
-
-exposure of investee companies to issues related to ecosystem exploitation as well as the potential loss of
-
-value associated with it. In this context, the Company aims to identify companies with the potential to generate
-
-negative impacts on biodiversity in order to prioritise its engagement actions towards those with the greatest
-
-exposure to the above criteria.
+greatest exposure to the above criteria.
 
 In the context of its dealings with investee issuers, the Company encourages:
 
-− the adoption by issuers in risky sectors11 of effective strategies and policies to preserve biodiversity that
+− the adoption by issuers in risky sectors16 of effective strategies and policies to preserve biodiversity that
 
 include the involvement of management and corporate bodies;
 
@@ -1470,35 +1536,37 @@ supply chain. The Company is aware of the importance of (i) the so-called “Jus
 
 for workers' rights and support for initiatives that promote the achievement of climate neutrality and (ii) respect
 
-for international human rights standards, such as the principles of the
+for international human rights standards, such as the principles of the (so-called “UN Guiding Principles” and
+
+“UN Global Compact”), the OECD's Guidelines for Multinational Enterprises, and the international standards
 
 
 
-10 Introduced during COP 15, the GBF was defined with the objective of aiming to halt and reverse biodiversity loss by
+14 The raw materials include: palm oil, soya, coffee, cocoa, timber, intensive livestock farming.
 
-2030, supporting the achievement of the UN Sustainable Development Goals. The GBF report's main recommendations
+15 Introduced during COP 15, the GBF was defined with the objective of aiming to halt and reverse biodiversity loss by 2030,
 
-include the need to integrate biodiversity into investment decision-making, assessing its dependencies, impacts, risks and
+supporting the achievement of the UN Sustainable Development Goals. The GBF report's main recommendations include
+
+the need to integrate biodiversity into investment decision-making, assessing its dependencies, impacts, risks and
 
 opportunities.
 
-11 Such as, by way of example: agriculture, fisheries and aquaculture, food, beverages and tobacco, forestry, thermal
+16 Such as, by way of example: agriculture, fisheries and aquaculture, food, beverages and tobacco, forestry, thermal utilities,
 
-utilities, construction, electricity, water services, supply chains and transport, chemical industry, civil aviation, real estate,
+construction, electricity, water services, supply chains and transport, chemical industry, civil aviation, real estate, mining and
 
-mining and metals, retail consumer goods, oil and gas, automotive, healthcare, electronics, insurance and capital
+metals, retail consumer goods, oil and gas, automotive, healthcare, electronics, insurance and capital management, banking
 
-management, banking and digital communication.
+and digital communication.
 
-Engagement Policy Page 19 of 30
+Engagement Policy Page 21 of 32
 
 
 
-(so-called “UN Guiding Principles” and “UN Global Compact”), the OECD's Guidelines for Multinational
+promoted by the International Labour Organisation, as well as (iii) the prevention and mitigation of any negative
 
-Enterprises, and the international standards promoted by the International Labour Organisation, as well as (iii)
-
-the prevention and mitigation of any negative effects that may be generated by the investee companies.
+effects that may be generated by the investee companies.
 
 With specific reference to the “Just transition”, in line with the commitments undertaken by adhering to the Net
 
@@ -1512,7 +1580,13 @@ called "public commitment"), (ii) the analyses carried out and (iii) projects/pr
 
 including with regard to staff training (so-called "reskilling" or “upskilling”). Where available, the Company also
 
-considers the indicator provided by CA100+12.
+considers the indicator provided by CA100+17.
+
+Furthermore, the Company calls for issuers to implement rigorous control and governance systems to mitigate
+
+the risks arising from the improper or unethical use of processes utilizing Artificial Intelligence tools, also with
+
+a view to promoting respect for data privacy.
 
 With regard to compliance with international standards on respect for human rights, the Company encourages
 
@@ -1524,9 +1598,17 @@ The Company's Sustainability Policy provides for specific limitations for issuer
 
 the United Nations Global Compact “UNGC”) or the OECD Guidelines for Multinational Enterprises “OECD
 
-Guidelines”) or (ii) are characterised by an obvious direct involvement in the manufacture of unconventional
+Guidelines”) or (ii) who operates in the prohibited weapons sector characterised by a cleardirect involvement
 
-weapons13.
+in the manufacture of of Anti-personnel mines, Cluster munitions, Biological weapons, Chemical weapons18,
+
+or unconventional weapons characterized by clear direct involvement in the manufacture of Nuclear
+
+weapons19, Depleted uranium, Non-detectable fragments, Blinding laser weapons, Incendiary weapons, or
+
+White phosphorus, and which are therefore capable of generating significant negative repercussions in the
+
+social sphere.
 
 The Company reserves the right to initiate discussions with the issuers, with the aim of investigating
 
@@ -1568,6 +1650,38 @@ committees, including for the assessment of ESG risks to which the company is ex
 
 workforce, promoting diversity and a safe working environment;
 
+
+
+17 The “Just Transition” indicator of the Climate Action 100+ Net Zero Company Benchmark assesses how a company has
+
+committed to respecting Just Transition principles and disclosed its methods for managing and monitoring its progress.
+
+18 The aforementioned provisions do not apply to activities permitted by the following treaties and/or conventions:
+
+- the Ottawa Treaty (1997), which prohibits the use, stockpiling, production, and transfer of anti-personnel mines;
+
+- the Convention on Cluster Munitions (2008), which prohibits the use, stockpiling, production, and transfer of cluster
+
+munitions;
+
+- the Chemical Weapons Convention (1997), which prohibits the use, stockpiling, production, and transfer of chemical
+
+weapons;
+
+- the Biological Weapons Convention (1975), which prohibits the use, stockpiling, production, and transfer of biological
+
+weapons;
+
+- Regulation (EU) 2018/1542 concerning restrictive measures against the proliferation and use of chemical weapons.
+
+19 Issuers are not considered if they (i) are headquartered in States that have acceded to the "Treaty on the Non-Proliferation
+
+of Nuclear Weapons" signed on July 1, 1968, or (ii) belong to the North Atlantic Treaty Organization (so-called NATO).
+
+Engagement Policy Page 22 of 32
+
+
+
 − information provided by issuers on the application of Corporate Governance Codes in their respective
 
 listing countries.
@@ -1578,21 +1692,7 @@ any information which could compromise the ability to trade financial instrument
 
 disclosed without prior consent.
 
-
-
-12 The following table shows the mapping of the Principal Adverse Impact Indicators taken into account in the dialogue
-
-activities with investee companies:
-
-13 The Company considers issuers operating in the non-conventional weapons sector to be socially “non-responsible”, i.e.
-
-issuers characterised by a clear direct involvement in the manufacture of the following types of weapons: Anti-personnel
-
-mines; Cluster bombs; Nuclear Weapons, Depleted Uranium, Biological Weapons, Chemical Weapons, Invisible
-
-Fragmentation Weapons/Nondetectable Shrapnel, Blinding Lasers, Incendiary Weapons, White Phosphorus.
-
-Engagement Policy Page 20 of 30
+Engagement Policy Page 23 of 32
 
 
 
@@ -1692,7 +1792,7 @@ negative effects of investment decisions on the sustainability factors of Eurizo
 
 subsidiaries', made available on the Company's website.
 
-Engagement Policy Page 21 of 30
+Engagement Policy Page 24 of 32
 
 
 
@@ -1730,7 +1830,9 @@ characterised by:
 
 − significant compared to the benchmark of the individual assets under management;
 
-− high exposure to sustainability risks, such as (i) involvement in sectors deemed not “socially responsible”,
+− high exposure to sustainability risks, such as (i) involvement in sectors deemed capable of generating
+
+significant negative repercussions on the environment and/or in the social sphere.
 
 (ii) exposure to environmental issues, such as the risk of biodiversity loss and deforestation, (iii) lack of
 
@@ -1748,7 +1850,7 @@ interaction is to:
 
 of investments.
 
-Procedures for taking action with investee issuers may include:
+Procedures for taking action with investee issuers may include20:
 
 − benchmarking with members of corporate bodies (including minority bodies), or the entities appointed by
 
@@ -1780,21 +1882,21 @@ issuers, with a particular focus on the “macro-themes” that the Company cons
 
 assessments normally require a time frame of at least 18-36 months.
 
-
-
-14 Under current regulations, the Company may not, through the open-ended funds it manages, exercise control or
-
-significant influence over the issuing company, including through participation in voting syndicates.
-
-Engagement Policy Page 22 of 30
-
-
-
 If investee issuers do not respond constructively, the Company will consider activating appropriate escalation
 
 processes which, depending on the situation, may include 3 levels:
 
 First level
+
+
+
+20 Under current regulations, the Company may not, through the open-ended funds it manages, exercise control or
+
+significant influence over the issuing company, including through participation in voting syndicates.
+
+Engagement Policy Page 25 of 32
+
+
 
 − increasing the frequency of contact with the issuer;
 
@@ -1812,7 +1914,7 @@ Second level
 
 − the evaluation of the divestment of participations within the ESG Committee.
 
-Engagement Policy Page 23 of 30
+Engagement Policy Page 26 of 32
 
 
 
@@ -1896,27 +1998,27 @@ business conduct:
 
 Specifically, the Company has subscribed to the following collective initiatives:
 
-− “Net Zero Engagement Initiative{§11}” promoted by IIGCC, as Lead and Co-Signer;
+− “Net Zero Engagement Initiative21” promoted by IIGCC, as Lead and Co-Signer;
 
 − “Climate Action 100+', as a signatory;
 
 − “Nature Action 100” as a signatory;
 
-− “Advance16” promoted by UNPRI as a signatory.
+− “Advance2216” promoted by UNPRI as a signatory.
 
 
 
-15 Initiative to provide a forum to accelerate engagement activities within investment portfolios and enable investors to
+21 Initiative to provide a forum to accelerate engagement activities within investment portfolios and enable investors to
 
 achieve the engagement goals they have set as part of their Net Zero commitments.
 
 
 
-16 Collective engagement initiative aimed at encouraging best practices in respect of human rights, society, communities
+22 Collective engagement initiative aimed at encouraging best practices in respect of human rights, society, communities and
 
-and workers.
+workers.
 
-Engagement Policy Page 24 of 30
+Engagement Policy Page 27 of 32
 
 
 
@@ -1943,6 +2045,14 @@ support climate action and drive the transition towards achieving Net Zero;
 in the context of investments in government issuers;
 
 − “IIGCC Index Investing Working Group”, which explores the topic of net zero in passive investing;
+
+− “IIGCC Climate Governance Working Group”, which aims to deepen knowledge regarding climate
+
+governance and related best practices;
+
+− “IIGCC Just Transition Working Group”, aimed at supporting the promotion of a fair and inclusive transition
+
+towards the achievement of the Net Zero goal;
 
 − “Engagement', promoted by the Forum for Sustainable Finance;
 
@@ -1972,7 +2082,7 @@ the course of engagements, the Company shares with issuers any critical issues e
 
 mitigation actions.
 
-Engagement Policy Page 25 of 30
+Engagement Policy Page 28 of 32
 
 
 
@@ -2006,19 +2116,15 @@ including proxies, for individual meetings, to give to specialised third-party c
 
 instructions.
 
-For this purpose, the Responsible Investments \& Stewardship Structure identifies significant shareholders’
+For this purpose, should one or more of these criteria be met, the Responsible Investments \& Stewardship
 
-meetings, carries out necessary analyses and defines – in coordination with reference managers – proposals
+Structure defines proposals relating to voting instructions on the basis of (i) analyses and in-depth analyses
 
-relating to voting instructions to be evaluated by the CEO and General Manager. These proposals are identified
+carried out on public documents, (ii) available research supporting corporate governance decisions and voting
 
-on the basis of (i) analyses and in-depth analyses carried out on public documents, (ii) available research
+recommendations, (iii) indications provided by reference managers and (iv) the results of any engagement with
 
-supporting corporate governance decisions and voting recommendations, (iii) indications provided by
-
-reference managers and (iv) the results of any engagement with the issuer company, if considered useful or
-
-necessary.
+the issuer company, if considered useful or necessary.
 
 The CEO and General Manager defines the vote to cast and the specific requests to make in the interests of
 
@@ -2082,7 +2188,7 @@ companies have strategic relations or in relation to which group companies of th
 
 appoint one or more members of corporate bodies as a conflict of interest.
 
-Engagement Policy Page 26 of 30
+Engagement Policy Page 29 of 32
 
 
 
@@ -2110,7 +2216,7 @@ applicable laws and regulations - in compliance with and according to the limits
 
 shall be received no later than the contract cut-off date.
 
-Engagement Policy Page 27 of 30
+Engagement Policy Page 30 of 32
 
 
 
@@ -2136,7 +2242,7 @@ As also outlined in the implementation of Principle no. 1, the Company makes ava
 
 to encourage, at a European level, the development of good corporate governance practices and (ii) the “Italian
 
-Stewardship Principles”17 for the exercise of administrative and voting rights in listed companies and the related
+Stewardship Principles”23 for the exercise of administrative and voting rights in listed companies and the related
 
 Best Practice Recommendations defined by Assogestioni, as well as to the UN “Principles for Sustainable
 
@@ -2174,13 +2280,13 @@ and the Recommendations defined by the Trade Association.
 
 
 
-17 The Principles defined by Assogestioni are aligned with those contained in the EFAMA Code for External Governance
+23 The Principles defined by Assogestioni are aligned with those contained in the EFAMA Code for External Governance
 
 approved at the European Fund and Asset Management Association (EFAMA) to which Assogestioni participates and of
 
 which Eurizon Capital SGR is also a member.
 
-Engagement Policy Page 28 of 30
+Engagement Policy Page 31 of 32
 
 
 
@@ -2240,7 +2346,7 @@ This document is originally written in Italian language. In case of discrepancy 
 
 the present English translation, the Italian version will prevail.
 
-Engagement Policy Page 29 of 30
+Engagement Policy Page 32 of 32
 
 
 
