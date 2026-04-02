@@ -90,13 +90,15 @@ to three years, fails to bring about the desired change, we will exclude the com
 
 universe.
 
+3
+
+
+
 2. BUSINESS ACTIVITY EXCLUSIONS
 
 
 
 TOBACCO
-
-3
 
 
 
@@ -108,9 +110,9 @@ Carmignac considers investment in tobacco companies to be unsustainable, given
 
 that it is an unhealthy and polluting product with no safe level of consumption.
 
-Tobacco kills more than 8 million people worldwide each year1, including an
+Tobacco kills more than 7 million people worldwide each year1, including an
 
-estimated 1.3 million non-smokers who are exposed to second-hand smoke1. In
+estimated 1.6 million non-smokers who are exposed to second-hand smoke1. In
 
 addition to the detrimental impact of tobacco on health, the total economic cost
 
@@ -146,25 +148,15 @@ Carmignac acknowledges that reducing thermal coal emissions, as recommended
 
 by scientists5, is one of the most effective ways of transitioning to a cleaner energy
 
-system and being consistent with the Paris Agreement6. In 2022, emissions related
+system and being consistent with the Paris Agreement6. In 2023, emissions related
 
-to the burning of thermal coal accounts for around 10% of global emissions7
+to the burning of thermal coal accounts for around 27% of global emissions7
 
 through highly potent methane emissions. These emissions have a global
 
 warming potential around 30 times higher than regular carbon dioxide over 100
 
 years8. Furthermore, Carmignac pledges that, should there be any future coal-
-
-related investments permitted within the confines of Carmignac’s Exclusion
-
-Policy, a total exit from coal-related investee companies will be implemented by
-
-2030 for OECD countries and 2040 for non-OECD countries. We deem that
-
-thermal coal faces an increasing investment risk for the future, as companies are
-
-moving away from thermal coal as a fuel source
 
 
 
@@ -192,11 +184,25 @@ above). Some issuers can be reintegrated to the investable universe using the be
 
 conducted by the Sustainable Investment team.
 
-7 UNEP: Emissions Gap report 2024: https://www.unep.org/resources/emissions-gap-report-2024
+7 UNEP: Emissions Gap report 2024: https://www.unep.org/resources/emissions-gap-report-2024 and IEA: Greenhouse Gas Emissions from Energy
+
+Data Explorer: Greenhouse Gas Emissions from Energy Data Explorer – Data Tools - IEA
 
 8 UNECE: https://unece.org/challenge#:~:text=Methane%20is%20a%20powerful%20greenhouses,are%20due%20to%20human%20activities.
 
 4
+
+
+
+related investments permitted within the confines of Carmignac’s Exclusion
+
+Policy, a total exit from coal-related investee companies will be implemented by
+
+2030 for OECD countries and 2040 for non-OECD countries. We deem that
+
+thermal coal faces an increasing investment risk for the future, as companies are
+
+moving away from thermal coal as a fuel source
 
 
 
@@ -270,6 +276,14 @@ stage of the energy transition we are in, Carmignac does not believe that the se
 
 should face a blanket exclusion from our investment universe at firm level until
 
+
+
+9 International Energy Agency: Oil 2025: Analysis and forecast to 2030
+
+5
+
+
+
 the new clean energy system is more widely implemented. Instead, we utilise a
 
 range of approaches including portfolio net zero targets, a case-by-case approach
@@ -277,12 +291,6 @@ range of approaches including portfolio net zero targets, a case-by-case approac
 to assessing the ESG risks and transition plan based on individual companies
 
 performance, with stewardship consequences if required and clear reporting.
-
-
-
-9 International Energy Agency: https://www.iea.org/reports/oil-2024#overview
-
-5
 
 
 
@@ -350,29 +358,25 @@ above
 
 
 
+10 https://www.carmignac.fr/en_GB/sustainable-investment/approach
+
+6
+
+
+
 POWER GENERATIONS
 
 
 
 Power generators play a crucial role in the global energy transition. Emissions
 
-related to the power generation industry contribute to 26% of global emissions11,
+related to the power generation industry contribute to 27% of global emissions11,
 
 contributing largely to global warming and requiring a framework to ensure our
 
 investments do not contribute further to these. Even though thermal coal may
 
 have a short-term role in the economic development and growth of emerging
-
-
-
-10 https://www.carmignac.fr/en_GB/sustainable-investment/approach
-
-11 UNEP: Emissions Gap report 2024: https://www.unep.org/resources/emissions-gap-report-2024
-
-6
-
-
 
 countries, in a context of falling renewable energy prices, coal-powered plants will
 
@@ -418,7 +422,7 @@ generation mix in thermal coal are excluded.
 
 
 
-Carmignac recognises the importance of encouraging companies to reduce their
+Carmignac recognizes the importance of encouraging companies to reduce their
 
 dependence on coal power generation in order to align their activities with the
 
@@ -444,6 +448,14 @@ shall currently not be involved in building new coal-fired power stations and it
 
 absolute production of or capacity for coal-based power shall not be structurally
 
+
+
+11 UNEP: Emissions Gap report 2025: https://www.unep.org/resources/emissions-gap-report-2024
+
+7
+
+
+
 increasing and be less than 5 GW. In addition, companies with activities in the
 
 generation of power/heat from non-renewable energy sources or providing
@@ -460,15 +472,11 @@ activities can be deemed investable if it meets at least one of the following cr
 
 following a dedicated analysis from the Sustainable Investment team:
 
-• Have a carbon intensity lower than 291 gCO2/kWh
+• Have a carbon intensity lower than 186 gCO2/kWh
 
-7
+• Have a near-term or net-zero target validated by the SBTi, aligned with a 1.5°C
 
-
-
-• Have a SBTi target set at well-below 2°C or 1.5°C, or have a SBTi ‘Business
-
-Ambition for 1.5°C’ commitment
+trajectory
 
 • Derive less than 5% of its revenues from activities described above
 
@@ -524,22 +532,6 @@ significant ownership14 in such companies.
 
 
 
-WEAPONS
-
-
-
-Controversial weapons are excluded at firm level because they cause
-
-indiscriminate harm and long lasting damages to civilians and the environment
-
-and are widely considered unethical and inhumane. In contrast, conventional
-
-weapons, provided they are used in accordance with international law, are a
-
-fundamental component of international defence and an indispensable tool for
-
-
-
 12 https://www.carmignac.fr/en_GB/sustainable-investment/approach
 
 13 (Archives of Sexual Behavior, A Descriptive Analysis of the Types, Targets, and Relative Frequency of Aggression in Mainstream Pornography July 13,
@@ -553,6 +545,20 @@ relevant company.
 8
 
 
+
+WEAPONS
+
+
+
+Controversial weapons are excluded at firm level because they cause
+
+indiscriminate harm and long lasting damages to civilians and the environment
+
+and are widely considered unethical and inhumane. In contrast, conventional
+
+weapons, provided they are used in accordance with international law, are a
+
+fundamental component of international defence and an indispensable tool for
 
 maintaining national security and stability which is why they are only excluded in
 
@@ -620,6 +626,8 @@ For some of our funds, companies that derive more than 10% of revenues from
 
 the manufacture of conventional weapons including firearms and components.
 
+9
+
 
 
 Conventional Weapons - Fund Specific Exclusion
@@ -633,8 +641,6 @@ Companies that derive more than 5% of revenues from the manufacture and sale
 of conventional weapons including firearms and support services and equipment
 
 are excluded from the investment universe.
-
-9
 
 
 
@@ -690,6 +696,14 @@ from the investment universe.
 
 
 
+15World health organization: https://www.who.int/news-room/fact-
+
+sheets/detail/gambling#:~:text=Standardized%20global%20estimation%20of%20gambling,billion%20by%202028%20(1).
+
+10
+
+
+
 ANIMAL WELFARE
 
 
@@ -715,18 +729,6 @@ poultry, and beef, as well as dairy and egg farm operators are excluded from the
 investment universe. This category does not include restaurants or other food
 
 establishments where meat products are sold. Companies that are on the
-
-
-
-15World health organization: https://www.who.int/news-room/fact-
-
-sheets/detail/gambling#:~:text=Standardized%20global%20estimation%20of%20gambling,billion%20by%202028%20(1).
-
-16 UNEP: Emissions Gap report 2024: https://www.unep.org/resources/emissions-gap-report-2024
-
-10
-
-
 
 People for the Ethical Treatment of Animals (PETA) list of facilities that
 
@@ -768,6 +770,12 @@ from the fund’s investment universe.
 
 
 
+16 UNEP: Emissions Gap report 2025: Emissions Gap Report 2025 | UNEP - UN Environment Programme
+
+11
+
+
+
 AIRLINES
 
 
@@ -776,15 +784,17 @@ Fund Specific Exclusion
 
 
 
-The airline industry is a significant contributor to global carbon emissions (2 to
+The airline industry is a significant contributor to global carbon emissions
 
-3% of global emissions) due to the burning of fossil fuels. Some arguments exists
+(2.5%% of global energy related CO2 emissions17) due to the burning of fossil
 
-for the substitution of short regional flights with less polluting alternative
+fuels. Some arguments exists for the substitution of short regional flights with
 
-transports. This is why Carmignac has a fund range with higher ESG standards
+less polluting alternative transports. This is why Carmignac has a fund range with
 
-for which airlines are excluded from the investment universe.
+higher ESG standards for which airlines are excluded from the investment
+
+universe.
 
 
 
@@ -807,10 +817,6 @@ Indicators (WGI), established by the World Bank:
 1\. Voice and Accountability
 
 2\. Political Stability and Absence of Violence/Terrorism
-
-11
-
-
 
 3\. Government Effectiveness
 
@@ -849,6 +855,14 @@ declaration on Fundamental Rights and Principles at Work
 o at least half of the 18 core International Human Rights Treaties. The State is party to:
 
 • the Paris Agreement
+
+
+
+17 IEA: Aviation: Aviation - IEA
+
+12
+
+
 
 • the UN Convention on Biological Diversity
 
@@ -896,8 +910,6 @@ eligible.
 
 • Use-of-proceeds Instruments
 
-12
-
 
 
 Use-of-proceeds instruments issued by sovereigns that fail the aforementioned criteria can be
@@ -937,6 +949,10 @@ For some of our funds with higher ESG constraints, at least 90% of underlying po
 AUM) are:
 
 a) Underlying portfolios that have the Towards Sustainability label.
+
+13
+
+
 
 b) Underlying index-based portfolios evaluated on QS compliance using a look-through
 
@@ -979,8 +995,6 @@ Carmignac’s ESG Intgeration Policy.
 Countries with a score below 2.5/5 in Carmignac’s ESG Sovereign Model are excluded from Carmignac’s
 
 Fixed Income funds range (except for SFDR Article 6 funds).
-
-13
 
 14
 
@@ -1130,7 +1144,203 @@ Source: www.unglobalcompact.org.uk/the-ten-principles/
 
 
 
-5. OECD GUIDELINES FOR MULTINATIONAL ENTERPRISES
+5. UN GUIDING PRINCIPLES ON BUSINESS AND HUMAN RIGHTS
+
+
+
+Corporate Responsibility to Respect Human rights:
+
+A. Foundational Principles
+
+1. Business enterprises should respect human rights. This means that they should avoid
+
+infringing on the human rights of others and should address adverse human rights impacts
+
+with which they are involved.
+
+2. The responsibility of business enterprises to respect human rights refers to internationally
+
+recognized human rights – understood, at a minimum, as those expressed in the
+
+International Bill of Human Rights and the principles concerning fundamental rights set out
+
+in the International labour Organization’s Declaration on Fundamental Principles and Rights
+
+at Work
+
+3. The responsibility to respect human rights requires that business enterprises:
+
+a. Avoid causing or contributing to adverse human rights impacts through their own
+
+activities, and address such impacts when they occur;
+
+16
+
+
+
+b. Seek to prevent or mitigate adverse human rights impacts that are directly linked to their
+
+operations, products or services by their business relationships, even if they have not
+
+contributed to those impacts
+
+4. The responsibility of business enterprises to respect human rights applies to all enterprises
+
+regardless of their size, sector, operational context, ownership and structure. Nevertheless,
+
+the scale and complexity of the means through which enterprises meet that responsibility
+
+may vary according to these factors and with the severity of the enterprise’s adverse human
+
+rights impacts
+
+5. In order to meet their responsibility to respect human rights, business enterprises should
+
+have in place policies and processes appropriate to their size and circumstances, including:
+
+16 (a) A policy commitment to meet their responsibility to respect human rights; (b) A human
+
+rights due diligence process to identify, prevent, mitigate and account for how they address
+
+their impacts on human rights; (c) Processes to enable the remediation of any adverse
+
+human rights impacts they cause or to which they contribute
+
+
+
+B. Operational Principles
+
+1. As the basis for embedding their responsibility to respect human rights, business enterprises
+
+should express their commitment to meet this responsibility through a statement of policy
+
+that: a) Is approved at the most senior level of the business enterprise; (b) Is informed by
+
+relevant internal and/or external expertise; (c) Stipulates the enterprise’s human rights
+
+expectations of personnel, business partners and other parties directly linked to its
+
+operations, products or services; (d) Is publicly available and communicated internally and
+
+externally to all personnel, business partners and other relevant parties; (e) Is reflected in
+
+operational policies and procedures necessary to embed it throughout the business
+
+enterprise
+
+2. In order to identify, prevent, mitigate and account for how they address their adverse human
+
+rights impacts, business enterprises should carry out human rights due diligence. The
+
+process should include assessing actual and potential human rights impacts, integrating and
+
+acting upon the findings, tracking responses, and communicating how impacts are
+
+addressed. Human rights due diligence: (a) Should cover adverse human rights impacts that
+
+the business enterprise may cause or contribute to through its own activities, or which may
+
+be directly linked to its operations, products or services by its business relationships; 18 (b)
+
+Will vary in complexity with the size of the business enterprise, the risk of severe human
+
+rights impacts, and the nature and context of its operations; (c) Should be ongoing,
+
+recognizing that the human rights risks may change over time as the business enterprise’s
+
+operations and operating context evolve
+
+3. In order to gauge human rights risks, business enterprises should identify and assess any
+
+actual or potential adverse human rights impacts with which they may be involved either
+
+through their own activities or as a result of their business relationships. This process should:
+
+(a) Draw on internal and/or independent external human rights expertise; (b) Involve
+
+meaningful consultation with potentially affected groups and other relevant stakeholders,
+
+as appropriate to the size of the business enterprise and the nature and context of the
+
+operation
+
+17
+
+
+
+4. In order to prevent and mitigate adverse human rights impacts, business enterprises should
+
+integrate the findings from their impact assessments across relevant internal functions and
+
+processes, and take appropriate action. (a) Effective integration requires that: (i)
+
+Responsibility for addressing such impacts is assigned to the appropriate level and function
+
+within the business enterprise; 21 (ii) Internal decision-making, budget allocations and
+
+oversight processes enable effective responses to such impacts. (b) Appropriate action will
+
+vary according to: (i) Whether the business enterprise causes or contributes to an adverse
+
+impact, or whether it is involved solely because the impact is directly linked to its operations,
+
+products or services by a business relationship; (ii) The extent of its leverage in addressing
+
+the adverse impact.
+
+5. In order to verify whether adverse human rights impacts are being addressed, business
+
+enterprises should track the effectiveness of their response. Tracking should: (a) Be based
+
+on appropriate qualitative and quantitative indicators; (b) Draw on feedback from both
+
+internal and external sources, including affected stakeholders
+
+6. In order to account for how they address their human rights impacts, business enterprises
+
+should be prepared to communicate this externally, particularly when concerns are raised
+
+by or on behalf of affected stakeholders. Business enterprises whose operations or
+
+operating contexts pose risks of severe human rights impacts should report formally on how
+
+they address them. In all instances, communications should: (a) Be of a form and frequency
+
+that reflect an enterprise’s human rights impacts and that are accessible to its intended
+
+audiences; (b) Provide information that is sufficient to evaluate the adequacy of an
+
+enterprise’s response to the particular human rights impact involved; (c) In turn not pose
+
+risks to affected stakeholders, personnel or to legitimate requirements of commercial
+
+confidentiality
+
+7. Where business enterprises identify that they have caused or contributed to adverse
+
+impacts, they should provide for or cooperate in their remediation through legitimate
+
+processes.
+
+8. In all contexts, business enterprises should: (a) Comply with all applicable laws and respect
+
+internationally recognized human rights, wherever they operate; (b) Seek ways to honour
+
+the principles of internationally recognized human rights when faced with conflicting
+
+requirements; (c) Treat the risk of causing or contributing to gross human rights abuses as a
+
+legal compliance issue wherever they operate.
+
+9. Where it is necessary to prioritize actions to address actual and potential adverse human
+
+rights impacts, business enterprises should f irst seek to prevent and mitigate those that are
+
+most severe or where delayed response would make them irremediable
+
+
+
+6. OECD GUIDELINES FOR MULTINATIONAL ENTERPRISES
 
 
 
@@ -1144,6 +1354,10 @@ and consider the views of other stakeholders. In this regard, enterprises should
 
 development.
 
+18
+
+
+
 2. Respect the internationally recognised human rights of those affected by their activities.
 
 3. Encourage local capacity building through close co-operation with the local community, including
@@ -1155,10 +1369,6 @@ markets, consistent with the need for sound commercial practice.
 4. Encourage human capital formation, in particular by creating employment opportunities and
 
 facilitating training opportunities for employees.
-
-16
-
-
 
 5. Refrain from seeking or accepting exemptions not contemplated in the statutory or regulatory
 
@@ -1226,9 +1436,11 @@ activities that may significantly impact local communities.
 
 Source: http://mneguidelines.oecd.org/
 
+19
 
 
-6. ILO DECLARATION ON FUNDAMENTAL PRINCIPLES AND RIGHTS AT WORK
+
+7. ILO DECLARATION ON FUNDAMENTAL PRINCIPLES AND RIGHTS AT WORK
 
 
 
@@ -1244,11 +1456,11 @@ bargaining, the elimination of forced or compulsory labour, the abolition of chi
 
 elimination of discrimination in respect of employment and occupation.
 
-17
+20
 
 
 
-7. FUNDS SPECIFIC IN SCOPE PER EXCLUSION CATEGORY
+8. FUNDS SPECIFIC IN SCOPE PER EXCLUSION CATEGORY
 
 
 
@@ -1264,7 +1476,7 @@ Exclusion Category Funds in scope
 
 
 
-Extended Thermal Coal\*
+Extended Thermal Coal
 
 
 
@@ -1290,6 +1502,10 @@ Carmignac Portfolio Tech Solutions
 
 Oil and Gas Extraction
 
+
+
+Carmignac Portfolio Absolute Return Europe
+
 Carmignac Absolute Return Europe
 
 Carmignac Portfolio Long-Short European
@@ -1299,6 +1515,8 @@ Equities
 
 
 Carmignac China New Economy
+
+Carmignac Portfolio Tech Solutions
 
 
 
@@ -1378,7 +1596,7 @@ Producers (10%
 
 revenues threshold)
 
-Carmignac Absolute Return Europe
+Carmignac Portfolio Absolute Return Europe Carmignac Absolute Return Europe
 
 
 
@@ -1464,6 +1682,8 @@ Carmignac Emergents
 
 Carmignac Portfolio Emergents
 
+Carmignac Portfolio Absolute Return Europe
+
 Carmignac Absolute Return Europe
 
 Carmignac China New Economy
@@ -1481,6 +1701,8 @@ Carmignac Portfolio Grande Europe
 Carmignac Portfolio Patrimoine Europe
 
 Carmignac Portfolio Emerging Patrimoine
+
+Carmignac Portfolio Tech Solutions
 
 FP Carmignac Emerging Markets
 
@@ -1514,15 +1736,11 @@ Airlines Carmignac Emergents
 
 Carmignac Portfolio Emergents FP Carmignac Emerging Markets
 
-
-
-\*Extended Thermal Coal exclusions apply the requirements of the French and Belgian Sustainability labels
-
-18
+21
 
 
 
-8. DISCLAIMER
+9. DISCLAIMER
 
 
 
