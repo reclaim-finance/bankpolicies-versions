@@ -1,48 +1,56 @@
-July 2025 Public Document
+APRIL 2026 P U BL I C DOC UM E N T
 
 
 
-Oil \& Gas sector policy
+OIL \& GAS SECTOR POLICY
 
-E\&S sector policy | Oil \& Gas | 2
-
-
-
-SUMMARY
+OIL \& GAS SECTOR POLICY P U BL I C DOC UM E N T
 
 
 
-1. INTRODUCTION ................................................................................................................................................ 3
+| 2
 
-2. SCOPE .................................................................................................................................................................. 4
 
-2.1. Geographical scope....................................................................................................................................................4
 
-2.2. Scope of the Group’s activities ..................................................................................................................................4
+TABLE OF CONTENT
 
-2.3. Scope of sector activities............................................................................................................................................4
 
-3. OIL \& GAS SECTOR ESG RISKS ..................................................................................................................... 5
 
-4. SECTOR SPECIFIC E\&S STANDARDS AND INITIATIVES ....................................................................... 5
+1. INTRODUCTION ............................................................................................................ 3
 
-5. IMPLEMENTATION PROCESS AND CLIENT ENGAGEMENT ................................................................ 6
+2. SCOPE ............................................................................................................................. 3
 
-5.1. Implementation process ............................................................................................................................................6
+2.1. Geographical scope .................................................................................................................................3
 
-5.2. Client engagement.....................................................................................................................................................7
+2.2. Scope of the Group’s activities...............................................................................................................4
 
-6. APPLICATION CRITERIA OF THE POLICY ................................................................................................. 8
+2.3. Scope of sector activities ........................................................................................................................4
 
-6.1. Client criteria ..............................................................................................................................................................8
+3. OIL \& GAS SECTOR ESG RISKS..................................................................................4
 
-6.2. Dedicated transactions, products and services criteria ..........................................................................................9
+4. SECTOR SPECIFIC E\&S STANDARDS AND INITIATIVES...................................... 5
 
-7. APPLICATION DATE AND UPDATES ..........................................................................................................11
+5. IMPLEMENTATION PROCESS AND CLIENT ENGAGEMENT................................6
 
-8. GLOSSARY ......................................................................................................................................................... 12
+5.1. Implementation process.........................................................................................................................6
 
-E\&S sector policy | Oil \& Gas | 3
+5.2. Client engagement...................................................................................................................................7
+
+6. APPLICATION CRITERIA OF THE POLICY...............................................................7
+
+6.1. Client criteria ............................................................................................................................................8
+
+6.2. Dedicated transactions, products and services criteria ......................................................................9
+
+7. APPLICATION DATE AND UPDATES ...................................................................... 11
+
+8. GLOSSARY ....................................................................................................................12
+
+OIL \& GAS SECTOR POLICY P U BL I C DOC UM E N T
+
+
+
+| 3
 
 
 
@@ -126,12 +134,6 @@ and financial products and services to the Oil and Gas industry.
 
 
 
-1 Net Zero Banking Alliance : https://www.unepfi.org/net-zero-banking/
-
-E\&S sector policy | Oil \& Gas | 4
-
-
-
 2. SCOPE
 
 
@@ -141,6 +143,16 @@ E\&S sector policy | Oil \& Gas | 4
 
 
 This sector policy is applicable worldwide.
+
+
+
+1 Net Zero Banking Alliance : https://www.unepfi.org/net-zero-banking/
+
+OIL \& GAS SECTOR POLICY P U BL I C DOC UM E N T
+
+
+
+| 4
 
 
 
@@ -198,29 +210,19 @@ activities.
 
 Note that:
 
-- companies producing biofuels (and related dedicated transactions, products and services) also fall, where
+- Companies producing biofuels (and related dedicated transactions, products and services) also fall, where
 
 relevant, in the scope of Societe Generale Industrial agriculture and forestry sectors policy.
 
-- financings involving Floating Production Storage and Offloading (FPSO) and Floating Storage Units (FSU) also fall,
+- Financings involving Floating Production Storage and Offloading (FPSO) and Floating Storage Units (FSU) also
 
-where relevant, in the scope of Societe Generale Shipping sector policy.
-
-
-
-Activities related to the gas-fired power and liquid fuel-fired power (LFO and HFO4) are covered in a dedicated policy
-
-(Thermal power).
+fall, where relevant, in the scope of Societe Generale Shipping sector policy.
 
 
 
-2 Rapports RSE - Société Générale Assurances (societegenerale.com)
+Activities related to gas-fired power and liquid fuel-fired power (LFO and HFO4) are covered in a dedicated policy (Thermal
 
-3 Regulatory information (societegenerale.com)
-
-4 Light Fuel Oil and Heavy Fuel oil.
-
-E\&S sector policy | Oil \& Gas | 5
+power).
 
 
 
@@ -235,6 +237,22 @@ framework is provided in the E\&S general principles.
 
 
 When evaluating corporates’ activity in the Oil \& Gas sector, particular attention will be paid to the following risks:
+
+
+
+2 Rapports RSE - Société Générale Assurances (societegenerale.com)
+
+3 Regulatory information (societegenerale.com)
+
+4 Light Fuel Oil and Heavy Fuel oil.
+
+OIL \& GAS SECTOR POLICY P U BL I C DOC UM E N T
+
+
+
+| 5
+
+
 
 • Impacts on natural habitats, and areas protected for biodiversity or cultural considerations.
 
@@ -298,8 +316,6 @@ The Group requests its clients to comply at a minimum with the E\&S laws and reg
 
 in which they operate while encouraging them to apply the following E\&S standards and initiatives.
 
-E\&S sector policy | Oil \& Gas | 6
-
 
 
 A number of institutions, business associations of the Oil \& Gas industry, and other civil society organizations have
@@ -317,6 +333,14 @@ o the IFC Performance Standards and World Bank Group Environmental, Health and S
 applicable to the Oil \& Gas sector.
 
 o the International Energy Agency Golden Rules for a Golden Age of Gas (2012).
+
+OIL \& GAS SECTOR POLICY P U BL I C DOC UM E N T
+
+
+
+| 6
+
+
 
 o the good practice guidance of the International Petroleum Industry Environmental Conservation
 
@@ -384,17 +408,47 @@ from external data providers. The Group shall make its reasonable endeavors to e
 
 information but accepts no liability whatsoever in connection with any such information.
 
-E\&S sector policy | Oil \& Gas | 7
-
 
 
 As part of the implementation of the sector policy, three types of application criteria have been defined:
 
 
 
-The E\&S evaluation criteria are applicable in a proportionate manner based on the importance of the E\&S risks inherent to
+The E\&S exclusion criteria are criteria on the basis of which are excluded from the Group’s activities some corporates,
 
-the clients' activities and to the underlying activities related to dedicated transactions, products and services.
+some dedicated transactions or some financial products and services.
+
+
+
+The E\&S priority evaluation criteria are criteria for which an analysis is requested as part of the evaluation process.
+
+For client’s evaluation, if the relevant criteria are not fulfilled, a positive evolution from the company current practices
+
+is expected in a limited and reasonable timeframe and can be formalized through action plans or contract clauses. For
+
+transactions on dedicated projects, alignment with the criteria is expected as part of the project development. For
+
+dedicated advisory services ahead of a project’s development, the client’s commitment to develop the project
+
+according to these criteria is evaluated.
+
+OIL \& GAS SECTOR POLICY P U BL I C DOC UM E N T
+
+
+
+| 7
+
+
+
+These E\&S criteria are applicable:
+
+o in a proportionate manner based on the importance of the E\&S risks inherent to the clients' activities and to the
+
+underlying activities related to dedicated transactions, products and services; and
+
+o in any jurisdiction in which the Group operates to the extent not contradictory to provisions of any applicable
+
+local law, rule, regulation or regulatory guidance or directive in such jurisdiction.
 
 
 
@@ -413,6 +467,8 @@ criteria.
 In the specific case of clients operating in the upstream segment of the Oil \& Gas value chain, with the exception of
 
 clients excluded under section 6.1:
+
+
 
 The Group will continue to propose banking and financial products and services to these clients but will be attentive to
 
@@ -436,47 +492,19 @@ energy transition
 
 
 
-The Group may refuse to provide banking or financial products or services to certain corporates or refuse to be involved in
+Based on an objective, risk-based and individualized assessment, the Group reserves the right to refuse to provide banking
 
-certain transactions as a result of this evaluation, even if the exclusion criteria defined in this sector policy are not
+or financial products or services to any client or not to participate in certain transactions following this assessment, even
 
-applicable. The Group may also require additional actions or engage in an additional due diligence process before
+if the exclusion criteria defined in this sector policy do not apply. The Group may also require additional actions or engage
 
-concluding on the acceptability of a client or a transaction.
+in an additional due diligence process before concluding on the acceptability of a client or a transaction.
 
 
 
 Any deviation from this policy may be granted, on an exceptional basis, by a Societe Generale group oversight committee
 
 chaired by senior management.
-
-
-
-The E\&S exclusion criteria are criteria on the basis of which are excluded from the Group’s activities some corporates,
-
-some dedicated transactions or some financial products and services.
-
-
-
-The E\&S priority evaluation criteria are criteria for which an analysis is requested as part of the evaluation process.
-
-For client’s evaluation, if the relevant criteria are not fulfilled, a positive evolution from the company current practices
-
-is expected in a limited and reasonable timeframe and can be formalized through action plans or contract clauses. For
-
-transactions on dedicated projects, alignment with the criteria is expected as part of the project development. For
-
-dedicated advisory services ahead of a project’s development, the client’s commitment to develop the project
-
-according to these criteria is evaluated.
-
-
-
-The other E\&S evaluation criteria aim to identify the other risk factors of the sector, that will also be considered as
-
-part of the evaluation, and also to specify the best practices that the Group wishes to encourage.
-
-E\&S sector policy | Oil \& Gas | 8
 
 
 
@@ -489,6 +517,18 @@ Based on the analysis of the initiatives listed in Section 4. and of best practi
 institutions, the Group has defined the following E\&S criteria which are incorporated into its decision-making process
 
 when considering provision to the Oil \& Gas sector of banking and financial products and services.
+
+
+
+The other E\&S evaluation criteria aim to identify the other risk factors of the sector, that will also be considered as
+
+part of the evaluation, and also to specify the best practices that the Group wishes to encourage.
+
+OIL \& GAS SECTOR POLICY P U BL I C DOC UM E N T
+
+
+
+| 8
 
 
 
@@ -558,6 +598,18 @@ o Engagement with local stakeholders.
 
 Directors, the executive committee or any other management committee.
 
+• When involved in upstream Oil and Gas activities, the company has set a methane intensity target.
+
+• Whether the client monitors and discloses the direct greenhouse gases emissions generated by its activities in the
+
+scope of the policy, taking into account the availability of the information for non-operated assets.
+
+• When operating facilities, whether the client company has a methane leak detection and management program.
+
+• When operating facilities in the upstream Oil \& Gas sector, whether the client company has a plan to minimize its
+
+use of Venting and Flaring practices.
+
 
 
 5 See Glossary
@@ -570,21 +622,13 @@ Directors, the executive committee or any other management committee.
 
 9 See Glossary
 
-E\&S sector policy | Oil \& Gas | 9
+OIL \& GAS SECTOR POLICY P U BL I C DOC UM E N T
 
 
 
-• When involved in upstream Oil and Gas activities, the company has set a methane intensity target.
+| 9
 
-• Whether the client monitors and discloses the direct greenhouse gases emissions generated by its activities in the
 
-scope of the policy, taking into account the availability of the information for non-operated assets.
-
-• When operating facilities, whether the client company has a methane leak detection and management program.
-
-• When operating facilities in the upstream Oil \& Gas sector, whether the client company has a plan to minimize its
-
-use of Venting and Flaring practices.
 
 • Where operating facilities in the Upstream Oil and Gas sector, whether the client company has committed to
 
@@ -660,10 +704,6 @@ o Ecuadorian Amazonian oil,
 
 o Oil from oil sands, or other extra heavy oil.
 
-E\&S sector policy | Oil \& Gas | 10
-
-
-
 • exploration and production of shale oil or gas.
 
 • infrastructures or other assets exclusively dedicated to the transport, storage and processing of Arctic oil,
@@ -676,11 +716,17 @@ Ecuadorian Amazonian oil or oil from oil sands or other extra heavy oil.
 
 • FPSOs associated with Greenfield upstream oil and gas fields and, after 2025, any FPSOs.
 
+OIL \& GAS SECTOR POLICY P U BL I C DOC UM E N T
+
+
+
+| 10
+
+
+
 • integrated LNG projects fed with Greenfield gas fields.
 
 • new projects or significant expansion of LNG production or exportation fed by shale gas or Arctic gas
-
-• trading of LNG cargo transporting LNG from North America into France.
 
 • production of biofuels using food and feed crops as feedstock, except where feedstock meets acceptable
 
@@ -736,14 +782,6 @@ o LNG facilities.
 
 flaring.
 
-
-
-10 See Glossary
-
-E\&S sector policy | Oil \& Gas | 11
-
-
-
 • When the activities associated with the transaction or service are located within, or with potential material
 
 impacts on Key Biodiversity Areas or protected areas, whether a third-party assessment of the potential impacts
@@ -763,6 +801,18 @@ For activities located within, or with potential material impacts on a protected
 not triggered, evidence is provided that the development is legally permitted and consistent with any regulatory
 
 management plans for such area.
+
+
+
+10 See Glossary
+
+OIL \& GAS SECTOR POLICY P U BL I C DOC UM E N T
+
+
+
+| 11
+
+
 
 Social impacts
 
@@ -796,9 +846,11 @@ such information and support transparency initiatives such as the EITI.
 
 
 
-This sector policy is applicable from the date of its publication, with exceptions for pre-existing business commitments or
+This sector policy is applicable from the date of its publication for any jurisdiction in which the Group operates to the extent
 
-opportunities at an advanced stage of negotiation.
+not contradictory to provisions of any applicable local law, rule, regulation or regulatory guidance or directive in such
+
+jurisdiction, with exceptions for pre-existing business commitments or opportunities at an advanced stage of negotiation.
 
 
 
@@ -816,7 +868,11 @@ This sector policy has been established in French and in English. In case of inc
 
 English version, the French version shall prevail.
 
-E\&S sector policy | Oil \& Gas | 12
+OIL \& GAS SECTOR POLICY P U BL I C DOC UM E N T
+
+
+
+| 12
 
 
 
@@ -914,7 +970,11 @@ amenable geology to re-inject the produced gas, utilize it on-site, or dispatch 
 
 Flaring Reduction Partnership)
 
-E\&S sector policy | Oil \& Gas | 13
+OIL \& GAS SECTOR POLICY P U BL I C DOC UM E N T
+
+
+
+| 13
 
 
 
