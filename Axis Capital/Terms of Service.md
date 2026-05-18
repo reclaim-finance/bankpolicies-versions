@@ -51,9 +51,9 @@ Exceptions to this policy may be considered on a case-by-case basis for investme
 1. (i) Projects, operations, or financings related solely to renewable or “green” energy;
 2. (ii) Projects that contribute to the climate transition;
 3. (iii) Companies that have a transition plan in place to end all thermal coal or oil sands-related activities by 2030 in OECD countries and the EU and by 2040 globally, which for the sake of clarity, from time to time could include coverage for incidental or ancillary exposures related to existing thermal coal risks; however, a company that plans to, or is in the process of developing or expanding a coal mine, plant or its dedicated infrastructure will not be eligible for this exception; or
-4. (iv) Reclamation bonds for existing thermal coal mines.
+4. (iv) Reclamation bonds.
 
-Effective: September 2025
+Effective: May 13, 2026
 
 [Filters](#)
 
