@@ -298,7 +298,7 @@ Par ailleurs, afin de contribuer davantage à la trajectoire 1,5°C, nous avons 
 * Ecofi Smart Transition, la première Sicav ISR d’Ecofi créée en 2000, a désormais la totalité de son actif aligné sur la trajectoire 1,5°C du SDS de l’AIE.
     
 
-![Une intensité carbone maîtrisée](https://www.ecofi.fr/storage/thumbnails/data/SriSubPage/750-1024_f05e8b60af5bb50bb3d611a052c483f2_q-90/194f2766fb4e35d2d48430402284bdc9.jpg?1740410316)
+![](https://www.ecofi.fr/storage/thumbnails/data/SriSubPage/750-1024_f05e8b60af5bb50bb3d611a052c483f2_q-90/194f2766fb4e35d2d48430402284bdc9.jpg?1740410316)
 
 Qu’est-ce que l’impact ?
 ------------------------
