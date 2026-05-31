@@ -233,12 +233,6 @@ L'un de nos 4 objectifs statutaires d’entreprise à mission est justement de �
   
 Pour appuyer notre méthodologie propriétaire d'analyse extra-financière PRISME, nous avons mis en place une politique d’engagement actionnarial – vote et dialogue – systématique, exigeante et active.
 
-### Rapport d'engagement actionnarial
-
-2 Mo
-
-[Télécharger](https://www.ecofi.fr/telecharger/pub/2256/rapport-dengagement-actionnarial)
-
 ### Exprimer nos convictions grâce au vote
 
 Le vote des actionnaires en assemblée générale est essentiel afin d'encourager les entreprises à progresser dans la prise en compte des enjeux ESG de leur activité. C'est pourquoi nous mettons en œuvre une politique exigeante et engagée dans toutes les entreprises dont nous sommes actionnaires.
@@ -333,12 +327,6 @@ de votes d’oppositions en assemblée générale
 
 Téléchargez nos contenus en un clic
 -----------------------------------
-
-### Rapport d'engagement actionnarial
-
-2 Mo
-
-[Télécharger](https://www.ecofi.fr/telecharger/pub/2256/rapport-dengagement-actionnarial)
 
 ### Déclaration PRI
 
