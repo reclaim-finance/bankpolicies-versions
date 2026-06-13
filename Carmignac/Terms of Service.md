@@ -8,7 +8,7 @@ hort
 
 CARMIGNAC’S EXCLUSION POLICY
 
-MARCH 2026
+JUNE 2026
 
 2
 
@@ -1617,10 +1617,6 @@ Carmignac Portfolio Grandchildren
 Carmignac Portfolio Human Xperience
 
 Carmignac Portfolio Grande Europe
-
-Carmignac Portfolio Long-Short European
-
-Equities
 
 
 
