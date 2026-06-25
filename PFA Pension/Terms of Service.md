@@ -70,5 +70,5 @@ Read more
 
 ### Read more about our approach to working with responsible investments
 
-* [Guidelines for active ownership](https://english.pfa.dk/-/media/pfa-v2/english/documents/about-pfa/csr/pfa-guidelines-for-active-ownership.pdf?rev=-1)
+* [Guidelines for active ownership](https://english.pfa.dk/-/media/pfa-v2/english/documents/about-pfa/csr/pfa-guidelines-for-active-ownership.pdf?rev=9e92ded91c2441aca3e321fa5569e7e7)
 * [Active ownership](https://english.pfa.dk/about-pfa/corporate-responsibility/active-ownership)
