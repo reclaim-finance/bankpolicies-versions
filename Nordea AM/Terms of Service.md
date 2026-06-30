@@ -1,8 +1,16 @@
+Í
+
+
+
 ResponsibleInvestment Policy
 
 
 
-April 2025
+July 2026
+
+2
+
+
 
 Index/
 
@@ -46,9 +54,9 @@ Index/
 
 8/ Conflicts of interest 26
 
+3
 
 
-2
 
 1/Purpose and scope
 
@@ -90,7 +98,7 @@ By ESG-proactive we mean
 
 
 
-• integrating environmental, social andgovernance factors into our investmentprocesses, taking into account both sides ofthe “double materiality”1
+• integrating environmental, social andgovernance factors into our investmentprocesses, taking into account both sides ofthe “double materiality” 1
 
 • actively engaging with our investeecompanies to ensure that they meet ourexpectations of sound ESG performance andcompliance with international norms
 
@@ -98,11 +106,7 @@ By ESG-proactive we mean
 
 • accepting the responsibility to act as anindustry leader within ESG/sustainability
 
-
-
 1) The concept of double materiality refers to, on the one hand, those ESG/sustainability risks that are material to the financialperformance of an investee company or other entity, and, on the other, to the environmental and social impact of the activities of thesame company or entity. The two will typically be closely linked, but should not be conflated.
-
-3
 
 1/
 
@@ -122,6 +126,8 @@ Due to the nature of certain investments, such asderivatives and units in extern
 
 This Policy is reviewed and updated as requiredand at least annually.
 
+
+
 4
 
 2/Advocacy andmemberships
@@ -138,41 +144,35 @@ Our Responsible Investment Policy aims toencourage the companies we invest in to
 
 
 
-•
+• United Nations Global Compact
 
-•
+• OECD Principles of Corporate Governance
 
-•
+• OECD Guidelines for MultinationalEnterprises
 
+• Universal Declaration of Human Rights
 
+• UN Guiding Principles on Business and
 
-•
+• Human Rights
 
-•
+• Children’s Rights and Business Principles
 
-•
+• ILO conventions on labour standards
 
-•
+• Rio Declaration on Environment andDevelopment
 
-•
+• UN Convention on Corruption
 
-•
-
-
-
-•
-
-•
-
-
-
-United Nations Global CompactOECD Principles of Corporate GovernanceOECD Guidelines for MultinationalEnterprisesUniversal Declaration of Human RightsUN Guiding Principles on Business andHuman RightsChildren’s Rights and Business PrinciplesILO conventions on labour standardsRio Declaration on Environment andDevelopmentUN Convention on CorruptionConvention on Cluster Munitions
+• Convention on Cluster Munitions
 
 We support standardised and integrated report-ing, which incorporates material sustainabilityinformation with financial information and pro-vides consistent and comparable ESG data,preferably using the SASB framework or similar.We also support and promote the adoption of therecommendations of the Task Force on Climate-related Financial Disclosures (“TCFD”).
 
 In this context, we actively engage with variousstandard-setters and stakeholders locally and in-ternationally. We are active members of the PRI,SASB, IIGCC, CDP, TPI, Finance for BiodiversityPledge and Investor Alliance for Human Rights.
 
 Nordea Asset Management adheres to theESG4Real standard for a select number of fundsand complies with the certification criteriathrough the integration of exclusion, norm-basedscreening and active ownership into the invest-ment process.
+
+
 
 5
 
@@ -186,29 +186,29 @@ NAM ́s responsible investment framework buildson the PRI. We strive to achieve 
 
 
 
-•
+• norm-based screening
 
-•
+• sustainability risk integration
 
-•
+• NAM-level PAI consideration
 
-•
+• NAM-level exclusion list
 
-•
-
-
-
-norm-based screeningsustainability risk integrationNAM-level PAI considerationNAM-level exclusion listactive ownership and engagement
+• active ownership and engagement
 
 NAM has developed policies and procedures toensure that the companies we invest in meet ourexpectations of ESG performance and thatESG/sustainability risk is managed in our invest-ment processes. This is supported by a robustnorm-based screening process and principaladverse impact (“PAI”) 2 analysis. In addition, weconsider and take a stance on an ongoing basis,across our portfolios, on issues relating to climatechange, human rights, good governance and bio-diversity/water. All of the above inform our activeownership and engagement policy and ourexclusion list at the firm level – our “firm-leveloverlay”.
 
 For a substantial part of our assets undermanagement, we aim to achieve deeper ESG in-tegration with hands on involvement of theResponsible Investment team in our STARS strat-egies and thematic strategies (including climate,social empowerment and gender diversity portfo-lios) and our internally developed ESG scoring of
+
+
 
 investee companies. Many individual productsalso have sector-based or other exclusion criteriabeyond those implemented at the firm level.Given the size of NAM’s investment universeacross its various investment boutiques andstrategies, we use a range of external providersof ESG data as well as internal research and ourproprietary ESG scoring platform. These dataproviders and other data sources are assessed onan ongoing basis for data quality, coverage andother attributes.
 
 As for all ESG-oriented asset managers and assetowners, the dilemma of choosing between en-gagement and exclusion is central for NAM. Theargument for exclusion rests on the need toclearly mark the limits of which corporate activityand/or behaviours are deemed acceptable andwhich are not. The argument for engagement, onthe other hand, recognises that the real-worldeffect of exclusion can be negligible, at least inthe short term. Whenever one market participantsells off a security, another, presumably withlower standards of propriety, is buying it. Thus, itcan be argued that retaining a security, engagingwith the company and – where applicable –voting at its AGMs, is more effective. Added com-plexity is introduced by the likelihood that exclu-sion by some investors may make a companywith substandard practices more open to theengagement efforts of the remaining owners andthus to improving its practices over a longertimeframe.
 
 2) Principal adverse impact on entity-level is reported annually in accordance with the EU SFDR. Principal adverse impact indicators, asdefined by the EU SFDR, capture the environmental and social or “outward” part of the “double materiality”, as opposed to sustainabilityrisk, which captures the financial materiality of ESG issues to the valuation of a security.
+
+
 
 6
 
@@ -221,6 +221,8 @@ At NAM we believe that there are activities andtypes of behaviour that cannot be
 low for NAM’s strategy-specific approaches andour Paris-aligned Fossil Fuel Policy), while stillbeing investible for more traditional strategies.
 
 Assuming that engagement is most effectivewhen it is supported by an implicit but clearly un-derstood threat of ultimate exclusion, we believethat this allows NAM to be more compelling in itsengagement, up to the point where the decisionis taken to exclude a company at the NAM firm-level.
+
+
 
 7
 
@@ -254,27 +256,33 @@ The environmental and social impact of the activ-ities of our investee companies
 
 Recognising that some types of economic activityor corporate behaviour are not compatible withour mission of returns with responsibility, NAMmaintains a firm-level exclusion list that is ap-plied in accordance with the scope of this Policy.Any addition to – or removal from – the list is de-cided by the RIC.
 
+
+
 8
 
 3/
 
 
 
-NAM excludes companies involved in seriousbreaches of international norms whereengagement is deemed not to be possible oreffective, as discussed above. For example, weban investment in companies active in theproduction of controversial weapons, including –but not limited to – cluster munitions and anti-personnel mines as well as nuclear weapons.NAM excludes companies involved in productionor distribution of pornography and companiesinvolved in the production of tobacco with a 5%revenue threshold. NAM also does not invest incompanies deriving more than 5% of theirrevenues from thermal coal, and has additionalinvestment restrictions for power generationcompanies without coal phase out plans, or withcoal power expansion activity. In addition, NAMexcludes companies involved in the production offossil fuels from oil sands (5% revenue threshold)or through arctic drilling. A substantial and
+NAM excludes companies involved in seriousbreaches of international norms whereengagement is deemed not to be possible oreffective, as discussed above. For example, weban investment in companies active in theproduction of controversial weapons, including –but not limited to – cluster munitions and anti-personnel mines as well as nuclear weapons. 3NAM excludes companies involved in productionor distribution of pornography and companiesinvolved in the production of tobacco with a 5%revenue threshold. NAM also does not invest incompanies deriving more than 5% of theirrevenues from thermal coal, and has additionalinvestment restrictions for power generationcompanies without coal phase out plans, or withcoal power expansion activity. In addition, NAMexcludes companies involved in the production offossil fuels from oil sands (5% revenue threshold)or through arctic drilling. A substantial andgrowing part of our strategies is also subject toour Paris-aligned Fossil Fuel Policy (“PAFF”),which excludes companies involved in fossil fuelproduction, distribution or services if they do not
 
-growing part of our strategies is also subject toour Paris-aligned Fossil Fuel Policy (“PAFF”),which excludes companies involved in fossil fuelproduction, distribution or services if they do nothave a recognised strategy to achieve anemissions path that is consistent with the ParisAgreement’s goal 3.
+have a recognised strategy to achieve anemissions path that is consistent with the ParisAgreement’s goal 4.
 
 For strategies where the PAFF is notimplemented as a hard exclusion criterion, thePAFF acts as guidance for engagement. ThePAFF criteria also inform the prioritisation of ourtop-down thematic engagements.
 
-The NAM-level exclusion list can be found here
+RIC may also decide to restrict certain companiesfrom funds classified as Article 8 or Article 9under SFDR, where a controversy or violationdoes not meet the threshold for exclusion fromall Nordea-branded strategies but is nonethelessconsidered incompatible with the sustainabilityprofile of such products.
 
- 4.
+The NAM-level exclusion list can be found here 5.
 
 The NAM Paris-aligned Fossil Fuel Policy can befound here.
 
-9
 
-3) This analysis builds on data from the Transition Pathway Initiative (TPI), among other sources. Information on the TPI can be found .here4) Nordea Asset Management always takes the best interest of the fund unit holders into consideration. To protect our fund unit holders,this exclusion list may from time to time not include all excluded issuers.
+
+3) Exemptions may be made for nuclear weapons. Please see Investment Restrictions for details.4) This analysis builds on data from the Transition Pathway Initiative (TPI), among other sources. Information on the TPI can be found here.5) Nordea Asset Management always takes the best interest of the fund unit holders into consideration. To protect our fund unit holders,this exclusion list may from time to time not include all excluded issuers.
+
+
+
+9
 
 3/
 
@@ -310,7 +318,9 @@ Top-down“Norms”Engagements
 
 
 
-Co-ordination andprioritisation byRI Active Ownership
+Co-ordination and
+
+prioritisation byRI Active Ownership
 
 
 
@@ -322,7 +332,9 @@ Proxy voting according toNIFSA or NF CorporateGovernance Principles
 
 
 
-Concrete company dialogue managedco-operatively between RI and boutiques
+Concrete company dialogue managed
+
+co-operatively between RI and boutiques
 
 
 
@@ -336,17 +348,13 @@ Thematic engagements may be undertaken ei-ther by NAM alone or in collaboration 
 
 
 
-•
+• climate
 
-•
+• human rights
 
-•
+• good governance
 
-•
-
-
-
-climatehuman rightsgood governancebiodiversity/water
+• biodiversity/water
 
 
 
@@ -354,7 +362,7 @@ Investment-led engagements are initiated andexecuted at the individual strategy 
 
 
 
-Norms engagements are triggered by allegationof norm breaches, PAI red flags or other seriousnegative news flows
+Norms engagements are triggered byallegation of norm breaches, PAI red flags orother serious negative news flows.
 
 In tandem with our direct engagement with com-panies, voting is undertaken at as many AGMs aspractically possible, prioritising votes related tothe four core areas listed above, while in generalinsisting that companies 1) act in the long-terminterest of shareholders, 2) safeguard the rightsof all shareholders, 3) ensure an efficient andindependent board structure, 4) align incentivestructures for employees with the long-terminterest of shareholders, 5) disclose informationto the public in a timely, accurate and adequatemanner and 6) ensure high social, environmentaland ethical standards and accountability.
 
@@ -366,7 +374,7 @@ The quality of the engagement process is auditedby internal audit on a regular b
 
 Political engagement \- we may participate inactivities that can be considered as political en-gagement, such as providing feedback on regula-tions and expressing support to policy makersthrough public endorsement in investor state-ments. We may also conduct policy engagement,which are activities focused on public policydialogues with governments as well as publicauthorities on specific ESG issues. These activitiesalign with our core values and our strategy todeliver returns with responsibility.
 
-These type of activities are subject to careful con-sideration and diligence. We always assess theappropriateness of an activity that could be con-sidered as political, before we decide to enterinto it, and always assess the potential impact ofsuch activity. Our activities focus solely on ESGissues, and do not intend to favour any specificpolitical party or ideology5 . We believe that ourparticipation in political activities can contributeto long-term value creation and have a positiveimpact on society.
+These type of activities are subject to careful con-sideration and diligence. We always assess theappropriateness of an activity that could be con-sidered as political, before we decide to enterinto it, and always assess the potential impact ofsuch activity. Our activities focus solely on ESGissues, and do not intend to favour any specificpolitical party or ideology 6. We believe that ourparticipation in political activities can contributeto long-term value creation and have a positiveimpact on society.
 
 
 
@@ -376,7 +384,11 @@ NAM has implemented several initiatives to sup-port ESG integration throughout t
 
 The Responsible Investment team conductsworkshops on ESG topics and provideswalkthroughs of developments, where differentuse-case-scenarios of the data are presented.
 
-5) Whilst we are registered as a lobbyist in the United States as a prudent measure, we do not make political contributions nor engagein activities which would require such registration.
+
+
+6) Whilst we are registered as a lobbyist in the United States as a prudent measure, we do not make political contributions nor engagein activities which would require such registration.
+
+
 
 11
 
@@ -385,6 +397,8 @@ The Responsible Investment team conductsworkshops on ESG topics and provideswalk
 
 
 3.1.6 EscalationWhich tools are at our disposal?
+
+
 
 Collaborative Engagement
 
@@ -426,11 +440,13 @@ AGM Communication: In addition to voting, wecan ask questions, express concerns 
 
 Pre-AGM Meetings: At pre-AGM meetingsinitiated by us or the company, we can discusscertain items on the ballot related to anengagement and discuss our voting intention andrationale with the company. These meetingsallow us to further highlight our position on keyissues and why we may be inclined to voteagainst management items or for specificshareholder resolutions.
 
-(Co-)filing of Shareholder Resolutions: We mayfile or co-file shareholder resolutions with otherinvestors to put an expected change of behavioror disclosure up for vote at a company’s AGM.
+(Co-)filing of Shareholder Resolutions: We mayfile or co-file shareholder resolutions with otherinvestors to put an expected change of behaviouror disclosure up for vote at a company’s AGM.
 
 To gather support for a shareholder proposalwhich we have co-filed, we can initiate investorcampaigns and/or file exempt solicitations.
 
 Pre-declaration of voting intentions: We can alsopre-declare our voting intentions, for example viathe PRI voting platform, our own homepage orvia other channels.
+
+
 
 12
 
@@ -460,7 +476,7 @@ De facto exclusions may also be applied only forspecific types of funds, for exa
 
 
 
-Our Escalation Process – Norms Engagements
+Our Escalation Process – NormsEngagements
 
 While all engagements may be escalated, wefollow a clear, time-bound and delineated pro-cess for our ‘RIC Norms’ engagements. These en-gagements take place with companies that arealleged to be in breach of international norms orconventions or those involved in significant ESG-related incidents.
 
@@ -472,11 +488,9 @@ If RIC decides that an engagement should beinitiated, we follow a clear process,
 
 Following the decision to engage, we contactthe company highlighting the alleged breach,and requesting a meeting with representatives ofthe company. We also highlight that an unsatis-factory conclusion of the engagement case mayultimately lead to an exclusion from NAMsportfolios.
 
-Should the company not respond, we follow up inregular increments. If the company remains unre-
+Should the company not respond, we follow up in
 
-
-
-sponsive or there is no positive progress on thecase around the 9 months mark, we will beginusing “lower” strength escalation tools, as de-scribed in the escalation toolbox (please see 3.1.6.for further elaboration of the tools at ourdisposal).
+regular increments. If the company remains unre-sponsive or there is no positive progress on thecase around the 9 months mark, we will beginusing “lower” strength escalation tools, as de-scribed in the escalation toolbox (please see 3.1.6.for further elaboration of the tools at ourdisposal).
 
 If we cannot achieve positive momentum in ourengagement through the “lower” strength esca-lation tools, we will consider “higher” strengthtools as well as present the case to RIC for re-assessment. Ultimately, should these tools notyield our expected change and positive progress,the escalation track may lead to an exclusionfrom NAMs portfolios.
 
@@ -487,6 +501,8 @@ Following the three years of engagement, we ex-pect that a company has made mean
 While this process details the steps we take, indi-vidual engagements may have different timelineson a case-by-case basis given the complexitiesand differences between engagements, the spe-cific severity of impacts and the requirements fora positive outcome.
 
 Furthermore, depending on our relationship withthe company, the conduciveness and accessibilityof different escalatory steps, and our degree ofconfidence in the company’s bona fide intentions,the ultimate use of each element of the escala-tion toolbox will be tailored on a case-by-casebasis.
+
+
 
 14
 
@@ -510,9 +526,13 @@ Unresponsiveness orno indication of progressleads to escalation track
 
 Escalation Toolbox:
 
-Collaborative EngagementStakeholder EngagementPublic StatementsLetters to CEO or BoardProxy VotingAGM Communication(Co-)filing Shareholder ResolutionsQuarantineExclusion
+Collaborative Engagement
+
+Stakeholder EngagementPublic StatementsLetters to CEO or BoardProxy VotingAGM Communication(Co-)filing Shareholder ResolutionsQuarantineExclusion
 
 RI Action
+
+
 
 Company Action/Our expectations
 
@@ -544,6 +564,8 @@ Usage of “lower”strengthescalation tools
 
 
 
+Monitoring Track
+
 Escalation Track
 
 
@@ -552,13 +574,15 @@ Re-assessment to RIC
 
 
 
-Increased strength
+Increased
+
+ 
+
+strength
 
 
 
 36Months
-
-1 Month
 
 Engagement
 
@@ -572,7 +596,11 @@ Assessment of caseby RI Team andpresentation to RIC
 
 
 
-Monitoring Track
+1 Month
+
+
+
+15
 
 3/
 
@@ -588,7 +616,7 @@ For specific information on which additional ESGfeatures are integrated in the i
 
 
 
-3.2.1 The STARS strategies: proven leadershipwithin responsible investment
+3.2.1 The STARS strategies: provenleadership within responsible investment
 
 Our STARS product range, which was launchedwith the Swedish Stars Equity strategy in 2010and Emerging Stars Equity strategy in 2011, todaycovers a wide variety of asset classes. The STARSrange features deeper ESG integration and offersdirect, hands on cooperation between portfoliomanagers and the Responsible Investment team.Using NAM’s proprietary ESG scoring system andbespoke analysis carried out by the ResponsibleInvestment team and financial analysts, theSTARS portfolios aim to outperform standardbenchmarks. Through product-specific, invest-ment-led engagement with investee companies,the portfolio managers and the ResponsibleInvestment team proactively leverage NAM’sentire asset base to attempt to create positiveESG impact, while seeking improved valuationand excess return. More broadly, the investmentteams behind the STARS strategies focus onselecting companies not only with sound funda-mentals, but also with high ESG scores. Using theSASB materiality map, the company analysis in-cludes enhanced due diligence on environmental,social and governance risks material to the inves-tee company and considers how companies man-age the identified ESG risks.
 
@@ -604,6 +632,8 @@ Investment-led engagement is a key and distinc-tive part of our investment appro
 
 Besides the STARS strategies, which investacross a broad range of companies within theirgiven asset class, NAM offers a series of thematicESG strategies. These range from the seminalGlobal Climate and Environment strategylaunched in 2008, to the Global Gender Diversitystrategy launched in 2019 and the Global SocialEmpowerment strategy launched in 2021.
 
+
+
 16
 
 3/
@@ -618,6 +648,8 @@ NAM’s thematic ESG strategies apply proprietarymethods to identify companies t
 
 We understand that while many of our clientsmay not choose to invest in a STARS or thematicstrategy, they may not wish to be exposed tocertain companies, sectors or practices, evenwhere there may be potential for improvingthese companies’ behaviour throughengagement and/or the scope for assetallocation in a portfolio is materially limited. Forthis purpose, many of our other investmentstrategies, including our multi-asset strategies,are available with specific exclusion filters,including the NAM Paris-Aligned Fossil FuelPolicy, the so-called “NBIM list” of the NorwegianGovernment Pension Fund Global and ethicalfilters targeting sectors such as tobacco, alcohol,gaming or pornography. In addition, somestrategies also feature targets for or limits on thecarbon footprint/intensity relative to benchmark,a targeted minimum ESG score, or a targetedlevel of EU taxonomy alignment.
 
+
+
 17
 
 4/Investment Restrictions
@@ -626,23 +658,25 @@ We understand that while many of our clientsmay not choose to invest in a STARS 
 
 Our investment restrictions stipulate thresholds that prohibits investment inissuers operating in specific sectors and have involvement in activities.
 
-
-
-These restrictions are continuously monitored in our internal limit monitoring system.6 Pre-trade limitsblock the unfit investment opportunities and post-trade limits flag exposure or activity that is not alignedwith the investment restrictions, which may ultimately lead to divestment. Additional exclusions may applyfor certain investment strategies.
-
-
-
-Climate change Coal Mining Companies with substantial and sustained exposure to coal mining with a 5%revenue threshold on thermal coal and 30% revenue threshold on total coal (incl.Metallurgical coal) 7 .Companies with more than 50Mt annual production of thermal coal without a coalphase out commitment 8.
+Firm-wide exclusions are determined through NAM's Responsible Investment Committee (RIC) governanceprocess and are implemented by adding the relevant issuer to NAM's firm-wide exclusion list. Companiespotentially subject to exclusion are reviewed on a periodic basis, either quarterly or annually, depending ondata availability. Compliance with the exclusion list is enforced through pre-trade limits, which block non-compliant transactions before execution, and post-trade limits, which identify any residual or emergingexposure that is not aligned with the applicable restrictions. Additional exclusions may apply at the level ofindividual investment strategies.
 
 
 
-Coal-basedElectric Utilities
-
-Electric utilities without commitment to phase-out coal by 2040 (35% revenuethreshold for advanced economies, 50% for others) 9.Companies with coal power expansion plans if existing coal power revenue exceed10% or coal capacity exceed 5GW 10.Companies with coal expansion plans of \> 1 GW.
+Climate change Coal Mining Companies with substantial and sustained exposure to coal mining with a 5%revenue threshold on thermal coal and 30% revenue threshold on total coal (incl.Metallurgical coal) 7.Companies with more than 50Mt annual production of thermal coal without a coalphase out commitment 8.
 
 
 
-Oil Sand Companies with substantial and sustained exposure to oil sand with a 5% revenuethreshold.
+Coal-based
+
+Power Generation
+
+Companies without a commitment to phase-out coal by 2040 (35% coal powerrevenue threshold for advanced economies, 50% for others) 9.Companies with coal power expansion plans if existing coal power revenue exceeds10% or coal capacity exceeds 5GW 10.Companies with coal expansion plans of \> 1 GW.
+
+
+
+Oil Sand Companies with substantial and sustained exposure to oil sand with a 5% revenue
+
+threshold.
 
 
 
@@ -650,47 +684,135 @@ Arctic Drilling Companies with exposure to oil and gas extraction through arctic
 
 
 
-Human Rights IllegalWeapons
+Oil and GasExpansion
 
-NAM considers a range of weapon types, and their potential use, to be controversial,given their indiscriminate effect on human populations. NAM does not invest incompanies that are involved in the production or development of cluster munitions,anti-personnel mines, biological weapons, chemical weapons, weapons with non-detectable fragments, incendiary and blinding laser weapons as well as depleteduranium munitions.
+NAM will not provide new capital to oil and gas companies expanding their
 
-
-
-NuclearWeapons
-
-NAM does not invest in companies that are verified to be directly involved in produc-tion or development of nuclear weapons. NAM also excludes companies involved inthe maintenance of nuclear weapons, with a military revenue threshold of 5%.
+production by restricting investments in the primary issuance of bonds11 .
 
 
 
-SoftCommodities
+7) The threshold on metallurgical coal is higher as there are currently no widely available alternatives. Nevertheless, NAM has chosento apply a threshold and expects to adjust it downwards as applicable coal-free technologies appear, eg in the area of steel production.8) A coal phase out commitment encompasses a public commitment to ending production of thermal coal or coalfired electricitygeneration by 2040 latest.9) Advanced economies are defined by IEA as the OECD regional grouping plus Bulgaria, Croatia, Cyprus, Malta and Romania.10) Expansion plans includes projects that are announced, pre-permitted, permitted or under construction and which will result in newcoal-fired power capacity of at least 100 MW prorated.11) This does not cover investments in bonds on the secondary market.
 
-Since 2012, NAM has not offered investment products where basic food commoditiessuch as wheat, coffee or sugar are included in the underlying assets.
 
-6) Subject to data availability.7) The threshold on metallurgical coal is higher as there are currently no widely available alternatives. Nevertheless, NAM has chosento apply a threshold and expects to adjust it downwards as applicable coal-free technologies appear, eg in the area of steel production.8) A coal phase out commitment encompasses a public commitment to ending production of thermal coal or coalfired electricitygeneration by 2040 latest.9) Advanced economies are defined by IEA as the OECD regional grouping plus Bulgaria, Croatia, Cyprus, Malta and Romania.10) Expansion plans includes projects that are announced, pre-permitted, permitted or under construction and which will result in newcoal-fired power capacity of at least 100 MW prorated.
 
 18
+
+19
+
+
 
 4/
 
 
 
-Good Governance Sanctions NAM does not invest in sovereign bonds issued by governments that are subject torelevant sanctions imposed by the UN, EU, USA or other applicable local regulators.
+\* Due to lack of data availability exclusions are done annually.12) Companies with direct nuclear weapons involvement is defined as companies that manufacture nuclear weapons or keycomponents and systems used to produce or deliver them.13) Exemptions are decided by the Responsible Investment Committee. Exempted companies are subject to NAM's regular review, and theexemption will not apply to funds whose investment guidelines or sustainability profile preclude investments in such companies.14) Palm oil producers are defined as having \>10% revenue threshold from palm oil.15) RSPO: Roundtable on Sustainable Palm Oil.16) Enforced through enhanced due diligence and oversight by the Responsible Investment Committee.17) Enforced through enhanced due diligence and oversight by the Responsible Investment Committee.
 
 
 
-Pornography NAM does not invest in companies involved in the production or distribution ofpornography with a 5% revenue threshold.
+Good Governance Sanctions NAM does not invest in sovereign bonds issued by governments that are subject to
+
+relevant sanctions imposed by the UN, EU, USA or other applicable local regulators.
 
 
 
-Tobacco NAM does not invest in companies involved in the production of tobacco with a 5%revenue threshold. The policy covers production of tobacco products such as cigars,cigarettes, snus, as well as e-cigarettes and heat-not-burn products.
+Pornography NAM does not invest in companies involved in the production or distribution of
+
+pornography with a 5% revenue threshold.
 
 
 
-Biodiversity Palm Oil NAM does not invest in palm oil producers11 that do not have an RSPO certificationtarget for their holdings and estates. Furthermore, companies which have an RSPOtarget, but do not meet a minimum of 50% RSPO certification are also restricted12 .
+Tobacco NAM does not invest in companies involved in the production of tobacco with a 5%
 
-11) Palm oil producers are defined as having \>10% revenue threshold from palm oil.12) RSPO: Roundtable on Sustainable Palm Oil.
+revenue threshold. The policy covers production of tobacco products such as cigars,
 
-19
+cigarettes, snus, as well as e-cigarettes and heat-not-burn products.
+
+
+
+Human Rights Illegal
+
+Weapons
+
+NAM considers a range of weapon types, and their potential use, to be controversial,
+
+given their indiscriminate effect on human populations. NAM does not invest in
+
+companies that are involved in the production or development of cluster munitions,
+
+anti-personnel mines, biological weapons, chemical weapons, weapons with non-detectable fragments, incendiary and blinding laser weapons as well as depleteduranium munitions.
+
+
+
+Nuclear
+
+Weapons
+
+NAM does not invest in companies with direct nuclear weapons involvement.12 NAM doesnot invest in companies involved in the maintenance of nuclear weapons, if the totalmilitary revenue of the company exceeds 5%. Exemptions can be made for companiesinvolved in nuclear weapons systems used by European NATO member states. 13
+
+
+
+Soft
+
+Commodities
+
+Since 2012, NAM has not offered investment products where basic food commodities
+
+such as wheat, coffee or sugar are included in the underlying assets.
+
+
+
+Nature \&
+
+Biodiversity
+
+Palm Oil NAM does not invest in palm oil producers14 that do not have an RSPO certification
+
+target for their holdings and estates. Furthermore, companies which have an RSPO
+
+target, but do not meet a minimum of 50% RSPO certification are also restricted15.
+
+
+
+Mountaintop
+
+Removal Mining\*
+
+NAM does not invest in companies that practice Mountaintop Removal (MTR)mining.
+
+
+
+Asbestos Mining\* NAM does not invest in companies with operational control over asbestos miningactivities.
+
+
+
+Mining in
+
+Sensitive Sites16
+
+NAM requires protection of designated sites:
+
+• United Nations Educational, Scientific and Cultural Organization(UNESCO) World Heritage Convention sites
+
+• Ramsar Convention on Wetlands of International Importance especially asWaterfowl Habitat
+
+• Natura 2000 Areas
+
+
+
+Riverine Tailings
+
+Disposal17
+
+NAM requires that the practice of riverine tailings and Subaqueous tailings disposal
+
+is demonstrably justifiable and based on best available technology with documented
+
+risk mitigation aligned to recognize international standards.
+
+20
+
+
 
 5/ESG positions
 
@@ -698,39 +820,33 @@ Biodiversity Palm Oil NAM does not invest in palm oil producers11 that do not ha
 
 Our ESG positions describe our broader expectations on our investee com-panies in relation to topics such as climate change, good governance, humanrights and biodiversity. We encourage companies to comply with these ESGpositions and they may serve as a guide for our stewardship activities.
 
-We take part in collaborative engagements, join investor initiatives and conduct research to, on a besteffort basis, ensure that our investee companies work towards living up to these positions. Depending onthe nature and gravity of individual cases, breaches can trigger engagement or exclusion.
+We take part in collaborative engagements, join investor initiatives and conduct research to, whereappropriate, ensure that our investee companies work towards living up to these positions. Depending onthe nature and gravity of individual cases, breaches can trigger engagement or exclusion. 18
 
 
 
-Climate changeClimate change is one of the single largest threats to the global economy and in general to the conditions of all life on earth.
+Climate Change
+
+Climate change is one of the single largest threats to the global economy and in general to the conditions of all life on earth.
 
 In addition, it implies specific risks to the companies and other entities we invest in. NAM is working on an ongoing basis to assessclimate change risks and the impact of the low-carbon transition on sectors and companies. Climate change presents a challenge toour investments – in terms of its physical impact as well as through the prospect of radical policy measures and changing consumerbehaviour with the aim of reducing GHG emissions globally (transition risk). We expect companies exposed to climate risk:
 
 
 
-•
+• to have a strong climate governance and demonstrate how they integrate climate change challenges into their businessstrategies, investment decisions and risk management
+
+• to be able to disclose how their long-term business strategy and profitability will be impacted by a different regulatory andphysical environment
+
+• to show how they identify and capitalise on opportunities related to climate change
+
+• to be transparent with regards to their position on climate change regulation and interaction with regulators and policy makers
+
+• to report in line with TCFD recommendations and act to reduce greenhouse gas (GHG) emissions across their value chains inaccordance with the Paris Agreement
 
 
 
-•
+Methane Methane is a powerful greenhouse gas, having contributed to around 30% of global warming since theindustrial revolution. 19 As methane is a short-term climate forcer, 80 times more potent than CO 2 over 20years, reducing it provides critical short-term mitigation benefits and is a cost-effective mitigationstrategy for the oil and gas (O\&G) sector. 20
 
-
-
-•
-
-•
-
-•
-
-
-
-to have a strong climate governance and demonstrate how they integrate climate change challenges into their businessstrategies, investment decisions and risk managementto be able to disclose how their long-term business strategy and profitability will be impacted by a different regulatory andphysical environmentto show how they identify and capitalise on opportunities related to climate changeto be transparent with regards to their position on climate change regulation and interaction with regulators and policy makersto report in line with TCFD recommendations and act to reduce greenhouse gas (GHG) emissions across their value chains inaccordance with the Paris Agreement
-
-
-
-Methane Methane is a powerful greenhouse gas, having contributed to around 30% of global warming since theindustrial revolution. 13 As methane is a short-term climate forcer, 80 times more potent than CO 2 over 20years, reducing it provides critical short-term mitigation benefits and is a cost-effective mitigationstrategy for the oil and gas (O\&G) sector.14
-
-We expect companies active in the O\&G sector to map methane mitigation actions, share theircost/benefit analysis of these as well as ultimately achieve near-zero methane emissions as backed bythe Oil and Gas Methane Partnership 2.0 (OGMP 2.0) Gold Standard reporting. 15
+We expect companies active in the O\&G sector to map methane mitigation actions, share theircost/benefit analysis of these as well as ultimately achieve near-zero methane emissions as backed bythe Oil and Gas Methane Partnership 2.0 (OGMP 2.0) Gold Standard reporting. 21
 
 
 
@@ -738,9 +854,17 @@ Human Rights
 
 While protecting and fulfilling human rights is a legal obligation and the responsibility of governments, it is widely recognised thatall businesses have the potential to impact human rights. Poor management conflicts with the long-term interest in promoting aresponsible and sustainable development and may impact companies’ license to operate.
 
-13) IEA (2024): Global Methane Tracker.14) European Commission: Energy - Methane Emissions.15) Oil \& Gas Methane Partnership 2.0.
 
-20
+
+18)19)20)21)
+
+
+
+NAM complies with Nordea Group's policies. For sector-specific ESG positions, please refer to Nordea Group's Sector Guidelines.IEA (2024): Global Methane Tracker.European Commission: Energy - Methane Emissions.Oil \& Gas Methane Partnership 2.0.
+
+21
+
+
 
 5/
 
@@ -750,25 +874,33 @@ We expect companies to comply with internationally recognised human rights princ
 
 
 
-Conflict areas Business operations in areas affected by conflict are exposed to higher risk due to unstable politicalconditions, weak regulatory frameworks and pervasive violence. Companies may, knowingly orunknowingly, have business operations and products with a high potential impact on the conflict orhuman rights violations.
+Conflict Areas Business operations in areas affected by conflict are exposed to higher risk due to unstable politicalconditions, weak regulatory frameworks and pervasive violence. Companies may, knowingly orunknowingly, have business operations and products with a high potential impact on the conflict orhuman rights violations.
 
 As a responsible investor we expect companies to conduct due diligence as defined by the UN GuidingPrinciples on Business Human Rights, become more transparent and report on their political risk andimpact analysis, including their human rights impact. Companies also need to assess and report on howtheir business operations or products may directly or indirectly impact an ongoing conflict or humanrights violation and how this may have a material impact on the company as well as its stakeholders.Companies should also enable stakeholders to safely report any human rights violations.
 
 
 
-IndigenousRights – FPIC
+Indigenous
 
-We expect companies to respect Indigenous Peoples’ rights, as recognized by international principlessuch as the UN Declaration on the Rights of Indigenous Peoples, including by applying the principle ofFree, Prior and Informed Consent (FPIC) for activities that may impact them.
+Rights – FPIC
 
-According to the definition by the UN, free implies that there is no coercion, intimidation or manipulation,prior implies that consent is sought sufficiently in advance with respect shown to time requirements andinformed implies that information covers a range of aspects including nature, size, reversibility amongstothers, of any project and/or activity. 16
+We expect companies to respect Indigenous Peoples’ rights, as recognized by international principles
+
+such as the UN Declaration on the Rights of Indigenous Peoples, including by applying the principle ofFree, Prior and Informed Consent (FPIC) for activities that may impact them.
+
+According to the definition by the UN, free implies that there is no coercion, intimidation or manipulation,prior implies that consent is sought sufficiently in advance with respect shown to time requirements andinformed implies that information covers a range of aspects including nature, size, reversibility amongstothers, of any project and/or activity. 22
 
 
 
-Public Health –PharmaceuticalPollution \& AMR
+Public Health –
+
+PharmaceuticalPollution \& AMR
 
 
 
-India’s pharmaceutical industry, expected to grow to USD 130 billion by 203017 , contributes to thecountry’s severe water pollution crisis caused by the waste generated in the manufacturing process.Pharmaceutical pollution also drives antimicrobial resistance (AMR) which is expected to cost USD 100trillion 18 and kill 10 million 19 people by 2050. AMR has been declared one of the top ten global threats tohuman health and is a systemic risk that may impact investment portfolios, economic stability andbroader society. Without access to effective antimicrobials, public health and the foundation of modernmedicine is being undermined.
+India’s pharmaceutical industry, expected to grow to USD 130 billion by 203023, contributes to the
+
+country’s severe water pollution crisis caused by the waste generated in the manufacturing process.Pharmaceutical pollution also drives antimicrobial resistance (AMR) which is expected to cost USD 100trillion 24 and kill 10 million 25 people by 2050. AMR has been declared one of the top ten global threats tohuman health and is a systemic risk that may impact investment portfolios, economic stability andbroader society. Without access to effective antimicrobials, public health and the foundation of modernmedicine is being undermined.
 
 We expect investee companies in the health care sector and pharmaceutical industry to make efforts tosafeguard public health. This includes actions to adequately address pollution as well as AMR.
 
@@ -778,9 +910,13 @@ Just Transition The green transition and decarbonisation of the global economy r
 
 As an investor committed to contributing to a green and just energy transition, we expect companies tocompanies to disclose their approach to environmental and social challenges within the transition andhave amongst others, proper human rights due diligence processes in place.
 
-16) OHCHR: Consultation and free, prior and informed consent.17) EY (2023): Pharma and healthcare for India@100: a century of change on the horizon.18) World Bank (2016): By 2050, drug-resistant infections could cause global economic damage on par with 2008 financial crisis.19) UNEP: Antimicrobial Resistance – a global threat.
 
-21
+
+22) OHCHR: Consultation and free, prior and informed consent.23) EY (2023): Pharma and healthcare for India@100: a century of change on the horizon.24) World Bank (2016): By 2050, drug-resistant infections could cause global economic damage on par with 2008 financial crisis.25) UNEP: Antimicrobial Resistance – a global threat.
+
+22
+
+
 
 5/
 
@@ -806,9 +942,11 @@ We expect our portfolio companies to have a tax policy that outlines the company
 
 
 
-ESG inremuneration
+ESG inRemuneration
 
-Each Board of Directors is responsible for ensuring that overall remuneration to executive management isappropriate and reasonable, aligned with the strategy of the company and that it promotes a soundperformance for the company in the long term. We are in favour of variable compensation plans that arebased on clearly defined performance criteria and which include ESG criteria.
+Each Board of Directors is responsible for ensuring that overall remuneration to executive management is
+
+appropriate and reasonable, aligned with the strategy of the company and that it promotes a soundperformance for the company in the long term. We are in favour of variable compensation plans that arebased on clearly defined performance criteria and which include ESG criteria.
 
 
 
@@ -816,13 +954,19 @@ Diversity We expect a board to include a strong presence of independent non-exec
 
 
 
-CorporateLobbying
+Corporate
 
-Companies may contribute to and take part in policy processes to shape regulation that affects theirbusiness objectives as well as more broadly their activities, e.g. environmental goals.
+Lobbying
+
+Companies may contribute to and take part in policy processes to shape regulation that affects their
+
+business objectives as well as more broadly their activities, e.g. environmental goals.
 
 We expect companies to carry out political engagement in a responsible manner in line with relevantguiding principles and frameworks. Furthermore, we expect companies to be transparent in relation tosuch engagement, including the rationale for supporting or opposing certain matters.
 
-22
+23
+
+
 
 5/
 
@@ -830,9 +974,9 @@ We expect companies to carry out political engagement in a responsible manner in
 
 Biodiversity
 
-Biodiversity loss is a systemic risk. Nature is being eroded at rates unprecedented in human history and we are facing the irreversibleloss of plant and animal species, habitats and vital crops. Biodiversity affects our food and medicine and our environment20.
+Biodiversity loss is a systemic risk. Nature is being eroded at rates unprecedented in human history and we are facing the irreversibleloss of plant and animal species, habitats and vital crops. Biodiversity affects our food and medicine and our environment 26.
 
-The continuing loss of biological diversity will cost the global economy several trillion euros by 2050 21 . We expect companies affectedby these risks to ensure that they report on how they manage the related risks and impacts adequately. NAM ́s approach toBiodiversity and Nature are further described in our White paper on biodiversity and nature.
+The continuing loss of biological diversity will cost the global economy several trillion euros by 2050 27 . We expect companies affectedby these risks to ensure that they report on how they manage the related risks and impacts adequately. NAM ́s approach toBiodiversity and Nature are further described in our White paper on biodiversity and nature.
 
 
 
@@ -850,9 +994,17 @@ Sensitive Areas In line with our overall expectations on biodiversity and nature
 
 In line with our PAI process under SFDR, we screen for activities which negatively affect sensitive areason a quarterly basis. Our Responsible Investments team analyses these cases before presenting the caseto RIC that decides on one of three recommendations: no action, engagement or exclusion.
 
-20) Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services (IPBES).21) https://ec.europa.eu/environment/nature/biodiversity/economics/index_en.
 
-23
+
+Animal Welfare Proper animal welfare practices is a pressing ethical and economic consideration, given the scale andbreadth of animal use across multiple sectors, including food production, textile industry, pharmaceutical,and cosmetics industry. Poor animal welfare practices present material risks to companies, includingreputational concerns from growing public scrutiny, operational risks related to disease prevention andcontrol, as well as, regulatory developments with potential business impacts. Furthermore, industrializedfarming conditions can enhance the spread of animal diseases and the overuse of antibiotics, contributingto the growing threat of antimicrobial resistance. We expect companies with exposure to animals in theirvalue chain to adequately manage animal welfare risks.
+
+
+
+26) Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services (IPBES).27) https://ec.europa.eu/environment/nature/biodiversity/economics/index_en.
+
+24
+
+
 
 6/Reporting andtransparency
 
@@ -868,31 +1020,25 @@ In addition, NAM provides:
 
 
 
-••
+• annual climate report
 
-annual climate reportonline access to voting information, ref.investee companies’ AGMs
-
-
-
-•
+• online access to voting information, ref.investee companies’ AGMs
 
 
 
-•
+• product-specific reporting, includinginformation on engagement activities
 
-•
+• principal adverse impact statement
 
+• sustainability risk (in investment decision-making) statement
 
-
-•
-
-
-
-product-specific reporting, includinginformation on engagement activitiesprincipal adverse impact statementsustainability risk (in investment decision-making) statementsustainability risk (in remuneration)statement
+• sustainability risk (in remuneration)statement
 
 These documents can be found on our websites.
 
-24
+25
+
+
 
 7/Sustainable asset manager
 
@@ -908,37 +1054,23 @@ Nordea expects business partners and suppliersto adhere to the below principles:
 
 
 
-•
+• We are committed to good corporatecitizenship
+
+• We are committed to human rights, labourrights and freedom
+
+• We are committed to equal opportunities anddiversity
+
+• We are committed to caring for the wellbeingof our employees
+
+• We are committed to ethics, honesty andsincerity
+
+• We are committed to caring for theenvironment
+
+• We reject bribery and corruption
+
+26
 
 
-
-•
-
-
-
-•
-
-
-
-•
-
-
-
-•
-
-
-
-•
-
-
-
-•
-
-
-
-We are committed to good corporatecitizenshipWe are committed to human rights, labourrights and freedomWe are committed to equal opportunities anddiversityWe are committed to caring for the wellbeingof our employeesWe are committed to ethics, honesty andsincerityWe are committed to caring for theenvironmentWe reject bribery and corruption
-
-25
 
 8/Conflicts of interest
 
@@ -946,6 +1078,10 @@ We are committed to good corporatecitizenshipWe are committed to human rights, l
 
 NAM is aware that potential or actual conflicts ofinterests may arise as part of NAM’s shareholderengagement activities. Consequently, NAM haspolicies in place for the purpose of taking allreasonable steps to prevent conflicts of interests.Where such conflicts cannot be avoided, NAMwill identify, manage and monitor the conflictsand, where appropriate, disclose them to clientsto prevent them from adversely affecting theinterests of the clients.
 
-26
+27
 
-Nordea Asset Management is the functional name of the asset management business conducted by the legal entities NordeaInvestment Funds S.A., Nordea Investment Management AB and Nordea Funds Ltd and their branches and subsidiaries. This materialis intended to provide the reader with information on Nordea Asset Management specific capabilities, general market activity or industrytrends and is not intended to be relied upon as a forecast or research. This material, or any views or opinions expressed herein, does notamount to an investment advice nor does it constitute a recommendation to buy, sell or invest in any financial product, investmentstructure or instrument, to enter into or unwind any transaction or to participate in any particular trading strategy. Unless otherwisestated, all views expressed are those Nordea Asset Management. Views and opinions reflect the current economic market conditions,and are subject to change. Any investment decision should be based on the Offering Memorandum or any similar contractualarrangement. All investments involve risks; losses may be made. While the information herein is considered to be correct, norepresentation or warranty can be given on the ultimate accuracy or completeness of such information. Prospective investors orcounterparties should discuss with their professional tax, legal, accounting and other adviser(s) with regards to the potential effect ofany investment that they may enter into, including the possible risks and benefits of such investment, and independently evaluate thetax implications, suitability and appropriateness of such potential investments. Published by the relevant Nordea Asset Managemententity. Nordea Investment Management AB and Nordea Investment Funds S.A. are licensed and supervised by the Financial SupervisoryAuthority in Sweden and Luxembourg respectively. Nordea Funds Ltd is a management company incorporated in Finland andsupervised by the Finnish Financial Supervisory Authority. This material may not be reproduced or circulated without prior permission.© Nordea Asset Management.
+
+
+Nordea Asset Management is the functional name of the asset management business conducted by the legal entities Nordea
+
+Investment Funds S.A., Nordea Investment Management AB and Nordea Funds Ltd and their branches and subsidiaries. This materialis intended to provide the reader with information on Nordea Asset Management specific capabilities, general market activity or industrytrends and is not intended to be relied upon as a forecast or research. This material, or any views or opinions expressed herein, does notamount to an investment advice nor does it constitute a recommendation to buy, sell or invest in any financial product, investmentstructure or instrument, to enter into or unwind any transaction or to participate in any particular trading strategy. Unless otherwisestated, all views expressed are those Nordea Asset Management. Views and opinions reflect the current economic market conditions,and are subject to change. Any investment decision should be based on the Offering Memorandum or any similar contractualarrangement. All investments involve risks; losses may be made. While the information herein is considered to be correct, norepresentation or warranty can be given on the ultimate accuracy or completeness of such information. Prospective investors orcounterparties should discuss with their professional tax, legal, accounting and other adviser(s) with regards to the potential effect ofany investment that they may enter into, including the possible risks and benefits of such investment, and independently evaluate thetax implications, suitability and appropriateness of such potential investments. Published by the relevant Nordea Asset Managemententity. Nordea Investment Management AB and Nordea Investment Funds S.A. are licensed and supervised by the Financial SupervisoryAuthority in Sweden and Luxembourg respectively. Nordea Funds Ltd is a management company incorporated in Finland andsupervised by the Finnish Financial Supervisory Authority. This material may not be reproduced or circulated without prior permission.© Nordea Asset Management.
