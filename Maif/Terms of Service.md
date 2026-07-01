@@ -1,7 +1,7 @@
 Notre premier engagement est au service de nos sociétaires 
 -----------------------------------------------------------
 
-MAIF gère près de 21 milliards d’euros, confiés par ses sociétaires et adhérents à travers leurs cotisations et leur épargne. Notre premier engagement à leur égard est de l’ordre de la confiance. En assurant sur le long terme la sécurité et la rentabilité de ces actifs, nous pouvons faire face à tout instant à nos engagements d’assureur. Dans ce contexte, nous portons la conviction que la prise en considération de critères extra-financiers, en finançant un monde durable, contribue à maîtriser le niveau de risque de nos investissements.  
+MAIF gère près de 22 milliards d’euros, confiés par ses sociétaires et adhérents à travers leurs cotisations et leur épargne. Notre premier engagement à leur égard est de l’ordre de la confiance. En assurant sur le long terme la sécurité et la rentabilité de ces actifs, nous pouvons faire face à tout instant à nos engagements d’assureur. Dans ce contexte, nous portons la conviction que la prise en considération de critères extra-financiers, en finançant un monde durable, contribue à maîtriser le niveau de risque de nos investissements.  
 
 Au cœur du modèle MAIF  : l’analyse environnementale, sociale et de gouvernance (ESG)
 -------------------------------------------------------------------------------------
